@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "42",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "43",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "44",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "45",
+    "majorName": "城市地下空间工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "46",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "47",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "48",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "49",
+    "majorName": "勘查技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "50",
+    "majorName": "资源勘查工程",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "51",
+    "majorName": "石油工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "52",
+    "majorName": "油气储运工程",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "53",
+    "majorName": "海洋油气工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "54",
+    "majorName": "碳储科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "55",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "56",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  }
+]

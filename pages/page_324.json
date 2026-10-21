@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "44",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "45",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "46",
+    "majorName": "运动康复",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "47",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "48",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "49",
+    "majorName": "俄语",
+    "majorRemark": "只招英语、俄语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "50",
+    "majorName": "西班牙语",
+    "majorRemark": "只招英语、西班牙语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "51",
+    "majorName": "日语",
+    "majorRemark": "只招英语、日语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "52",
+    "majorName": "翻译",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "53",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "54",
+    "majorName": "广告学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "55",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 242,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "56",
+    "majorName": "数据计算及应用",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "57",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 207,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "58",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 174,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

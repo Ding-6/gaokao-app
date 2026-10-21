@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "339",
+    "collegeName": "电子科技大学(沙河校区)(成都市)[公办]",
+    "majorCode": "4",
+    "majorName": "护理学(AI交叉创新人才培养实验班)",
+    "majorRemark": "对患有轻度色觉异常（俗称色弱）、色觉异常II度（俗称色盲）或不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生不予录取。其他体检要求详见我校有关补充规定。沙河校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "339",
+    "collegeName": "电子科技大学(沙河校区)(成都市)[公办]",
+    "majorCode": "5",
+    "majorName": "电子信息类(中外合作办学)(通信、微电子)",
+    "majorRemark": "含通信工程、微电子科学与工程专业；清水河校区",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "339",
+    "collegeName": "电子科技大学(沙河校区)(成都市)[公办]",
+    "majorCode": "6",
+    "majorName": "电子信息类(中外合作办学)(电子信息)",
+    "majorRemark": "含电子信息工程专业；清水河校区",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "339",
+    "collegeName": "电子科技大学(沙河校区)(成都市)[公办]",
+    "majorCode": "7",
+    "majorName": "电子信息类(中外合作办学)(海南陵水国际教育创新区)",
+    "majorRemark": "含通信工程、电子信息工程、微电子科学与工程专业；海南校区",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "18",
+    "majorName": "经济学(拔尖学生培养基地班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "19",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "20",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "21",
+    "majorName": "财政学类",
+    "majorRemark": "含财政学、税收学专业；学生大学二年级依据个人意愿、学习成绩、综合表现和学校相关规定在所录取专业类内确定专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "22",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "23",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "24",
+    "majorName": "保险学(与数科双学士学位)",
+    "majorRemark": "“保险学+数据科学”双学士学位复合型人才培养项目",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "25",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "26",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "27",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "28",
+    "majorName": "数据科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

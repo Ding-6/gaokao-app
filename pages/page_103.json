@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "8",
+    "majorName": "数字经济(创新班)",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "9",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "10",
+    "majorName": "数学与应用数学(创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "11",
+    "majorName": "物理学(创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "12",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "13",
+    "majorName": "化学生物学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "14",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "15",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "16",
+    "majorName": "工程力学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "17",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "18",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "19",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "20",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "21",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "22",
+    "majorName": "无机非金属材料工程",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  }
+]

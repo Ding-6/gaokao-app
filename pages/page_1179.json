@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "70",
+    "majorName": "电子商务及法律",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 27,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "71",
+    "majorName": "广播电视编导",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "72",
+    "majorName": "土木工程(中外合作办学)",
+    "majorRemark": "教育部批准的保定理工学院与塞浦路斯那波勒斯大学合作举办的土木工程专业本科教育项目。实行4+0培养模式，培养过程中，引入塞浦路斯那波勒斯大学教学体系，中英文联合授课。毕业符合条件者可同时获得本校颁发的毕业证书、学位证书和那波勒斯大学颁发的学位证书",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "2251",
+    "collegeName": "北海艺术设计学院[民办]",
+    "majorCode": "3",
+    "majorName": "哲学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2251",
+    "collegeName": "北海艺术设计学院[民办]",
+    "majorCode": "4",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "18",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 36800
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "19",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 36800
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "20",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 36800
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "21",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "22",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "23",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "24",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "25",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "26",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2253",
+    "collegeName": "北京城市学院[民办]",
+    "majorCode": "27",
+    "majorName": "土木工程(智能设计与建造)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 36800
+  }
+]

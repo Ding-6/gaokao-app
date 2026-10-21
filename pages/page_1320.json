@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2685",
+    "collegeName": "温州商学院[民办]",
+    "majorCode": "29",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "12",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "13",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "14",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "15",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "16",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "17",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "18",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "19",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "20",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "21",
+    "majorName": "智能飞行器技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "22",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "23",
+    "majorName": "建筑学(建筑规划方向、建筑环境技术方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "24",
+    "majorName": "护理学(女生身高达158cm，无色觉异常)",
+    "majorRemark": "身体裸露部位无明显疤痕或纹身",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2686",
+    "collegeName": "文华学院[民办]",
+    "majorCode": "25",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 21000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "17",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "18",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "19",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "20",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "21",
+    "majorName": "无机非金属材料工程",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "22",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "23",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "24",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "25",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "26",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "27",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "28",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "29",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "30",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "31",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 8000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "38",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "39",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "40",
+    "majorName": "机器人工程",
+    "majorRemark": "在河北机电职业技术学院校区邢台学院机电工程学院学习、生活，详询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "41",
+    "majorName": "工业智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "42",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "43",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 120,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "44",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "45",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "色弱、色盲和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 93,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "46",
+    "majorName": "食品科学与工程",
+    "majorRemark": "色弱、色盲和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "47",
+    "majorName": "智慧农业",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "48",
+    "majorName": "工商管理",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "49",
+    "majorName": "会计学",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "50",
+    "majorName": "物流管理",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 29,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1895",
+    "collegeName": "邢台学院(按高考文化课成绩录取的艺术类专业)[公办]",
+    "majorCode": "2",
+    "majorName": "戏剧影视文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "1896",
+    "collegeName": "邢台医学院[公办]",
+    "majorCode": "15",
+    "majorName": "婴幼儿发展与健康管理",
+    "majorRemark": "无色盲、色弱。能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图",
+    "subjectRequirementText": "不限",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

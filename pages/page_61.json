@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "39",
+    "majorName": "食品科学与工程",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "40",
+    "majorName": "城乡规划",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "41",
+    "majorName": "风景园林(梁希实验班)",
+    "majorRemark": "北京校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "42",
+    "majorName": "风景园林",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "43",
+    "majorName": "园艺(科教融汇班)",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "44",
+    "majorName": "生物育种科学(尖班)",
+    "majorRemark": "北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "45",
+    "majorName": "水土保持与荒漠化防治(梁希实验班)",
+    "majorRemark": "北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 2500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "46",
+    "majorName": "生态修复学(尖班)",
+    "majorRemark": "北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "47",
+    "majorName": "林学类",
+    "majorRemark": "含林学、林学(城市林业方向)、森林保护、经济林专业；一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 2500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "48",
+    "majorName": "林学类(梁希实验班)",
+    "majorRemark": "含林学、森林保护专业；北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 2500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "49",
+    "majorName": "林学(与林经专业双学士学位项目)",
+    "majorRemark": "北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "51",
+    "majorName": "智慧林业(尖班)",
+    "majorRemark": "北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "52",
+    "majorName": "草业科学(梁希实验班)",
+    "majorRemark": "北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "53",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "54",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

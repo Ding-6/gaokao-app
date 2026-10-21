@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "22",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、税收学专业；不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "23",
+    "majorName": "金融学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "24",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "25",
+    "majorName": "教育学类",
+    "majorRemark": "师范类；含教育学、学前教育、特殊教育专业；不招色弱、色盲或单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4180
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "26",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "27",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "28",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生；须口试合格；单科成绩要求：外语>=90",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "29",
+    "majorName": "历史学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4180
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "30",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "31",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "32",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色弱、色盲或单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "33",
+    "majorName": "应用化学",
+    "majorRemark": "不招色弱、色盲或单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "34",
+    "majorName": "地理科学类",
+    "majorRemark": "含自然地理与资源环境、地理信息科学专业",
+    "subjectRequirementText": "地理",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "35",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；不招色盲或单色识别不全者",
+    "subjectRequirementText": "地理",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "39",
+    "majorName": "应用心理学",
+    "majorRemark": "师范类；不招色弱、色盲或单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4620
+  }
+]

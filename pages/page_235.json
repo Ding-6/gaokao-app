@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "525",
+    "collegeName": "桂林医科大学[公办]",
+    "majorCode": "5",
+    "majorName": "药学(中澳学分互认联合培养项目)",
+    "majorRemark": "单科成绩要求：外语>=90；不招色盲、色弱考生；与澳大利亚麦考瑞大学合作，采取2+2分段培养模式，第三、四学年需赴澳大利亚学习，英语教学，非英语考生谨慎报考；费用另计（项目服务费43000元人民币/生、澳方高校学费约45,600澳元/学年），具体事项详见学校招生章程及项目简章",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "525",
+    "collegeName": "桂林医科大学[公办]",
+    "majorCode": "6",
+    "majorName": "医学检验技术(中澳学分互认联合培养项目)",
+    "majorRemark": "单科成绩要求：外语>=90；不招色盲、色弱考生；与澳大利亚昆士兰大学合作，采取3+2分段培养模式，第四、五学年需赴澳大利亚学习，英语教学，非英语考生谨慎报考；费用另计（项目服务费68000元人民币/生、澳方高校学费约58,056澳元/学年），具体事项详见学校招生章程及项目简章",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "525",
+    "collegeName": "桂林医科大学[公办]",
+    "majorCode": "7",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "525",
+    "collegeName": "桂林医科大学[公办]",
+    "majorCode": "8",
+    "majorName": "智能医学工程(中澳学分互认联合培养项目)",
+    "majorRemark": "单科成绩要求：外语>=90；不招色盲、色弱考生；与澳大利亚麦考瑞大学合作，采取3+2分段培养模式。第四、五学年需赴澳大利亚学习，英语教学，非英语考生谨慎报考；费用另计（项目服务费68000元人民币/生、澳方高校学费约46,300澳元/学年），具体事项详见学校招生章程及项目简章",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "2",
+    "majorName": "数学与应用数学(双学位试验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "3",
+    "majorName": "材料科学与工程(兴海领军班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "4",
+    "majorName": "电子信息类",
+    "majorRemark": "含水声工程、电子信息工程(水声)、海洋信息工程、电子信息工程、通信工程、光电信息科学与工程专业；6个专业，本专业类内任选专业",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "5",
+    "majorName": "人工智能(兴海领军班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "6",
+    "majorName": "自动化类",
+    "majorRemark": "含自动化、机器人工程、计算机科学与技术、测控技术与仪器、探测制导与控制技术、人工智能、电气工程及其自动化、信息安全专业；8个专业，本专业类内任选专业",
+    "subjectRequirementText": "化学",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "7",
+    "majorName": "软件工程",
+    "majorRemark": "后两年学费16000元/年，不招单色异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "8",
+    "majorName": "软件工程(国家特软创新班)",
+    "majorRemark": "后两年学费16000元/年，不招单色异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "9",
+    "majorName": "化学工程与工艺(兴海领军班)",
+    "majorRemark": "不招色弱、色盲、单色异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "10",
+    "majorName": "海洋工程类",
+    "majorRemark": "含船舶与海洋工程、海洋机器人、港口航道与海岸工程、轮机工程、能源与动力工程、机械设计制造及其自动化、智能制造工程专业；7个专业，本专业类内任选专业",
+    "subjectRequirementText": "化学",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "11",
+    "majorName": "船舶与海洋工程(钱学森班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "529",
+    "collegeName": "哈尔滨工程大学[公办]",
+    "majorCode": "12",
+    "majorName": "航空航天类",
+    "majorRemark": "含低空技术与工程、飞行器设计与工程、飞行器动力工程、工程力学、能源与动力工程专业；5个专业，本专业类内任选专业",
+    "subjectRequirementText": "化学",
+    "planCount": 27,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

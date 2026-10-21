@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "21",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "22",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "23",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "24",
+    "majorName": "轨道交通信号与控制",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "25",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "26",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "27",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "28",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "29",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2143",
+    "collegeName": "大连工业大学艺术与信息工程学院[独立学院]",
+    "majorCode": "30",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2144",
+    "collegeName": "大连医科大学中山学院[独立学院]",
+    "majorCode": "4",
+    "majorName": "应用心理学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2144",
+    "collegeName": "大连医科大学中山学院[独立学院]",
+    "majorCode": "5",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2144",
+    "collegeName": "大连医科大学中山学院[独立学院]",
+    "majorCode": "6",
+    "majorName": "新媒体技术",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2144",
+    "collegeName": "大连医科大学中山学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "生物医学工程",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2144",
+    "collegeName": "大连医科大学中山学院[独立学院]",
+    "majorCode": "8",
+    "majorName": "临床医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 29500
+  }
+]

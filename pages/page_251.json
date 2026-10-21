@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "26",
+    "majorName": "生态学",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "27",
+    "majorName": "应用心理学",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "28",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "29",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "30",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "31",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "32",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "33",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "34",
+    "majorName": "轮机工程(陆上方向)",
+    "majorRemark": "无红绿色盲，无复视，身高155cm及以上，双眼裸视力均能达到4.6（0.4）及以上；或双眼裸视力均能达到4.0（0.1）及以上，且矫正视力均能达到4.6（0.4）及以上",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "35",
+    "majorName": "环境工程",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "36",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "37",
+    "majorName": "食品质量与安全",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "38",
+    "majorName": "食品营养与健康",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "39",
+    "majorName": "市场营销(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 38500
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "40",
+    "majorName": "旅游管理(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 38500
+  }
+]

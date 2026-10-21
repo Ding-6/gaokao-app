@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "15",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "16",
+    "majorName": "自动化(含智能机器人方向、智能控制与技术方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "17",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、智能科学与技术、网络空间安全、数字媒体技术、软件工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "18",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "19",
+    "majorName": "化学工程与工艺(含AI化工、高端精细化学品方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "20",
+    "majorName": "制药工程(含智能制药、绿色制药方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "21",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "22",
+    "majorName": "会计学(含大数据会计、智能财务方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "23",
+    "majorName": "会计学(ACCA国际注册会计师方向)",
+    "majorRemark": "除基础学费外，另外单独收取课程培训费1.2万元/年",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "24",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "25",
+    "majorName": "高分子材料与工程(中外合作办学)",
+    "majorRemark": "建议英语语种考生报考；“3+1”培养模式；匈牙利潘诺尼亚大学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 38000
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "26",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "建议英语语种考生报考；”4+0”培养模式；德国柏林媒体设计与计算机应用技术大学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "27",
+    "majorName": "软件工程(中外合作办学)",
+    "majorRemark": "建议英语语种考生报考；”4+0”培养模式；德国柏林媒体设计与计算机应用技术大学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "1741",
+    "collegeName": "武汉工程大学[公办]",
+    "majorCode": "28",
+    "majorName": "数字媒体技术(中外合作办学)",
+    "majorRemark": "建议英语语种考生报考；”4+0”培养模式；德国柏林媒体设计与计算机应用技术大学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "1747",
+    "collegeName": "武汉科技大学[公办]",
+    "majorCode": "4",
+    "majorName": "机械类",
+    "majorRemark": "含机械工程、机械电子工程、智能制造工程、测控技术与仪器、工业工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  }
+]

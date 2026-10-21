@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "58",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "59",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "60",
+    "majorName": "交通运输",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "61",
+    "majorName": "交通工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "62",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "63",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 7200
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "64",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "65",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "66",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "67",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "与俄罗斯圣彼得堡国立交通大学合作，“4+0”培养模式。零起点学习俄语，部分课程采用俄语、英语授课",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "865",
+    "collegeName": "华东交通大学(南昌市)[公办]",
+    "majorCode": "68",
+    "majorName": "工程管理(中外合作办学)",
+    "majorRemark": "与英国安格利亚鲁斯金大学合作，“3+1”或“4+0”培养模式。部分课程采用英语授课",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "866",
+    "collegeName": "华东理工大学[公办]",
+    "majorCode": "7",
+    "majorName": "工科试验班(智能与机器人)",
+    "majorRemark": "含人工智能、机器人工程专业；不招色盲者",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "866",
+    "collegeName": "华东理工大学[公办]",
+    "majorCode": "8",
+    "majorName": "工科试验班(生物医药)",
+    "majorRemark": "含生物工程、制药工程专业；不招色弱、色盲、嗅觉迟钝者",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "866",
+    "collegeName": "华东理工大学[公办]",
+    "majorCode": "9",
+    "majorName": "工科试验班(智慧化工)",
+    "majorRemark": "含化学工程与工艺、油气储运工程、资源循环科学与工程、轻化工程专业；大类分流前学费标准为7000元/学年，分流后按具体专业学费标准收费。不招色弱、色盲、嗅觉迟钝者",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "866",
+    "collegeName": "华东理工大学[公办]",
+    "majorCode": "10",
+    "majorName": "工科试验班(能源与环境)",
+    "majorRemark": "含能源与动力工程、储能科学与工程、环境工程专业；不招色弱、色盲、嗅觉迟钝者",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 7000
+  }
+]

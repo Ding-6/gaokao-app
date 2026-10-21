@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "174",
+    "collegeName": "渤海大学(锦州市)[公办]",
+    "majorCode": "17",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "174",
+    "collegeName": "渤海大学(锦州市)[公办]",
+    "majorCode": "18",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "174",
+    "collegeName": "渤海大学(锦州市)[公办]",
+    "majorCode": "19",
+    "majorName": "食品质量与安全",
+    "majorRemark": "不招色盲考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "174",
+    "collegeName": "渤海大学(锦州市)[公办]",
+    "majorCode": "20",
+    "majorName": "食品营养与健康",
+    "majorRemark": "不招色盲考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "174",
+    "collegeName": "渤海大学(锦州市)[公办]",
+    "majorCode": "21",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "174",
+    "collegeName": "渤海大学(锦州市)[公办]",
+    "majorCode": "22",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "175",
+    "collegeName": "渤海大学(锦州市)(国际本科学术互认课程项目)[公办]",
+    "majorCode": "3",
+    "majorName": "金融学(国际本科学术互认课程)",
+    "majorRemark": "国际本科学术互认课程项目，入校后外语课程只安排英语教学，非英语语种考生不宜就读，因语种问题无法完成学业，学校不予调整专业",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "175",
+    "collegeName": "渤海大学(锦州市)(国际本科学术互认课程项目)[公办]",
+    "majorCode": "4",
+    "majorName": "电气工程及其自动化(国际本科学术互认课程)",
+    "majorRemark": "国际本科学术互认课程项目，入校后外语课程只安排英语教学，非英语语种考生不宜就读，因语种问题无法完成学业，学校不予调整专业",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "175",
+    "collegeName": "渤海大学(锦州市)(国际本科学术互认课程项目)[公办]",
+    "majorCode": "5",
+    "majorName": "会计学(国际本科学术互认课程)",
+    "majorRemark": "国际本科学术互认课程项目，入校后外语课程只安排英语教学，非英语语种考生不宜就读，因语种问题无法完成学业，学校不予调整专业",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "18",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 39,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "21",
+    "majorName": "科学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "22",
+    "majorName": "学前教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "23",
+    "majorName": "汉语言文学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "24",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "25",
+    "majorName": "商务英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

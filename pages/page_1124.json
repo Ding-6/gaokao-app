@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "17",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "18",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 44,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "19",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "20",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、软件工程、物联网工程、数据科学与大数据技术专业；不招不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1463,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "21",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "22",
+    "majorName": "水文与水资源工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "23",
+    "majorName": "地理空间信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "24",
+    "majorName": "地质类",
+    "majorRemark": "含勘查技术与工程、资源勘查工程、地下水科学与工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "25",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "28",
+    "majorName": "管理科学与工程类",
+    "majorRemark": "含信息管理与信息系统、大数据管理与应用、工程管理、工程造价专业；不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 163,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "29",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、市场营销、人力资源管理专业；企业管理方向；不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "30",
+    "majorName": "工商管理类",
+    "majorRemark": "含会计学、财务管理、审计学专业；财会方向；不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "31",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2154",
+    "collegeName": "河北地质大学华信学院(石家庄市)[独立学院]",
+    "majorCode": "32",
+    "majorName": "智能医学工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2155",
+    "collegeName": "河北工程大学科信学院[独立学院]",
+    "majorCode": "5",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 10000
+  }
+]

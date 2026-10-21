@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "62",
+    "majorName": "动物医学(含教育部卓越农林人才教育培养计划)",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "64",
+    "majorName": "水产养殖学(含教育部卓越农林人才教育培养计划)",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "65",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "5",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "66",
+    "majorName": "临床医学(卓越班)",
+    "majorRemark": "不招色盲考生,卓越班",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "68",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "69",
+    "majorName": "医学影像技术",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "70",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲考生，建议考生身高不低于156厘米",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "71",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "72",
+    "majorName": "会计学(含荆楚卓越人才协同育人计划)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "73",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "74",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "与美国圣克劳德州立大学合作举办",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "75",
+    "majorName": "土木工程(中外合作办学)",
+    "majorRemark": "与爱尔兰香农理工大学合作举办",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "214",
+    "collegeName": "长江师范学院(重庆市)[公办]",
+    "majorCode": "5",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "214",
+    "collegeName": "长江师范学院(重庆市)[公办]",
+    "majorCode": "7",
+    "majorName": "汉语言文学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "214",
+    "collegeName": "长江师范学院(重庆市)[公办]",
+    "majorCode": "8",
+    "majorName": "日语",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  }
+]

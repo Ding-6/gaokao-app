@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1360",
+    "collegeName": "山东第一医科大学[公办]",
+    "majorCode": "15",
+    "majorName": "医学检验技术",
+    "majorRemark": "济南校区，不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7900
+  },
+  {
+    "collegeCode": "1360",
+    "collegeName": "山东第一医科大学[公办]",
+    "majorCode": "16",
+    "majorName": "医学实验技术",
+    "majorRemark": "济南校区，不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "1360",
+    "collegeName": "山东第一医科大学[公办]",
+    "majorCode": "17",
+    "majorName": "康复治疗学(OT国际认证班)",
+    "majorRemark": "泰安校区，不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "1360",
+    "collegeName": "山东第一医科大学[公办]",
+    "majorCode": "18",
+    "majorName": "健康与医疗保障",
+    "majorRemark": "济南校区",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1360",
+    "collegeName": "山东第一医科大学[公办]",
+    "majorCode": "19",
+    "majorName": "护理学",
+    "majorRemark": "泰安校区，不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 7900
+  },
+  {
+    "collegeCode": "1360",
+    "collegeName": "山东第一医科大学[公办]",
+    "majorCode": "20",
+    "majorName": "智能医学工程",
+    "majorRemark": "前2.5学年在泰安校区培养，后1.5学年在济南校区培养，不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1360",
+    "collegeName": "山东第一医科大学[公办]",
+    "majorCode": "21",
+    "majorName": "生物医药数据科学",
+    "majorRemark": "济南校区，不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1360",
+    "collegeName": "山东第一医科大学[公办]",
+    "majorCode": "22",
+    "majorName": "智能影像工程",
+    "majorRemark": "泰安校区，不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1362",
+    "collegeName": "山东工商学院(烟台市)[公办]",
+    "majorCode": "19",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1362",
+    "collegeName": "山东工商学院(烟台市)[公办]",
+    "majorCode": "20",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1362",
+    "collegeName": "山东工商学院(烟台市)[公办]",
+    "majorCode": "21",
+    "majorName": "能源经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1362",
+    "collegeName": "山东工商学院(烟台市)[公办]",
+    "majorCode": "22",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1362",
+    "collegeName": "山东工商学院(烟台市)[公办]",
+    "majorCode": "23",
+    "majorName": "财政学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1362",
+    "collegeName": "山东工商学院(烟台市)[公办]",
+    "majorCode": "24",
+    "majorName": "保险学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1362",
+    "collegeName": "山东工商学院(烟台市)[公办]",
+    "majorCode": "25",
+    "majorName": "投资学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "5",
+    "majorName": "电子信息类(鼎新创新人才班)",
+    "majorRemark": "含通信工程、电子信息工程、电子科学与技术、光电信息科学与工程专业；大学四年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "6",
+    "majorName": "电子信息类(大成创新人才班)",
+    "majorRemark": "含电子信息工程、电子科学与技术、光电信息科学与工程、通信工程专业；大学四年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "7",
+    "majorName": "电子信息类(信息通信与光电感知方向)",
+    "majorRemark": "含电子信息工程、电子科学与技术、光电信息科学与工程、探测制导与控制技术、通信工程专业；第一学年在江阴校区学习，第二、三、四学年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "8",
+    "majorName": "电子信息类(微纳电子器件与集成电路方向)",
+    "majorRemark": "含微电子科学与工程专业；第一学年在江阴校区学习，第二、三、四学年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "9",
+    "majorName": "自动化类(大成创新人才班)",
+    "majorRemark": "含自动化、电气工程及其自动化、智能电网信息工程专业；大学四年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "10",
+    "majorName": "自动化类",
+    "majorRemark": "含自动化、电气工程及其自动化、智能电网信息工程专业；第一学年在江阴校区学习，第二、三、四学年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "11",
+    "majorName": "计算机类(大成创新人才班)",
+    "majorRemark": "含计算机科学与技术、软件工程专业；大学四年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "12",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、软件工程专业；第一学年在江阴校区学习，第二、三、四学年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "13",
+    "majorName": "智能科学与技术",
+    "majorRemark": "大学四年在江阴校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "14",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "大学四年在江阴校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "15",
+    "majorName": "网络空间安全",
+    "majorRemark": "大学四年在江阴校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "16",
+    "majorName": "航空航天类(大成创新人才班)",
+    "majorRemark": "含飞行器设计与工程、低空技术与工程专业；大学四年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "17",
+    "majorName": "航空航天类",
+    "majorRemark": "含飞行器设计与工程、低空技术与工程专业；第一学年在江阴校区学习，第二、三、四学年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "18",
+    "majorName": "兵器类(大成创新人才班)",
+    "majorRemark": "含武器系统与工程、弹药工程与爆炸技术专业；大学四年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1198",
+    "collegeName": "南京理工大学[公办]",
+    "majorCode": "19",
+    "majorName": "兵器类(智能无人系统方向)",
+    "majorRemark": "含武器系统与工程、弹药工程与爆炸技术专业；第一学年在江阴校区学习，第二、三、四学年在南京校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6380
+  }
+]

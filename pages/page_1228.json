@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2411",
+    "collegeName": "哈尔滨信息工程学院[民办]",
+    "majorCode": "4",
+    "majorName": "电气工程与智能控制",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2411",
+    "collegeName": "哈尔滨信息工程学院[民办]",
+    "majorCode": "5",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2411",
+    "collegeName": "哈尔滨信息工程学院[民办]",
+    "majorCode": "6",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2411",
+    "collegeName": "哈尔滨信息工程学院[民办]",
+    "majorCode": "7",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2411",
+    "collegeName": "哈尔滨信息工程学院[民办]",
+    "majorCode": "8",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2411",
+    "collegeName": "哈尔滨信息工程学院[民办]",
+    "majorCode": "9",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2411",
+    "collegeName": "哈尔滨信息工程学院[民办]",
+    "majorCode": "10",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2411",
+    "collegeName": "哈尔滨信息工程学院[民办]",
+    "majorCode": "11",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2411",
+    "collegeName": "哈尔滨信息工程学院[民办]",
+    "majorCode": "12",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2413",
+    "collegeName": "哈尔滨远东理工学院[民办]",
+    "majorCode": "1",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2413",
+    "collegeName": "哈尔滨远东理工学院[民办]",
+    "majorCode": "2",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2413",
+    "collegeName": "哈尔滨远东理工学院[民办]",
+    "majorCode": "3",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2413",
+    "collegeName": "哈尔滨远东理工学院[民办]",
+    "majorCode": "4",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2413",
+    "collegeName": "哈尔滨远东理工学院[民办]",
+    "majorCode": "5",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "68",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学(金融与科技方向)、国际经济与贸易(跨境电商方向)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 36900
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "14",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "15",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "16",
+    "majorName": "机械电子工程(流体传动与控制)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "17",
+    "majorName": "过程装备与控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "18",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "19",
+    "majorName": "金属材料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "20",
+    "majorName": "无机非金属材料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "21",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "22",
+    "majorName": "焊接技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "23",
+    "majorName": "功能材料(新能源材料方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "24",
+    "majorName": "能源与动力工程(流体机械及工程)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "25",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "26",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "27",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "28",
+    "majorName": "微电子科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5600
+  }
+]

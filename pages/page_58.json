@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "118",
+    "collegeName": "北京理工大学[公办]",
+    "majorCode": "11",
+    "majorName": "会计学(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 78000
+  },
+  {
+    "collegeCode": "121",
+    "collegeName": "北京理工大学(珠海校区)[公办]",
+    "majorCode": "1",
+    "majorName": "车辆工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 57000
+  },
+  {
+    "collegeCode": "121",
+    "collegeName": "北京理工大学(珠海校区)[公办]",
+    "majorCode": "2",
+    "majorName": "能源与动力工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 57000
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "18",
+    "majorName": "电子信息工程(智能电子创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "19",
+    "majorName": "软件工程(机器人创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "20",
+    "majorName": "交通工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "21",
+    "majorName": "烹饪与营养教育",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "22",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "23",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "24",
+    "majorName": "轨道交通信号与控制(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 46000
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "25",
+    "majorName": "交通工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "26",
+    "majorName": "生物工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "122",
+    "collegeName": "北京联合大学[公办]",
+    "majorCode": "27",
+    "majorName": "物流工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "123",
+    "collegeName": "北京联合大学(京津冀职教改革项目)[公办]",
+    "majorCode": "1",
+    "majorName": "人工智能(京津冀职教改革项目)",
+    "majorRemark": "京津冀职教改革项目是经北京市教育委员会、天津市教育委员会、河北省教育厅批复，依托北京经济管理职业学院联合北京联合大学等四所北京市属高校共同建设，开展本科层次合作办学，充分发挥本科院校的学科优势、师资优势和高职院校的职业实训资源优势、行业企业资源优势等，为京津冀协同发展培养高层次技术技能人才。该项目录取的考生在校期间培养地点均设置在北京经济管理职业学院固安校区，执行京津冀职业教育改革示范园区的相关管理规定",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "123",
+    "collegeName": "北京联合大学(京津冀职教改革项目)[公办]",
+    "majorCode": "2",
+    "majorName": "机器人工程(京津冀职教改革项目)",
+    "majorRemark": "京津冀职教改革项目是经北京市教育委员会、天津市教育委员会、河北省教育厅批复，依托北京经济管理职业学院联合北京联合大学等四所北京市属高校共同建设，开展本科层次合作办学，充分发挥本科院校的学科优势、师资优势和高职院校的职业实训资源优势、行业企业资源优势等，为京津冀协同发展培养高层次技术技能人才。该项目录取的考生在校期间培养地点均设置在北京经济管理职业学院固安校区，执行京津冀职业教育改革示范园区的相关管理规定",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

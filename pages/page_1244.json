@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F8",
+    "majorName": "酒店管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F9",
+    "majorName": "会展经济与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "G0",
+    "majorName": "广播电视编导",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2433",
+    "collegeName": "河南开封科技传媒学院(开封市)[民办]",
+    "majorCode": "04",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2433",
+    "collegeName": "河南开封科技传媒学院(开封市)[民办]",
+    "majorCode": "05",
+    "majorName": "学前教育(师范类)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2433",
+    "collegeName": "河南开封科技传媒学院(开封市)[民办]",
+    "majorCode": "06",
+    "majorName": "数学与应用数学(师范类)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2433",
+    "collegeName": "河南开封科技传媒学院(开封市)[民办]",
+    "majorCode": "07",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "24",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "25",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "26",
+    "majorName": "金融学(创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "27",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "28",
+    "majorName": "保险学(数智保险方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "29",
+    "majorName": "投资学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "30",
+    "majorName": "金融审计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "31",
+    "majorName": "国际经济与贸易(数智经贸方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 25000
+  }
+]

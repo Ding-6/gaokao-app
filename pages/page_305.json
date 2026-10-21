@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "633",
+    "collegeName": "河北经贸大学(地方专项计划)[公办]",
+    "majorCode": "31",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "634",
+    "collegeName": "河北经贸大学(国际本科学术互认课程项目)[公办]",
+    "majorCode": "2",
+    "majorName": "金融工程",
+    "majorRemark": "单科成绩要求：外语>=105；该国际本科学术互认课程（ISEC）项目属于高收费项目，请考生报考前务必查看高校章程，以免影响入学；不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形情形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 130,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "634",
+    "collegeName": "河北经贸大学(国际本科学术互认课程项目)[公办]",
+    "majorCode": "3",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "单科成绩要求：外语>=105；该国际本科学术互认课程（ISEC）项目属于高收费项目，请考生报考前务必查看高校章程，以免影响入学；不招不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母情形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 150,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "634",
+    "collegeName": "河北经贸大学(国际本科学术互认课程项目)[公办]",
+    "majorCode": "4",
+    "majorName": "会计学",
+    "majorRemark": "单科成绩要求：外语>=105；该国际本科学术互认课程（ISEC）项目属于高收费项目，请考生报考前务必查看高校章程，以免影响入学；不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形情形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "636",
+    "collegeName": "河北经贸大学(少数民族预科班)[公办]",
+    "majorCode": "2",
+    "majorName": "本科预科班",
+    "majorRemark": "少数民族预科班，招少数民族考生，在河北师范大学附属民族学院学习一年后成绩合格转入本校学习，详情向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 27,
+    "duration": "1",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "8",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 52,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "9",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "10",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=100",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "11",
+    "majorName": "法语",
+    "majorRemark": "只招英语、法语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "12",
+    "majorName": "翻译",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=100",
+    "subjectRequirementText": "不限",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "13",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "14",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "15",
+    "majorName": "应用物理学",
+    "majorRemark": "色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 59,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "16",
+    "majorName": "应用化学",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 84,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "17",
+    "majorName": "生物技术",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 56,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

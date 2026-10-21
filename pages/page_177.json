@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "7",
+    "majorName": "自然地理与资源环境",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "8",
+    "majorName": "地球物理学(拔尖学生培养基地)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "9",
+    "majorName": "防灾减灾科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "10",
+    "majorName": "地球化学(拔尖学生培养基地)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "11",
+    "majorName": "地球信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "12",
+    "majorName": "生物技术",
+    "majorRemark": "抚州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "13",
+    "majorName": "机械工程",
+    "majorRemark": "抚州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "14",
+    "majorName": "智能制造工程",
+    "majorRemark": "抚州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "15",
+    "majorName": "测控技术与仪器(测控、地球物理双学士学位)",
+    "majorRemark": "“测控技术与仪器+地球物理学”双学士学位复合型人才培养项目",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 8940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "16",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "17",
+    "majorName": "复合材料与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "18",
+    "majorName": "电子信息工程(电子信息现代产业学院、吉安)",
+    "majorRemark": "前2年在南昌校区就读，后2年在吉安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "19",
+    "majorName": "自动化(电子信息现代产业学院、吉安)",
+    "majorRemark": "前2年在南昌校区就读，后2年在吉安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "20",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "21",
+    "majorName": "软件工程",
+    "majorRemark": "抚州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 10000
+  }
+]

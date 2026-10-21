@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "37",
+    "majorName": "水文与水资源工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "38",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "39",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色弱色盲及单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "40",
+    "majorName": "环境工程",
+    "majorRemark": "不招色弱色盲及单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "41",
+    "majorName": "建筑学",
+    "majorRemark": "不招色盲单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "42",
+    "majorName": "城乡规划",
+    "majorRemark": "不招色盲单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "43",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "44",
+    "majorName": "药学",
+    "majorRemark": "不招色弱色盲及单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "45",
+    "majorName": "会计学",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4920
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "46",
+    "majorName": "行政管理",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4920
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "47",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=75；进校后不得转专业；非英语语种慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "48",
+    "majorName": "化学工程与工艺(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=75；进校后不得转专业；非英语语种慎重报考；不招色弱色盲单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "49",
+    "majorName": "环境科学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=75；进校后不得转专业；非英语语种慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "50",
+    "majorName": "信息管理与信息系统(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=75；进校后不得转专业非英语语种慎重报考；不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "496",
+    "collegeName": "贵州大学[公办]",
+    "majorCode": "51",
+    "majorName": "旅游管理(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=75；进校后不得转专业；非英语语种慎重报考；要五官端正、无醒目疤痕、口齿清楚、无残疾",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 24000
+  }
+]

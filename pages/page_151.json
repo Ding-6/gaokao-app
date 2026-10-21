@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "316",
+    "collegeName": "大连理工大学[公办]",
+    "majorCode": "11",
+    "majorName": "人工智能(未来卓越班)",
+    "majorRemark": "全校理工类专业任选，按所选专业收学费",
+    "subjectRequirementText": "化学",
+    "planCount": 68,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "316",
+    "collegeName": "大连理工大学[公办]",
+    "majorCode": "12",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "与白俄罗斯国立大学合作，零起点学习俄语，部分课程采用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "316",
+    "collegeName": "大连理工大学[公办]",
+    "majorCode": "13",
+    "majorName": "应用物理学(中外合作办学)",
+    "majorRemark": "不招色盲考生。与白俄罗斯国立大学合作，零起点学习俄语，部分课程采用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "316",
+    "collegeName": "大连理工大学[公办]",
+    "majorCode": "14",
+    "majorName": "工程力学(中外合作办学)",
+    "majorRemark": "与白俄罗斯国立大学合作，零起点学习俄语，部分课程采用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "316",
+    "collegeName": "大连理工大学[公办]",
+    "majorCode": "15",
+    "majorName": "计算机类(中外合作办学)",
+    "majorRemark": "含软件工程(中外合作办学)、数字媒体技术(中外合作办学)、物联网工程(中外合作办学)专业；就读大连开发区校区。与日本立命馆大学合作，零起点学习日语，部分课程采用英语、日语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 98000
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "1",
+    "majorName": "经济学类",
+    "majorRemark": "含电子商务、经济学专业；非英语语种考生慎重报考",
+    "subjectRequirementText": "不限",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "2",
+    "majorName": "海洋技术",
+    "majorRemark": "非英语语种考生慎重报考。不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "3",
+    "majorName": "生物信息学",
+    "majorRemark": "非英语语种考生慎重报考。不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "4",
+    "majorName": "能源化学工程",
+    "majorRemark": "含能源化学工程、化学工程与工业生物工程。非英语语种考生慎重报考。不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 31,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "5",
+    "majorName": "智能海洋装备",
+    "majorRemark": "非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "6",
+    "majorName": "生物制造",
+    "majorRemark": "非英语语种考生慎重报考。不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "7",
+    "majorName": "数理基础科学(中外合作办学)",
+    "majorRemark": "与英国莱斯特大学合作，部分课程采用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 85000
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "8",
+    "majorName": "应用化学(中外合作办学)",
+    "majorRemark": "与英国莱斯特大学合作，部分课程采用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 85000
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "9",
+    "majorName": "过程装备与控制工程(中外合作办学)",
+    "majorRemark": "与英国莱斯特大学合作，部分课程采用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 85000
+  },
+  {
+    "collegeCode": "319",
+    "collegeName": "大连理工大学(盘锦校区)[公办]",
+    "majorCode": "10",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "与澳大利亚昆士兰科技大学合作，部分课程采用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 85000
+  }
+]

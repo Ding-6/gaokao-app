@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "20",
+    "majorName": "材料科学与工程(中卫校区)",
+    "majorRemark": "在中卫校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "21",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "第一学年在中卫校区就读，后三个学年在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "22",
+    "majorName": "电气工程及其自动化(中卫校区)",
+    "majorRemark": "在中卫校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "23",
+    "majorName": "通信工程",
+    "majorRemark": "第一学年在中卫校区就读，后三个学年在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "24",
+    "majorName": "人工智能",
+    "majorRemark": "第一学年在中卫校区就读，后三个学年在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "25",
+    "majorName": "计算机科学与技术(与中软国际共建项目)",
+    "majorRemark": "第一学年在中卫校区就读，后三个学年在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 7300
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "26",
+    "majorName": "软件工程(与东软教育科技集团共建项目)",
+    "majorRemark": "第一学年在中卫校区就读，后三个学年在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 9400
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "27",
+    "majorName": "智能科学与技术(与中软国际共建项目，中卫校区)",
+    "majorRemark": "在中卫校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 9000
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "28",
+    "majorName": "智能建造",
+    "majorRemark": "第一学年在中卫校区就读，后三个学年在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "29",
+    "majorName": "智慧水利(中卫校区)",
+    "majorRemark": "在中卫校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "30",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "无色盲、色弱，在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "31",
+    "majorName": "食品科学与工程",
+    "majorRemark": "在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "32",
+    "majorName": "食品营养与健康",
+    "majorRemark": "在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "33",
+    "majorName": "农学",
+    "majorRemark": "农林类；在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "34",
+    "majorName": "农业资源与环境",
+    "majorRemark": "农林类；在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  }
+]

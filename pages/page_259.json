@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "16",
+    "majorName": "电子信息类(通信学院)",
+    "majorRemark": "含通信工程、信息对抗技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "17",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "18",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "19",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "20",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "21",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "22",
+    "majorName": "管理科学与工程类",
+    "majorRemark": "含信息管理与信息系统、保密管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "23",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "24",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "25",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "与爱尔兰都柏林城市大学合作办学，中英文授课，学生在中方完成4年学业后，可获中爱双方证书",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 69000
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "26",
+    "majorName": "集成电路设计与集成系统(中外合作办学)",
+    "majorRemark": "与爱尔兰都柏林城市大学合作办学，中英文授课，学生在中方完成4年学业后，可获中爱双方证书",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 69000
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "27",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "与爱尔兰都柏林城市大学合作办学，中英文授课，学生在中方完成4年学业后，可获中爱双方证书",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 69000
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "28",
+    "majorName": "自动化(中外合作办学)",
+    "majorRemark": "与俄罗斯圣光机大学合作办学，中英文授课，学生在中方完成4年学业后，可获中俄双方证书",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "29",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "与俄罗斯圣光机大学合作办学，中英文授课，学生在中方完成4年学业后，可获中俄双方证书",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "577",
+    "collegeName": "杭州师范大学[公办]",
+    "majorCode": "3",
+    "majorName": "数字经济",
+    "majorRemark": "第一、二学年在下沙校区，第三学年起在仓前校区。不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  }
+]

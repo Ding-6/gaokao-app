@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "11",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "12",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "13",
+    "majorName": "翻译",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "14",
+    "majorName": "信息与计算科学",
+    "majorRemark": "无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "15",
+    "majorName": "大气科学",
+    "majorRemark": "无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "16",
+    "majorName": "应用气象学(机场气象预报、航空公司气象分析)",
+    "majorRemark": "无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "17",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "18",
+    "majorName": "新能源科学与工程(航空新能源开发及其利用)",
+    "majorRemark": "无色盲色弱，无嗅觉障碍",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "19",
+    "majorName": "电气工程及其自动化(航空电气设备维修)",
+    "majorRemark": "建议女生谨慎报考,无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "20",
+    "majorName": "电子信息工程(航空电子设备维修)",
+    "majorRemark": "建议女生谨慎报考,无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "21",
+    "majorName": "人工智能",
+    "majorRemark": "无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "22",
+    "majorName": "智能视觉工程(民航智能检测与维修)",
+    "majorRemark": "建议女生谨慎报考,无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "23",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "24",
+    "majorName": "物联网工程",
+    "majorRemark": "无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "25",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  }
+]

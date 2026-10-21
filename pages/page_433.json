@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "19",
+    "majorName": "网络空间安全",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "20",
+    "majorName": "土木工程",
+    "majorRemark": "花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "21",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "22",
+    "majorName": "道路桥梁与渡河工程",
+    "majorRemark": "花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "23",
+    "majorName": "智能建造",
+    "majorRemark": "花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "24",
+    "majorName": "水利水电工程",
+    "majorRemark": "龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "25",
+    "majorName": "水文与水资源工程",
+    "majorRemark": "龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "26",
+    "majorName": "港口航道与海岸工程",
+    "majorRemark": "龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "27",
+    "majorName": "测绘工程",
+    "majorRemark": "龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "28",
+    "majorName": "地质工程",
+    "majorRemark": "龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "29",
+    "majorName": "交通工程",
+    "majorRemark": "花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "30",
+    "majorName": "核工程与核技术",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "31",
+    "majorName": "农业水利工程",
+    "majorRemark": "龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "32",
+    "majorName": "建筑学",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为龙子湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "33",
+    "majorName": "应急技术与管理",
+    "majorRemark": "龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

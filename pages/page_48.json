@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "8",
+    "majorName": "环境工程(碳中和实验班、可持续工程方向)",
+    "majorRemark": "不招收色盲、色弱、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "9",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程、食品质量与安全、食品营养与健康、食品营养与健康(营养健康科学与数字营销管理双学士学位项目)专业；不招收色盲、色弱、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "10",
+    "majorName": "生物工程(生物智造方向)",
+    "majorRemark": "不招收色盲、色弱、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "11",
+    "majorName": "食品科学与工程(中外合作办学)",
+    "majorRemark": "与爱尔兰考克大学联合培养，四年学费生活费等费用合计人民币60万元左右。建议英语语种考生报考。不招收色盲、色弱、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "1",
+    "majorName": "金融学(金融学和AI双学士学位)",
+    "majorRemark": "第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，“金融学—人工智能”双学士学位复合型人才培养项目",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "2",
+    "majorName": "法学",
+    "majorRemark": "第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "3",
+    "majorName": "社会学类",
+    "majorRemark": "含社会学、社会工作专业；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "4",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱考生；第一年在平乐园校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，大一下学期可参加碳中和未来技术学院二次选拔，碳院简介详见招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "5",
+    "majorName": "机械类",
+    "majorRemark": "含机械工程、智能制造工程、增材制造工程专业；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，大一下学期可参加碳中和未来技术学院二次选拔，碳院简介详见招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "6",
+    "majorName": "工业设计",
+    "majorRemark": "不招收色盲、色弱考生；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "7",
+    "majorName": "材料科学与工程(绿色新质班)",
+    "majorRemark": "不招收色盲考生；第一年在平乐园校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，双化协同特色实验班，导师制、个性化、国际化、卓越化的“一制三化”培养方案：详见招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "8",
+    "majorName": "机器人工程",
+    "majorRemark": "第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "9",
+    "majorName": "信息安全(实验班)",
+    "majorRemark": "不招色盲考生；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "10",
+    "majorName": "网络空间安全",
+    "majorRemark": "第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "91",
+    "collegeName": "北京工业大学[公办]",
+    "majorCode": "11",
+    "majorName": "土木类",
+    "majorRemark": "含土木工程、建筑环境与能源应用工程、给排水科学与工程专业；不招色盲考生；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，大一下学期可参加碳中和未来技术学院二次选拔，碳院简介详见招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

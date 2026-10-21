@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "9",
+    "majorName": "日语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "10",
+    "majorName": "商务英语(仅招收英语语种考生)",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "11",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "12",
+    "majorName": "数据计算及应用",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "13",
+    "majorName": "智能感知工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "14",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "15",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "16",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "17",
+    "majorName": "食品营养与健康",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "18",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1385",
+    "collegeName": "山东女子学院(济南市)[公办]",
+    "majorCode": "19",
+    "majorName": "计算机科学与技术(中外合作办学)(白俄罗斯国立信息和无线电电子大学)",
+    "majorRemark": "双证，白俄罗斯国立信息和无线电电子大学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 48000
+  },
+  {
+    "collegeCode": "1386",
+    "collegeName": "山东青年政治学院(济南市)[公办]",
+    "majorCode": "3",
+    "majorName": "财务管理",
+    "majorRemark": "单色不识别考生不予录取，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1390",
+    "collegeName": "山东师范大学(济南市)[公办]",
+    "majorCode": "20",
+    "majorName": "金融学类",
+    "majorRemark": "含金融学、国际经济与贸易、经济学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1390",
+    "collegeName": "山东师范大学(济南市)[公办]",
+    "majorCode": "21",
+    "majorName": "教育技术学(智能教育方向)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "1390",
+    "collegeName": "山东师范大学(济南市)[公办]",
+    "majorCode": "22",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5280
+  }
+]

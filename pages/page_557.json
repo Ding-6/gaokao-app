@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "29",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "30",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "31",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "32",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "33",
+    "majorName": "软件工程",
+    "majorRemark": "一、二年级学费5500元/学年，三、四年级学费14000元/学年",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "34",
+    "majorName": "道路桥梁与渡河工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "35",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "36",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "37",
+    "majorName": "油气储运工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "38",
+    "majorName": "飞行器动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "39",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "40",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "41",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "42",
+    "majorName": "生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1083",
+    "collegeName": "兰州理工大学[公办]",
+    "majorCode": "43",
+    "majorName": "生物制药",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  }
+]

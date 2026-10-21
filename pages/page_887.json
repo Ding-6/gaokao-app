@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1761",
+    "collegeName": "武夷学院(武夷山市)[公办]",
+    "majorCode": "33",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1762",
+    "collegeName": "西安财经大学[公办]",
+    "majorCode": "7",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1762",
+    "collegeName": "西安财经大学[公办]",
+    "majorCode": "8",
+    "majorName": "金融学",
+    "majorRemark": "智慧金融",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5350
+  },
+  {
+    "collegeCode": "1762",
+    "collegeName": "西安财经大学[公办]",
+    "majorCode": "9",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1762",
+    "collegeName": "西安财经大学[公办]",
+    "majorCode": "10",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1762",
+    "collegeName": "西安财经大学[公办]",
+    "majorCode": "11",
+    "majorName": "软件工程",
+    "majorRemark": "智能软件",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1762",
+    "collegeName": "西安财经大学[公办]",
+    "majorCode": "12",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5350
+  },
+  {
+    "collegeCode": "1762",
+    "collegeName": "西安财经大学[公办]",
+    "majorCode": "13",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1762",
+    "collegeName": "西安财经大学[公办]",
+    "majorCode": "14",
+    "majorName": "物流管理",
+    "majorRemark": "智慧物流",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1762",
+    "collegeName": "西安财经大学[公办]",
+    "majorCode": "15",
+    "majorName": "金融学(中外合作办学)",
+    "majorRemark": "与德国波恩储蓄银行财团学院合作举办，学制4年，采用“3+1”模式,学生前三年在西安财经大学就读，完成中方阶段的课程并达到相关要求后，赴德国进行第四年在德方阶段的学习，在培养方案要求的期限内，修完所要求的课程，满足西安财经大学毕业条件和两校学位授予条件，即可获得西安财经大学本科毕业证书、学士学位证书以及德国波恩储蓄银行财团学院学士学位证书，录取后不可转入非合作办学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "5",
+    "majorName": "机械设计制造及其自动化(逐日智能制造院士班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "6",
+    "majorName": "电子信息类(通信)",
+    "majorRemark": "含通信工程、信息工程、空间信息与数字技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "7",
+    "majorName": "电子信息类(电子工程)",
+    "majorRemark": "含电子信息工程、信息对抗技术、电磁场与无线技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "8",
+    "majorName": "电子信息类(集成电路)",
+    "majorRemark": "含微电子科学与工程、集成电路设计与集成系统专业",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "9",
+    "majorName": "电子信息类(电子科学、信息物理、空天信息)",
+    "majorRemark": "含电子科学与技术、光电信息科学与工程、电子信息科学与技术、空间科学与技术、探测制导与控制技术、遥感科学与技术、低空技术与工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "346",
+    "collegeName": "东北大学秦皇岛分校[公办]",
+    "majorCode": "21",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "“3+1”培养模式，国内学费50000元/学年，国外学习阶段学费按照奥克兰大学当年学费标准（约55312新西兰元/学年）由奥克兰大学收取，同时免收国内学费。入学后采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "346",
+    "collegeName": "东北大学秦皇岛分校[公办]",
+    "majorCode": "22",
+    "majorName": "应用统计学(中外合作办学)",
+    "majorRemark": "“3+1”培养模式，国内学费56000元/学年，国外学习阶段学费按照悉尼科技大学当年学费标准（约47320澳元/学年）由悉尼科技大学收取，同时免收国内学费。入学后采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "346",
+    "collegeName": "东北大学秦皇岛分校[公办]",
+    "majorCode": "23",
+    "majorName": "通信工程(中外合作办学)",
+    "majorRemark": "“3+1”培养模式，国内学费56000元/学年，国外学习阶段学费按照悉尼科技大学当年学费标准（约52290澳元/学年）由悉尼科技大学收取，同时免收国内学费。入学后采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "346",
+    "collegeName": "东北大学秦皇岛分校[公办]",
+    "majorCode": "24",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "“3+1”培养模式，国内学费56000元/学年，国外学习阶段学费按照悉尼科技大学当年学费标准（约52579澳元/学年）由悉尼科技大学收取，同时免收国内学费。入学后采用英文教材和英语授课，外语语种为非英语的考生请慎重报考。身体条件要求详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 27,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "347",
+    "collegeName": "东北大学(中外合作办学)[公办]",
+    "majorCode": "1",
+    "majorName": "材料科学与工程(中外合作办学)",
+    "majorRemark": "学年学费50000元/年，因培养需要，建议外语语种为英语或法语的考生报考",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "347",
+    "collegeName": "东北大学(中外合作办学)[公办]",
+    "majorCode": "2",
+    "majorName": "生物医学工程(中外合作办学)",
+    "majorRemark": "国内学年学费45000元/年，第四年达到赴英国邓迪大学学习要求的学生，学费标准按照英国邓迪大学学费标准（约29810英镑/年）由邓迪大学收取，同时东北大学收取学籍注册费4500元/年。入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 45000
+  },
+  {
+    "collegeCode": "348",
+    "collegeName": "东北电力大学(吉林市)[公办]",
+    "majorCode": "4",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "348",
+    "collegeName": "东北电力大学(吉林市)[公办]",
+    "majorCode": "5",
+    "majorName": "应用化学",
+    "majorRemark": "本专业不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "348",
+    "collegeName": "东北电力大学(吉林市)[公办]",
+    "majorCode": "6",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "348",
+    "collegeName": "东北电力大学(吉林市)[公办]",
+    "majorCode": "7",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "348",
+    "collegeName": "东北电力大学(吉林市)[公办]",
+    "majorCode": "8",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "348",
+    "collegeName": "东北电力大学(吉林市)[公办]",
+    "majorCode": "9",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "348",
+    "collegeName": "东北电力大学(吉林市)[公办]",
+    "majorCode": "10",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "348",
+    "collegeName": "东北电力大学(吉林市)[公办]",
+    "majorCode": "11",
+    "majorName": "储能科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "348",
+    "collegeName": "东北电力大学(吉林市)[公办]",
+    "majorCode": "12",
+    "majorName": "氢能科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5400
+  }
+]

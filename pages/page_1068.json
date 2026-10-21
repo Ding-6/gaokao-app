@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "32",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "33",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "34",
+    "majorName": "标准化工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "35",
+    "majorName": "质量管理工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2048",
+    "collegeName": "中国科学技术大学[公办]",
+    "majorCode": "1",
+    "majorName": "工科试验班(力学及航天、人形机器人、未来能源及安全)",
+    "majorRemark": "含理论与应用力学、机器人工程、测控技术与仪器、能源与动力工程、安全工程、核工程类、力学类(钱学森力学科技英才班)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2048",
+    "collegeName": "中国科学技术大学[公办]",
+    "majorCode": "2",
+    "majorName": "工科试验班(信息智能与集成电路)",
+    "majorRemark": "含计算机类、计算机类(华夏计算机科技英才班)、电子信息类(信息科技)、电子信息类(信息科技英才班)、网络空间安全、网络空间安全(王小谟网络空间科技英才班)、人工智能、人工智能(科技英才班)、集成电路设计与集成系统、集成电路设计与集成系统(中微集成电路科技英才班)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2048",
+    "collegeName": "中国科学技术大学[公办]",
+    "majorCode": "3",
+    "majorName": "理科试验班类",
+    "majorRemark": "含数学类、数学类(华罗庚数学科技英才班)、物理学类、物理学类(严济慈物理科技英才班)、化学类(智能化学与先进材料)、化学类(卢嘉锡化学科技英才班)、生物科学类、生物科学类(贝时璋生命科技英才班)、空间科学与技术、空间科学与技术(赵九章现代地球和空间科技英才班)、行星科学、量子信息科学(量子未来技术试点班)、统计学(统计大数据与商业AI试验班)、商业人工智能(统计大数据与商业AI试验班)、环境科学与工程(环境AI双学位试验班)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2051",
+    "collegeName": "中国科学院大学[公办]",
+    "majorCode": "1",
+    "majorName": "数学与应用数学",
+    "majorRemark": "华罗庚数学实验班",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2051",
+    "collegeName": "中国科学院大学[公办]",
+    "majorCode": "2",
+    "majorName": "物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2051",
+    "collegeName": "中国科学院大学[公办]",
+    "majorCode": "3",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2051",
+    "collegeName": "中国科学院大学[公办]",
+    "majorCode": "4",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2051",
+    "collegeName": "中国科学院大学[公办]",
+    "majorCode": "5",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2051",
+    "collegeName": "中国科学院大学[公办]",
+    "majorCode": "6",
+    "majorName": "航空航天工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2052",
+    "collegeName": "中国矿业大学[公办]",
+    "majorCode": "10",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "2052",
+    "collegeName": "中国矿业大学[公办]",
+    "majorCode": "11",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

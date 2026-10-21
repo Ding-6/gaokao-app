@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "22",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；不招色盲、单色不识别考生",
+    "subjectRequirementText": "地理",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "23",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "24",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "25",
+    "majorName": "软件工程",
+    "majorRemark": "学费标准：前两年6000元/年，后两年14000元/年。不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "26",
+    "majorName": "会计学",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "劳动与社会保障",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "28",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "547",
+    "collegeName": "哈尔滨体育学院[公办]",
+    "majorCode": "2",
+    "majorName": "运动人体科学",
+    "majorRemark": "不招色盲、色弱、单色识别不全考生，其他体检要求详见学校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "547",
+    "collegeName": "哈尔滨体育学院[公办]",
+    "majorCode": "3",
+    "majorName": "运动康复",
+    "majorRemark": "体检要求详见学校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "547",
+    "collegeName": "哈尔滨体育学院[公办]",
+    "majorCode": "4",
+    "majorName": "智能体育工程",
+    "majorRemark": "学费暂定4500元/年，最终以发改委批复为准；体检要求详见学校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "549",
+    "collegeName": "哈尔滨学院[公办]",
+    "majorCode": "6",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "549",
+    "collegeName": "哈尔滨学院[公办]",
+    "majorCode": "7",
+    "majorName": "电气工程与智能控制",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "549",
+    "collegeName": "哈尔滨学院[公办]",
+    "majorCode": "8",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "549",
+    "collegeName": "哈尔滨学院[公办]",
+    "majorCode": "9",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "549",
+    "collegeName": "哈尔滨学院[公办]",
+    "majorCode": "10",
+    "majorName": "软件工程",
+    "majorRemark": "学费前两年6000元/生/学年，后两年14000元/生/学年",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

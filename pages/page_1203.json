@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "23",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "24",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "25",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "26",
+    "majorName": "数字媒体技术(卓越领航班)",
+    "majorRemark": "大一强化语言与专业能力，提升就业竞争力，具体培养模式详见招生简章，请咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "27",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "28",
+    "majorName": "电子与计算机工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "29",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "30",
+    "majorName": "电影制作",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "31",
+    "majorName": "虚拟现实技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "32",
+    "majorName": "区块链工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "33",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "34",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "35",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 55000
+  },
+  {
+    "collegeCode": "2326",
+    "collegeName": "重庆移通学院[民办]",
+    "majorCode": "36",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 55000
+  },
+  {
+    "collegeCode": "2331",
+    "collegeName": "大连财经学院[民办]",
+    "majorCode": "18",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 29000
+  }
+]

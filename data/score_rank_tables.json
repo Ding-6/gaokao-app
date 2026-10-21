@@ -1,0 +1,26 @@
+{
+  "_说明": "一分一段表：某省某科类某年，每个分数对应的累计人数（即可推出位次）。这是计算'分数→全省位次'的关键数据，每年每省由教育考试院发布，必须逐年更新。本框架仅放结构示例，不内置编造数值。",
+  "schema": {
+    "province": "省份",
+    "year": "年份",
+    "subjectCategory": "科类，新高考3+1+2下通常按首选科目分为：物理类 / 历史类",
+    "table": "数组，每项为 {score: 分数, cumulativeCount: 该分数及以上累计人数（即该分数最高位次为cumulativeCount的上一级+1，最低位次为cumulativeCount）}"
+  },
+  "scoreRankTables": [
+    {
+      "province": "河南",
+      "year": 2025,
+      "subjectCategory": "物理类",
+      "isRealData": false,
+      "table": []
+    },
+    {
+      "province": "河南",
+      "year": 2025,
+      "subjectCategory": "历史类",
+      "isRealData": false,
+      "table": []
+    }
+  ],
+  "_待办": "table数组当前为空。请从省教育考试院官网公布的《2025年一分一段表》逐行录入，或使用 docs/数据导入模板.csv 中的'一分一段'sheet批量导入。系统的分数→位次换算功能在table为空时会提示'暂无该省该年数据，请先导入一分一段表'，不会编造换算结果。"
+}

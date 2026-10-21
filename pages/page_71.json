@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "154",
+    "collegeName": "北京印刷学院[公办]",
+    "majorCode": "26",
+    "majorName": "印刷工程",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "154",
+    "collegeName": "北京印刷学院[公办]",
+    "majorCode": "27",
+    "majorName": "印刷工程(毕昇卓越班)",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "154",
+    "collegeName": "北京印刷学院[公办]",
+    "majorCode": "28",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "5",
+    "majorName": "电子信息类(元班)",
+    "majorRemark": "含通信工程、电子科学与技术、低空技术与工程专业；未来学院“元班”实验班。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "6",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子科学与技术、电子信息科学与技术、光电信息科学与工程、集成电路设计与集成系统专业；一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "7",
+    "majorName": "通信工程(大类招生)",
+    "majorRemark": "包含:通信工程、电子信息工程、空间信息与数字技术专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区",
+    "subjectRequirementText": "化学",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "8",
+    "majorName": "人工智能(大类招生)",
+    "majorRemark": "包含:信息工程、人工智能专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "9",
+    "majorName": "计算机类(元班)",
+    "majorRemark": "含计算机科学与技术、网络空间安全、具身智能专业；未来学院“元班”实验班。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "10",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、网络工程、数据科学与大数据技术专业；一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区",
+    "subjectRequirementText": "化学",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "11",
+    "majorName": "软件工程",
+    "majorRemark": "一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。后两年学费为16000元/年。本专业部分课程采用英语授课，建议非英语考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "12",
+    "majorName": "网络空间安全(大类招生)",
+    "majorRemark": "包含:网络空间安全、信息安全、密码科学与技术（AI安全与密码班）专业。办学地点在沙河校区",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "13",
+    "majorName": "信息与计算科学(中外合作办学)",
+    "majorRemark": "四年教学均安排在海南校区（海南省陵水黎安国际教育创新试验区）。本专业部分课程采用英语授课，建议非英语考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "14",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。本专业部分课程采用英语授课，建议非英语考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "15",
+    "majorName": "电信工程及管理(中外合作办学)",
+    "majorRemark": "一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。本专业部分课程采用英语授课，建议非英语考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "16",
+    "majorName": "物联网工程(中外合作办学)",
+    "majorRemark": "一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。本专业部分课程采用英语授课，建议非英语考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 100000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "19",
+    "majorName": "药物制剂",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；非英语语种考生慎报；大连校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "20",
+    "majorName": "中药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；非英语语种考生慎报；大连校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "21",
+    "majorName": "中药资源与开发",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；非英语语种考生慎报；大连校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "22",
+    "majorName": "中药制药",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；非英语语种考生慎报；大连校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "23",
+    "majorName": "中草药栽培与鉴定",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；非英语语种考生慎报；大连校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "24",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；非英语语种考生慎报；沈阳校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "25",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；非英语语种考生慎报；沈阳校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "26",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "不招单色不识别考生，详见院校章程；非英语语种考生慎报；沈阳校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "27",
+    "majorName": "市场营销",
+    "majorRemark": "不招单色不识别考生，详见院校章程；非英语语种考生慎报；沈阳校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1128",
+    "collegeName": "辽宁中医药大学[公办]",
+    "majorCode": "28",
+    "majorName": "健康服务与管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程；非英语语种考生慎报；沈阳校区（第一学年本溪校区就读）",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1132",
+    "collegeName": "聊城大学[公办]",
+    "majorCode": "6",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1132",
+    "collegeName": "聊城大学[公办]",
+    "majorCode": "7",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1132",
+    "collegeName": "聊城大学[公办]",
+    "majorCode": "8",
+    "majorName": "化学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1132",
+    "collegeName": "聊城大学[公办]",
+    "majorCode": "9",
+    "majorName": "生物科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1132",
+    "collegeName": "聊城大学[公办]",
+    "majorCode": "10",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6300
+  }
+]

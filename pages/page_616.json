@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "23",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "24",
+    "majorName": "资源循环科学与工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "25",
+    "majorName": "轻化工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "26",
+    "majorName": "包装工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "27",
+    "majorName": "交通运输",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "28",
+    "majorName": "交通工程",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "29",
+    "majorName": "森林工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "30",
+    "majorName": "木材科学与工程",
+    "majorRemark": "拔尖创新人才培养实验班",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "31",
+    "majorName": "林产化工",
+    "majorRemark": "梁希拔尖创新人才培养实验班；不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "32",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "33",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "34",
+    "majorName": "食品质量与安全",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "35",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "36",
+    "majorName": "生物工程类",
+    "majorRemark": "含生物工程、生物制药专业；不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1201",
+    "collegeName": "南京林业大学[公办]",
+    "majorCode": "37",
+    "majorName": "园艺",
+    "majorRemark": "农林类；不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 2500
+  }
+]

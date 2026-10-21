@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "14",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、计算机科学与技术(铁路信息技术)、人工智能、物联网工程、数据科学与大数据技术(数据智能)、软件工程(国家级特色化示范性软件学院)、数据科学与大数据技术、信息安全、人工智能(智能系统与应用)专业；软件工程三、四年级学费为1.6万元。一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "15",
+    "majorName": "交通运输类",
+    "majorRemark": "含交通运输(智慧铁道运输)、交通运输(城市轨道交通)、交通运输(民航运输)、交通运输(大数据与信息技术)、交通运输(卓越人才拔尖班)、交通工程、智能运输工程、物流工程专业；一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "16",
+    "majorName": "机械电子工程(中外合作办学)",
+    "majorRemark": "合作方澳大利亚沃隆港大学，3+1 模式，第4年在国外。大量全英文授课，要求较好的英语基础",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "17",
+    "majorName": "纳米材料与技术(中外合作办学)",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取；合作方加拿大滑铁卢大学，2+1+1模式，第3年在国外。大量全英文授课，要求较好的英语基础",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "18",
+    "majorName": "交通运输(中外合作办学)",
+    "majorRemark": "色盲、单色不识别考生不予录取；合作方荷兰代尔夫特理工大学，4+0模式。大量全英文授课，要求较好的英语基础",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "106",
+    "collegeName": "北京交通大学(威海校区)[公办]",
+    "majorCode": "2",
+    "majorName": "通信工程(中外合作办学)",
+    "majorRemark": "合作方英国兰卡斯特大学，4+0模式。大量全英文授课，专业课全英文教材，要求较好的英语基础",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "106",
+    "collegeName": "北京交通大学(威海校区)[公办]",
+    "majorCode": "3",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "合作方英国兰卡斯特大学，4+0模式。大量全英文授课，专业课全英文教材，要求较好的英语基础",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "106",
+    "collegeName": "北京交通大学(威海校区)[公办]",
+    "majorCode": "4",
+    "majorName": "环境工程(中外合作办学)",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取；合作方英国兰卡斯特大学，4+0模式。大量全英文授课，专业课全英文教材，要求较好的英语基础",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "106",
+    "collegeName": "北京交通大学(威海校区)[公办]",
+    "majorCode": "5",
+    "majorName": "会计学(中外合作办学)",
+    "majorRemark": "合作方英国兰卡斯特大学，4+0模式。大量全英文授课，专业课全英文教材，要求较好的英语基础",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "6",
+    "majorName": "工科试验班类(卓越工程人才)",
+    "majorRemark": "含材料科学与工程、机械工程、自动化、能源与动力工程、碳中和科学与工程、智能采矿工程、冶金工程、智能建造专业；特殊班型，特殊培养政策详见学校本科招生网",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "7",
+    "majorName": "工科试验班类(关键金属提取数智创新班)",
+    "majorRemark": "含冶金工程专业；特殊班型，特殊培养政策详见学校本科招生网。一、二年级在北京校区，三、四年级在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "8",
+    "majorName": "理科试验班(纳米科学与工程试验班)",
+    "majorRemark": "含纳米材料与技术专业；特殊班型，特殊培养政策详见学校本科招生网",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "9",
+    "majorName": "理科试验班(拔尖人才计划)",
+    "majorRemark": "含材料科学与工程、计算机科学与技术、人工智能、机器人工程、自动化专业；特殊班型，特殊培养政策详见学校本科招生网",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "10",
+    "majorName": "数学类(应用数学和统计)",
+    "majorRemark": "含数学与应用数学、信息与计算科学、统计学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "11",
+    "majorName": "应用物理学(半导体和电子科技)",
+    "majorRemark": "大一学年结束后可分流至应用物理学、电子科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

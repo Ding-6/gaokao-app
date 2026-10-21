@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "138",
+    "collegeName": "北京体育大学[公办]",
+    "majorCode": "12",
+    "majorName": "智能体育工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "138",
+    "collegeName": "北京体育大学[公办]",
+    "majorCode": "13",
+    "majorName": "英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "138",
+    "collegeName": "北京体育大学[公办]",
+    "majorCode": "14",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "138",
+    "collegeName": "北京体育大学[公办]",
+    "majorCode": "15",
+    "majorName": "康复物理治疗",
+    "majorRemark": "色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "138",
+    "collegeName": "北京体育大学[公办]",
+    "majorCode": "16",
+    "majorName": "休闲体育(中外合作办学)",
+    "majorRemark": "此专业学费高，教学地点在海南陵水黎安国际教育创新试验区",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 75000
+  },
+  {
+    "collegeCode": "138",
+    "collegeName": "北京体育大学[公办]",
+    "majorCode": "17",
+    "majorName": "旅游管理(中外合作办学)",
+    "majorRemark": "此专业学费高，教学地点在海南陵水黎安国际教育创新试验区",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 75000
+  },
+  {
+    "collegeCode": "142",
+    "collegeName": "北京外国语大学[公办]",
+    "majorCode": "34",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "142",
+    "collegeName": "北京外国语大学[公办]",
+    "majorCode": "35",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "142",
+    "collegeName": "北京外国语大学[公办]",
+    "majorCode": "36",
+    "majorName": "英语(北京理工大学信息管理与系统专业联培)",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "142",
+    "collegeName": "北京外国语大学[公办]",
+    "majorCode": "37",
+    "majorName": "英语(中央财经大学金融学专业联合培养)",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "142",
+    "collegeName": "北京外国语大学[公办]",
+    "majorCode": "38",
+    "majorName": "德语(双学位)",
+    "majorRemark": "德语+大数据管理与应用双学位",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "142",
+    "collegeName": "北京外国语大学[公办]",
+    "majorCode": "39",
+    "majorName": "翻译(外交外事高级翻译)",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "145",
+    "collegeName": "北京外国语大学(中外合作办学)[公办]",
+    "majorCode": "2",
+    "majorName": "大数据管理与应用(中外合作办学)",
+    "majorRemark": "高收费专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 98000
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "7",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "8",
+    "majorName": "金融学(期货与证券实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  }
+]

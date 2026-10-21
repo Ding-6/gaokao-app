@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "625",
+    "collegeName": "河北环境工程学院(秦皇岛市)[公办]",
+    "majorCode": "30",
+    "majorName": "旅游管理与服务教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "625",
+    "collegeName": "河北环境工程学院(秦皇岛市)[公办]",
+    "majorCode": "31",
+    "majorName": "碳中和科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 41,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "625",
+    "collegeName": "河北环境工程学院(秦皇岛市)[公办]",
+    "majorCode": "32",
+    "majorName": "物联网工程(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=75；培养模式为“3+1”（前3年学生在国内学习，第4年须赴俄罗斯伊热夫斯克国立技术大学学习）；外语教学为英语，非英语语种考生慎重报考；国内学费38000元/年，国外学费245000卢布/年（以当年规定为准）",
+    "subjectRequirementText": "化学",
+    "planCount": 100,
+    "duration": "4",
+    "tuition": 38000
+  },
+  {
+    "collegeCode": "625",
+    "collegeName": "河北环境工程学院(秦皇岛市)[公办]",
+    "majorCode": "33",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=75；培养模式为“3+1”（前3年学生在国内学习，第4年须赴俄罗斯伊热夫斯克国立技术大学学习）；外语教学为英语，非英语语种考生慎重报考；国内学费38000元/年，国外学费245000卢布/年（以当年规定为准）",
+    "subjectRequirementText": "化学",
+    "planCount": 100,
+    "duration": "4",
+    "tuition": 38000
+  },
+  {
+    "collegeCode": "625",
+    "collegeName": "河北环境工程学院(秦皇岛市)[公办]",
+    "majorCode": "34",
+    "majorName": "环境工程(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=75；与芬兰萨沃尼亚应用科学大学合作项目，采用“4+0”培养模式，引入芬兰萨沃尼亚应用科学大学的师资、核心课程与教材；不招色盲、色弱考生；外语教学为英语，非英语语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 120,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "6",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "7",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 31,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "8",
+    "majorName": "德语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "9",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "10",
+    "majorName": "理论与应用力学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 74,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "11",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "12",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 59,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "13",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "14",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "628",
+    "collegeName": "河北建筑工程学院(张家口市)[公办]",
+    "majorCode": "15",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 83,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

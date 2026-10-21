@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "12",
+    "majorName": "数字经济(双学士学位复合型人才培养项目)",
+    "majorRemark": "数字经济与人工智能双学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "13",
+    "majorName": "数学类",
+    "majorRemark": "含信息与计算科学、统计学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "14",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "15",
+    "majorName": "机械类(车辆)",
+    "majorRemark": "含车辆工程、汽车服务工程、能源与动力工程、储能科学与工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "16",
+    "majorName": "机械类(智能制造)",
+    "majorRemark": "含机械工程、智能制造工程、测控技术与仪器、工业工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "17",
+    "majorName": "机械工程(卓越英才班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "18",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "19",
+    "majorName": "车辆工程(智能新能源汽车鲲鹏试点班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "20",
+    "majorName": "材料类",
+    "majorRemark": "含材料成型及控制工程、材料科学与工程、无机非金属材料工程、高分子材料与工程、复合材料与工程、新能源材料与器件专业",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "21",
+    "majorName": "材料科学与工程(珠峰拔尖班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "22",
+    "majorName": "能源与动力工程(新能源动力)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "23",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "24",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息工程、电子科学与技术、智能科学与技术、通信工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 32,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "25",
+    "majorName": "电子信息类(含交叉力学)",
+    "majorRemark": "含电子信息科学与技术、光电信息科学与工程、物理学、工程力学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "26",
+    "majorName": "通信工程(卓越英才班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  }
+]

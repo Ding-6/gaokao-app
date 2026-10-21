@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2496",
+    "collegeName": "昆明传媒学院[民办]",
+    "majorCode": "16",
+    "majorName": "电影制作",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19500
+  },
+  {
+    "collegeCode": "2496",
+    "collegeName": "昆明传媒学院[民办]",
+    "majorCode": "17",
+    "majorName": "文化产业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19500
+  },
+  {
+    "collegeCode": "2496",
+    "collegeName": "昆明传媒学院[民办]",
+    "majorCode": "18",
+    "majorName": "虚拟现实技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19500
+  },
+  {
+    "collegeCode": "2499",
+    "collegeName": "昆明文理学院[民办]",
+    "majorCode": "7",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2499",
+    "collegeName": "昆明文理学院[民办]",
+    "majorCode": "8",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2499",
+    "collegeName": "昆明文理学院[民办]",
+    "majorCode": "9",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2499",
+    "collegeName": "昆明文理学院[民办]",
+    "majorCode": "10",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2501",
+    "collegeName": "兰州博文科技学院[民办]",
+    "majorCode": "5",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2501",
+    "collegeName": "兰州博文科技学院[民办]",
+    "majorCode": "6",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21800
+  },
+  {
+    "collegeCode": "2501",
+    "collegeName": "兰州博文科技学院[民办]",
+    "majorCode": "7",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2501",
+    "collegeName": "兰州博文科技学院[民办]",
+    "majorCode": "8",
+    "majorName": "轨道交通信号与控制",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21800
+  },
+  {
+    "collegeCode": "2501",
+    "collegeName": "兰州博文科技学院[民办]",
+    "majorCode": "9",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2501",
+    "collegeName": "兰州博文科技学院[民办]",
+    "majorCode": "10",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21800
+  },
+  {
+    "collegeCode": "2501",
+    "collegeName": "兰州博文科技学院[民办]",
+    "majorCode": "11",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21800
+  },
+  {
+    "collegeCode": "2502",
+    "collegeName": "兰州工商学院[民办]",
+    "majorCode": "5",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23000
+  }
+]

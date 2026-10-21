@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "17",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "18",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "19",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "20",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6420
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "21",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "22",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "23",
+    "majorName": "制药工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "24",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "25",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "26",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1447",
+    "collegeName": "陕西理工大学(汉中市)[公办]",
+    "majorCode": "27",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1449",
+    "collegeName": "陕西农林职业技术大学[公办]",
+    "majorCode": "1",
+    "majorName": "设施园艺",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1449",
+    "collegeName": "陕西农林职业技术大学[公办]",
+    "majorCode": "2",
+    "majorName": "建筑工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1451",
+    "collegeName": "陕西师范大学[公办]",
+    "majorCode": "16",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、金融学、金融学(数智金融实验班)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1451",
+    "collegeName": "陕西师范大学[公办]",
+    "majorCode": "17",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学(师范)、数学与应用数学(国俊班)、信息与计算科学、统计学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

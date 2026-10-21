@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "20",
+    "majorName": "土地整治工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "21",
+    "majorName": "环境科学与工程类",
+    "majorRemark": "含环境科学、环境工程专业；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "22",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程、食品质量与安全、粮食工程、乳品工程、食品营养与健康专业；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "23",
+    "majorName": "食品科学与工程(双学士学位)",
+    "majorRemark": "“食品科学与工程+农林经济管理”双学士学位复合型人才培养项目。不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "24",
+    "majorName": "食品科学与工程(中美121双学位项目)",
+    "majorRemark": "与美国威斯康星大学斯托特分校合作，获普通高中毕业证书方可报考，仅建议有出国留学意愿的英语语种考生报考，国内学费5500元/年，国外学费、食宿费和医疗保险等预计27927美元/年，第3-6学期出国学习。出国手续等费用见学校招生章程。不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "25",
+    "majorName": "植物生产类",
+    "majorRemark": "农林类；含农学、种子科学与工程专业；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "26",
+    "majorName": "农学(拔尖人才培养班)",
+    "majorRemark": "农林类；本专业实行动态考核与分流培养的管理机制。不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "27",
+    "majorName": "园艺",
+    "majorRemark": "农林类；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "28",
+    "majorName": "植物保护",
+    "majorRemark": "农林类；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "29",
+    "majorName": "设施农业科学与工程",
+    "majorRemark": "农林类；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "30",
+    "majorName": "应用生物科学",
+    "majorRemark": "不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "31",
+    "majorName": "智慧农业",
+    "majorRemark": "不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "32",
+    "majorName": "生物育种技术",
+    "majorRemark": "农林类；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "33",
+    "majorName": "农业资源与环境(拔尖人才培养班)",
+    "majorRemark": "农林类；本专业实行动态考核与分流培养的管理机制。不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "34",
+    "majorName": "动物生产类",
+    "majorRemark": "含动物科学、草业科学、水产养殖学专业；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

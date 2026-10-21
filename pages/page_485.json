@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "16",
+    "majorName": "应用物理学",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "17",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "18",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "19",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "20",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "21",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "22",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "23",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "24",
+    "majorName": "软件工程",
+    "majorRemark": "一、二学年学费5460元/生·年；三、四学年学费13000元/生·年",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 9230
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "25",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "26",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "27",
+    "majorName": "交通运输",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "28",
+    "majorName": "轮机工程(陆上方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "29",
+    "majorName": "船舶与海洋工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "30",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  }
+]

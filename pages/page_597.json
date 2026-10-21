@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "57",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "不招单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "58",
+    "majorName": "工商管理(材料科学双学位项目)",
+    "majorRemark": "不招单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 8950
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "59",
+    "majorName": "会计学(国际会计师)",
+    "majorRemark": "不招单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 14000
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "60",
+    "majorName": "会计学(环工双学位项目)",
+    "majorRemark": "不招单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 8950
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "61",
+    "majorName": "计算机科学与技术(中外合作办学)(中法双学位合作办学)",
+    "majorRemark": "不招单色不能识别的考生；培养模式为“4+0”，毕业时符合条件者可获南昌大学毕业证书、学士学位证书及合作方（法国雷昂那多达芬奇高等工程师学院）院校学士学位证书；学费暂定80000元/学年，具体以上级备案学费标准为准；建议外语语种为英语的考生报考，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "62",
+    "majorName": "软件工程(中外合作办学)(中法双学位合作办学)",
+    "majorRemark": "培养模式为“4+0”，毕业时符合条件者可获南昌大学毕业证书、学士学位证书及合作方（法国雷昂那多达芬奇高等工程师学院）院校学士学位证书；学费暂定80000元/学年，具体以上级备案学费标准为准；中英双语教学；建议外语语种为英语的考生报考，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "63",
+    "majorName": "数据科学与大数据技术(中外合作办学)(中英双学位合作办学)",
+    "majorRemark": "与英国伦敦玛丽女王大学合作办学（采用4+0培养模式）；建议外语语种为英语的考生报考，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "64",
+    "majorName": "临床医学(中外合作办学)(中英双学位合作办学)",
+    "majorRemark": "不招色弱、色盲、单色不能识别的考生；与英国伦敦玛丽女王大学合作办学（采用5+0培养模式），建议外语语种为英语的考生报考，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "65",
+    "majorName": "医学检验技术(中外合作办学)(中英双学位合作办学)",
+    "majorRemark": "不招色弱、色盲、单色不能识别的考生；与英国伦敦玛丽女王大学合作办学（采用4+0培养模式）；建议外语语种为英语的考生报考，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "7",
+    "majorName": "数学与应用数学",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "8",
+    "majorName": "应用化学",
+    "majorRemark": "南昌市前湖校区就读；不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "9",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "10",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "11",
+    "majorName": "工业设计",
+    "majorRemark": "南昌市上海路校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "12",
+    "majorName": "智能制造工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4940
+  }
+]

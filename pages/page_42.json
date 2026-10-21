@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "33",
+    "majorName": "木材科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "34",
+    "majorName": "风景园林",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "35",
+    "majorName": "林学",
+    "majorRemark": "色盲、色弱、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "38",
+    "majorName": "口腔医学",
+    "majorRemark": "色盲、色弱、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 6160
+  },
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "39",
+    "majorName": "预防医学",
+    "majorRemark": "色盲、色弱、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "40",
+    "majorName": "医学检验技术",
+    "majorRemark": "色盲、色弱、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6160
+  },
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "41",
+    "majorName": "护理学",
+    "majorRemark": "色盲、色弱、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6160
+  },
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "42",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "43",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "与英国提赛德大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "76",
+    "collegeName": "北华大学(吉林市)[公办]",
+    "majorCode": "44",
+    "majorName": "通信工程(中外合作办学)",
+    "majorRemark": "与美国康奈尔学院合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "77",
+    "collegeName": "北华大学(吉林市)(国际创新课程项目)[公办]",
+    "majorCode": "2",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "国际创新课程(ICC)项目",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "77",
+    "collegeName": "北华大学(吉林市)(国际创新课程项目)[公办]",
+    "majorCode": "3",
+    "majorName": "土木工程",
+    "majorRemark": "国际创新课程(ICC)项目",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "77",
+    "collegeName": "北华大学(吉林市)(国际创新课程项目)[公办]",
+    "majorCode": "4",
+    "majorName": "药学",
+    "majorRemark": "国际创新课程(ICC)项目;色盲、色弱、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "77",
+    "collegeName": "北华大学(吉林市)(国际创新课程项目)[公办]",
+    "majorCode": "5",
+    "majorName": "会计学",
+    "majorRemark": "国际创新课程(ICC)项目",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "9",
+    "majorName": "经济学",
+    "majorRemark": "在固安校区就读，不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

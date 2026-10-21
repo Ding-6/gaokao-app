@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "59",
+    "majorName": "药学(生物与医药方向)",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6760
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "60",
+    "majorName": "信息管理与信息系统(商务大数据分析方向)",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "61",
+    "majorName": "工程管理",
+    "majorRemark": "厦门校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "62",
+    "majorName": "工商管理类(中美121双学位班，可接轨ACCA国际注会)",
+    "majorRemark": "含财务管理(全英文教学)专业；建议具有较好英语水平的考生报考；泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "63",
+    "majorName": "市场营销(双学士学位项目)",
+    "majorRemark": "数学与应用数学<数据分析方向>双学士学位项目；泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "64",
+    "majorName": "财务管理(智能财务方向)",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "65",
+    "majorName": "国际商务(全英文教学)",
+    "majorRemark": "建议具有较好英语水平的考生报考；泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "66",
+    "majorName": "行政管理(数字政府治理、社会福利、公共危机管理)",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "9",
+    "majorName": "数字经济(AI双学位)",
+    "majorRemark": "与人工智能学院联合培养数字经济与人工智能复合型人才，授予经济学与工学双学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "10",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、统计学、信息与计算科学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "11",
+    "majorName": "数学与应用数学(拔尖基地启明实验班)",
+    "majorRemark": "面向基础与应用数学前沿领域",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "12",
+    "majorName": "物理学类",
+    "majorRemark": "含物理学、应用物理学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "13",
+    "majorName": "化学(拔尖基地启明实验班)",
+    "majorRemark": "色盲、单色识别不全者不予录取；面向化学学科前沿及新能源、新材料、新医药等国家重大战略领域",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "14",
+    "majorName": "机械类",
+    "majorRemark": "含机械设计制造及其自动化、智能制造工程、工业工程、测控技术与仪器专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "15",
+    "majorName": "材料类",
+    "majorRemark": "含材料成型及控制工程、材料科学与工程、电子封装技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5850
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "66",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 95,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "67",
+    "majorName": "药物制剂",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 44,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "68",
+    "majorName": "中药学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "70",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 64,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "71",
+    "majorName": "卫生检验与检疫",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 51,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "72",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 112,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "73",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "不招单色识别不全考生",
+    "subjectRequirementText": "不限",
+    "planCount": 74,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "74",
+    "majorName": "工程管理",
+    "majorRemark": "不招单色识别不全考生",
+    "subjectRequirementText": "不限",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "75",
+    "majorName": "会计学",
+    "majorRemark": "不招单色识别不全考生",
+    "subjectRequirementText": "不限",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "76",
+    "majorName": "公共事业管理",
+    "majorRemark": "不招单色识别不全考生",
+    "subjectRequirementText": "不限",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "77",
+    "majorName": "医疗保险",
+    "majorRemark": "不招单色识别不全考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "78",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 69,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "79",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "80",
+    "majorName": "智能医学工程",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 56,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "81",
+    "majorName": "化学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=100；不招色盲、色弱及单色识别不全考生；与俄罗斯托木斯克国立大学合作举办，采用3+1培养模式，国内就读期间（前3年）学费25000元/年/人，若第四年继续在国内进行学习，则执行学校普通本科同类专业学费标准，若第四年出国就读学费约为人民币4万元/年/人，录取后不允许转专业，外语教学为英语，不建议小语种考生报考，详见华北理工大学招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 25000
+  }
+]

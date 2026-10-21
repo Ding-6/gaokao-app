@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "42",
+    "majorName": "行政管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "43",
+    "majorName": "劳动与社会保障",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "44",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "45",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "46",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "47",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "48",
+    "majorName": "金融科技(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "1950",
+    "collegeName": "云南大学[公办]",
+    "majorCode": "18",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、金融学、国际经济与贸易专业；大类培养分流办法及各专业学费标准详见《云南大学2026年本科招生章程》",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1950",
+    "collegeName": "云南大学[公办]",
+    "majorCode": "19",
+    "majorName": "经济学",
+    "majorRemark": "经济学+人工智能双学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 8300
+  },
+  {
+    "collegeCode": "1950",
+    "collegeName": "云南大学[公办]",
+    "majorCode": "21",
+    "majorName": "英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "1950",
+    "collegeName": "云南大学[公办]",
+    "majorCode": "22",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1950",
+    "collegeName": "云南大学[公办]",
+    "majorCode": "23",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1950",
+    "collegeName": "云南大学[公办]",
+    "majorCode": "24",
+    "majorName": "数理基础科学",
+    "majorRemark": "国家数理基地班",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1950",
+    "collegeName": "云南大学[公办]",
+    "majorCode": "25",
+    "majorName": "物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1950",
+    "collegeName": "云南大学[公办]",
+    "majorCode": "26",
+    "majorName": "化学类",
+    "majorRemark": "含化学、高分子材料与工程、化学工程与工艺、制药工程专业；大类培养分流办法及各专业学费标准详见《云南大学2026年本科招生章程》",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

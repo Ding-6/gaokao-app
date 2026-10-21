@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "20",
+    "majorName": "小学教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 156,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "21",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "22",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "23",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 305,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "24",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 115,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "25",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "26",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 170,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "27",
+    "majorName": "智能车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 39,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "28",
+    "majorName": "新能源汽车工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "29",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 200,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "30",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 223,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "31",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 130,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "32",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 182,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "33",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2430",
+    "collegeName": "河北科技学院[民办]",
+    "majorCode": "34",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 22000
+  }
+]

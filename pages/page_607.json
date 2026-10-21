@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1182",
+    "collegeName": "南京财经大学[公办]",
+    "majorCode": "17",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程、食品质量与安全、粮食工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1182",
+    "collegeName": "南京财经大学[公办]",
+    "majorCode": "18",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1182",
+    "collegeName": "南京财经大学[公办]",
+    "majorCode": "19",
+    "majorName": "工商管理类",
+    "majorRemark": "含会计学、审计学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "1182",
+    "collegeName": "南京财经大学[公办]",
+    "majorCode": "20",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1182",
+    "collegeName": "南京财经大学[公办]",
+    "majorCode": "21",
+    "majorName": "质量管理工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1182",
+    "collegeName": "南京财经大学[公办]",
+    "majorCode": "22",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1182",
+    "collegeName": "南京财经大学[公办]",
+    "majorCode": "23",
+    "majorName": "金融工程(中外合作办学)",
+    "majorRemark": "与新西兰梅西大学合作，4+0模式，建议英语语言能力较高者填报",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 57000
+  },
+  {
+    "collegeCode": "1182",
+    "collegeName": "南京财经大学[公办]",
+    "majorCode": "24",
+    "majorName": "大数据管理与应用(中外合作办学)",
+    "majorRemark": "与新西兰梅西大学合作，4+0模式，建议英语语言能力较高者填报",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 57000
+  },
+  {
+    "collegeCode": "1184",
+    "collegeName": "南京大学[公办]",
+    "majorCode": "6",
+    "majorName": "工科试验班",
+    "majorRemark": "含光电信息科学与工程、碳中和科学与工程、生物医学工程、工业工程类、材料类专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1184",
+    "collegeName": "南京大学[公办]",
+    "majorCode": "7",
+    "majorName": "工科试验班(未来技术学院)",
+    "majorRemark": "含智能科学与技术、集成电路设计与集成系统、自动化(机器人方向)、碳中和科学与工程、生物医学工程专业；5个理工科专业，专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1184",
+    "collegeName": "南京大学[公办]",
+    "majorCode": "8",
+    "majorName": "技术科学试验班",
+    "majorRemark": "含智能科学与技术、集成电路设计与集成系统、自动化(机器人方向)、数字经济专业",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1184",
+    "collegeName": "南京大学[公办]",
+    "majorCode": "9",
+    "majorName": "理科试验班类(数理科学类)",
+    "majorRemark": "含数学与应用数学、信息与计算科学、统计学、物理学、应用物理学、声学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "1184",
+    "collegeName": "南京大学[公办]",
+    "majorCode": "10",
+    "majorName": "理科试验班类(化学与生命科学类)",
+    "majorRemark": "含生物科学、生物技术、生态学、化学、应用化学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "1184",
+    "collegeName": "南京大学[公办]",
+    "majorCode": "11",
+    "majorName": "理科试验班(匡亚明学院大理科班)",
+    "majorRemark": "含计算机科学与技术、数学与应用数学、物理学、化学专业；含35个理工科专业，专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "1184",
+    "collegeName": "南京大学[公办]",
+    "majorCode": "12",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息科学与技术、通信工程、通信工程(低空工程实验班)、微电子科学与工程、集成电路设计与集成系统专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6380
+  }
+]

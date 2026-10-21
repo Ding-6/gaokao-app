@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1626",
+    "collegeName": "太原理工大学[公办]",
+    "majorCode": "80",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1626",
+    "collegeName": "太原理工大学[公办]",
+    "majorCode": "81",
+    "majorName": "应急技术与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1626",
+    "collegeName": "太原理工大学[公办]",
+    "majorCode": "82",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1626",
+    "collegeName": "太原理工大学[公办]",
+    "majorCode": "83",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "17",
+    "majorName": "科学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "18",
+    "majorName": "学前教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "19",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "20",
+    "majorName": "翻译",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "21",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "22",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "23",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "24",
+    "majorName": "化学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "25",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "26",
+    "majorName": "地理科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "地理",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1627",
+    "collegeName": "太原师范学院[公办]",
+    "majorCode": "27",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

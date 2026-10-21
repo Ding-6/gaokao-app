@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "52",
+    "majorName": "养老服务管理",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "4",
+    "majorName": "科学教育(师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "5",
+    "majorName": "数学与应用数学(师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "6",
+    "majorName": "物理学(师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "7",
+    "majorName": "化学(师范)",
+    "majorRemark": "师范类；不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "8",
+    "majorName": "生物科学",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "9",
+    "majorName": "材料科学与工程",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "10",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "11",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "12",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "13",
+    "majorName": "生物工程",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "14",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "850",
+    "collegeName": "湖州师范大学[公办]",
+    "majorCode": "15",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "851",
+    "collegeName": "湖州学院[公办]",
+    "majorCode": "8",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "851",
+    "collegeName": "湖州学院[公办]",
+    "majorCode": "9",
+    "majorName": "新能源汽车工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

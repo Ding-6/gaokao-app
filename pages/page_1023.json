@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "35",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "36",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "37",
+    "majorName": "工程管理(审计方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "38",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "39",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、人力资源管理、市场营销专业",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "40",
+    "majorName": "会计学(数智会计拔尖班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "41",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "42",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "43",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "44",
+    "majorName": "公共管理类",
+    "majorRemark": "含劳动与社会保障、土地资源管理、行政管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "45",
+    "majorName": "金融学(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "1986",
+    "collegeName": "浙江财经大学[公办]",
+    "majorCode": "46",
+    "majorName": "市场营销(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "14",
+    "majorName": "汉语言文学",
+    "majorRemark": "桐乡乌镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "15",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "16",
+    "majorName": "广播电视学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

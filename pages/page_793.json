@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "39",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "40",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "41",
+    "majorName": "碳储科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "42",
+    "majorName": "交通运输",
+    "majorRemark": "卓越计划班；色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 48,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "43",
+    "majorName": "交通运输",
+    "majorRemark": "色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "44",
+    "majorName": "交通工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 71,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "45",
+    "majorName": "智慧交通",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "46",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 16,
+    "duration": "5",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "47",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 84,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "48",
+    "majorName": "应急技术与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "49",
+    "majorName": "工程管理",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 66,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "50",
+    "majorName": "会计学",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "51",
+    "majorName": "财务管理",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "52",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1558",
+    "collegeName": "石家庄铁道大学(地方专项计划)[公办]",
+    "majorCode": "8",
+    "majorName": "数字经济",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

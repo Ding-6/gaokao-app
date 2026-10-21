@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "26",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "27",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "28",
+    "majorName": "日语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "29",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "30",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "31",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "32",
+    "majorName": "人工智能",
+    "majorRemark": "本专业培养模式详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 22500
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "33",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "34",
+    "majorName": "软件工程",
+    "majorRemark": "本专业培养模式详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 22500
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "35",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "36",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "本专业培养模式详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 22500
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "37",
+    "majorName": "烟草",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22500
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "38",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "39",
+    "majorName": "护理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "40",
+    "majorName": "助产学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 24000
+  }
+]

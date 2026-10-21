@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "30",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "31",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "32",
+    "majorName": "卫生检验与检疫",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "33",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "34",
+    "majorName": "财务管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "23",
+    "majorName": "经济学类(韶峰班)",
+    "majorRemark": "含经济学、金融学、国际经济与贸易专业；不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "24",
+    "majorName": "经济学",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "25",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "26",
+    "majorName": "知识产权",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "27",
+    "majorName": "信用风险管理与法律防控",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "28",
+    "majorName": "社会学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "29",
+    "majorName": "数学类(韶峰班)",
+    "majorRemark": "含数学与应用数学、信息与计算科学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "30",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "31",
+    "majorName": "物理学(韶峰班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "32",
+    "majorName": "物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5300
+  }
+]

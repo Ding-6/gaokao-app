@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "9",
+    "majorName": "社会工作",
+    "majorRemark": "在四川农业大学雅安校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "10",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；在四川农业大学雅安校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "11",
+    "majorName": "生物科学",
+    "majorRemark": "在四川农业大学雅安校区就读；不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "12",
+    "majorName": "生物技术(中外高水平大学学生交流计划)",
+    "majorRemark": "在四川农业大学雅安校区就读；不招色盲、单色不识别考生，详见院校章程；四年均须向四川农业大学缴付相应普通类专业本科生学费，第三、四学年必须赴澳大利亚昆士兰大学学习，期间须按照国外高校的收费标准缴纳学费（约54,096-58,056澳元/学年），在澳生活费约35,000-40,000澳元/学年",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "13",
+    "majorName": "能源与动力工程",
+    "majorRemark": "在四川农业大学雅安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "14",
+    "majorName": "电子科学与技术",
+    "majorRemark": "在四川农业大学雅安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "15",
+    "majorName": "机器人工程",
+    "majorRemark": "在四川农业大学雅安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "16",
+    "majorName": "物联网工程",
+    "majorRemark": "在四川农业大学雅安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "17",
+    "majorName": "土木工程",
+    "majorRemark": "在四川农业大学都江堰校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "18",
+    "majorName": "道路桥梁与渡河工程",
+    "majorRemark": "在四川农业大学都江堰校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "19",
+    "majorName": "农业工程",
+    "majorRemark": "在四川农业大学成都校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "20",
+    "majorName": "农业机械化及其自动化",
+    "majorRemark": "在四川农业大学成都校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "21",
+    "majorName": "农业水利工程",
+    "majorRemark": "在四川农业大学雅安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "22",
+    "majorName": "环境工程",
+    "majorRemark": "在四川农业大学成都校区就读；不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "23",
+    "majorName": "环境生态工程",
+    "majorRemark": "在四川农业大学成都校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  }
+]

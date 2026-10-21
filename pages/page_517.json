@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "47",
+    "majorName": "应急管理",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "48",
+    "majorName": "工商管理",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "49",
+    "majorName": "智能制造工程(中外合作办学)",
+    "majorRemark": "在南昌校区就读；与澳大利亚詹姆斯库克大学合作，详询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "50",
+    "majorName": "材料科学与工程(中外合作办学)",
+    "majorRemark": "在南昌校区就读；与澳大利亚詹姆斯库克大学合作，详询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "51",
+    "majorName": "电子科学与技术(中外合作办学)",
+    "majorRemark": "与俄罗斯阿穆尔共青城国立大学合作，详询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16800
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "52",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "在南昌校区就读；与澳大利亚詹姆斯库克大学合作，详询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "53",
+    "majorName": "环境工程(中外合作办学)",
+    "majorRemark": "在南昌校区就读；不招色弱、色盲、单色不识别考生；与澳大利亚詹姆斯库克大学合作，详询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "5",
+    "majorName": "经济学(数字化方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "6",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "7",
+    "majorName": "教育技术学(新媒体方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "8",
+    "majorName": "教育技术学(AI教育方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "9",
+    "majorName": "英语(商务方向)",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=105",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "10",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "11",
+    "majorName": "生物技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "12",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  }
+]

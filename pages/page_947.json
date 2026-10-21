@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1845",
+    "collegeName": "咸阳师范学院[公办]",
+    "majorCode": "9",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1845",
+    "collegeName": "咸阳师范学院[公办]",
+    "majorCode": "10",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1845",
+    "collegeName": "咸阳师范学院[公办]",
+    "majorCode": "11",
+    "majorName": "材料化学",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1845",
+    "collegeName": "咸阳师范学院[公办]",
+    "majorCode": "12",
+    "majorName": "人工智能",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1845",
+    "collegeName": "咸阳师范学院[公办]",
+    "majorCode": "13",
+    "majorName": "机器人工程",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1845",
+    "collegeName": "咸阳师范学院[公办]",
+    "majorCode": "14",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1845",
+    "collegeName": "咸阳师范学院[公办]",
+    "majorCode": "15",
+    "majorName": "智能科学与技术",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1845",
+    "collegeName": "咸阳师范学院[公办]",
+    "majorCode": "16",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1845",
+    "collegeName": "咸阳师范学院[公办]",
+    "majorCode": "17",
+    "majorName": "学前教育(中外合作办学)",
+    "majorRemark": "师范类；不招色弱、色盲、单色不识别考生；入校后不能转专业，学制4年，采用“3+1”模式,即前三年在咸阳师范学院学习，第四年赴英国伦敦城市大学学习，达到两校毕业和学位授予条件，同时授予咸阳师范学院本科毕业证书、学士学位证书和英国伦敦城市大学学士学位证书",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 38000
+  },
+  {
+    "collegeCode": "1850",
+    "collegeName": "香港珠海学院[香港]",
+    "majorCode": "3",
+    "majorName": "商学院",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=100；含会计及银行、工商管理学、财务金融学、金融及资讯管理学专业；按学院招生，学生入学根据个人意愿选择专业；2026/27学年度入读香港珠海学院非本地生的学费为港币104750元/年；2026/27学年本科生全年宿期（9个月）住宿费为港币17496-21384元（包含物业、水电及网费），前两个学期提供校内宿舍，往后学期视情况待定，住宿费将按年重新评估及调整，详情可向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 0
+  },
+  {
+    "collegeCode": "1850",
+    "collegeName": "香港珠海学院[香港]",
+    "majorCode": "4",
+    "majorName": "理工学院",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=100；含资讯科学和建筑学专业；按学院招生，学生入学根据个人意愿选择专业；2026/27学年度入读香港珠海学院非本地生的学费为港币104750元/年；2026/27学年本科生全年宿期（9个月）住宿费为港币17496-21384元（包含物业、水电及网费），前两个学期提供校内宿舍，往后学期视情况待定，住宿费将按年重新评估及调整，详情可向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 0
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "11",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "12",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3800
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "13",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3800
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "14",
+    "majorName": "商务英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3800
+  }
+]

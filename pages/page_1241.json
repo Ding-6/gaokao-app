@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "B3",
+    "majorName": "国际经贸规则",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "B4",
+    "majorName": "教育学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 32,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "B5",
+    "majorName": "艺术教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "B6",
+    "majorName": "学前教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "B7",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 27,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "B8",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "B9",
+    "majorName": "汉语国际教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "C0",
+    "majorName": "英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "C1",
+    "majorName": "俄语",
+    "majorRemark": "该专业教学方向为商务、教育方向",
+    "subjectRequirementText": "不限",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "C2",
+    "majorName": "德语",
+    "majorRemark": "该专业教学方向为国际商务方向",
+    "subjectRequirementText": "不限",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "C3",
+    "majorName": "法语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "C4",
+    "majorName": "西班牙语",
+    "majorRemark": "该专业教学方向为国际贸易方向",
+    "subjectRequirementText": "不限",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "C5",
+    "majorName": "阿拉伯语",
+    "majorRemark": "该专业教学方向为教育方向",
+    "subjectRequirementText": "不限",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "C6",
+    "majorName": "日语",
+    "majorRemark": "该专业教学方向为教育、跨境电子商务、IT方向",
+    "subjectRequirementText": "不限",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "C7",
+    "majorName": "朝鲜语",
+    "majorRemark": "该专业为韩国语教学，方向为国际经济与贸易",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 25000
+  }
+]

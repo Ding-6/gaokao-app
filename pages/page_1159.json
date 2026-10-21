@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "16",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "17",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2207",
+    "collegeName": "苏州大学应用技术学院[独立学院]",
+    "majorCode": "6",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2207",
+    "collegeName": "苏州大学应用技术学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "广告学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2207",
+    "collegeName": "苏州大学应用技术学院[独立学院]",
+    "majorCode": "8",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2207",
+    "collegeName": "苏州大学应用技术学院[独立学院]",
+    "majorCode": "9",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2207",
+    "collegeName": "苏州大学应用技术学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2208",
+    "collegeName": "天津财经大学珠江学院[独立学院]",
+    "majorCode": "6",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2208",
+    "collegeName": "天津财经大学珠江学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2208",
+    "collegeName": "天津财经大学珠江学院[独立学院]",
+    "majorCode": "8",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2208",
+    "collegeName": "天津财经大学珠江学院[独立学院]",
+    "majorCode": "9",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2208",
+    "collegeName": "天津财经大学珠江学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2208",
+    "collegeName": "天津财经大学珠江学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 31,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2208",
+    "collegeName": "天津财经大学珠江学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 19000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "31",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "32",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "33",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 170,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "34",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 85,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "35",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "36",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 85,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "37",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "38",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "39",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "40",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "41",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "42",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "43",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2156",
+    "collegeName": "河北经贸大学经济管理学院[独立学院]",
+    "majorCode": "44",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "2157",
+    "collegeName": "河北农业大学现代科技学院(沧州市)[独立学院]",
+    "majorCode": "4",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 300,
+    "duration": "4",
+    "tuition": 10000
+  }
+]

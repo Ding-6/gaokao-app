@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "574",
+    "collegeName": "汉江师范学院[公办]",
+    "majorCode": "8",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "574",
+    "collegeName": "汉江师范学院[公办]",
+    "majorCode": "9",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；色觉异常II度（色盲）的考生不宜报考",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "574",
+    "collegeName": "汉江师范学院[公办]",
+    "majorCode": "10",
+    "majorName": "环境工程",
+    "majorRemark": "轻度色觉异常（色弱）的考生不宜报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "574",
+    "collegeName": "汉江师范学院[公办]",
+    "majorCode": "11",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "5",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "6",
+    "majorName": "金融学",
+    "majorRemark": "可参加学校“金融学CFA方向班”项目",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6095
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "7",
+    "majorName": "金融学(金融学、计算机双学士学位)",
+    "majorRemark": "金融数据科学（金融学+计算机科学与技术）双学士学位复合型人才培养项目",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6095
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "8",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "9",
+    "majorName": "传播学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "10",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "11",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "12",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "13",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "14",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "576",
+    "collegeName": "杭州电子科技大学[公办]",
+    "majorCode": "15",
+    "majorName": "电子信息类(电子信息学院)",
+    "majorRemark": "含电子信息工程、电子科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

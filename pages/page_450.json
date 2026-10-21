@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "31",
+    "majorName": "农业工程类",
+    "majorRemark": "含农业机械化及其自动化(国家卓越工程师计划)、能源与动力工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "32",
+    "majorName": "环境工程",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "33",
+    "majorName": "环境科学",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "34",
+    "majorName": "环境生态工程",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "35",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程(国家卓越工程师计划)、食品质量与安全、食品营养与健康专业；不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "36",
+    "majorName": "生物工程",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "37",
+    "majorName": "合成生物学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "38",
+    "majorName": "农学(国家卓越农林人才计划)",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 3375
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "39",
+    "majorName": "园艺(国家卓越农林人才计划)",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "40",
+    "majorName": "植物保护(国家卓越农林人才计划)",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "41",
+    "majorName": "植物科学与技术",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "42",
+    "majorName": "设施农业科学与工程",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "43",
+    "majorName": "应用生物科学",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "44",
+    "majorName": "智慧农业",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "886",
+    "collegeName": "华中农业大学[公办]",
+    "majorCode": "45",
+    "majorName": "动物科学(国家卓越农林人才计划)",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

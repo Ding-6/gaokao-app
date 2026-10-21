@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "80",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程、食品质量与安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "82",
+    "majorName": "动物医学(徐华清班)",
+    "majorRemark": "农林类；不招色盲、色弱、单色不识别考生；宜英语语种考生就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "83",
+    "majorName": "生物医学科学(白求恩班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6440
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "84",
+    "majorName": "生物医学科学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6440
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "85",
+    "majorName": "临床医学(5+3一体化)",
+    "majorRemark": "宜英语语种考生就读；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "86",
+    "majorName": "临床医学(白求恩班)",
+    "majorRemark": "宜英语语种考生就读；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "87",
+    "majorName": "临床医学(5+3一体化，儿科学)",
+    "majorRemark": "宜英语语种考生就读；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "88",
+    "majorName": "临床医学",
+    "majorRemark": "宜英语语种考生就读；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "89",
+    "majorName": "放射医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "90",
+    "majorName": "口腔医学(5+3一体化)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "91",
+    "majorName": "口腔医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "92",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "93",
+    "majorName": "临床药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "94",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7080
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "95",
+    "majorName": "管理科学与工程类",
+    "majorRemark": "含信息管理与信息系统、大数据管理与应用专业；大数据管理与应用专业培养特色方向为：数据资源与数据智能。信息管理与信息系统专业培养特色方向为：信息系统与数智化管理",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6070
+  }
+]

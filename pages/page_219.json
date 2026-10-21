@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "492",
+    "collegeName": "广州中医药大学[公办]",
+    "majorCode": "19",
+    "majorName": "中医骨伤科学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "492",
+    "collegeName": "广州中医药大学[公办]",
+    "majorCode": "20",
+    "majorName": "药学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "492",
+    "collegeName": "广州中医药大学[公办]",
+    "majorCode": "21",
+    "majorName": "临床药学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "492",
+    "collegeName": "广州中医药大学[公办]",
+    "majorCode": "22",
+    "majorName": "中药学类",
+    "majorRemark": "含中药学、中药资源与开发专业；不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "492",
+    "collegeName": "广州中医药大学[公办]",
+    "majorCode": "23",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "492",
+    "collegeName": "广州中医药大学[公办]",
+    "majorCode": "26",
+    "majorName": "公共事业管理",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6060
+  },
+  {
+    "collegeCode": "492",
+    "collegeName": "广州中医药大学[公办]",
+    "majorCode": "27",
+    "majorName": "健康服务与管理",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6060
+  },
+  {
+    "collegeCode": "493",
+    "collegeName": "贵阳康养职业大学[公办]",
+    "majorCode": "3",
+    "majorName": "护理",
+    "majorRemark": "无面部畸形，口齿清晰；无精神疾病史；无纹身，无传染性疾病等；无色盲、无色弱、无斜视、无弱视；双耳听力范围均不低于3米；嗅觉迟钝、口吃和肝功能异常者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "493",
+    "collegeName": "贵阳康养职业大学[公办]",
+    "majorCode": "4",
+    "majorName": "药学",
+    "majorRemark": "面容外观正常，无面部畸形；身心健康，口齿清晰；无精神疾病史；无纹身，无传染性疾病，无影响履行相关专业职责的残疾或者功能障碍等；无色盲、无色弱、无斜视、无弱视；双耳听力范围均不低于3米；嗅觉迟钝、口吃和肝功能异常者不予录取医学类专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "493",
+    "collegeName": "贵阳康养职业大学[公办]",
+    "majorCode": "5",
+    "majorName": "口腔医学技术",
+    "majorRemark": "面容外观正常，无面部畸形；身心健康，口齿清晰；无精神疾病史；无纹身，无传染性疾病，无影响履行相关专业职责的残疾或者功能障碍等；无色盲、无色弱、无斜视、无弱视；双耳听力范围均不低于3米；嗅觉迟钝、口吃和肝功能异常者不予录取医学类专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "493",
+    "collegeName": "贵阳康养职业大学[公办]",
+    "majorCode": "6",
+    "majorName": "公共卫生管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "494",
+    "collegeName": "贵州财经大学(贵阳市)[公办]",
+    "majorCode": "6",
+    "majorName": "经济学(新结构经济学实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "494",
+    "collegeName": "贵州财经大学(贵阳市)[公办]",
+    "majorCode": "7",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "494",
+    "collegeName": "贵州财经大学(贵阳市)[公办]",
+    "majorCode": "8",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "494",
+    "collegeName": "贵州财经大学(贵阳市)[公办]",
+    "majorCode": "9",
+    "majorName": "公共管理类(夏书章公共管理卓越人才实验班)",
+    "majorRemark": "含行政管理、劳动与社会保障、土地资源管理、城市管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4100
+  }
+]

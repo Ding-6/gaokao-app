@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "41",
+    "majorName": "知识产权",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "42",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "43",
+    "majorName": "商务英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "44",
+    "majorName": "数据计算及应用",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 53,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "45",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "46",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 61,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "47",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母者",
+    "subjectRequirementText": "化学",
+    "planCount": 180,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "48",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 86,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "49",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 85,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "50",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 81,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "51",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 75,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "52",
+    "majorName": "区块链工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "53",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "54",
+    "majorName": "工商管理",
+    "majorRemark": "资本运营特色。不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "55",
+    "majorName": "会计学",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 49,
+    "duration": "4",
+    "tuition": 5060
+  }
+]

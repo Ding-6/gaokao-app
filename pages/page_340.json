@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "19",
+    "majorName": "会计学",
+    "majorRemark": "大一在文北校区就读，大二至大四在郑东校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "20",
+    "majorName": "财务管理",
+    "majorRemark": "大一在文北校区就读，大二至大四在郑东校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "21",
+    "majorName": "物流管理",
+    "majorRemark": "大一在文北校区就读，大二至大四在郑东校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "14",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "15",
+    "majorName": "税收学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "16",
+    "majorName": "信用风险管理与法律防控",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "17",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；建议色盲、色弱、色觉重度异常考生谨慎报考，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "18",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "19",
+    "majorName": "商务英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "20",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "21",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "22",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "23",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "24",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "685",
+    "collegeName": "河南财政金融学院(郑州市)[公办]",
+    "majorCode": "25",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

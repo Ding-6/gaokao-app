@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1632",
+    "collegeName": "泰山学院[公办]",
+    "majorCode": "14",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1632",
+    "collegeName": "泰山学院[公办]",
+    "majorCode": "15",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1632",
+    "collegeName": "泰山学院[公办]",
+    "majorCode": "16",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1632",
+    "collegeName": "泰山学院[公办]",
+    "majorCode": "17",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1632",
+    "collegeName": "泰山学院[公办]",
+    "majorCode": "18",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "色盲、色弱考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1632",
+    "collegeName": "泰山学院[公办]",
+    "majorCode": "19",
+    "majorName": "制药工程",
+    "majorRemark": "色盲、色弱考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1632",
+    "collegeName": "泰山学院[公办]",
+    "majorCode": "20",
+    "majorName": "葡萄与葡萄酒工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "32",
+    "majorName": "智能建造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 110,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "33",
+    "majorName": "机械设计制造及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 100,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "34",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "35",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "36",
+    "majorName": "机械电子工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 75,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "37",
+    "majorName": "电气工程及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "38",
+    "majorName": "机器人技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "39",
+    "majorName": "应用化工技术",
+    "majorRemark": "色弱、色盲不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

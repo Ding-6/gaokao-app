@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "64",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "65",
+    "majorName": "交通运输",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "66",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "67",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "68",
+    "majorName": "环境生态工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "69",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "70",
+    "majorName": "生物育种技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "71",
+    "majorName": "工商管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4840
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "72",
+    "majorName": "会计学",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4840
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "73",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "74",
+    "majorName": "低空技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1243",
+    "collegeName": "内蒙古工业大学(呼和浩特市)[公办]",
+    "majorCode": "2",
+    "majorName": "资源与环境经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1243",
+    "collegeName": "内蒙古工业大学(呼和浩特市)[公办]",
+    "majorCode": "3",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1243",
+    "collegeName": "内蒙古工业大学(呼和浩特市)[公办]",
+    "majorCode": "4",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1243",
+    "collegeName": "内蒙古工业大学(呼和浩特市)[公办]",
+    "majorCode": "5",
+    "majorName": "工程力学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

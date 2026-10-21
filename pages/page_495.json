@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "15",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "16",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "17",
+    "majorName": "制药工程",
+    "majorRemark": "轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "18",
+    "majorName": "纺织工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "19",
+    "majorName": "服装设计与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "20",
+    "majorName": "轻化工程",
+    "majorRemark": "轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "21",
+    "majorName": "临床医学",
+    "majorRemark": "轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "5",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "22",
+    "majorName": "麻醉学",
+    "majorRemark": "轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "23",
+    "majorName": "药学",
+    "majorRemark": "轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "25",
+    "majorName": "工程管理",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者慎重报考",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "958",
+    "collegeName": "嘉兴大学[公办]",
+    "majorCode": "26",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "与葡萄牙贝拉英特拉大学合作办学，采用“3+1”培养模式，入学后不得转专业，中英双语授课。第四学年符合条件者可选赴贝拉英特拉大学就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "959",
+    "collegeName": "嘉兴南湖学院[公办]",
+    "majorCode": "3",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "959",
+    "collegeName": "嘉兴南湖学院[公办]",
+    "majorCode": "4",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "959",
+    "collegeName": "嘉兴南湖学院[公办]",
+    "majorCode": "5",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "959",
+    "collegeName": "嘉兴南湖学院[公办]",
+    "majorCode": "6",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

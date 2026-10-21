@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1366",
+    "collegeName": "山东管理学院(济南市)[公办]",
+    "majorCode": "8",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1366",
+    "collegeName": "山东管理学院(济南市)[公办]",
+    "majorCode": "9",
+    "majorName": "虚拟现实技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1366",
+    "collegeName": "山东管理学院(济南市)[公办]",
+    "majorCode": "10",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1366",
+    "collegeName": "山东管理学院(济南市)[公办]",
+    "majorCode": "11",
+    "majorName": "应急技术与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1367",
+    "collegeName": "山东航空学院[公办]",
+    "majorCode": "1",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1367",
+    "collegeName": "山东航空学院[公办]",
+    "majorCode": "2",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1367",
+    "collegeName": "山东航空学院[公办]",
+    "majorCode": "3",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1367",
+    "collegeName": "山东航空学院[公办]",
+    "majorCode": "4",
+    "majorName": "交通运输(民航机务工程方向)",
+    "majorRemark": "适宜男生就读，女生慎报；入职身体要求无色盲色弱等，符合中国民用航空局相关文件规定的有关岗位身体标准和条件；因专业培养需要，安排英语语种教学，非英语语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1367",
+    "collegeName": "山东航空学院[公办]",
+    "majorCode": "5",
+    "majorName": "交通工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1367",
+    "collegeName": "山东航空学院[公办]",
+    "majorCode": "6",
+    "majorName": "飞行器制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1367",
+    "collegeName": "山东航空学院[公办]",
+    "majorCode": "7",
+    "majorName": "飞行器动力工程",
+    "majorRemark": "因专业培养需要，安排英语语种教学，非英语语种慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1369",
+    "collegeName": "山东建筑大学(济南市)[公办]",
+    "majorCode": "3",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1369",
+    "collegeName": "山东建筑大学(济南市)[公办]",
+    "majorCode": "4",
+    "majorName": "机械工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1369",
+    "collegeName": "山东建筑大学(济南市)[公办]",
+    "majorCode": "5",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1369",
+    "collegeName": "山东建筑大学(济南市)[公办]",
+    "majorCode": "6",
+    "majorName": "增材制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

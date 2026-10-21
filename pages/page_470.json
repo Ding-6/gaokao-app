@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "922",
+    "collegeName": "吉林工商学院(长春市)[公办]",
+    "majorCode": "53",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "922",
+    "collegeName": "吉林工商学院(长春市)[公办]",
+    "majorCode": "54",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "922",
+    "collegeName": "吉林工商学院(长春市)[公办]",
+    "majorCode": "55",
+    "majorName": "资产评估",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "922",
+    "collegeName": "吉林工商学院(长春市)[公办]",
+    "majorCode": "56",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "922",
+    "collegeName": "吉林工商学院(长春市)[公办]",
+    "majorCode": "57",
+    "majorName": "电子商务",
+    "majorRemark": "经济学学位",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "922",
+    "collegeName": "吉林工商学院(长春市)[公办]",
+    "majorCode": "58",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "922",
+    "collegeName": "吉林工商学院(长春市)[公办]",
+    "majorCode": "59",
+    "majorName": "酒店管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "922",
+    "collegeName": "吉林工商学院(长春市)[公办]",
+    "majorCode": "60",
+    "majorName": "现代粮食工程技术",
+    "majorRemark": "职业教育本科",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "924",
+    "collegeName": "吉林化工大学[公办]",
+    "majorCode": "1",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "924",
+    "collegeName": "吉林化工大学[公办]",
+    "majorCode": "2",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "924",
+    "collegeName": "吉林化工大学[公办]",
+    "majorCode": "3",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "924",
+    "collegeName": "吉林化工大学[公办]",
+    "majorCode": "4",
+    "majorName": "日语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "924",
+    "collegeName": "吉林化工大学[公办]",
+    "majorCode": "5",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "924",
+    "collegeName": "吉林化工大学[公办]",
+    "majorCode": "6",
+    "majorName": "应用物理学",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "924",
+    "collegeName": "吉林化工大学[公办]",
+    "majorCode": "7",
+    "majorName": "化学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

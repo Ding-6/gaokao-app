@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2427",
+    "collegeName": "河北传媒学院[民办]",
+    "majorCode": "34",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 49,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2427",
+    "collegeName": "河北传媒学院[民办]",
+    "majorCode": "35",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 46,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2427",
+    "collegeName": "河北传媒学院[民办]",
+    "majorCode": "36",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 51,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2427",
+    "collegeName": "河北传媒学院[民办]",
+    "majorCode": "37",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 71,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2427",
+    "collegeName": "河北传媒学院[民办]",
+    "majorCode": "38",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 78,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2427",
+    "collegeName": "河北传媒学院[民办]",
+    "majorCode": "39",
+    "majorName": "文化产业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2427",
+    "collegeName": "河北传媒学院[民办]",
+    "majorCode": "40",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2427",
+    "collegeName": "河北传媒学院[民办]",
+    "majorCode": "41",
+    "majorName": "会展经济与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2427",
+    "collegeName": "河北传媒学院[民办]",
+    "majorCode": "42",
+    "majorName": "广播电视编导",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2428",
+    "collegeName": "河北东方学院[民办]",
+    "majorCode": "11",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 257,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2428",
+    "collegeName": "河北东方学院[民办]",
+    "majorCode": "12",
+    "majorName": "经济与金融",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2428",
+    "collegeName": "河北东方学院[民办]",
+    "majorCode": "13",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2428",
+    "collegeName": "河北东方学院[民办]",
+    "majorCode": "14",
+    "majorName": "英语",
+    "majorRemark": "包含商务、教育、翻译方向",
+    "subjectRequirementText": "不限",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2428",
+    "collegeName": "河北东方学院[民办]",
+    "majorCode": "15",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 100,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2428",
+    "collegeName": "河北东方学院[民办]",
+    "majorCode": "16",
+    "majorName": "文物与博物馆学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 18000
+  }
+]

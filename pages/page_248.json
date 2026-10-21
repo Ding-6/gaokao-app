@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "36",
+    "majorName": "软件工程(NIIT)",
+    "majorRemark": "部分课程采用英文教材和英语授课，非英语语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 13600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "37",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "38",
+    "majorName": "智能科学与技术",
+    "majorRemark": "一、二年级在海甸校区，三、四年级在观澜湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "39",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "40",
+    "majorName": "密码科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "41",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "42",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "43",
+    "majorName": "海洋工程与技术",
+    "majorRemark": "一、二年级在海甸校区，三、四年级在三亚崖州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "44",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "45",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；一、二年级在海甸校区，三、四年级在三亚崖州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "46",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；一、二年级在海甸校区，三、四年级在观澜湖校区城西教学点",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "47",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "48",
+    "majorName": "风景园林",
+    "majorRemark": "儋州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "49",
+    "majorName": "农学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；儋州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "50",
+    "majorName": "园艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；一、二年级在儋州校区，三、四年级在崖州校区（保亭热带果蔬科创基地）",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4100
+  }
+]

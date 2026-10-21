@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "22",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "华为云学院校企联合培养专业",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "23",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "24",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "25",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "26",
+    "majorName": "港口航道与海岸工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "27",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "28",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "29",
+    "majorName": "船舶与海洋工程",
+    "majorRemark": "华丰海洋装备制造产业学院校企联合培养专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "30",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "31",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "精益智造与卓越运营产业学院校企联合培养专业",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "32",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "33",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "34",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2676",
+    "collegeName": "天津仁爱学院[民办]",
+    "majorCode": "35",
+    "majorName": "工业工程",
+    "majorRemark": "精益智造与卓越运营产业学院校企联合培养专业",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2677",
+    "collegeName": "天津天狮学院[民办]",
+    "majorCode": "11",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 27800
+  }
+]

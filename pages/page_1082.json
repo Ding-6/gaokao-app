@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "14",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "15",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "16",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "17",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "18",
+    "majorName": "能源化学工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "19",
+    "majorName": "勘查技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "20",
+    "majorName": "资源勘查工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "21",
+    "majorName": "石油工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "22",
+    "majorName": "石油工程(未来能源创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "23",
+    "majorName": "油气储运工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "24",
+    "majorName": "海洋油气工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "25",
+    "majorName": "碳储科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "26",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "27",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "2078",
+    "collegeName": "中国石油大学(北京)[公办]",
+    "majorCode": "28",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2169",
+    "collegeName": "华南农业大学珠江学院[独立学院]",
+    "majorCode": "16",
+    "majorName": "计算机科学与技术(国际班)",
+    "majorRemark": "办学地点：广州校区。国际班学生大一实行通识大类培养，同时入校即开始修读英语强化及国际化能力提升课程，四年国内毕业后符合相关条件可自主选择申请赴国外院校攻读硕士学位。除本科学费外，雅思相关培养费用四年共计79800元，报考前务必向院校咨询",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2169",
+    "collegeName": "华南农业大学珠江学院[独立学院]",
+    "majorCode": "17",
+    "majorName": "会计学",
+    "majorRemark": "办学地点：第一学年肇庆校区，第二至四学年广州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2169",
+    "collegeName": "华南农业大学珠江学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "会计学(国际班)",
+    "majorRemark": "办学地点：广州校区。国际班学生大一实行通识大类培养，同时入校即开始修读英语强化及国际化能力提升课程，四年国内毕业后符合相关条件可自主选择申请赴国外院校攻读硕士学位。除本科学费外，雅思相关培养费用四年共计79800元，报考前务必向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "14",
+    "majorName": "学前教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "15",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "16",
+    "majorName": "汉语言文学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "17",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "18",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "19",
+    "majorName": "地理科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "地理",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "20",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "21",
+    "majorName": "信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "22",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "23",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "24",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2170",
+    "collegeName": "吉林师范大学博达学院(四平市)[独立学院]",
+    "majorCode": "25",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 25000
+  }
+]

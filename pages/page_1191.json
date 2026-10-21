@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "26",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "27",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "28",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、网络工程、数据科学与大数据技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "29",
+    "majorName": "生物医学工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 36000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "30",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程、食品质量与安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "31",
+    "majorName": "生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "32",
+    "majorName": "动物医学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "5",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "33",
+    "majorName": "口腔医学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "5",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "34",
+    "majorName": "中医学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "5",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "35",
+    "majorName": "中药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "36",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "38",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "39",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "40",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2273",
+    "collegeName": "长春科技学院[民办]",
+    "majorCode": "41",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 26000
+  }
+]

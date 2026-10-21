@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "19",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "20",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "21",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "22",
+    "majorName": "计算机类",
+    "majorRemark": "含软件工程、数据科学与大数据技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "23",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "24",
+    "majorName": "能源化学工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "25",
+    "majorName": "勘查技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "26",
+    "majorName": "资源勘查工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "27",
+    "majorName": "智能地球探测",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "28",
+    "majorName": "石油工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "29",
+    "majorName": "石油工程(俄语复合人才实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "30",
+    "majorName": "石油工程(数智复合人才实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "31",
+    "majorName": "油气储运工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "32",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2080",
+    "collegeName": "中国石油大学(北京)克拉玛依校区[公办]",
+    "majorCode": "33",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "48",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "49",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "50",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 46,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "51",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "52",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 56,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "53",
+    "majorName": "数据科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 66,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "54",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 71,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "55",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母情形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 48,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "56",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "57",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "58",
+    "majorName": "空间信息与数字技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "59",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "60",
+    "majorName": "工程管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形情形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "61",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形情形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 76,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "62",
+    "majorName": "工商管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形情形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 76,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

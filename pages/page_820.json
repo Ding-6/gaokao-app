@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "58",
+    "majorName": "农业资源与环境",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "59",
+    "majorName": "水产养殖学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "62",
+    "majorName": "食品卫生与营养学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "63",
+    "majorName": "中医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "64",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "65",
+    "majorName": "工商管理",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "66",
+    "majorName": "会计学",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "67",
+    "majorName": "财务管理",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "68",
+    "majorName": "人力资源管理",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "69",
+    "majorName": "农林经济管理",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "70",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1622",
+    "collegeName": "台州学院[公办]",
+    "majorCode": "1",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1622",
+    "collegeName": "台州学院[公办]",
+    "majorCode": "2",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1622",
+    "collegeName": "台州学院[公办]",
+    "majorCode": "3",
+    "majorName": "环境工程",
+    "majorRemark": "不建议色弱、色盲、单色不识别考生报考",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1624",
+    "collegeName": "太原工业学院[公办]",
+    "majorCode": "6",
+    "majorName": "应用化学",
+    "majorRemark": "色弱、色盲不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5280
+  }
+]

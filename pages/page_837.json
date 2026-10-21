@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "45",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；色盲者和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "地理",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "46",
+    "majorName": "人文地理与城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "47",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "48",
+    "majorName": "海洋科学",
+    "majorRemark": "色弱、色盲者和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "49",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；色弱、色盲者和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 135,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "50",
+    "majorName": "生物技术",
+    "majorRemark": "色弱、色盲者和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 75,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "51",
+    "majorName": "应用心理学",
+    "majorRemark": "色弱、色盲者和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "52",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "53",
+    "majorName": "材料化学",
+    "majorRemark": "色弱、色盲者和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "54",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "55",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "56",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "57",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "58",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "59",
+    "majorName": "能源化学工程",
+    "majorRemark": "色弱、色盲者和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "46",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 63,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "47",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 82,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "48",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 92,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "49",
+    "majorName": "能源化学工程",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 76,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "50",
+    "majorName": "地质工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 44,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "51",
+    "majorName": "采矿工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "52",
+    "majorName": "矿物加工工程",
+    "majorRemark": "不招色盲及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 48,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "53",
+    "majorName": "碳储科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 51,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "54",
+    "majorName": "智能运输工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "55",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "56",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 83,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "60",
+    "majorName": "精神医学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 72,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "61",
+    "majorName": "口腔医学",
+    "majorRemark": "不招收惯用左手考生；不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 88,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "62",
+    "majorName": "预防医学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 81,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "65",
+    "majorName": "中西医临床医学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 32,
+    "duration": "5",
+    "tuition": 5700
+  }
+]

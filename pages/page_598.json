@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "13",
+    "majorName": "智能制造工程",
+    "majorRemark": "“2+2”培养模式，即第1、2年在前湖校区培养，第3、4年在航空制造产业学院（景德镇市）培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "14",
+    "majorName": "增材制造工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "15",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "16",
+    "majorName": "智能感知工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "17",
+    "majorName": "材料化学",
+    "majorRemark": "南昌市前湖校区就读；不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "18",
+    "majorName": "金属材料工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "19",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "南昌市前湖校区就读；不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "20",
+    "majorName": "复合材料与工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "21",
+    "majorName": "焊接技术与工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "22",
+    "majorName": "能源与动力工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "23",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "24",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "25",
+    "majorName": "电子信息工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "26",
+    "majorName": "电子科学与技术",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1173",
+    "collegeName": "南昌航空大学[公办]",
+    "majorCode": "27",
+    "majorName": "通信工程",
+    "majorRemark": "南昌市前湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5220
+  }
+]

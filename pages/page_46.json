@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "83",
+    "collegeName": "北京大学医学部[公办]",
+    "majorCode": "4",
+    "majorName": "临床医学(八年制本博连读)",
+    "majorRemark": "色盲不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "8",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "83",
+    "collegeName": "北京大学医学部[公办]",
+    "majorCode": "5",
+    "majorName": "临床医学",
+    "majorRemark": "色盲不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "83",
+    "collegeName": "北京大学医学部[公办]",
+    "majorCode": "6",
+    "majorName": "口腔医学(八年制本博连读)",
+    "majorRemark": "色盲不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "8",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "83",
+    "collegeName": "北京大学医学部[公办]",
+    "majorCode": "7",
+    "majorName": "口腔医学",
+    "majorRemark": "色盲不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "83",
+    "collegeName": "北京大学医学部[公办]",
+    "majorCode": "8",
+    "majorName": "预防医学(七年制本硕连读)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "7",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "83",
+    "collegeName": "北京大学医学部[公办]",
+    "majorCode": "9",
+    "majorName": "药学(六年制本硕连读)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "6",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "83",
+    "collegeName": "北京大学医学部[公办]",
+    "majorCode": "10",
+    "majorName": "护理学",
+    "majorRemark": "色盲不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "85",
+    "collegeName": "北京第二外国语学院[公办]",
+    "majorCode": "16",
+    "majorName": "数字经济",
+    "majorRemark": "单科成绩要求：外语>=90；辅修英语专业，合格者同时授予相应辅修学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "85",
+    "collegeName": "北京第二外国语学院[公办]",
+    "majorCode": "17",
+    "majorName": "金融学(数智金融)",
+    "majorRemark": "单科成绩要求：外语>=90；辅修英语专业，合格者同时授予相应辅修学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "85",
+    "collegeName": "北京第二外国语学院[公办]",
+    "majorCode": "20",
+    "majorName": "英语(辅修智能技术相关专业)",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=90；大一在延庆校区；辅修智能科学与技术专业，合格者同时授予相应辅修学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "85",
+    "collegeName": "北京第二外国语学院[公办]",
+    "majorCode": "21",
+    "majorName": "法语(涉外法治)",
+    "majorRemark": "单科成绩要求：外语>=90",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "85",
+    "collegeName": "北京第二外国语学院[公办]",
+    "majorCode": "22",
+    "majorName": "阿拉伯语",
+    "majorRemark": "单科成绩要求：外语>=90",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "85",
+    "collegeName": "北京第二外国语学院[公办]",
+    "majorCode": "23",
+    "majorName": "翻译(辅修数字经贸相关专业)",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=90；辅修国际经济与贸易专业，合格者同时授予相应辅修学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "85",
+    "collegeName": "北京第二外国语学院[公办]",
+    "majorCode": "24",
+    "majorName": "人文地理与城乡规划(数智城市与文旅开发)",
+    "majorRemark": "单科成绩要求：外语>=90；辅修英语专业，合格者同时授予相应辅修学士学位",
+    "subjectRequirementText": "地理",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "85",
+    "collegeName": "北京第二外国语学院[公办]",
+    "majorCode": "25",
+    "majorName": "智能科学与技术(语言与AI)",
+    "majorRemark": "单科成绩要求：外语>=90；辅修英语专业，合格者同时授予相应辅修学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

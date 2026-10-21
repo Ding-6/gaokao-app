@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1546",
+    "collegeName": "沈阳师范大学[公办]",
+    "majorCode": "15",
+    "majorName": "环境生态工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1546",
+    "collegeName": "沈阳师范大学[公办]",
+    "majorCode": "16",
+    "majorName": "粮食工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1546",
+    "collegeName": "沈阳师范大学[公办]",
+    "majorCode": "17",
+    "majorName": "市场营销",
+    "majorRemark": "外语课程用英语教学，非英语考生慎报",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "1546",
+    "collegeName": "沈阳师范大学[公办]",
+    "majorCode": "18",
+    "majorName": "物流管理",
+    "majorRemark": "外语课程用英语教学，非英语考生慎报",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "1546",
+    "collegeName": "沈阳师范大学[公办]",
+    "majorCode": "19",
+    "majorName": "金融学(中外合作办学)",
+    "majorRemark": "外语课程用英语教学，非英语考生慎报",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 40000
+  },
+  {
+    "collegeCode": "1546",
+    "collegeName": "沈阳师范大学[公办]",
+    "majorCode": "20",
+    "majorName": "国际经济与贸易(中外合作办学)",
+    "majorRemark": "外语课程用英语教学，非英语考生慎报",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 40000
+  },
+  {
+    "collegeCode": "1546",
+    "collegeName": "沈阳师范大学[公办]",
+    "majorCode": "21",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "外语课程用英语教学，非英语考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 45000
+  },
+  {
+    "collegeCode": "1547",
+    "collegeName": "沈阳体育学院[公办]",
+    "majorCode": "3",
+    "majorName": "运动人体科学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1547",
+    "collegeName": "沈阳体育学院[公办]",
+    "majorCode": "4",
+    "majorName": "运动康复",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1547",
+    "collegeName": "沈阳体育学院[公办]",
+    "majorCode": "5",
+    "majorName": "体育经济与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1547",
+    "collegeName": "沈阳体育学院[公办]",
+    "majorCode": "6",
+    "majorName": "体育经济与管理(中外合作办学)",
+    "majorRemark": "合作学校是波兰格但斯克希尼亚德茨基体育学院，“3+1”培养模式",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1548",
+    "collegeName": "沈阳药科大学[公办]",
+    "majorCode": "1",
+    "majorName": "应用化学",
+    "majorRemark": "不招收色盲、色弱考生。非英语慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1548",
+    "collegeName": "沈阳药科大学[公办]",
+    "majorCode": "2",
+    "majorName": "制药工程",
+    "majorRemark": "不招收色盲、色弱考生。非英语慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1548",
+    "collegeName": "沈阳药科大学[公办]",
+    "majorCode": "3",
+    "majorName": "生物工程",
+    "majorRemark": "不招收色盲、色弱考生。非英语慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1548",
+    "collegeName": "沈阳药科大学[公办]",
+    "majorCode": "4",
+    "majorName": "生物制药",
+    "majorRemark": "不招收色盲、色弱考生。非英语慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

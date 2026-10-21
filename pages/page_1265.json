@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2509",
+    "collegeName": "辽宁对外经贸学院(大连市)[民办]",
+    "majorCode": "39",
+    "majorName": "健康服务与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2509",
+    "collegeName": "辽宁对外经贸学院(大连市)[民办]",
+    "majorCode": "40",
+    "majorName": "养老服务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2509",
+    "collegeName": "辽宁对外经贸学院(大连市)[民办]",
+    "majorCode": "41",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2509",
+    "collegeName": "辽宁对外经贸学院(大连市)[民办]",
+    "majorCode": "42",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2509",
+    "collegeName": "辽宁对外经贸学院(大连市)[民办]",
+    "majorCode": "43",
+    "majorName": "跨境电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2509",
+    "collegeName": "辽宁对外经贸学院(大连市)[民办]",
+    "majorCode": "44",
+    "majorName": "会展经济与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2511",
+    "collegeName": "辽宁何氏医学院[民办]",
+    "majorCode": "4",
+    "majorName": "学前教育",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2511",
+    "collegeName": "辽宁何氏医学院[民办]",
+    "majorCode": "5",
+    "majorName": "应用心理学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2511",
+    "collegeName": "辽宁何氏医学院[民办]",
+    "majorCode": "6",
+    "majorName": "医学信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2511",
+    "collegeName": "辽宁何氏医学院[民办]",
+    "majorCode": "7",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2511",
+    "collegeName": "辽宁何氏医学院[民办]",
+    "majorCode": "8",
+    "majorName": "健康科学与技术",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2511",
+    "collegeName": "辽宁何氏医学院[民办]",
+    "majorCode": "9",
+    "majorName": "动物医学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2511",
+    "collegeName": "辽宁何氏医学院[民办]",
+    "majorCode": "10",
+    "majorName": "临床医学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "5",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2511",
+    "collegeName": "辽宁何氏医学院[民办]",
+    "majorCode": "11",
+    "majorName": "医学影像学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "2511",
+    "collegeName": "辽宁何氏医学院[民办]",
+    "majorCode": "12",
+    "majorName": "眼视光医学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 29000
+  }
+]

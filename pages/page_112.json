@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "237",
+    "collegeName": "成都大学[公办]",
+    "majorCode": "33",
+    "majorName": "生物工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "237",
+    "collegeName": "成都大学[公办]",
+    "majorCode": "35",
+    "majorName": "药物制剂",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6670
+  },
+  {
+    "collegeCode": "237",
+    "collegeName": "成都大学[公办]",
+    "majorCode": "36",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6670
+  },
+  {
+    "collegeCode": "237",
+    "collegeName": "成都大学[公办]",
+    "majorCode": "37",
+    "majorName": "口腔医学技术",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6670
+  },
+  {
+    "collegeCode": "237",
+    "collegeName": "成都大学[公办]",
+    "majorCode": "38",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6670
+  },
+  {
+    "collegeCode": "237",
+    "collegeName": "成都大学[公办]",
+    "majorCode": "39",
+    "majorName": "会计学(中外高水平大学学生交流计划)",
+    "majorRemark": "与澳大利亚阿德莱德大学“2+2”联合培养。项目学生中方学费同普通专业；第三、第四学年须赴外方大学学习，学费约52200澳元/学年，外方教学语言为英语。考生后两年必须去外方高校学习，如果出不去就继续在校提升外语及专业成绩，直至达到出国条件，或者退学、转学转出等。详细信息见《成都大学2026年中外高水平大学学生交流计划学分互认联合培养项目招生简章》",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "237",
+    "collegeName": "成都大学[公办]",
+    "majorCode": "40",
+    "majorName": "会展经济与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "237",
+    "collegeName": "成都大学[公办]",
+    "majorCode": "41",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "237",
+    "collegeName": "成都大学[公办]",
+    "majorCode": "42",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=90；采用中英双语教学，非英语类考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "239",
+    "collegeName": "成都工业学院[公办]",
+    "majorCode": "1",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "第一年在宜宾校区就读，第二、三、四年在郫都校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "239",
+    "collegeName": "成都工业学院[公办]",
+    "majorCode": "2",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "第一年在宜宾校区就读，第二、三、四年在郫都校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "239",
+    "collegeName": "成都工业学院[公办]",
+    "majorCode": "3",
+    "majorName": "智能制造工程",
+    "majorRemark": "该专业办学地点为宜宾校区，入学后不允许跨校区转专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "239",
+    "collegeName": "成都工业学院[公办]",
+    "majorCode": "4",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "239",
+    "collegeName": "成都工业学院[公办]",
+    "majorCode": "5",
+    "majorName": "电子科学与技术",
+    "majorRemark": "该专业办学地点为宜宾校区，入学后不允许跨校区转专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "239",
+    "collegeName": "成都工业学院[公办]",
+    "majorCode": "6",
+    "majorName": "微电子科学与工程",
+    "majorRemark": "第一年在宜宾校区就读，第二、三、四年在郫都校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

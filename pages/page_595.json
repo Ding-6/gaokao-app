@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "25",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "26",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "27",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "28",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "29",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "30",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "31",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不能识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "32",
+    "majorName": "软件工程",
+    "majorRemark": "办学地点：青山湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "33",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "34",
+    "majorName": "网络空间安全",
+    "majorRemark": "办学地点：青山湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "35",
+    "majorName": "土木工程",
+    "majorRemark": "含智能化建筑工程、道路与桥梁工程、岩土与地下工程、数字建造与管理方向",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "36",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "37",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5550
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "38",
+    "majorName": "制药工程",
+    "majorRemark": "不招色弱、色盲、单色不能识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1172",
+    "collegeName": "南昌大学[公办]",
+    "majorCode": "39",
+    "majorName": "环境工程",
+    "majorRemark": "不招色弱、色盲、单色不能识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5250
+  }
+]

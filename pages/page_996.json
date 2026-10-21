@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "38",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "39",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "40",
+    "majorName": "自动化",
+    "majorRemark": "教育部卓越工程师培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "41",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "42",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母考生",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "43",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "44",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "45",
+    "majorName": "土木类",
+    "majorRemark": "含土木工程、建筑环境与能源应用工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 47,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "46",
+    "majorName": "化工与制药类",
+    "majorRemark": "含化学工程与工艺、生物工程、能源化学工程专业；不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 111,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "47",
+    "majorName": "环境工程",
+    "majorRemark": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "48",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 22,
+    "duration": "5",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "49",
+    "majorName": "生物工程",
+    "majorRemark": "教育部卓越工程师培养计划,不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "50",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "51",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、会计学、旅游管理专业；不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "不限",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "52",
+    "majorName": "公共管理类",
+    "majorRemark": "含公共事业管理、行政管理专业；不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5060
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "434",
+    "collegeName": "广东工业大学[公办]",
+    "majorCode": "27",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "434",
+    "collegeName": "广东工业大学[公办]",
+    "majorCode": "28",
+    "majorName": "数字经济(中外合作办学)",
+    "majorRemark": "第一二三学年学生在广东工业大学学习期间，学费为人民币7.8万元/年，第四年在美国学习期间，项目学生按照美国波尔州立大学当年的国际学生学费标准向其缴纳学费。具体学费以波尔州立大学当年公布的标准为准。详情请到官网查询",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "3",
+    "majorName": "经济与金融",
+    "majorRemark": "在湖光校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5510
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "4",
+    "majorName": "信息与计算科学",
+    "majorRemark": "在湖光校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "5",
+    "majorName": "大气科学",
+    "majorRemark": "在湖光校区就读；不招收色盲者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "6",
+    "majorName": "应用气象学",
+    "majorRemark": "在湖光校区就读；不招收色盲者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "7",
+    "majorName": "海洋科学",
+    "majorRemark": "在湖光校区就读；不招收色盲者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "8",
+    "majorName": "生物科学",
+    "majorRemark": "在湖光校区就读；不招收色盲、色弱者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "9",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "在阳江校区就读；非英语语种考生需慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "10",
+    "majorName": "能源与动力工程",
+    "majorRemark": "在湖光校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "11",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "在湖光校区就读；不招收单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "12",
+    "majorName": "软件工程",
+    "majorRemark": "在湖光校区就读；不招收单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "17",
+    "majorName": "水产养殖学",
+    "majorRemark": "在湖光校区就读；不招收色盲、色弱者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5480
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "18",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "在湖光校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "435",
+    "collegeName": "广东海洋大学(湛江市)[公办]",
+    "majorCode": "19",
+    "majorName": "船舶与海洋工程(中外合作办学)",
+    "majorRemark": "在湖光校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 39000
+  }
+]

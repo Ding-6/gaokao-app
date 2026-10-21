@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "30",
+    "majorName": "工程软件",
+    "majorRemark": "含“钱七虎学堂”",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "35",
+    "majorName": "口腔医学(5+3一体化)",
+    "majorRemark": "不招收色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7920
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "36",
+    "majorName": "口腔医学(五年制)",
+    "majorRemark": "不招收色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7920
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "38",
+    "majorName": "智能医学工程",
+    "majorRemark": "可向生物医学工程分流；含医工融合基地班",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1357",
+    "collegeName": "山东大学威海分校[公办]",
+    "majorCode": "8",
+    "majorName": "经济学类",
+    "majorRemark": "含国际经济与贸易、金融学(数智金融方向)、金融学(保险科技方向)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1357",
+    "collegeName": "山东大学威海分校[公办]",
+    "majorCode": "9",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学、统计学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1357",
+    "collegeName": "山东大学威海分校[公办]",
+    "majorCode": "10",
+    "majorName": "物理学类",
+    "majorRemark": "含物理学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1357",
+    "collegeName": "山东大学威海分校[公办]",
+    "majorCode": "11",
+    "majorName": "电子信息类(智能工程新工科实验班)",
+    "majorRemark": "含计算机科学与技术、电子科学与技术、机器人工程、低空技术与工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1357",
+    "collegeName": "山东大学威海分校[公办]",
+    "majorCode": "12",
+    "majorName": "经济学(中外合作办学)",
+    "majorRemark": "学习期间部分课程将采用英语授课，建议外语语种为非英语的考生谨慎填报该专业志愿",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 85000
+  },
+  {
+    "collegeCode": "1357",
+    "collegeName": "山东大学威海分校[公办]",
+    "majorCode": "13",
+    "majorName": "国际经济与贸易(中外合作办学)",
+    "majorRemark": "学习期间部分课程将采用英语授课，建议外语语种为非英语的考生谨慎填报该专业志愿",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 85000
+  },
+  {
+    "collegeCode": "1357",
+    "collegeName": "山东大学威海分校[公办]",
+    "majorCode": "14",
+    "majorName": "供应链管理(中外合作办学)",
+    "majorRemark": "学习期间部分课程将采用英语授课，建议外语语种为非英语的考生谨慎填报该专业志愿",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 85000
+  },
+  {
+    "collegeCode": "1359",
+    "collegeName": "山东第二医科大学[公办]",
+    "majorCode": "2",
+    "majorName": "应用心理学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1359",
+    "collegeName": "山东第二医科大学[公办]",
+    "majorCode": "3",
+    "majorName": "生物制药",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1359",
+    "collegeName": "山东第二医科大学[公办]",
+    "majorCode": "4",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7920
+  },
+  {
+    "collegeCode": "1359",
+    "collegeName": "山东第二医科大学[公办]",
+    "majorCode": "5",
+    "majorName": "医学影像学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7590
+  }
+]

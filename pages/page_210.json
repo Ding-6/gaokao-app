@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "454",
+    "collegeName": "广东医科大学[公办]",
+    "majorCode": "2",
+    "majorName": "麻醉学",
+    "majorRemark": "在湛江校区就读；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7656
+  },
+  {
+    "collegeCode": "454",
+    "collegeName": "广东医科大学[公办]",
+    "majorCode": "3",
+    "majorName": "医学影像学",
+    "majorRemark": "在湛江校区就读；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7656
+  },
+  {
+    "collegeCode": "454",
+    "collegeName": "广东医科大学[公办]",
+    "majorCode": "4",
+    "majorName": "儿科学",
+    "majorRemark": "在湛江校区就读；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7656
+  },
+  {
+    "collegeCode": "454",
+    "collegeName": "广东医科大学[公办]",
+    "majorCode": "5",
+    "majorName": "口腔医学",
+    "majorRemark": "在东莞校区就读；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "454",
+    "collegeName": "广东医科大学[公办]",
+    "majorCode": "6",
+    "majorName": "预防医学",
+    "majorRemark": "在东莞校区就读；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 7656
+  },
+  {
+    "collegeCode": "454",
+    "collegeName": "广东医科大学[公办]",
+    "majorCode": "7",
+    "majorName": "护理学(东莞校区)",
+    "majorRemark": "在东莞校区就读；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "454",
+    "collegeName": "广东医科大学[公办]",
+    "majorCode": "8",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "在东莞校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5510
+  },
+  {
+    "collegeCode": "454",
+    "collegeName": "广东医科大学[公办]",
+    "majorCode": "9",
+    "majorName": "生物医药数据科学",
+    "majorRemark": "在东莞校区就读；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "455",
+    "collegeName": "广东以色列理工学院[中外合作办学]",
+    "majorCode": "1",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "单科成绩要求：数学>=100；学校实行全英文教学，外语语种为非英语的考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 105000
+  },
+  {
+    "collegeCode": "455",
+    "collegeName": "广东以色列理工学院[中外合作办学]",
+    "majorCode": "2",
+    "majorName": "生物技术(中外合作办学)",
+    "majorRemark": "学校实行全英文教学，外语语种为非英语的考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 105000
+  },
+  {
+    "collegeCode": "455",
+    "collegeName": "广东以色列理工学院[中外合作办学]",
+    "majorCode": "3",
+    "majorName": "机械工程(中外合作办学)",
+    "majorRemark": "学校实行全英文教学，外语语种为非英语的考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 105000
+  },
+  {
+    "collegeCode": "455",
+    "collegeName": "广东以色列理工学院[中外合作办学]",
+    "majorCode": "4",
+    "majorName": "材料科学与工程(中外合作办学)",
+    "majorRemark": "学校实行全英文教学，外语语种为非英语的考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 105000
+  },
+  {
+    "collegeCode": "455",
+    "collegeName": "广东以色列理工学院[中外合作办学]",
+    "majorCode": "5",
+    "majorName": "化学工程与工艺(中外合作办学)",
+    "majorRemark": "学校实行全英文教学，外语语种为非英语的考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 105000
+  },
+  {
+    "collegeCode": "458",
+    "collegeName": "广西财经学院(南宁市)[公办]",
+    "majorCode": "5",
+    "majorName": "金融科技",
+    "majorRemark": "第一学年在武鸣校区，第二至第四学年在明秀或相思湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "458",
+    "collegeName": "广西财经学院(南宁市)[公办]",
+    "majorCode": "6",
+    "majorName": "数据科学",
+    "majorRemark": "第一学年在武鸣校区，第二至第四学年在明秀或相思湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

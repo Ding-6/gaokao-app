@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "15",
+    "majorName": "金融学(全英语教学)",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "16",
+    "majorName": "国际经济与贸易(全英语教学)",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "17",
+    "majorName": "应用物理学(国际班)",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "18",
+    "majorName": "化学(院士领航化学班)",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "19",
+    "majorName": "应用化学",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "20",
+    "majorName": "生物科学",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "21",
+    "majorName": "生物科学(生物前沿领航班)",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "22",
+    "majorName": "生物技术",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "23",
+    "majorName": "工程力学(钱伟长创新班)",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "24",
+    "majorName": "智能感知工程",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "25",
+    "majorName": "材料科学与工程(国际班)",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "26",
+    "majorName": "材料智能技术",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "27",
+    "majorName": "电子科学与技术",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "28",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "29",
+    "majorName": "人工智能",
+    "majorRemark": "在珠海校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "28",
+    "majorName": "环境科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "29",
+    "majorName": "生物工程",
+    "majorRemark": "生物智造创新实验班",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "30",
+    "majorName": "生物医学科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "31",
+    "majorName": "临床医学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "32",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "数据科学与智能管理方向",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "33",
+    "majorName": "应急管理",
+    "majorRemark": "智慧应急创新实验班",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "34",
+    "majorName": "金融数学(中外合作办学)",
+    "majorRemark": "与英国阿伯丁大学合作举办，录取考生入学注册后同时具有西北大学和英国阿伯丁大学学籍。本专业学制四年，采用“4+0”的培养模式，完成全部四年学业且达到授予学位条件的学生，可同时获得西北大学颁发的本科毕业证书、经济学学士学位证书（金融数学专业），及英国阿伯丁大学颁发的金融数学荣誉学士学位证书",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "35",
+    "majorName": "文物保护技术(中外合作办学)",
+    "majorRemark": "与意大利萨兰托大学联合成立的中外合作办学机构（西北大学萨兰托文化遗产与艺术学院）举办，录取考生入学注册后同时具有西北大学和意大利萨兰托大学学籍。本专业学制四年，完成全部四年学业（第三年可自愿选择赴萨兰托大学学习交流一学期）且达到学位授予条件的学生，可同时获得西北大学颁发的本科毕业证书、学士学位证书（文物保护技术专业），及意大利萨兰托大学颁发的文化遗产学士学位证书",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 48000
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "36",
+    "majorName": "电子信息科学与技术(中外合作办学)",
+    "majorRemark": "与英国埃塞克斯大学合作举办，录取考生入学注册后同时具有西北大学和英国埃塞克斯大学学籍。本专业学制四年，采用“3+1”的培养模式，完成全部四年学业（前三年在国内、第四年在英国）且达到学位授予条件的学生，可同时获得西北大学颁发的本科毕业证书、工学学士学位证书（电子信息科学与技术专业），及英国埃塞克斯大学颁发的理学学士学位证书（电子系统工程专业）",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1796",
+    "collegeName": "西北工业大学[公办]",
+    "majorCode": "5",
+    "majorName": "电子信息类(电子信息)",
+    "majorRemark": "含电子科学与技术、电子信息工程、探测制导与控制技术、通信工程专业；专业分流时，100%类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1796",
+    "collegeName": "西北工业大学[公办]",
+    "majorCode": "6",
+    "majorName": "电子信息类(集成电路)",
+    "majorRemark": "含微电子科学与工程、集成电路设计与集成系统专业；专业分流时，100%类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1796",
+    "collegeName": "西北工业大学[公办]",
+    "majorCode": "7",
+    "majorName": "电子信息类(柔性电子拔尖班)",
+    "majorRemark": "含柔性电子学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1796",
+    "collegeName": "西北工业大学[公办]",
+    "majorCode": "8",
+    "majorName": "计算机类(计算机科学国家拔尖计划班)",
+    "majorRemark": "含计算机科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1796",
+    "collegeName": "西北工业大学[公办]",
+    "majorCode": "9",
+    "majorName": "计算机类(计算机)",
+    "majorRemark": "含计算机科学与技术、物联网工程、数据科学与大数据技术、智能交互设计专业；专业分流时，100%类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1796",
+    "collegeName": "西北工业大学[公办]",
+    "majorCode": "10",
+    "majorName": "计算机类(网络安全)",
+    "majorRemark": "含网络空间安全、信息安全、保密技术专业；专业分流时，100%类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

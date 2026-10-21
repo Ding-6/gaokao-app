@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "28",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "29",
+    "majorName": "风景园林",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "30",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "31",
+    "majorName": "会计学(注册会计师双语班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "32",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2373",
+    "collegeName": "广州工商学院[民办]",
+    "majorCode": "4",
+    "majorName": "商务英语",
+    "majorRemark": "新媒体班",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2373",
+    "collegeName": "广州工商学院[民办]",
+    "majorCode": "5",
+    "majorName": "人工智能",
+    "majorRemark": "计算机视觉与智能感知班",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 47600
+  },
+  {
+    "collegeCode": "2373",
+    "collegeName": "广州工商学院[民办]",
+    "majorCode": "6",
+    "majorName": "跨境电子商务",
+    "majorRemark": "大数据智能班",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2375",
+    "collegeName": "广州华立学院[民办]",
+    "majorCode": "6",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 34800
+  },
+  {
+    "collegeCode": "2379",
+    "collegeName": "广州南方学院[民办]",
+    "majorCode": "4",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 36000
+  },
+  {
+    "collegeCode": "2379",
+    "collegeName": "广州南方学院[民办]",
+    "majorCode": "5",
+    "majorName": "计算机科学与技术(创新精英班)",
+    "majorRemark": "该专业大一入校即开始修读雅思等课程，另收取雅思等相关专项培养费用四年共计68000元，四年国内毕业后符合相关条件可继续深造，收费标准报考前请务必向院校咨询",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 36000
+  },
+  {
+    "collegeCode": "2379",
+    "collegeName": "广州南方学院[民办]",
+    "majorCode": "6",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 36000
+  },
+  {
+    "collegeCode": "2379",
+    "collegeName": "广州南方学院[民办]",
+    "majorCode": "7",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 36000
+  },
+  {
+    "collegeCode": "2379",
+    "collegeName": "广州南方学院[民办]",
+    "majorCode": "8",
+    "majorName": "会计学(创新精英班)",
+    "majorRemark": "该专业大一入校即开始修读雅思等课程，另收取雅思等相关专项培养费用四年共计68000元，四年国内毕业后符合相关条件可继续深造，收费标准报考前请务必向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 34000
+  },
+  {
+    "collegeCode": "2381",
+    "collegeName": "广州软件学院[民办]",
+    "majorCode": "1",
+    "majorName": "电子信息工程",
+    "majorRemark": "办学地点：广州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 32000
+  }
+]

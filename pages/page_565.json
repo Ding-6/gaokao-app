@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "32",
+    "majorName": "物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "33",
+    "majorName": "化学类",
+    "majorRemark": "含化学、应用化学专业；考生身体健康状况须适应实验工作需要，色觉异常（俗称色盲、色弱）考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "34",
+    "majorName": "生物技术",
+    "majorRemark": "考生身体健康状况须适应实验工作需要，色觉异常（俗称色盲、色弱）考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "35",
+    "majorName": "生物信息学",
+    "majorRemark": "考生身体健康状况须适应实验工作需要，色觉异常（俗称色盲、色弱）考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "36",
+    "majorName": "工程力学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "37",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "38",
+    "majorName": "无机非金属材料工程",
+    "majorRemark": "考生身体健康状况须适应实验工作需要，色觉异常（俗称色盲、色弱）考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "39",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "40",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "41",
+    "majorName": "微电子科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "42",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "43",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "44",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "45",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "46",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5980
+  }
+]

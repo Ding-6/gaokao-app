@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "18",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "在东山校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "19",
+    "majorName": "物理学(国家基地)",
+    "majorRemark": "在坞城校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "20",
+    "majorName": "化学类",
+    "majorRemark": "含化学、应用化学、材料化学专业；在东山校区就读；不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "21",
+    "majorName": "自然地理与资源环境",
+    "majorRemark": "在东山校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "22",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物科学、生物工程专业；在东山校区就读；不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "23",
+    "majorName": "应用心理学",
+    "majorRemark": "在坞城校区就读；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "24",
+    "majorName": "统计学",
+    "majorRemark": "在坞城校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "25",
+    "majorName": "数据科学",
+    "majorRemark": "在坞城校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "26",
+    "majorName": "机械电子工程",
+    "majorRemark": "在东山校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "27",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "在东山校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "28",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "在大同校区就读；不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "29",
+    "majorName": "能源与动力工程",
+    "majorRemark": "在东山校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "30",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "在大同校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "31",
+    "majorName": "储能科学与工程",
+    "majorRemark": "在大同校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1411",
+    "collegeName": "山西大学[公办]",
+    "majorCode": "32",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "在东山校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5520
+  }
+]

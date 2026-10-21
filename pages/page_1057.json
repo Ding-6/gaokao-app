@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "9",
+    "majorName": "数字经济",
+    "majorRemark": "不招单色不识别考生；一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "10",
+    "majorName": "法学",
+    "majorRemark": "一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "11",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "12",
+    "majorName": "数学与应用数学",
+    "majorRemark": "一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "13",
+    "majorName": "数据计算及应用",
+    "majorRemark": "一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "14",
+    "majorName": "地理信息科学",
+    "majorRemark": "不招色盲、单色不识别考生；一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "15",
+    "majorName": "海洋科学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生；一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "16",
+    "majorName": "海洋资源与环境",
+    "majorRemark": "不招色盲、色弱、单色不识别考生；一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "17",
+    "majorName": "地球物理学",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "18",
+    "majorName": "地质学类",
+    "majorRemark": "含地质学、地质学(地质地震学)、地质学(旅游地学)、资源勘查工程(固体矿产)、地球化学、地球信息科学与技术(大数据与数字地球)、行星科学专业；不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "19",
+    "majorName": "地质学(燕山书院创新班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "20",
+    "majorName": "地质学(理科基地班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "21",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "22",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "23",
+    "majorName": "材料类",
+    "majorRemark": "含材料科学与工程、材料化学、材料物理、新能源材料与器件、矿物加工工程专业；不招色盲、色弱、单色不识别考生；一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

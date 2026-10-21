@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "37",
+    "majorName": "核化工与核燃料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "38",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "39",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "40",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "41",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "42",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "与匈牙利德布勒森大学合作办学，拟收取学费人民币5.5万/年·生，根据江西省教育厅和江西省发展和改革委员会核准后的学费标准进行收费",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "43",
+    "majorName": "机械工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "44",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "与匈牙利德布勒森大学合作办学，拟收取学费人民币5.5万/年·生，根据江西省教育厅和江西省发展和改革委员会核准后的学费标准进行收费",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "45",
+    "majorName": "自动化(中外合作办学)",
+    "majorRemark": "与匈牙利德布勒森大学合作办学，拟收取学费人民币5.5万/年·生，根据江西省教育厅和江西省发展和改革委员会核准后的学费标准进行收费",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "46",
+    "majorName": "软件工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "366",
+    "collegeName": "东南大学[公办]",
+    "majorCode": "5",
+    "majorName": "工科试验班(智能制造与智能系统)",
+    "majorRemark": "含机器人工程、自动化、智能感知工程、智能车辆工程、测控技术与仪器、机械工程、医疗器械与装备工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "366",
+    "collegeName": "东南大学[公办]",
+    "majorCode": "6",
+    "majorName": "工科试验班(吴健雄班)",
+    "majorRemark": "含信息工程(等四年制理工科专业)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "366",
+    "collegeName": "东南大学[公办]",
+    "majorCode": "7",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "366",
+    "collegeName": "东南大学[公办]",
+    "majorCode": "8",
+    "majorName": "电子信息类",
+    "majorRemark": "含信息工程、电子科学与技术、海洋信息工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "366",
+    "collegeName": "东南大学[公办]",
+    "majorCode": "9",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6380
+  }
+]

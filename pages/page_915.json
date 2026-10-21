@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "57",
+    "majorName": "林学类",
+    "majorRemark": "含林学、森林保护专业；色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "59",
+    "majorName": "智慧林业",
+    "majorRemark": "色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "60",
+    "majorName": "工商管理(数智运营)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "61",
+    "majorName": "工商管理(数智营销)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "62",
+    "majorName": "会计学(智能会计)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "63",
+    "majorName": "农林经济管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "64",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "65",
+    "majorName": "园艺(中外合作办学)",
+    "majorRemark": "色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "66",
+    "majorName": "植物保护(中外合作办学)",
+    "majorRemark": "色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "67",
+    "majorName": "农林经济管理(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "21",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "22",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "23",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "24",
+    "majorName": "金融学(数智金融创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "25",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5100
+  }
+]

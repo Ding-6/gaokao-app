@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "16",
+    "majorName": "能源动力类",
+    "majorRemark": "含能源与动力工程、新能源科学与工程、储能科学与工程、核工程与核技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "17",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "18",
+    "majorName": "电子信息类(电信学院)",
+    "majorRemark": "含电子信息工程、通信工程、电磁场与无线技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "19",
+    "majorName": "电子信息类(集成电路学院)",
+    "majorRemark": "含集成电路设计与集成系统、微电子科学与工程、电子科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "20",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "21",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "22",
+    "majorName": "自动化(无人系统启明实验班)",
+    "majorRemark": "面向跨域无人系统集群领域",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "23",
+    "majorName": "计算机类(计算机学院)",
+    "majorRemark": "含计算机科学与技术、数据科学与大数据技术、智能科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "24",
+    "majorName": "计算机类(网安学院)",
+    "majorRemark": "含网络空间安全、信息安全、密码科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "25",
+    "majorName": "生物医学工程类",
+    "majorRemark": "含生物医学工程、生物信息学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "26",
+    "majorName": "临床医学(八年制)",
+    "majorRemark": "色弱、色盲、单色识别不全者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "8",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "27",
+    "majorName": "临床医学",
+    "majorRemark": "色弱、色盲、单色识别不全者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "28",
+    "majorName": "交叉工程(未来技术实验班)",
+    "majorRemark": "面向光电子信息、机器人、人工智能/具身智能、脑机接口等前沿交叉研究领域",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "29",
+    "majorName": "生物科学(中外合作办学)",
+    "majorRemark": "色盲、单色识别不全者不予录取；与埃夫里-巴黎萨克雷大学联合培养，4+0模式，核心课程全英文授课，达到要求者可获得中方大学毕业证、学位证，以及外方大学学位证",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 108000
+  },
+  {
+    "collegeCode": "883",
+    "collegeName": "华中科技大学[公办]",
+    "majorCode": "30",
+    "majorName": "药学(中外合作办学)",
+    "majorRemark": "色盲、单色识别不全者不予录取；与英国伯明翰大学合办，4+0培养，专业核心课程全英授课，达到要求者可获得中方大学毕业证、学位证，以及外方大学学位证",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 125000
+  }
+]

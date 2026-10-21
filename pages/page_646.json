@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1251",
+    "collegeName": "内蒙古民族大学(通辽市)[公办]",
+    "majorCode": "21",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1251",
+    "collegeName": "内蒙古民族大学(通辽市)[公办]",
+    "majorCode": "22",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1252",
+    "collegeName": "内蒙古民族大学(通辽市)(八协计划)[公办]",
+    "majorCode": "1",
+    "majorName": "法学",
+    "majorRemark": "八协计划，招加试蒙古语文考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "1252",
+    "collegeName": "内蒙古民族大学(通辽市)(八协计划)[公办]",
+    "majorCode": "2",
+    "majorName": "物理学",
+    "majorRemark": "师范类；八协计划，招加试蒙古语文考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1252",
+    "collegeName": "内蒙古民族大学(通辽市)(八协计划)[公办]",
+    "majorCode": "3",
+    "majorName": "网络工程",
+    "majorRemark": "八协计划，招加试蒙古语文考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1252",
+    "collegeName": "内蒙古民族大学(通辽市)(八协计划)[公办]",
+    "majorCode": "4",
+    "majorName": "食品质量与安全",
+    "majorRemark": "八协计划，招加试蒙古语文考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1252",
+    "collegeName": "内蒙古民族大学(通辽市)(八协计划)[公办]",
+    "majorCode": "5",
+    "majorName": "动物科学",
+    "majorRemark": "八协计划，招加试蒙古语文考生；不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "3",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "4",
+    "majorName": "生物技术",
+    "majorRemark": "色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "5",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "6",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "7",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "8",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "9",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "10",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

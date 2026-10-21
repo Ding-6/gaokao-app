@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "35",
+    "majorName": "菌物科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "36",
+    "majorName": "生物育种科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "37",
+    "majorName": "动物科学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "38",
+    "majorName": "动物医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "39",
+    "majorName": "动物医学(小动医方向)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "40",
+    "majorName": "动物药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "42",
+    "majorName": "水产养殖学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "43",
+    "majorName": "海洋渔业科学与技术",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "44",
+    "majorName": "水族科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "45",
+    "majorName": "水生动物医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "46",
+    "majorName": "工程管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "47",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "48",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "49",
+    "majorName": "文化产业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "50",
+    "majorName": "农林经济管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  }
+]

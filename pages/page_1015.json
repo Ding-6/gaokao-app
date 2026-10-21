@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "22",
+    "majorName": "烟草",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5170
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "23",
+    "majorName": "智慧农业",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "24",
+    "majorName": "农业资源与环境",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5170
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "25",
+    "majorName": "水土保持与荒漠化防治",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "26",
+    "majorName": "土地科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "27",
+    "majorName": "动物科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5170
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "28",
+    "majorName": "动植物检疫(植物检疫)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "30",
+    "majorName": "草业科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5170
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "31",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "32",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "与英国伍尔弗汉普顿大学合作办学(采用4+0培养模式)。本专业外教授课语言为英语，外语语种为非英语的考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 47000
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "33",
+    "majorName": "土木工程(中外合作办学)(土木与环境)",
+    "majorRemark": "与英国伍尔弗汉普顿大学合作办学(采用4+0培养模式)，本专业外方授课语言为英语，外语语种为非英语的考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 36000
+  },
+  {
+    "collegeCode": "1957",
+    "collegeName": "云南农业大学(昆明市)[公办]",
+    "majorCode": "34",
+    "majorName": "风景园林(中外合作办学)",
+    "majorRemark": "与韩国尚志大学合作举办（采用4+0培养模式），本专业外方授课语言为韩语，符合条件学生可按“2+2”校际交流双学位协议修读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 29600
+  },
+  {
+    "collegeCode": "1959",
+    "collegeName": "云南师范大学(昆明市)[公办]",
+    "majorCode": "6",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1959",
+    "collegeName": "云南师范大学(昆明市)[公办]",
+    "majorCode": "7",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招收色弱、色盲以及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，体检要求详见我校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1959",
+    "collegeName": "云南师范大学(昆明市)[公办]",
+    "majorCode": "8",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

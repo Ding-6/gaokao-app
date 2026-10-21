@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "24",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息工程、通信工程、电气工程及其自动化、人工智能专业",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "25",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、数据科学与大数据技术专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "26",
+    "majorName": "水利类",
+    "majorRemark": "含农业水利工程、水利水电工程、能源与动力工程、农业建筑环境与能源工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "27",
+    "majorName": "水利类(卓越工程师班)",
+    "majorRemark": "含农业水利工程、水利水电工程、能源与动力工程专业；采用特殊培养模式（双导师制，小班化、个性化培养方案，详见学校本科招生报考指南）",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "28",
+    "majorName": "农业工程类",
+    "majorRemark": "含农业工程、农业机械化及其自动化、农业智能装备工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "29",
+    "majorName": "农业智能装备工程(卓越工程师班)",
+    "majorRemark": "采用特殊培养模式（双导师制，小班化、个性化培养方案，详见学校本科招生报考指南）",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "30",
+    "majorName": "环境科学与工程类",
+    "majorRemark": "含应用气象学、生态学、资源环境科学、环境工程专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "31",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程、食品质量与安全、葡萄与葡萄酒工程、食品营养与健康专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "32",
+    "majorName": "酿酒工程",
+    "majorRemark": "新生到北京报到，集体安排在双清路1号住宿。在北京完成第一年学习后，从第二年起到我校烟台研究院进行教学和实习至毕业。不得转入此类型以外专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "33",
+    "majorName": "葡萄与葡萄酒工程",
+    "majorRemark": "新生到北京报到，集体安排在双清路1号住宿。在北京完成第一年学习后，从第二年起到我校烟台研究院进行教学和实习至毕业。不得转入此类型以外专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "34",
+    "majorName": "城乡规划",
+    "majorRemark": "新生到北京报到，集体安排在双清路1号住宿。在北京完成第一年学习后，从第二年起到我校烟台研究院进行教学和实习至毕业。不得转入此类型以外专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "35",
+    "majorName": "生物工程(营养与健康前沿班)",
+    "majorRemark": "新生到北京报到，集体安排在双清路1号住宿。在北京完成第一年学习后，从第二年起到我校烟台研究院进行教学和实习至毕业。不得转入此类型以外专业。采用特殊培养模式（科研和实践双前沿培养，详见学校本科招生报考指南）；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "36",
+    "majorName": "农学",
+    "majorRemark": "包含农学、种子科学与工程两个专业方向；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "37",
+    "majorName": "园艺",
+    "majorRemark": "该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "38",
+    "majorName": "植物保护(智慧植保创新班)",
+    "majorRemark": "采用特殊培养模式（多学科交叉融合，项目制教学赋能，校企协同创新培养，详见学校本科招生报考指南）；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3000
+  }
+]

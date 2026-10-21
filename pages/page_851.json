@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "39",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "40",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "41",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "42",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "43",
+    "majorName": "食品营养与健康",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "44",
+    "majorName": "生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "45",
+    "majorName": "合成生物学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "46",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "47",
+    "majorName": "公共事业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "48",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "49",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "50",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "与日本京都信息大学院大学合作办学，公共外语为日语（零起点）",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "1662",
+    "collegeName": "天津科技大学[公办]",
+    "majorCode": "51",
+    "majorName": "财务管理(中外合作办学)",
+    "majorRemark": "与澳大利亚南十字星大学合作办学",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "1664",
+    "collegeName": "天津理工大学[公办]",
+    "majorCode": "10",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1664",
+    "collegeName": "天津理工大学[公办]",
+    "majorCode": "11",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  }
+]

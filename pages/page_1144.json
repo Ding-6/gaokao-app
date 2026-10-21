@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2186",
+    "collegeName": "南昌航空大学科技学院[独立学院]",
+    "majorCode": "2",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 14500
+  },
+  {
+    "collegeCode": "2186",
+    "collegeName": "南昌航空大学科技学院[独立学院]",
+    "majorCode": "3",
+    "majorName": "金属材料工程",
+    "majorRemark": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 14500
+  },
+  {
+    "collegeCode": "2186",
+    "collegeName": "南昌航空大学科技学院[独立学院]",
+    "majorCode": "4",
+    "majorName": "焊接技术与工程",
+    "majorRemark": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 14500
+  },
+  {
+    "collegeCode": "2186",
+    "collegeName": "南昌航空大学科技学院[独立学院]",
+    "majorCode": "5",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 14500
+  },
+  {
+    "collegeCode": "2186",
+    "collegeName": "南昌航空大学科技学院[独立学院]",
+    "majorCode": "6",
+    "majorName": "软件工程",
+    "majorRemark": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 14500
+  },
+  {
+    "collegeCode": "2186",
+    "collegeName": "南昌航空大学科技学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "飞行器制造工程",
+    "majorRemark": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 14500
+  },
+  {
+    "collegeCode": "2187",
+    "collegeName": "南京财经大学红山学院[独立学院]",
+    "majorCode": "16",
+    "majorName": "税收学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2187",
+    "collegeName": "南京财经大学红山学院[独立学院]",
+    "majorCode": "17",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2187",
+    "collegeName": "南京财经大学红山学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "保险学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2187",
+    "collegeName": "南京财经大学红山学院[独立学院]",
+    "majorCode": "19",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2187",
+    "collegeName": "南京财经大学红山学院[独立学院]",
+    "majorCode": "20",
+    "majorName": "贸易经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2187",
+    "collegeName": "南京财经大学红山学院[独立学院]",
+    "majorCode": "21",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2187",
+    "collegeName": "南京财经大学红山学院[独立学院]",
+    "majorCode": "22",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2187",
+    "collegeName": "南京财经大学红山学院[独立学院]",
+    "majorCode": "23",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2187",
+    "collegeName": "南京财经大学红山学院[独立学院]",
+    "majorCode": "24",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 19800
+  }
+]

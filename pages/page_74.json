@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "18",
+    "majorName": "中药学",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "19",
+    "majorName": "中药学(生物联培实验班)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "20",
+    "majorName": "中药制药",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "21",
+    "majorName": "护理学(中医康复护理方向)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "22",
+    "majorName": "大数据管理与应用(成思危拔尖人才班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "8",
+    "majorName": "经济学(中外合作办学)",
+    "majorRemark": "培养应用经济学、商业分析方向。原则上在第一学年第二学期开始前完成专业确认。英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "9",
+    "majorName": "金融数学(中外合作办学)",
+    "majorRemark": "英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "10",
+    "majorName": "新闻传播学类(中外合作办学)",
+    "majorRemark": "含广告学(中外合作办学)、传播学(中外合作办学)专业；大类招生。广告学专业培养公共关系与广告学方向；传播学专业培养媒体与传播学、媒体艺术与设计、影视学、动画与互动媒体、中华文化与国际传播、游戏设计、数字跨文化研究、数字人文跨学科研究方向。原则上在第一学年第二学期开始前完成专业确认。英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "11",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "12",
+    "majorName": "应用心理学(中外合作办学)",
+    "majorRemark": "英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "13",
+    "majorName": "统计学(中外合作办学)",
+    "majorRemark": "英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "14",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "15",
+    "majorName": "计算机类(中外合作办学)",
+    "majorRemark": "含计算机科学与技术(中外合作办学)、数据科学与大数据技术(中外合作办学)专业；大类招生，包含计算机科学与技术、数据科学与大数据技术专业。原则上在第一学年第二学期开始前完成专业确认。英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "16",
+    "majorName": "食品科学与工程(中外合作办学)",
+    "majorRemark": "英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "166",
+    "collegeName": "北师香港浸会大学(珠海市)[内地与港澳台地区合作办学]",
+    "majorCode": "17",
+    "majorName": "会计学(中外合作办学)",
+    "majorRemark": "英文教学。非英语语种考生不宜报考",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 110000
+  }
+]

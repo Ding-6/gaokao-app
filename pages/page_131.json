@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "16",
+    "majorName": "物流管理(中外合作办学)",
+    "majorRemark": "与芬兰哈格-哈里亚应用科学大学合作，“4+0”双学位模式，引进专业课程全英文教学。学费暂定35000元/年，最终以发改委批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "14",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "15",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "16",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "17",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "18",
+    "majorName": "数学与应用数学(数学拔尖创新人才培养班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "19",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "20",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "21",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "22",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "23",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "24",
+    "majorName": "工业设计",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "25",
+    "majorName": "过程装备与控制工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "26",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "281",
+    "collegeName": "重庆理工大学[公办]",
+    "majorCode": "27",
+    "majorName": "汽车服务工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  }
+]

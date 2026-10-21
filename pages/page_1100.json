@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "10",
+    "majorName": "经济学类(澄明书院)",
+    "majorRemark": "含经济学(数理经济与数理金融)、金融学(国际金融与公司理财)、财政学(财政理论与政策)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "11",
+    "majorName": "财政学类",
+    "majorRemark": "含财政学、税收学、资产评估(数智估值菁英班)、财政学(财政基础理论基地班)、税收学(北京外国语大学英语专业联培)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "12",
+    "majorName": "税收学(北理工智能、税收联培)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "13",
+    "majorName": "金融学类",
+    "majorRemark": "含金融工程、金融科技专业",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "14",
+    "majorName": "保险学(北理工智能、保险联培)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "15",
+    "majorName": "投资学(含投资学、与大数据双学位项目2个专业)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "16",
+    "majorName": "法学(含与会计学双学位、与工管双学位等4个专业)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "17",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "18",
+    "majorName": "统计学类",
+    "majorRemark": "含统计学、统计学(统计学、金融学双学位项目)、应用统计学、应用统计学(国际贸易、应统双学位项目)、经济统计学、经济统计学(供应链、经统双学位项目)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "19",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、信息安全、人工智能专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "20",
+    "majorName": "数据科学与大数据技术(九章数据工程实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "21",
+    "majorName": "大数据管理与应用(许国志大数据英才班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "22",
+    "majorName": "工商管理类(会计学院)",
+    "majorRemark": "含会计学、会计学(法学、会计学双学位项目)、财务管理、审计学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2111",
+    "collegeName": "中央财经大学[公办]",
+    "majorCode": "23",
+    "majorName": "国际经济与贸易(中外合作办学)(国际贸易、金融风险管理)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "2114",
+    "collegeName": "中央美术学院[公办]",
+    "majorCode": "6",
+    "majorName": "文化产业管理",
+    "majorRemark": "在望京校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 8000
+  }
+]

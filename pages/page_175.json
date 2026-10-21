@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "4",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "秦皇岛校区就读。不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "5",
+    "majorName": "智能材料与结构",
+    "majorRemark": "秦皇岛校区就读；学费暂定5500元/年，最终以主管部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "6",
+    "majorName": "储能科学与工程",
+    "majorRemark": "秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "7",
+    "majorName": "机器人工程",
+    "majorRemark": "秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "8",
+    "majorName": "物联网工程",
+    "majorRemark": "秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "9",
+    "majorName": "海洋油气工程",
+    "majorRemark": "秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "10",
+    "majorName": "碳储科学与工程",
+    "majorRemark": "秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "11",
+    "majorName": "环境工程",
+    "majorRemark": "秦皇岛校区就读；不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "12",
+    "majorName": "工程造价",
+    "majorRemark": "秦皇岛校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "4",
+    "majorName": "理科试验班(钱宝钧精英班)",
+    "majorRemark": "含人工智能、软件工程、计算机科学与技术、电气工程及其自动化、自动化、通信工程、能源与环境系统工程、机械工程、信息管理与信息系统、集成电路设计与集成系统、数学与应用数学、统计学(金融统计与风险管理)、应用物理学(集成电路与新能源)、光电信息科学与工程、智能制造工程、功能材料、高分子材料与工程、无机非金属材料工程、复合材料与工程、纺织工程(含智能纺织与设计、纺织材料方向)、轻化工程、生物工程(生物医药方向)、生物医学工程、电子商务、应用化学、非织造材料与工程、环境工程、环境科学(智能与资源循环)、建筑环境与能源应用工程、工业设计、服装设计与工程专业；高起点，强基础，大一结束后面向全校理工科专业优先进行分流，具体分流方式根据《学生手册》执行。含“钱宝钧英才计划”",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "5",
+    "majorName": "数学类(智能科学方向)",
+    "majorRemark": "含数学与应用数学、统计学(金融统计与风险管理)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "6",
+    "majorName": "物理学类(集成电路与新能源)",
+    "majorRemark": "含应用物理学(集成电路与新能源)、光电信息科学与工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "7",
+    "majorName": "化学类",
+    "majorRemark": "含轻化工程(卓越班)、应用化学专业；不招色弱、色盲、单色不识别考生，详见院校章程；其中轻化工程含颜色科学与功能实现、绿色染整与生态检测方向。应用化学含精细有机化学品、功能高分子材料、绿色化学工艺及过程方向",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "8",
+    "majorName": "机械工程",
+    "majorRemark": "含机械设计及理论、机械制造及其自动化、机械电子工程方向",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "9",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "13",
+    "majorName": "安全工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "14",
+    "majorName": "智能建造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "15",
+    "majorName": "装备智能化技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "16",
+    "majorName": "机器人技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "17",
+    "majorName": "新能源汽车工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "18",
+    "majorName": "智能交通管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "19",
+    "majorName": "电子信息工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "20",
+    "majorName": "计算机应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "21",
+    "majorName": "软件工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1414",
+    "collegeName": "山西工程科技职业大学[公办]",
+    "majorCode": "22",
+    "majorName": "大数据工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1416",
+    "collegeName": "山西工学院[公办]",
+    "majorCode": "4",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4950
+  },
+  {
+    "collegeCode": "1416",
+    "collegeName": "山西工学院[公办]",
+    "majorCode": "5",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1416",
+    "collegeName": "山西工学院[公办]",
+    "majorCode": "6",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "1416",
+    "collegeName": "山西工学院[公办]",
+    "majorCode": "7",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1416",
+    "collegeName": "山西工学院[公办]",
+    "majorCode": "8",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5280
+  }
+]

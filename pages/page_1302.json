@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2618",
+    "collegeName": "上海杉达学院[民办]",
+    "majorCode": "12",
+    "majorName": "智能科学与技术",
+    "majorRemark": "就读校区详见我校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2618",
+    "collegeName": "上海杉达学院[民办]",
+    "majorCode": "13",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "就读校区详见我校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2618",
+    "collegeName": "上海杉达学院[民办]",
+    "majorCode": "14",
+    "majorName": "土木工程",
+    "majorRemark": "就读校区详见我校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2618",
+    "collegeName": "上海杉达学院[民办]",
+    "majorCode": "15",
+    "majorName": "建筑电气与智能化",
+    "majorRemark": "就读校区详见我校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2618",
+    "collegeName": "上海杉达学院[民办]",
+    "majorCode": "16",
+    "majorName": "护理学",
+    "majorRemark": "就读校区详见我校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2618",
+    "collegeName": "上海杉达学院[民办]",
+    "majorCode": "17",
+    "majorName": "劳动与社会保障",
+    "majorRemark": "就读校区详见我校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2622",
+    "collegeName": "上海中侨职业技术大学[民办]",
+    "majorCode": "13",
+    "majorName": "建筑工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2622",
+    "collegeName": "上海中侨职业技术大学[民办]",
+    "majorCode": "14",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2622",
+    "collegeName": "上海中侨职业技术大学[民办]",
+    "majorCode": "15",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2622",
+    "collegeName": "上海中侨职业技术大学[民办]",
+    "majorCode": "16",
+    "majorName": "机器人技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2622",
+    "collegeName": "上海中侨职业技术大学[民办]",
+    "majorCode": "17",
+    "majorName": "具身智能工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2622",
+    "collegeName": "上海中侨职业技术大学[民办]",
+    "majorCode": "18",
+    "majorName": "新能源汽车工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2622",
+    "collegeName": "上海中侨职业技术大学[民办]",
+    "majorCode": "19",
+    "majorName": "合成生物技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2622",
+    "collegeName": "上海中侨职业技术大学[民办]",
+    "majorCode": "20",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2622",
+    "collegeName": "上海中侨职业技术大学[民办]",
+    "majorCode": "21",
+    "majorName": "食品营养与健康",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 35000
+  }
+]

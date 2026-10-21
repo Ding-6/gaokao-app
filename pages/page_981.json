@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1880",
+    "collegeName": "新疆医科大学(乌鲁木齐市)[公办]",
+    "majorCode": "24",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1880",
+    "collegeName": "新疆医科大学(乌鲁木齐市)[公办]",
+    "majorCode": "26",
+    "majorName": "公共事业管理",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1880",
+    "collegeName": "新疆医科大学(乌鲁木齐市)[公办]",
+    "majorCode": "27",
+    "majorName": "健康服务与管理",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1880",
+    "collegeName": "新疆医科大学(乌鲁木齐市)[公办]",
+    "majorCode": "28",
+    "majorName": "智能医学工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1880",
+    "collegeName": "新疆医科大学(乌鲁木齐市)[公办]",
+    "majorCode": "29",
+    "majorName": "生物医药数据科学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1881",
+    "collegeName": "新疆艺术学院(乌鲁木齐市)[公办]",
+    "majorCode": "4",
+    "majorName": "非物质文化遗产保护",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7200
+  },
+  {
+    "collegeCode": "1881",
+    "collegeName": "新疆艺术学院(乌鲁木齐市)[公办]",
+    "majorCode": "5",
+    "majorName": "戏剧影视文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7800
+  },
+  {
+    "collegeCode": "1881",
+    "collegeName": "新疆艺术学院(乌鲁木齐市)[公办]",
+    "majorCode": "6",
+    "majorName": "广播电视编导",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7800
+  },
+  {
+    "collegeCode": "1883",
+    "collegeName": "新疆政法学院[公办]",
+    "majorCode": "18",
+    "majorName": "经济学",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1883",
+    "collegeName": "新疆政法学院[公办]",
+    "majorCode": "19",
+    "majorName": "经济统计学",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1883",
+    "collegeName": "新疆政法学院[公办]",
+    "majorCode": "20",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1883",
+    "collegeName": "新疆政法学院[公办]",
+    "majorCode": "21",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1883",
+    "collegeName": "新疆政法学院[公办]",
+    "majorCode": "22",
+    "majorName": "知识产权",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1883",
+    "collegeName": "新疆政法学院[公办]",
+    "majorCode": "23",
+    "majorName": "信用风险管理与法律防控",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1883",
+    "collegeName": "新疆政法学院[公办]",
+    "majorCode": "24",
+    "majorName": "司法警察学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

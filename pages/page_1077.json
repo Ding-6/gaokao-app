@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "41",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "42",
+    "majorName": "公共事业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "43",
+    "majorName": "交通管理(机场运行管理)",
+    "majorRemark": "无色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "44",
+    "majorName": "物流工程(航空物流)",
+    "majorRemark": "无色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2063",
+    "collegeName": "中国民用航空飞行学院(德阳市)[公办]",
+    "majorCode": "45",
+    "majorName": "低空技术与工程(低空域规划与管理)",
+    "majorRemark": "建议女生谨慎报考,无色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "14",
+    "majorName": "理科试验班类(生命科学)",
+    "majorRemark": "含生物科学类、农学、种子科学与工程、园艺、植物保护、动物医学类、动物科学、草业科学、环境科学与工程类、食品科学与工程类、化学类专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "15",
+    "majorName": "理科试验班(信息科学)",
+    "majorRemark": "含电子信息类、计算机类、农业工程类、机械类、水利类、数学与应用数学、工程力学、地理科学类专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "16",
+    "majorName": "理科试验班(智能装备)",
+    "majorRemark": "含电子信息类、计算机类、农业工程类、机械类、水利类、环境工程专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "17",
+    "majorName": "经济学类",
+    "majorRemark": "含国际经济与贸易、金融学、农林经济管理专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "18",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "19",
+    "majorName": "化学类",
+    "majorRemark": "含化学、应用化学专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "20",
+    "majorName": "地理科学类",
+    "majorRemark": "含地理信息科学、土地资源管理专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "21",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物科学、生物技术专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "22",
+    "majorName": "生物技术(北理工联培项目)",
+    "majorRemark": "该专业与北京理工大学生物医学工程专业进行联合学士学位培养；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2065",
+    "collegeName": "中国农业大学[公办]",
+    "majorCode": "23",
+    "majorName": "机械类",
+    "majorRemark": "含机械设计制造及其自动化、车辆工程、工业设计、机械电子工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

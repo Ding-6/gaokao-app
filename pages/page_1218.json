@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2381",
+    "collegeName": "广州软件学院[民办]",
+    "majorCode": "2",
+    "majorName": "人工智能",
+    "majorRemark": "办学地点：江门校区",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2381",
+    "collegeName": "广州软件学院[民办]",
+    "majorCode": "3",
+    "majorName": "自动化",
+    "majorRemark": "办学地点：江门校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2381",
+    "collegeName": "广州软件学院[民办]",
+    "majorCode": "4",
+    "majorName": "机器人工程",
+    "majorRemark": "办学地点：江门校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2381",
+    "collegeName": "广州软件学院[民办]",
+    "majorCode": "5",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "办学地点：第一至二学年江门校区，第三至四学年广州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2381",
+    "collegeName": "广州软件学院[民办]",
+    "majorCode": "6",
+    "majorName": "软件工程",
+    "majorRemark": "办学地点：第一至二学年江门校区，第三至四学年广州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2381",
+    "collegeName": "广州软件学院[民办]",
+    "majorCode": "7",
+    "majorName": "网络工程",
+    "majorRemark": "办学地点：广州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2381",
+    "collegeName": "广州软件学院[民办]",
+    "majorCode": "8",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "办学地点：江门校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2382",
+    "collegeName": "广州商学院[民办]",
+    "majorCode": "7",
+    "majorName": "金融学(中英双语创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2382",
+    "collegeName": "广州商学院[民办]",
+    "majorCode": "8",
+    "majorName": "商务英语(中英双语创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2382",
+    "collegeName": "广州商学院[民办]",
+    "majorCode": "9",
+    "majorName": "会计学(中英双语创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2382",
+    "collegeName": "广州商学院[民办]",
+    "majorCode": "10",
+    "majorName": "国际商务(中英双语创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "2382",
+    "collegeName": "广州商学院[民办]",
+    "majorCode": "11",
+    "majorName": "互联网金融(中外合作办学)",
+    "majorRemark": "与美国南新罕布什尔大学“3+1”模式中外合作办学项目，具体培养模式和学习费用请查看学校网站",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 69800
+  },
+  {
+    "collegeCode": "2382",
+    "collegeName": "广州商学院[民办]",
+    "majorCode": "12",
+    "majorName": "物流管理(中外合作办学)",
+    "majorRemark": "与美国贝尔维尤大学“2+2”模式中外合作办学项目，具体培养模式和学习费用请查看学校网站",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 66000
+  },
+  {
+    "collegeCode": "2384",
+    "collegeName": "广州新华学院[民办]",
+    "majorCode": "7",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 31980
+  },
+  {
+    "collegeCode": "2384",
+    "collegeName": "广州新华学院[民办]",
+    "majorCode": "8",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 31980
+  }
+]

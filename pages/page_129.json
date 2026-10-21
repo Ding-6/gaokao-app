@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "23",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "24",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "25",
+    "majorName": "港口航道与海岸工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "26",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "27",
+    "majorName": "地理空间信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "28",
+    "majorName": "地质工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "29",
+    "majorName": "交通运输",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "30",
+    "majorName": "交通设备与控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5960
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "31",
+    "majorName": "船舶与海洋工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "32",
+    "majorName": "飞行器制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "33",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "34",
+    "majorName": "城市设计",
+    "majorRemark": "学费暂定6048元/年，最终学费标准以重庆市物价管理部门核定为准",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "35",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "36",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "37",
+    "majorName": "交通管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  }
+]

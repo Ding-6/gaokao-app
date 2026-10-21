@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "25",
+    "majorName": "中药学类",
+    "majorRemark": "含中药学、中药资源与开发、中药制药专业；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "26",
+    "majorName": "中药学(拔尖学生培养基地班)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "27",
+    "majorName": "中药制药(产业学院班)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "28",
+    "majorName": "医学技术类",
+    "majorRemark": "含医学检验技术、医学实验技术、医学影像技术专业；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "29",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "30",
+    "majorName": "康复物理治疗",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "31",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "32",
+    "majorName": "市场营销",
+    "majorRemark": "不招不能准确识别红、黄、绿、蓝、紫任何一种颜色",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "33",
+    "majorName": "公共管理类",
+    "majorRemark": "含公共事业管理、健康服务与管理专业；不招不能准确识别红、黄、绿、蓝、紫任何一种颜色",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1688",
+    "collegeName": "天津中医药大学[公办]",
+    "majorCode": "34",
+    "majorName": "临床药学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；不招色盲色弱，在英国就读期间学费由英国诺丁汉大学制定标准及收取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "1691",
+    "collegeName": "天水师范大学[公办]",
+    "majorCode": "5",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1691",
+    "collegeName": "天水师范大学[公办]",
+    "majorCode": "6",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "1691",
+    "collegeName": "天水师范大学[公办]",
+    "majorCode": "7",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1691",
+    "collegeName": "天水师范大学[公办]",
+    "majorCode": "8",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1691",
+    "collegeName": "天水师范大学[公办]",
+    "majorCode": "9",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

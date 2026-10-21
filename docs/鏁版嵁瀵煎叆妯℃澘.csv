@@ -1,0 +1,27 @@
+college_code,college_name,level,ownership,province,city,tags,tuition_min,tuition_max
+10459,郑州大学,本科,公办,河南,郑州,211;双一流,4500,5500
+10460,河南大学,本科,公办,河南,开封,双一流,4200,5000
+
+# ---
+# 上面是"院校基础信息"示例表头行，下面是"招生计划"表头示例，请分别整理成两个sheet/两个csv导入
+# ---
+
+college_code,province,year,group_id,primary_subject,secondary_subjects,major_code,major_name,min_score,min_rank,avg_score,plan_count,tuition,is_real_data
+10459,河南,2025,01,物理,化学,080901,计算机科学与技术,612,18500,620,80,5500,TRUE
+10459,河南,2025,01,物理,化学,080902,软件工程,605,21000,612,60,5500,TRUE
+
+# 字段说明：
+# - college_code: 必须对应院校信息表中已存在的college_code
+# - primary_subject: 首选科目，物理/历史（新高考3+1+2）
+# - secondary_subjects: 再选科目要求，多个用分号分隔；不限则留空
+# - min_score/min_rank: 该专业组/专业的2025年最低录取分/位次，必须是从官方公布数据核实抄录的真实数字
+# - is_real_data: 填 TRUE 表示你已核实这是真实数据；填 FALSE 表示仍是占位示例
+#
+# 推荐数据来源（请选当年最新一期，不要用历史缓存页面）：
+# 1. 阳光高考信息平台 gaokao.chsi.com.cn —— 教育部官方升学服务平台，可查院校历年录取数据
+# 2. 考生所在省教育考试院官网 —— 每年6月发布当年一分一段表、7-8月发布各批次录取最低分
+# 3. 院校本身的"招生网"或"本科招生网" —— 通常有当年分省分专业录取分数线公告
+# 4. 各省考试院官方发布的《报考指南》/《招生计划合订本》纸质或PDF版（最权威，建议核对纠错时优先看这个）
+#
+# 整理完CSV后，可用 Excel/WPS 转存为JSON（或让Claude帮你写一个csv2json小脚本），
+# 再粘贴进系统右上角"数据管理"导入弹窗，系统会自动校验格式并拒绝不合理的数值。

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "32",
+    "majorName": "软件工程",
+    "majorRemark": "在南昌校区就读；第一、二年学费10000元/学年，第三、四年学费9000元/学年",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "33",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "34",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "35",
+    "majorName": "虚拟现实技术",
+    "majorRemark": "在南昌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "36",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "37",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "38",
+    "majorName": "智能建造",
+    "majorRemark": "在南昌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "39",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "40",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "41",
+    "majorName": "采矿工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "42",
+    "majorName": "矿物加工工程",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "43",
+    "majorName": "环境工程",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "44",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "45",
+    "majorName": "生物工程",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1007",
+    "collegeName": "江西理工大学[公办]",
+    "majorCode": "46",
+    "majorName": "工程造价",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  }
+]

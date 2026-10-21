@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "52",
+    "majorName": "工程管理(中外合作办学)",
+    "majorRemark": "该专业与英国阿斯顿大学合作办学，采取“3+1”培养模式，部分课程以英语授课，建议英语语种考生报考。具体要求详见学校网站介绍",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "6",
+    "majorName": "应用化学",
+    "majorRemark": "不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "7",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物科学、生物技术、生物工程专业；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "8",
+    "majorName": "生物科学(中美121双学位项目)",
+    "majorRemark": "与美国宾夕法尼亚州米勒斯维尔大学合作，获普通高中毕业证书方可报考，仅建议有出国留学意愿的英语语种考生报考，国内学费5000元/年，国外学费、食宿费和医疗保险等预计26801美元/年，第3-6学期出国学习。出国手续等费用见学校招生章程。不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "9",
+    "majorName": "生态学",
+    "majorRemark": "不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "10",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "11",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "12",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "13",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "14",
+    "majorName": "计算机科学与技术(中美121双学位项目)",
+    "majorRemark": "与美国鲍尔州立大学合作，获普通高中毕业证书方可报考，仅建议有出国留学意愿的英语语种考生报考，国内学费5500元/年，国外学费、食宿费和医疗保险等预计28296美元/年，第3-6学期出国学习。出国手续等费用见学校招生章程。不招单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "15",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "16",
+    "majorName": "水利类",
+    "majorRemark": "含水利水电工程、水文与水资源工程、农业水利工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "17",
+    "majorName": "农业机械化及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3800
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "18",
+    "majorName": "农业机械化及其自动化(拔尖人才培养班)",
+    "majorRemark": "本专业实行动态考核与分流培养的管理机制",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3800
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "19",
+    "majorName": "农业建筑环境与能源工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3800
+  }
+]

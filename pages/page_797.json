@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "45",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "46",
+    "majorName": "智能交互设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "47",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "48",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "49",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "50",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "51",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 250,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "52",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "53",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色数码、字母的考生，详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 170,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "54",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "55",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "56",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "57",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色弱、色盲及单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 71,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "58",
+    "majorName": "制药工程",
+    "majorRemark": "不招色弱、色盲及单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "59",
+    "majorName": "环境生态工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

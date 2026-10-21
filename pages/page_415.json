@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "45",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色识别不全考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "46",
+    "majorName": "生物制药",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "47",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱、单色识别不全考生，详见院校章程；医学部，咸嘉湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "5",
+    "tuition": 7800
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "48",
+    "majorName": "预防医学",
+    "majorRemark": "不招色盲、色弱、单色识别不全考生，详见院校章程；医学部，咸嘉湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7800
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "49",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、单色识别不全考生，详见院校章程；医学部，咸嘉湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 7800
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "50",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲、色弱、单色识别不全考生，详见院校章程；医学部，咸嘉湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7800
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "51",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "52",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "839",
+    "collegeName": "湖南师范大学(按高考文化课成绩录取的艺术类专业)[公办]",
+    "majorCode": "3",
+    "majorName": "广播电视编导",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "845",
+    "collegeName": "湖南文理学院(常德市)[公办]",
+    "majorCode": "5",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "845",
+    "collegeName": "湖南文理学院(常德市)[公办]",
+    "majorCode": "6",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；色弱、色盲、单色不识别考生谨慎填报",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "845",
+    "collegeName": "湖南文理学院(常德市)[公办]",
+    "majorCode": "7",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "845",
+    "collegeName": "湖南文理学院(常德市)[公办]",
+    "majorCode": "8",
+    "majorName": "制药工程",
+    "majorRemark": "色弱、色盲、单色不识别考生谨慎填报",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "845",
+    "collegeName": "湖南文理学院(常德市)[公办]",
+    "majorCode": "9",
+    "majorName": "药学",
+    "majorRemark": "色弱、色盲考生谨慎填报",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "845",
+    "collegeName": "湖南文理学院(常德市)[公办]",
+    "majorCode": "10",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1243",
+    "collegeName": "内蒙古工业大学(呼和浩特市)[公办]",
+    "majorCode": "36",
+    "majorName": "飞行器设计与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1243",
+    "collegeName": "内蒙古工业大学(呼和浩特市)[公办]",
+    "majorCode": "37",
+    "majorName": "环境科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1243",
+    "collegeName": "内蒙古工业大学(呼和浩特市)[公办]",
+    "majorCode": "38",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1243",
+    "collegeName": "内蒙古工业大学(呼和浩特市)[公办]",
+    "majorCode": "39",
+    "majorName": "生物工程",
+    "majorRemark": "不录取色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1245",
+    "collegeName": "内蒙古建筑职业技术大学[公办]",
+    "majorCode": "4",
+    "majorName": "建筑设计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1245",
+    "collegeName": "内蒙古建筑职业技术大学[公办]",
+    "majorCode": "5",
+    "majorName": "建筑装饰工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1245",
+    "collegeName": "内蒙古建筑职业技术大学[公办]",
+    "majorCode": "6",
+    "majorName": "建筑工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1245",
+    "collegeName": "内蒙古建筑职业技术大学[公办]",
+    "majorCode": "7",
+    "majorName": "建筑环境与能源工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1245",
+    "collegeName": "内蒙古建筑职业技术大学[公办]",
+    "majorCode": "8",
+    "majorName": "建设工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1245",
+    "collegeName": "内蒙古建筑职业技术大学[公办]",
+    "majorCode": "9",
+    "majorName": "电气工程及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1245",
+    "collegeName": "内蒙古建筑职业技术大学[公办]",
+    "majorCode": "10",
+    "majorName": "道路与桥梁工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1247",
+    "collegeName": "内蒙古警察学院[公办]",
+    "majorCode": "2",
+    "majorName": "法学",
+    "majorRemark": "学费暂定4200元/学年，最终以上级主管部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1248",
+    "collegeName": "内蒙古科技大学包头师范学院[公办]",
+    "majorCode": "6",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "1248",
+    "collegeName": "内蒙古科技大学包头师范学院[公办]",
+    "majorCode": "7",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1248",
+    "collegeName": "内蒙古科技大学包头师范学院[公办]",
+    "majorCode": "8",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

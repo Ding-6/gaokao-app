@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "20",
+    "majorName": "智能工程与创意设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "21",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "科大讯飞创新班",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "22",
+    "majorName": "物联网工程",
+    "majorRemark": "科大讯飞创新班",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "23",
+    "majorName": "智能科学与技术",
+    "majorRemark": "科大讯飞创新班",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "24",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "科大讯飞创新班",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "25",
+    "majorName": "服装设计与工程",
+    "majorRemark": "数字智能方向",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "26",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "27",
+    "majorName": "药物制剂",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "28",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "29",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "30",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "31",
+    "majorName": "健康服务与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2200",
+    "collegeName": "陕西科技大学镐京学院[独立学院]",
+    "majorCode": "32",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2201",
+    "collegeName": "上海财经大学浙江学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "应用统计学(金融统计)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2201",
+    "collegeName": "上海财经大学浙江学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 27750
+  }
+]

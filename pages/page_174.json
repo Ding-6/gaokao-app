@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "33",
+    "majorName": "化学工程与工艺(实验班)",
+    "majorRemark": "学制3.5+X，阶段考核和分流培养；不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "34",
+    "majorName": "勘查技术与工程",
+    "majorRemark": "按照地球物理测井、地球物理勘探和人工智能勘探三个方向进行培养；不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "35",
+    "majorName": "勘查技术与工程(融创班)",
+    "majorRemark": "依托学校现代产业学院办学。不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "36",
+    "majorName": "资源勘查工程",
+    "majorRemark": "学生可以自主选择油气基地班和页岩油气、地下储库、地热3个新工科方向班就读；不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "37",
+    "majorName": "资源勘查工程(实验班)",
+    "majorRemark": "学制3.5+X，阶段考核和分流培养；不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "38",
+    "majorName": "资源勘查工程(中俄能源特色班)",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "39",
+    "majorName": "资源勘查工程(融创班)",
+    "majorRemark": "依托学校现代产业学院办学。不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "40",
+    "majorName": "石油工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "41",
+    "majorName": "石油工程(实验班)",
+    "majorRemark": "学制3.5+X，阶段考核和分流培养",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "42",
+    "majorName": "油气储运工程",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "43",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "44",
+    "majorName": "安全工程(融创班)",
+    "majorRemark": "依托学校现代产业学院办学",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "45",
+    "majorName": "低空技术与工程",
+    "majorRemark": "学费暂定6500元/年，最终以主管部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "2",
+    "majorName": "地质学",
+    "majorRemark": "秦皇岛校区就读。不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "360",
+    "collegeName": "东北石油大学(秦皇岛校区)[公办]",
+    "majorCode": "3",
+    "majorName": "地球化学",
+    "majorRemark": "秦皇岛校区就读。不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

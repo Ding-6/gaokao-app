@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "41",
+    "majorName": "农业资源与环境",
+    "majorRemark": "色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "42",
+    "majorName": "水土保持与荒漠化防治",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "43",
+    "majorName": "生态修复学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "44",
+    "majorName": "马业科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "45",
+    "majorName": "智慧牧业科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "46",
+    "majorName": "动物药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "47",
+    "majorName": "动植物检疫",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "49",
+    "majorName": "智慧林业",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "50",
+    "majorName": "水产养殖学",
+    "majorRemark": "色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "51",
+    "majorName": "草业科学",
+    "majorRemark": "含卓越农林计划",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "52",
+    "majorName": "中草药栽培与鉴定",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "53",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "54",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1254",
+    "collegeName": "内蒙古农业大学[公办]",
+    "majorCode": "55",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1255",
+    "collegeName": "内蒙古农业大学(八协计划)[公办]",
+    "majorCode": "2",
+    "majorName": "动物科学",
+    "majorRemark": "八协计划，招加试蒙古语文考生，含卓越农林计划，色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "56",
+    "majorName": "会计学",
+    "majorRemark": "ACCA方向。不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "57",
+    "majorName": "会计学",
+    "majorRemark": "CPA方向。不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "58",
+    "majorName": "财务管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "59",
+    "majorName": "人力资源管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "60",
+    "majorName": "审计学",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 43,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "61",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "62",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "63",
+    "majorName": "数字经济(中外合作办学)",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者。河北金融学院萨沃尼亚数字科技学院招生专业，由我校与芬兰萨沃尼亚应用科学大学共同举办，外方专业课授课语言为英语。培养模式为“4+0”双证，四年全程在河北金融学院学习，达到规定条件后可获得我校毕业证和双方学士学位证",
+    "subjectRequirementText": "不限",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "64",
+    "majorName": "金融学(中外合作办学)",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者。河北金融学院与爱尔兰格里菲斯学院共同举办，外方专业课授课语言为英语。培养模式为“4+0”双证，四年全程在河北金融学院学习，达到规定条件后可获得我校毕业证和双方学士学位证。学费暂定36000元/年，最终以发改委批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 62,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "65",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母者。河北金融学院萨沃尼亚数字科技学院招生专业，由我校与芬兰萨沃尼亚应用科学大学共同举办，外方专业课授课语言为英语。培养模式为“4+0”双证，四年全程在河北金融学院学习，达到规定条件后可获得我校毕业证和双方学士学位证",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "66",
+    "majorName": "大数据管理与应用(中外合作办学)",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者。“3+1”双学位培养模式，即第1至3学年在河北金融学院学习，第3学年第2学期通过德国多特蒙德国际管理学院组织的测试后，第4学年须赴德方学习。符合中外双方毕业条件与学位授予条件，可获得河北金融学院颁发的毕业证书与管理学学士学位证书，以及由德国多特蒙德国际管理学院颁发的应用数据科学与商业分析专业理学学士学位证书。外语教学为英语，非英语语种考生谨慎报考。国内阶段学费人民币35000元/年，住宿费执行河北金融学院统一标准。国外阶段学费11000欧元/年（实际费用以就读当年德方院校规定为准），住宿费按外方标准执行",
+    "subjectRequirementText": "不限",
+    "planCount": 120,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "67",
+    "majorName": "会计学(中外合作办学)",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者。与爱尔兰格里菲斯学院合作办学，考生入校后自愿选择是否出国。国内学费暂定36000元/年，最终以发改委批复为准；国外学费按外方标准执行",
+    "subjectRequirementText": "不限",
+    "planCount": 42,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "68",
+    "majorName": "财务管理(中外合作办学)",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者。与波兰科依敏斯基大学合作办学，考生入校后自愿选择是否出国。国内学费暂定36000元/年，最终以发改委批复为准；国外学费按外方标准执行",
+    "subjectRequirementText": "不限",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "631",
+    "collegeName": "河北金融学院(保定市)[公办]",
+    "majorCode": "69",
+    "majorName": "电子商务(中外合作办学)",
+    "majorRemark": "河北金融学院萨沃尼亚数字科技学院招生专业，由我校与芬兰萨沃尼亚应用科学大学共同举办，外方专业课授课语言为英语。培养模式为“4+0”双证，四年全程在河北金融学院学习，达到规定条件后可获得我校毕业证和双方学士学位证",
+    "subjectRequirementText": "不限",
+    "planCount": 43,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "632",
+    "collegeName": "河北经贸大学[公办]",
+    "majorCode": "32",
+    "majorName": "经济学",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形情形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

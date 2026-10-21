@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "63",
+    "majorName": "生物工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "64",
+    "majorName": "智慧农业",
+    "majorRemark": "喀什校区；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "65",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "66",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、市场营销专业；不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "67",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "68",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "69",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1859",
+    "collegeName": "新疆第二医学院(克拉玛依市)[公办]",
+    "majorCode": "14",
+    "majorName": "智能医学工程",
+    "majorRemark": "单科成绩要求：数学>=70",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "1",
+    "majorName": "能源经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "2",
+    "majorName": "数学与应用数学",
+    "majorRemark": "单科成绩要求：数学>=80",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "3",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "4",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "5",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "6",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "不招色盲考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "7",
+    "majorName": "冶金工程",
+    "majorRemark": "宜男生就读；不招色盲考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "13",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "14",
+    "majorName": "人工智能(宇树创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "15",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "16",
+    "majorName": "机器人工程(宇树创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "17",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "18",
+    "majorName": "计算机科学与技术(宇树创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "19",
+    "majorName": "计算机科学与技术(中外合作联合培养)",
+    "majorRemark": "与英国赫瑞瓦特大学马来西亚校区“2+2”双学位联合培养；与英国肯特大学、朴茨茅斯大学、普利茅斯大学“3+1”双学位联合培养，四年均须向中方大学缴纳学费，赴外期间需缴纳外方学费；学生自愿出国，不出国仅获中方毕业证和学位证。建议英语较好考生报考，详见学校官方网站",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "20",
+    "majorName": "软件工程(AI应用与智能工程)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "21",
+    "majorName": "网络工程(智能运维)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "22",
+    "majorName": "物联网工程(工业互联网)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "23",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "24",
+    "majorName": "虚拟现实技术(数字孪生与机器人仿真)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "25",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "26",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "27",
+    "majorName": "飞行器运维工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  }
+]

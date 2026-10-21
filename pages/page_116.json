@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "52",
+    "majorName": "地质工程(全国重点实验室卓越班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "53",
+    "majorName": "地质工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "54",
+    "majorName": "勘查技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "55",
+    "majorName": "资源勘查工程(地科院)",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "56",
+    "majorName": "资源勘查工程(能源学院)",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "57",
+    "majorName": "资源勘查工程(英才班)",
+    "majorRemark": "不招色盲、色弱考生；地球与行星科学学院办学",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "58",
+    "majorName": "资源勘查工程(全国重点实验室卓越班)",
+    "majorRemark": "不招色盲考生；能源学院办学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "59",
+    "majorName": "地下水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "60",
+    "majorName": "智能地球探测",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "61",
+    "majorName": "石油工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "62",
+    "majorName": "石油工程(全国重点实验室卓越班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "63",
+    "majorName": "核工程与核技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "64",
+    "majorName": "辐射防护与核安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "65",
+    "majorName": "核化工与核燃料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "242",
+    "collegeName": "成都理工大学[公办]",
+    "majorCode": "66",
+    "majorName": "环境科学与工程类",
+    "majorRemark": "含环境工程、环境生态工程专业；不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  }
+]

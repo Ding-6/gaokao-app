@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2408",
+    "collegeName": "哈尔滨剑桥学院[民办]",
+    "majorCode": "16",
+    "majorName": "智能视觉工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 27800
+  },
+  {
+    "collegeCode": "2408",
+    "collegeName": "哈尔滨剑桥学院[民办]",
+    "majorCode": "17",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2408",
+    "collegeName": "哈尔滨剑桥学院[民办]",
+    "majorCode": "18",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2408",
+    "collegeName": "哈尔滨剑桥学院[民办]",
+    "majorCode": "19",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2408",
+    "collegeName": "哈尔滨剑桥学院[民办]",
+    "majorCode": "20",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "6",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "7",
+    "majorName": "机械设计制造及其自动化(英才班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "8",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "9",
+    "majorName": "过程装备与控制工程(英才班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "10",
+    "majorName": "智能交互设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "11",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "12",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "13",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 26800
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "14",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 26800
+  },
+  {
+    "collegeCode": "2410",
+    "collegeName": "哈尔滨石油学院[民办]",
+    "majorCode": "15",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25800
+  }
+]

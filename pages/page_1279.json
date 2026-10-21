@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2548",
+    "collegeName": "内蒙古鸿德文理学院[民办]",
+    "majorCode": "13",
+    "majorName": "养老服务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "12",
+    "majorName": "数字经济",
+    "majorRemark": "前两年在宁波杭州湾校区，后两年在海曙校区",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "13",
+    "majorName": "金融工程",
+    "majorRemark": "前两年在宁波杭州湾校区，后两年在海曙校区",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "14",
+    "majorName": "金融科技",
+    "majorRemark": "前两年在宁波杭州湾校区，后两年在海曙校区",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "15",
+    "majorName": "国际经济与贸易(大宗商品交易)",
+    "majorRemark": "前两年在宁波杭州湾校区，后两年在海曙校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "16",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "第一学年在宁波杭州湾校区，第二学年起在海曙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "17",
+    "majorName": "机械电子工程",
+    "majorRemark": "第一学年在宁波杭州湾校区，第二学年起在海曙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "18",
+    "majorName": "工业设计",
+    "majorRemark": "第一学年在宁波杭州湾校区，第二学年起在海曙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "19",
+    "majorName": "人工智能",
+    "majorRemark": "第一学年在宁波杭州湾校区，第二学年起在海曙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "20",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "第一学年在宁波杭州湾校区，第二学年起在海曙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "21",
+    "majorName": "软件工程",
+    "majorRemark": "第一学年在宁波杭州湾校区，第二学年起在海曙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "22",
+    "majorName": "数字媒体技术",
+    "majorRemark": "第一学年在宁波杭州湾校区，第二学年起在海曙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "23",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "第一学年在宁波杭州湾校区，第二学年起在海曙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "24",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "前两年在宁波杭州湾校区，后两年在海曙校区",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2552",
+    "collegeName": "宁波财经学院[民办]",
+    "majorCode": "25",
+    "majorName": "工商管理(数字化管理)",
+    "majorRemark": "前两年在宁波杭州湾校区，后两年在海曙校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1889",
+    "collegeName": "信阳农林学院[公办]",
+    "majorCode": "6",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1889",
+    "collegeName": "信阳农林学院[公办]",
+    "majorCode": "7",
+    "majorName": "中药资源与开发",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1890",
+    "collegeName": "信阳师范大学[公办]",
+    "majorCode": "2",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1890",
+    "collegeName": "信阳师范大学[公办]",
+    "majorCode": "3",
+    "majorName": "材料化学",
+    "majorRemark": "不招色盲、色弱、单色识别不全",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1890",
+    "collegeName": "信阳师范大学[公办]",
+    "majorCode": "4",
+    "majorName": "物联网工程",
+    "majorRemark": "不招单色识别不全",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "1892",
+    "collegeName": "兴安职业技术大学[公办]",
+    "majorCode": "16",
+    "majorName": "应急管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1892",
+    "collegeName": "兴安职业技术大学[公办]",
+    "majorCode": "17",
+    "majorName": "人工智能工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1892",
+    "collegeName": "兴安职业技术大学[公办]",
+    "majorCode": "18",
+    "majorName": "护理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1892",
+    "collegeName": "兴安职业技术大学[公办]",
+    "majorCode": "19",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "16",
+    "majorName": "金融工程",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "17",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "18",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "20",
+    "majorName": "科学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "21",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；色弱、色盲和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1894",
+    "collegeName": "邢台学院[公办]",
+    "majorCode": "22",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

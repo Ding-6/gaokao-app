@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "30",
+    "majorName": "信息管理与信息系统(北理联合培养数据法学实验班)",
+    "majorRemark": "由我校和北京理工大学联合培养，第二学年到北理学习一年，授予两校联合学士学位，详见章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "31",
+    "majorName": "工商管理(法务会计方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "32",
+    "majorName": "国际商务(中外合作办学)",
+    "majorRemark": "培养地：海南陵水",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "15",
+    "majorName": "经济管理试验班",
+    "majorRemark": "含经济与金融、经济学专业；本专业类内专业任选",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "16",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "17",
+    "majorName": "经济学(珠峰实验班)",
+    "majorRemark": "进入希贤计划拔尖衔接班",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "18",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "19",
+    "majorName": "数字经济(拔尖人才实验班)",
+    "majorRemark": "进入希贤计划拔尖衔接班",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "20",
+    "majorName": "财政学类",
+    "majorRemark": "含财政学、税收学专业；本专业类内专业任选",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "21",
+    "majorName": "财政学(数字财税卓越人才实验班)",
+    "majorRemark": "可进入希贤计划卓越衔接班",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "22",
+    "majorName": "金融学类",
+    "majorRemark": "含金融学、投资学专业；本专业类内专业任选",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "23",
+    "majorName": "金融学(金融学、法学双学士学位)",
+    "majorRemark": "可进入希贤计划卓越衔接班",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "24",
+    "majorName": "精算学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "25",
+    "majorName": "法学类",
+    "majorRemark": "含法学、法学(民商法方向)、法学(涉外法治方向)、法学(政府法治方向)、法学(刑事法方向)、法学(社会治理方向)、纪检监察、国际法、知识产权、国际经贸规则、海外利益安全专业；本专业类内专业任选",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2100",
+    "collegeName": "中南财经政法大学[公办]",
+    "majorCode": "26",
+    "majorName": "统计学类",
+    "majorRemark": "含统计学、应用统计学专业；本专业类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

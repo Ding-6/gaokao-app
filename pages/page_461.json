@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "914",
+    "collegeName": "吉林财经大学(长春市)[公办]",
+    "majorCode": "35",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "914",
+    "collegeName": "吉林财经大学(长春市)[公办]",
+    "majorCode": "36",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "914",
+    "collegeName": "吉林财经大学(长春市)[公办]",
+    "majorCode": "37",
+    "majorName": "金融学(中外合作办学)",
+    "majorRemark": "与澳大利亚查尔斯特大学合作办学；非英语语种考生请谨慎报考",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "914",
+    "collegeName": "吉林财经大学(长春市)[公办]",
+    "majorCode": "38",
+    "majorName": "会计学(中外合作办学)",
+    "majorRemark": "与澳大利亚查尔斯特大学合作办学；非英语语种考生请谨慎报考",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "914",
+    "collegeName": "吉林财经大学(长春市)[公办]",
+    "majorCode": "39",
+    "majorName": "电子商务(中外合作办学)",
+    "majorRemark": "与澳大利亚查尔斯特大学合作办学；非英语语种考生请谨慎报考",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "24",
+    "majorName": "理科试验班(唐敖庆班)",
+    "majorRemark": "含物理学类、化学类、生物科学类专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "25",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、财政学、国际经济与贸易、金融学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6070
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "26",
+    "majorName": "经济学(数量经济)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6070
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "27",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "28",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6070
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "30",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学、统计学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "31",
+    "majorName": "物理学类",
+    "majorRemark": "含物理学、应用物理学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "32",
+    "majorName": "物理学(量子科技英才特色班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "33",
+    "majorName": "化学类",
+    "majorRemark": "含化学、应用化学、材料化学、高分子材料与工程、化学工程与工艺专业；宜英语语种考生就读；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "34",
+    "majorName": "地质学(李四光班)",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6320
+  }
+]

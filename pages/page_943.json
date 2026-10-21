@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "12",
+    "majorName": "护理学",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "1833",
+    "collegeName": "西南政法大学(重庆市)[公办]",
+    "majorCode": "17",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "1833",
+    "collegeName": "西南政法大学(重庆市)[公办]",
+    "majorCode": "18",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "1833",
+    "collegeName": "西南政法大学(重庆市)[公办]",
+    "majorCode": "19",
+    "majorName": "法学(涉外法治拔尖班)",
+    "majorRemark": "法学(涉外法治拔尖班)，在我校民商法学院进行管理",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "1833",
+    "collegeName": "西南政法大学(重庆市)[公办]",
+    "majorCode": "20",
+    "majorName": "法学(法律审计拔尖班)",
+    "majorRemark": "法学(法律审计拔尖班)，在我校行政法学院进行管理",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "1833",
+    "collegeName": "西南政法大学(重庆市)[公办]",
+    "majorCode": "21",
+    "majorName": "法学(科技法学拔尖班)",
+    "majorRemark": "法学(科技法学拔尖班)，在我校人工智能法学院进行管理",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "1833",
+    "collegeName": "西南政法大学(重庆市)[公办]",
+    "majorCode": "22",
+    "majorName": "法学(联合学士学位)",
+    "majorRemark": "法学（西南政法大学）+网络空间安全（重庆邮电大学）联合学士学位项目。第一、第二、第四学年在西南政法大学住宿就读，第三学年在重庆邮电大学住宿就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "1833",
+    "collegeName": "西南政法大学(重庆市)[公办]",
+    "majorCode": "23",
+    "majorName": "知识产权",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "1833",
+    "collegeName": "西南政法大学(重庆市)[公办]",
+    "majorCode": "24",
+    "majorName": "海外利益安全",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "1833",
+    "collegeName": "西南政法大学(重庆市)[公办]",
+    "majorCode": "25",
+    "majorName": "刑事科学技术(证据科技特色班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "11",
+    "majorName": "工科试验班(南强书院卓越领航班)",
+    "majorRemark": "含人工智能、计算机科学与技术、自动化、机械设计制造及其自动化、材料科学与工程、新能源科学与工程、集成电路设计与集成系统、土木工程、化学工程与工艺专业；入学后全校专业任选，不限于上述包含专业。实施“一生一方案”一体化培养计划，致力于培养具备卓越工程实践能力、前沿系统思维和交叉融合能力的卓越领航人才，为引领工程技术变革、服务国家重大需求积蓄核心力量",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "12",
+    "majorName": "工科试验班(化工与材料类)",
+    "majorRemark": "含化学工程与工艺、材料科学与工程专业；分流时本专业类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "13",
+    "majorName": "工科试验班(AI与计算机)",
+    "majorRemark": "含计算机科学与技术、网络空间安全、人工智能、软件工程专业；分流时本专业类内专业任选。入校后可选拔进入人工智能省级拔尖学生培养基地、计算机科学与技术拔尖学生培养基地。软件工程专业三、四年级按学分收费，400元/学分，两年不超过80学分",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "14",
+    "majorName": "工科试验班(集成电路与电子信息)",
+    "majorRemark": "含电子信息工程、集成电路设计与集成系统、微电子科学与工程、电子信息科学与技术、通信工程专业；分流时本专业类内专业任选。集成电路设计与集成系统专业三、四年级按学分收费，400元/学分，两年不超过80学分",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "15",
+    "majorName": "工科试验班(航空航天与智能制造，含双学士学位项目选拔)",
+    "majorRemark": "含机械设计制造及其自动化、测控技术与仪器、自动化、飞行器设计与工程、飞行器动力工程专业；分流时本专业类内专业任选。入校后可选拔进入飞行器设计与工程+海洋技术双学士学位项目。专业分流后到飞行器动力工程、飞行器设计与工程专业学费6760元/学年",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 5460
+  }
+]

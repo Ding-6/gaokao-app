@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2171",
+    "collegeName": "集美大学诚毅学院(厦门市)[独立学院]",
+    "majorCode": "24",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2171",
+    "collegeName": "集美大学诚毅学院(厦门市)[独立学院]",
+    "majorCode": "25",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2171",
+    "collegeName": "集美大学诚毅学院(厦门市)[独立学院]",
+    "majorCode": "26",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2172",
+    "collegeName": "江苏科技大学苏州理工学院(张家港市)[独立学院]",
+    "majorCode": "4",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2172",
+    "collegeName": "江苏科技大学苏州理工学院(张家港市)[独立学院]",
+    "majorCode": "5",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2172",
+    "collegeName": "江苏科技大学苏州理工学院(张家港市)[独立学院]",
+    "majorCode": "6",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2172",
+    "collegeName": "江苏科技大学苏州理工学院(张家港市)[独立学院]",
+    "majorCode": "7",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2172",
+    "collegeName": "江苏科技大学苏州理工学院(张家港市)[独立学院]",
+    "majorCode": "8",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2173",
+    "collegeName": "江苏师范大学科文学院[独立学院]",
+    "majorCode": "3",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2173",
+    "collegeName": "江苏师范大学科文学院[独立学院]",
+    "majorCode": "4",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2173",
+    "collegeName": "江苏师范大学科文学院[独立学院]",
+    "majorCode": "5",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2173",
+    "collegeName": "江苏师范大学科文学院[独立学院]",
+    "majorCode": "6",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2173",
+    "collegeName": "江苏师范大学科文学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2173",
+    "collegeName": "江苏师范大学科文学院[独立学院]",
+    "majorCode": "8",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2173",
+    "collegeName": "江苏师范大学科文学院[独立学院]",
+    "majorCode": "9",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  }
+]

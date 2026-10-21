@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "938",
+    "collegeName": "吉林医药学院[公办]",
+    "majorCode": "19",
+    "majorName": "卫生检验与检疫",
+    "majorRemark": "不招色弱、色盲及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "938",
+    "collegeName": "吉林医药学院[公办]",
+    "majorCode": "20",
+    "majorName": "护理学",
+    "majorRemark": "不招色弱、色盲及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6160
+  },
+  {
+    "collegeCode": "938",
+    "collegeName": "吉林医药学院[公办]",
+    "majorCode": "21",
+    "majorName": "智能影像工程",
+    "majorRemark": "不招色弱、色盲及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "939",
+    "collegeName": "吉林艺术学院(按高考文化课成绩录取的艺术类专业)[公办]",
+    "majorCode": "2",
+    "majorName": "艺术管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "8",
+    "majorName": "数字经济",
+    "majorRemark": "单色不识别考生不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "10",
+    "majorName": "生态学",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "11",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "12",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "13",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "14",
+    "majorName": "智能交互设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "15",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "16",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "17",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "18",
+    "majorName": "人工智能(智创班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "19",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  }
+]

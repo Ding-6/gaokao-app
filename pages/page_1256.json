@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2472",
+    "collegeName": "江西服装学院[民办]",
+    "majorCode": "5",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23500
+  },
+  {
+    "collegeCode": "2472",
+    "collegeName": "江西服装学院[民办]",
+    "majorCode": "6",
+    "majorName": "服装设计与工程(中外合作办学)",
+    "majorRemark": "与法国巴黎国际剪裁学院(AICP)合办，“4+0”或“3+1”模式，外方授课语言为法语",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 48000
+  },
+  {
+    "collegeCode": "2473",
+    "collegeName": "江西工程学院[民办]",
+    "majorCode": "2",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2478",
+    "collegeName": "江西科技学院(南昌市)[民办]",
+    "majorCode": "5",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2478",
+    "collegeName": "江西科技学院(南昌市)[民办]",
+    "majorCode": "6",
+    "majorName": "新能源汽车工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2478",
+    "collegeName": "江西科技学院(南昌市)[民办]",
+    "majorCode": "7",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2478",
+    "collegeName": "江西科技学院(南昌市)[民办]",
+    "majorCode": "8",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2478",
+    "collegeName": "江西科技学院(南昌市)[民办]",
+    "majorCode": "9",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2478",
+    "collegeName": "江西科技学院(南昌市)[民办]",
+    "majorCode": "10",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2478",
+    "collegeName": "江西科技学院(南昌市)[民办]",
+    "majorCode": "11",
+    "majorName": "电子与计算机工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2482",
+    "collegeName": "江西应用科技学院[民办]",
+    "majorCode": "3",
+    "majorName": "宝石及材料工艺学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 27300
+  },
+  {
+    "collegeCode": "2482",
+    "collegeName": "江西应用科技学院[民办]",
+    "majorCode": "4",
+    "majorName": "人工智能(具身机器人方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2482",
+    "collegeName": "江西应用科技学院[民办]",
+    "majorCode": "5",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2482",
+    "collegeName": "江西应用科技学院[民办]",
+    "majorCode": "6",
+    "majorName": "旅游地学与规划工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2488",
+    "collegeName": "晋中信息学院[民办]",
+    "majorCode": "12",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 15980
+  }
+]

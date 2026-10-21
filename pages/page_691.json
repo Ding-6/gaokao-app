@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "33",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "34",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "35",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "36",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "37",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、市场营销、人力资源管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "38",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "39",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "40",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "41",
+    "majorName": "资产评估",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "42",
+    "majorName": "公共管理类",
+    "majorRemark": "含行政管理、劳动与社会保障、城市管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "43",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "44",
+    "majorName": "跨境电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "12",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学、统计学专业；含潘承洞基地班、数学拔尖2.0班（泰山学堂）",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "13",
+    "majorName": "物理学类",
+    "majorRemark": "含物理学、应用物理学专业；含王淦昌基地班、物理拔尖2.0班（泰山学堂）、严济慈英才班",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "14",
+    "majorName": "化学类(泰山学堂生化实验班)",
+    "majorRemark": "含化学、生物科学专业；向泰山学堂化学、生物取向分流；不招收色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

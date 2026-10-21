@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "366",
+    "collegeName": "东南大学[公办]",
+    "majorCode": "10",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、人工智能、软件工程、网络空间安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "366",
+    "collegeName": "东南大学[公办]",
+    "majorCode": "11",
+    "majorName": "生物医学工程(学制七年本硕连读)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "366",
+    "collegeName": "东南大学[公办]",
+    "majorCode": "12",
+    "majorName": "未来机器人(未来技术班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "366",
+    "collegeName": "东南大学[公办]",
+    "majorCode": "13",
+    "majorName": "机器人工程(中外合作办学)",
+    "majorRemark": "第一、二学年由东南大学一蒙纳士大学国际学院(苏州)管理，第三、四学年赴澳大利亚蒙纳士大学学习，期间学费按照澳方标准收取",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "2",
+    "majorName": "知识产权",
+    "majorRemark": "在莞城校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5050
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "3",
+    "majorName": "应用化学(含教育部卓越计划班)",
+    "majorRemark": "在松山湖校区就读；色盲、色弱考生不建议报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "4",
+    "majorName": "工业设计",
+    "majorRemark": "在莞城校区就读；色盲考生不建议报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "5",
+    "majorName": "材料类",
+    "majorRemark": "含高分子材料与工程、金属材料工程、材料科学与工程专业；在松山湖校区就读；色盲、色弱考生不建议报考;第三学期开学前专业分流",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "6",
+    "majorName": "电子信息工程(含教育部卓越计划班)",
+    "majorRemark": "在松山湖校区就读；单色不识别考生不建议报考",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "7",
+    "majorName": "土木工程",
+    "majorRemark": "在松山湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "8",
+    "majorName": "道路桥梁与渡河工程",
+    "majorRemark": "在松山湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "9",
+    "majorName": "环境工程",
+    "majorRemark": "在松山湖校区就读；色盲、色弱考生不建议报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "10",
+    "majorName": "食品营养与健康",
+    "majorRemark": "在松山湖校区就读；色盲、色弱考生不建议报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "369",
+    "collegeName": "东莞理工学院[公办]",
+    "majorCode": "11",
+    "majorName": "工程管理",
+    "majorRemark": "在松山湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "18",
+    "majorName": "经济学类(分流时专业任选)",
+    "majorRemark": "含国际经济与贸易、财政学、税收学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

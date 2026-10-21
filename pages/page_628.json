@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1220",
+    "collegeName": "南京邮电大学[公办]",
+    "majorCode": "17",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1220",
+    "collegeName": "南京邮电大学[公办]",
+    "majorCode": "18",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1220",
+    "collegeName": "南京邮电大学[公办]",
+    "majorCode": "19",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1220",
+    "collegeName": "南京邮电大学[公办]",
+    "majorCode": "20",
+    "majorName": "集成电路科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1222",
+    "collegeName": "南京中医药大学[公办]",
+    "majorCode": "1",
+    "majorName": "中医学(拔尖创新人才培养模式改革5+3一体化)",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 7400
+  },
+  {
+    "collegeCode": "1222",
+    "collegeName": "南京中医药大学[公办]",
+    "majorCode": "2",
+    "majorName": "中医学",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 7400
+  },
+  {
+    "collegeCode": "1222",
+    "collegeName": "南京中医药大学[公办]",
+    "majorCode": "3",
+    "majorName": "中西医临床医学",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 7400
+  },
+  {
+    "collegeCode": "1222",
+    "collegeName": "南京中医药大学[公办]",
+    "majorCode": "4",
+    "majorName": "中药学",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7400
+  },
+  {
+    "collegeCode": "1222",
+    "collegeName": "南京中医药大学[公办]",
+    "majorCode": "5",
+    "majorName": "中药制药",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7400
+  },
+  {
+    "collegeCode": "1223",
+    "collegeName": "南开大学[公办]",
+    "majorCode": "11",
+    "majorName": "工科试验班(卓越拔尖计划伯苓班)",
+    "majorRemark": "含计算机科学与技术、智能科学与技术、光电信息科学与工程专业；本专业大类内专业任选。身体条件要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6200
+  },
+  {
+    "collegeCode": "1223",
+    "collegeName": "南开大学[公办]",
+    "majorCode": "12",
+    "majorName": "工科试验班(未来产业精英)",
+    "majorRemark": "含智能科学与技术(具身与行为智能特色班)、智能医学工程(脑机接口特色班)、新能源科学与工程(数智能源特色班)、材料化学(新材料特色班)、生物技术(生物智造特色班)专业；本专业大类内专业任选。身体条件要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 6200
+  },
+  {
+    "collegeCode": "1223",
+    "collegeName": "南开大学[公办]",
+    "majorCode": "13",
+    "majorName": "工科试验班(信息科学与技术)",
+    "majorRemark": "含计算机科学与技术、物联网工程、信息安全、自动化、智能科学与技术、软件工程专业；本专业大类内专业任选。身体条件要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 6200
+  },
+  {
+    "collegeCode": "1223",
+    "collegeName": "南开大学[公办]",
+    "majorCode": "14",
+    "majorName": "理科试验班(卓越拔尖计划伯苓班)",
+    "majorRemark": "含物理学、量子信息科学、化学、生物科学专业；本专业大类内专业任选。身体条件要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6200
+  },
+  {
+    "collegeCode": "1223",
+    "collegeName": "南开大学[公办]",
+    "majorCode": "15",
+    "majorName": "理科试验班(数学与智能省身班)",
+    "majorRemark": "含信息与计算科学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6200
+  },
+  {
+    "collegeCode": "1223",
+    "collegeName": "南开大学[公办]",
+    "majorCode": "16",
+    "majorName": "理科试验班(数学与大数据)",
+    "majorRemark": "含数学与应用数学、信息与计算科学、统计学、数据科学专业；本专业大类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 6200
+  }
+]

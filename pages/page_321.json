@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "48",
+    "majorName": "农业电气化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 107,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "49",
+    "majorName": "农业水利工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "50",
+    "majorName": "土地整治工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "51",
+    "majorName": "木材科学与工程",
+    "majorRemark": "教学为材料工程、家具与室内设计方向",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "52",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 100,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "53",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 132,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "54",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 133,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "55",
+    "majorName": "食品营养与健康",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "56",
+    "majorName": "城乡规划",
+    "majorRemark": "教学为规划、建筑方向",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "57",
+    "majorName": "风景园林",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 99,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "58",
+    "majorName": "生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 44,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "59",
+    "majorName": "农学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 118,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "60",
+    "majorName": "园艺",
+    "majorRemark": "教学为设施园艺、园艺工程方向",
+    "subjectRequirementText": "化学",
+    "planCount": 136,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "61",
+    "majorName": "植物保护",
+    "majorRemark": "教学为植物保护、植物医学药学方向",
+    "subjectRequirementText": "化学",
+    "planCount": 158,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "62",
+    "majorName": "种子科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

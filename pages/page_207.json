@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "436",
+    "collegeName": "广东技术师范大学[公办]",
+    "majorCode": "2",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "四年全部在广州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "439",
+    "collegeName": "广东金融学院[公办]",
+    "majorCode": "3",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5050
+  },
+  {
+    "collegeCode": "439",
+    "collegeName": "广东金融学院[公办]",
+    "majorCode": "4",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "第一、二学年在清远校区就读，第三、四学年在广州校本部就读",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "439",
+    "collegeName": "广东金融学院[公办]",
+    "majorCode": "5",
+    "majorName": "会计学",
+    "majorRemark": "第一、二学年在肇庆校区就读，第三、四学年在广州校本部就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5050
+  },
+  {
+    "collegeCode": "439",
+    "collegeName": "广东金融学院[公办]",
+    "majorCode": "6",
+    "majorName": "财务管理",
+    "majorRemark": "第一、二学年在肇庆校区就读，第三、四学年在广州校本部就读",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5050
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "3",
+    "majorName": "高分子材料工程技术(先进材料创新班)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6410
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "4",
+    "majorName": "高分子材料工程技术(现场工程师菁英班)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6410
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "5",
+    "majorName": "机械电子工程技术",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6410
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "6",
+    "majorName": "机器人技术",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6410
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "7",
+    "majorName": "合成生物技术",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6410
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "8",
+    "majorName": "现代精细化工技术",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6410
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "9",
+    "majorName": "化妆品工程技术(现场工程师菁英班)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6410
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "10",
+    "majorName": "食品工程技术(食品智能制造卓越创新班)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6410
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "11",
+    "majorName": "电子信息工程技术",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6410
+  },
+  {
+    "collegeCode": "447",
+    "collegeName": "广东轻工职业技术大学[公办]",
+    "majorCode": "12",
+    "majorName": "软件工程技术",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6410
+  }
+]

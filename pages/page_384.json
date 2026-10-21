@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "786",
+    "collegeName": "湖北经济学院(武汉市)[公办]",
+    "majorCode": "8",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "786",
+    "collegeName": "湖北经济学院(武汉市)[公办]",
+    "majorCode": "9",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "786",
+    "collegeName": "湖北经济学院(武汉市)[公办]",
+    "majorCode": "10",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "786",
+    "collegeName": "湖北经济学院(武汉市)[公办]",
+    "majorCode": "11",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "786",
+    "collegeName": "湖北经济学院(武汉市)[公办]",
+    "majorCode": "12",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "786",
+    "collegeName": "湖北经济学院(武汉市)[公办]",
+    "majorCode": "13",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "786",
+    "collegeName": "湖北经济学院(武汉市)[公办]",
+    "majorCode": "14",
+    "majorName": "资源与环境经济学(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "786",
+    "collegeName": "湖北经济学院(武汉市)[公办]",
+    "majorCode": "15",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "787",
+    "collegeName": "湖北科技学院(咸宁市)[公办]",
+    "majorCode": "1",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "787",
+    "collegeName": "湖北科技学院(咸宁市)[公办]",
+    "majorCode": "2",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "787",
+    "collegeName": "湖北科技学院(咸宁市)[公办]",
+    "majorCode": "3",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "787",
+    "collegeName": "湖北科技学院(咸宁市)[公办]",
+    "majorCode": "4",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "787",
+    "collegeName": "湖北科技学院(咸宁市)[公办]",
+    "majorCode": "5",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "787",
+    "collegeName": "湖北科技学院(咸宁市)[公办]",
+    "majorCode": "6",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "787",
+    "collegeName": "湖北科技学院(咸宁市)[公办]",
+    "majorCode": "7",
+    "majorName": "药物制剂",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "22",
+    "majorName": "网络工程",
+    "majorRemark": "抚州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "23",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "抚州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "24",
+    "majorName": "工业软件",
+    "majorRemark": "抚州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "25",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "26",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "27",
+    "majorName": "城市地下空间工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "28",
+    "majorName": "水文与水资源工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "29",
+    "majorName": "测绘工程(北斗应用与低空经济现代产业学院、九江)",
+    "majorRemark": "前2年在南昌校区就读，后2年在九江校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "30",
+    "majorName": "地理空间信息工程(北斗应用与低空经济现代产业学院、九江)",
+    "majorRemark": "前2年在南昌校区就读，后2年在九江校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "31",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "32",
+    "majorName": "勘查技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "33",
+    "majorName": "资源勘查工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "34",
+    "majorName": "地下水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "35",
+    "majorName": "旅游地学与规划工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "36",
+    "majorName": "智能地球探测",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  }
+]

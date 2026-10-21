@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "500",
+    "collegeName": "贵州工程应用技术学院(毕节市)[公办]",
+    "majorCode": "3",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "500",
+    "collegeName": "贵州工程应用技术学院(毕节市)[公办]",
+    "majorCode": "4",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "500",
+    "collegeName": "贵州工程应用技术学院(毕节市)[公办]",
+    "majorCode": "5",
+    "majorName": "水务工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "500",
+    "collegeName": "贵州工程应用技术学院(毕节市)[公办]",
+    "majorCode": "6",
+    "majorName": "环境生态工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "500",
+    "collegeName": "贵州工程应用技术学院(毕节市)[公办]",
+    "majorCode": "7",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "508",
+    "collegeName": "贵州理工学院[公办]",
+    "majorCode": "1",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "508",
+    "collegeName": "贵州理工学院[公办]",
+    "majorCode": "2",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "509",
+    "collegeName": "贵州民族大学(贵阳市)[公办]",
+    "majorCode": "4",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "509",
+    "collegeName": "贵州民族大学(贵阳市)[公办]",
+    "majorCode": "5",
+    "majorName": "复合材料与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "509",
+    "collegeName": "贵州民族大学(贵阳市)[公办]",
+    "majorCode": "6",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "509",
+    "collegeName": "贵州民族大学(贵阳市)[公办]",
+    "majorCode": "7",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "509",
+    "collegeName": "贵州民族大学(贵阳市)[公办]",
+    "majorCode": "8",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "509",
+    "collegeName": "贵州民族大学(贵阳市)[公办]",
+    "majorCode": "9",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "509",
+    "collegeName": "贵州民族大学(贵阳市)[公办]",
+    "majorCode": "11",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "509",
+    "collegeName": "贵州民族大学(贵阳市)[公办]",
+    "majorCode": "12",
+    "majorName": "环境生态工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4200
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "36",
+    "majorName": "化学工程与工艺(绿色化工)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "37",
+    "majorName": "制药工程(AI制药产业班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "38",
+    "majorName": "地质工程(智慧地质方向)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "39",
+    "majorName": "环境工程(水利电力环保)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "40",
+    "majorName": "建筑学(智慧建筑与数智化设计方向)",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "41",
+    "majorName": "生物工程(生物智造产业班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "42",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "43",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "44",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "45",
+    "majorName": "工程管理(水利电力方向)",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "46",
+    "majorName": "财务管理(智能财务)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "47",
+    "majorName": "人力资源管理(数智化人资)",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "48",
+    "majorName": "供应链管理(数智供应链)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1347",
+    "collegeName": "三峡大学(宜昌市)[公办]",
+    "majorCode": "49",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "不招色盲、单色不识别考生，录取后不得调换专业，该专业教学外语为英语",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "17",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、资源与环境经济学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

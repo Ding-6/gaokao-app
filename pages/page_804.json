@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "34",
+    "majorName": "药学类",
+    "majorRemark": "含药学、临床药学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 7250
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "35",
+    "majorName": "医学技术类(含双学士学位)",
+    "majorRemark": "含医学检验技术(含双学士学位)、康复治疗学(含双学士学位)、医学影像技术(含双学士学位)、眼视光学(含双学士学位)、口腔医学技术(含双学士学位)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 7250
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "36",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "入校后只能奥克兰学院内转专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 95000
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "37",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "入校后只能奥克兰学院内转专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 95000
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "38",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "入校后只能奥克兰学院内转专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 95000
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "6",
+    "majorName": "智能建造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "7",
+    "majorName": "机械设计制造及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "8",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "9",
+    "majorName": "数控技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "10",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "11",
+    "majorName": "机械电子工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "12",
+    "majorName": "电气工程及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "13",
+    "majorName": "新能源汽车工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "14",
+    "majorName": "电子信息工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "1581",
+    "collegeName": "四川工程职业技术大学(德阳市)[公办]",
+    "majorCode": "15",
+    "majorName": "卫星通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "13",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "14",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "15",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "16",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "17",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "18",
+    "majorName": "信息对抗技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "19",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "4+0模式",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 40000
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "20",
+    "majorName": "通信工程(中外合作办学)",
+    "majorRemark": "4+0模式",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 65000
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "21",
+    "majorName": "信息工程(中外合作办学)",
+    "majorRemark": "4+0模式",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 65000
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "22",
+    "majorName": "智能科学与技术(中外合作办学)",
+    "majorRemark": "4+0模式",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 65000
+  },
+  {
+    "collegeCode": "1791",
+    "collegeName": "西安邮电大学[公办]",
+    "majorCode": "23",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "4+0模式",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 65000
+  },
+  {
+    "collegeCode": "1792",
+    "collegeName": "西安邮电大学(边防军人子女预科班)[公办]",
+    "majorCode": "2",
+    "majorName": "本科预科班",
+    "majorRemark": "预科阶段按当年本科生文科类5000元/年学费标准执行。预科生升入本科后按同学年、同专业学费标准执行。只招通过边防子女资格审查的考生，其它事宜向院校咨询；在雁塔校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "1",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "10",
+    "majorName": "经济统计学",
+    "majorRemark": "数据技术应用实验班",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "11",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1794",
+    "collegeName": "西北大学[公办]",
+    "majorCode": "12",
+    "majorName": "知识产权",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "48",
+    "majorName": "食品科学与工程",
+    "majorRemark": "在昌黎校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "49",
+    "majorName": "食品质量与安全",
+    "majorRemark": "在昌黎校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "50",
+    "majorName": "酿酒工程",
+    "majorRemark": "在昌黎校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "51",
+    "majorName": "城乡规划",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "52",
+    "majorName": "园艺",
+    "majorRemark": "在昌黎校区就读；师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "53",
+    "majorName": "植物保护",
+    "majorRemark": "在昌黎校区就读；师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "54",
+    "majorName": "植物科学与技术",
+    "majorRemark": "在昌黎校区就读；师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "55",
+    "majorName": "设施农业科学与工程",
+    "majorRemark": "在昌黎校区就读；师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "56",
+    "majorName": "动物科学",
+    "majorRemark": "在昌黎校区就读；师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "57",
+    "majorName": "智慧牧业科学与工程",
+    "majorRemark": "在昌黎校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "58",
+    "majorName": "动物医学",
+    "majorRemark": "在昌黎校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 125,
+    "duration": "5",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "60",
+    "majorName": "水产养殖学",
+    "majorRemark": "在昌黎校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "61",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "在秦皇岛市山东堡校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 66,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "62",
+    "majorName": "工程管理",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "63",
+    "majorName": "市场营销",
+    "majorRemark": "在秦皇岛市山东堡校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

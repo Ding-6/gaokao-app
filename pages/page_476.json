@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "925",
+    "collegeName": "吉林建筑大学(长春市)[公办]",
+    "majorCode": "34",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "925",
+    "collegeName": "吉林建筑大学(长春市)[公办]",
+    "majorCode": "35",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "与美国杨斯顿州立大学合作办学，宜英语考生填报",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 40000
+  },
+  {
+    "collegeCode": "925",
+    "collegeName": "吉林建筑大学(长春市)[公办]",
+    "majorCode": "37",
+    "majorName": "建筑环境与能源应用工程(中外合作办学)",
+    "majorRemark": "与美国杨斯顿州立大学合作办学，宜英语考生填报",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 40000
+  },
+  {
+    "collegeCode": "925",
+    "collegeName": "吉林建筑大学(长春市)[公办]",
+    "majorCode": "38",
+    "majorName": "建筑学(中外合作办学)",
+    "majorRemark": "与俄罗斯太平洋国立大学合作办学，要求有绘画基础",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "925",
+    "collegeName": "吉林建筑大学(长春市)[公办]",
+    "majorCode": "39",
+    "majorName": "工程管理(中外合作办学)",
+    "majorRemark": "与俄罗斯太平洋国立大学合作办学",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "927",
+    "collegeName": "吉林警察学院(长春市)[公办]",
+    "majorCode": "3",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "927",
+    "collegeName": "吉林警察学院(长春市)[公办]",
+    "majorCode": "4",
+    "majorName": "朝鲜语",
+    "majorRemark": "只招收非朝鲜族考生",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "927",
+    "collegeName": "吉林警察学院(长春市)[公办]",
+    "majorCode": "5",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "927",
+    "collegeName": "吉林警察学院(长春市)[公办]",
+    "majorCode": "6",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "12",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "13",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "17",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "18",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "19",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "20",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2645",
+    "collegeName": "四川传媒学院[民办]",
+    "majorCode": "26",
+    "majorName": "数字媒体技术(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "2646",
+    "collegeName": "四川电影电视学院[民办]",
+    "majorCode": "8",
+    "majorName": "电子竞技运动与管理",
+    "majorRemark": "电竞赛事策划与执行、电竞游戏直播、自媒体内容创作",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2646",
+    "collegeName": "四川电影电视学院[民办]",
+    "majorCode": "9",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 15900
+  },
+  {
+    "collegeCode": "2646",
+    "collegeName": "四川电影电视学院[民办]",
+    "majorCode": "10",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 15900
+  },
+  {
+    "collegeCode": "2646",
+    "collegeName": "四川电影电视学院[民办]",
+    "majorCode": "11",
+    "majorName": "影视技术",
+    "majorRemark": "电影虚拟化制作、AIGC影像生成、影视特效三维动画",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2648",
+    "collegeName": "四川工商学院[民办]",
+    "majorCode": "7",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 17808
+  },
+  {
+    "collegeCode": "2648",
+    "collegeName": "四川工商学院[民办]",
+    "majorCode": "8",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18800
+  },
+  {
+    "collegeCode": "2648",
+    "collegeName": "四川工商学院[民办]",
+    "majorCode": "9",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16536
+  },
+  {
+    "collegeCode": "2648",
+    "collegeName": "四川工商学院[民办]",
+    "majorCode": "10",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16536
+  },
+  {
+    "collegeCode": "2649",
+    "collegeName": "四川工业科技学院(德阳市)[民办]",
+    "majorCode": "2",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 17900
+  },
+  {
+    "collegeCode": "2649",
+    "collegeName": "四川工业科技学院(德阳市)[民办]",
+    "majorCode": "3",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2655",
+    "collegeName": "四川文化艺术学院(绵阳市)[民办]",
+    "majorCode": "9",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2655",
+    "collegeName": "四川文化艺术学院(绵阳市)[民办]",
+    "majorCode": "10",
+    "majorName": "人工智能",
+    "majorRemark": "大模型开发与应用",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2655",
+    "collegeName": "四川文化艺术学院(绵阳市)[民办]",
+    "majorCode": "11",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2655",
+    "collegeName": "四川文化艺术学院(绵阳市)[民办]",
+    "majorCode": "12",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 14840
+  }
+]

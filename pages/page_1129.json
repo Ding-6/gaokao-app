@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2159",
+    "collegeName": "黑龙江工程学院昆仑旅游学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "数字媒体技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 23800
+  },
+  {
+    "collegeCode": "2159",
+    "collegeName": "黑龙江工程学院昆仑旅游学院[独立学院]",
+    "majorCode": "8",
+    "majorName": "财务管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 21500
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "应用化学(新能源材料、半导体材料与工艺方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 17000
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "生物技术(高新生物智造、精准医疗方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 17000
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "电子信息工程(无人机机载电子系统方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "13",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "14",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "15",
+    "majorName": "机器人工程(智能制造方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "16",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "17",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "化学工程与工艺(制药方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18700
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "19",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "20",
+    "majorName": "食品质量与安全(智慧检测与供应链风控方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "21",
+    "majorName": "粮食工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 17000
+  },
+  {
+    "collegeCode": "2160",
+    "collegeName": "湖北大学知行学院[独立学院]",
+    "majorCode": "22",
+    "majorName": "酿酒工程(高端白酒产业化、精酿啤酒方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19000
+  }
+]

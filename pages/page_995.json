@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "23",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "教育部卓越工程师培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "24",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 53,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "25",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 41,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "26",
+    "majorName": "过程装备与控制工程",
+    "majorRemark": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "27",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "28",
+    "majorName": "车辆工程",
+    "majorRemark": "教育部卓越工程师培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "29",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "30",
+    "majorName": "智能感知工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "31",
+    "majorName": "材料类",
+    "majorRemark": "含材料物理、金属材料工程、无机非金属材料工程、高分子材料与工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 136,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "32",
+    "majorName": "能源动力类",
+    "majorRemark": "含能源与动力工程、石油工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 155,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "33",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 114,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "34",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 39,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "35",
+    "majorName": "电子信息工程",
+    "majorRemark": "教育部卓越工程师培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "36",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 42,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "37",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "64",
+    "majorName": "财务管理",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "65",
+    "majorName": "人力资源管理",
+    "majorRemark": "在秦皇岛市山东堡校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "66",
+    "majorName": "财务会计教育",
+    "majorRemark": "在秦皇岛校区就读；师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "67",
+    "majorName": "农村区域发展",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "68",
+    "majorName": "物流管理",
+    "majorRemark": "在秦皇岛市山东堡校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "15",
+    "majorName": "经济与金融",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "16",
+    "majorName": "科学教育",
+    "majorRemark": "师范类；不招色盲，色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "17",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；不招色盲，色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "18",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "19",
+    "majorName": "汉语言文学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "20",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=105；须口试合格；师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "21",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "22",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "23",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "24",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色盲，色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

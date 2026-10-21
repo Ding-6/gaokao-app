@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "25",
+    "majorName": "地理科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "地理",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "26",
+    "majorName": "自然地理与资源环境",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "28",
+    "majorName": "生物科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "29",
+    "majorName": "生物科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "30",
+    "majorName": "应用心理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "31",
+    "majorName": "应用统计学",
+    "majorRemark": "单科成绩要求：数学>=60",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "32",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "33",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "34",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "35",
+    "majorName": "材料化学",
+    "majorRemark": "单科成绩要求：数学>=40",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "36",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "37",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "38",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1929",
+    "collegeName": "伊犁师范大学[公办]",
+    "majorCode": "39",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

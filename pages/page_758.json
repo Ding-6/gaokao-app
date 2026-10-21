@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "25",
+    "majorName": "法学(国际经济法方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "26",
+    "majorName": "法学(金融法方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "27",
+    "majorName": "知识产权",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "28",
+    "majorName": "监狱学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "29",
+    "majorName": "社区矫正",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "30",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "31",
+    "majorName": "俄语",
+    "majorRemark": "只招英语、俄语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "32",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "33",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "34",
+    "majorName": "劳动与社会保障",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1516",
+    "collegeName": "上海政法学院[公办]",
+    "majorCode": "35",
+    "majorName": "电子商务及法律",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1517",
+    "collegeName": "上饶师范学院[公办]",
+    "majorCode": "6",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4270
+  },
+  {
+    "collegeCode": "1517",
+    "collegeName": "上饶师范学院[公办]",
+    "majorCode": "7",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4270
+  },
+  {
+    "collegeCode": "1517",
+    "collegeName": "上饶师范学院[公办]",
+    "majorCode": "8",
+    "majorName": "教育技术学(智能教育方向)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4270
+  },
+  {
+    "collegeCode": "1517",
+    "collegeName": "上饶师范学院[公办]",
+    "majorCode": "9",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生；单科成绩要求：外语>=90",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4270
+  }
+]

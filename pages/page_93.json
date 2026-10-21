@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "36",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程。因教学特点和要求，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "37",
+    "majorName": "软件工程",
+    "majorRemark": "因教学特点和要求，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "38",
+    "majorName": "信息安全",
+    "majorRemark": "因教学特点和要求，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "39",
+    "majorName": "智能科学与技术",
+    "majorRemark": "因教学特点和要求，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "40",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "因教学特点和要求，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "41",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "42",
+    "majorName": "探测制导与控制技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "43",
+    "majorName": "信息对抗技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "44",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "45",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "46",
+    "majorName": "生物工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "47",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "48",
+    "majorName": "会计学",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "49",
+    "majorName": "应用物理学(中外合作办学)",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校招生章程。与俄罗斯圣彼得堡国立信息技术机械与光学大学合作办学。专业类课程授课语言为英语，非英语语种考生不宜报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 55000
+  },
+  {
+    "collegeCode": "203",
+    "collegeName": "长春理工大学[公办]",
+    "majorCode": "50",
+    "majorName": "测控技术与仪器(中外合作办学)",
+    "majorRemark": "与俄罗斯圣彼得堡国立信息技术机械与光学大学合作办学。专业类课程授课语言为英语，非英语语种考生不宜报考",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 55000
+  }
+]

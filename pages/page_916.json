@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "26",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "27",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "28",
+    "majorName": "俄语",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "29",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "30",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "31",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "32",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色弱、色盲和单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "33",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；不招色盲和单色识别不全者",
+    "subjectRequirementText": "地理",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "34",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "35",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；不招色弱、色盲和单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "36",
+    "majorName": "生物技术",
+    "majorRemark": "不招色弱、色盲和单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "37",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "38",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "39",
+    "majorName": "材料物理",
+    "majorRemark": "不招色盲和单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1803",
+    "collegeName": "西北师范大学(兰州市)[公办]",
+    "majorCode": "40",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  }
+]

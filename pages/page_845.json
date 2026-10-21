@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "37",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "38",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "39",
+    "majorName": "地质工程",
+    "majorRemark": "不招色弱、色盲、单色不识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "40",
+    "majorName": "交通工程",
+    "majorRemark": "不招色盲、单色不识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "41",
+    "majorName": "环境工程",
+    "majorRemark": "不招色弱、色盲、单色不识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "42",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "43",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "44",
+    "majorName": "风景园林",
+    "majorRemark": "不招色弱、色盲、单色不识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "45",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "46",
+    "majorName": "工程管理",
+    "majorRemark": "不招单色不识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "47",
+    "majorName": "房地产开发与管理",
+    "majorRemark": "不招单色不识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "48",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "不招单色不识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "49",
+    "majorName": "土木工程(中外合作办学)",
+    "majorRemark": "与波兰比亚威斯托克工业大学合办，学生须在大三年级出国访学一年",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 48000
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "50",
+    "majorName": "环境工程(中外合作办学)",
+    "majorRemark": "与波兰比亚威斯托克工业大学合办，学生须在大三年级出国访学一年；不招色弱、色盲、单色不识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 48000
+  },
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "51",
+    "majorName": "建筑学(中外合作办学)",
+    "majorRemark": "与波兰克拉科夫工业大学合办，学生须在大三年级出国访学一年",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 48000
+  }
+]

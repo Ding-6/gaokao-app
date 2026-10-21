@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1669",
+    "collegeName": "天津商业大学[公办]",
+    "majorCode": "41",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1669",
+    "collegeName": "天津商业大学[公办]",
+    "majorCode": "42",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、市场营销、人力资源管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1669",
+    "collegeName": "天津商业大学[公办]",
+    "majorCode": "43",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1669",
+    "collegeName": "天津商业大学[公办]",
+    "majorCode": "44",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1669",
+    "collegeName": "天津商业大学[公办]",
+    "majorCode": "45",
+    "majorName": "公共管理类",
+    "majorRemark": "含公共事业管理、行政管理、土地资源管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1669",
+    "collegeName": "天津商业大学[公办]",
+    "majorCode": "46",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1669",
+    "collegeName": "天津商业大学[公办]",
+    "majorCode": "47",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1669",
+    "collegeName": "天津商业大学[公办]",
+    "majorCode": "48",
+    "majorName": "碳中和科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1669",
+    "collegeName": "天津商业大学[公办]",
+    "majorCode": "49",
+    "majorName": "财务管理(中外合作办学)",
+    "majorRemark": "英语单科成绩未达到95分的考生慎重填报",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "1671",
+    "collegeName": "天津师范大学[公办]",
+    "majorCode": "26",
+    "majorName": "经济学",
+    "majorRemark": "不招收不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1671",
+    "collegeName": "天津师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "投资学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1671",
+    "collegeName": "天津师范大学[公办]",
+    "majorCode": "28",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1671",
+    "collegeName": "天津师范大学[公办]",
+    "majorCode": "29",
+    "majorName": "教育学(师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1671",
+    "collegeName": "天津师范大学[公办]",
+    "majorCode": "30",
+    "majorName": "教育技术学(师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1671",
+    "collegeName": "天津师范大学[公办]",
+    "majorCode": "31",
+    "majorName": "小学教育(师范)",
+    "majorRemark": "师范类；小学教育（师范）专业含语文、数学、英语三个方向，其中英语方向学费标准为5400元/生·学年，未分方向前学费暂时按4400元/生·学年收取",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4400
+  }
+]

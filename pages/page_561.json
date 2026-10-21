@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "44",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 109,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "45",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "46",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 110,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "47",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "48",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母者",
+    "subjectRequirementText": "化学",
+    "planCount": 81,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "49",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "50",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 68,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "51",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色弱、色盲和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "52",
+    "majorName": "历史建筑保护工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "53",
+    "majorName": "工程管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 71,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "54",
+    "majorName": "市场营销",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "55",
+    "majorName": "会计学",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "56",
+    "majorName": "财务管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "57",
+    "majorName": "人力资源管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "58",
+    "majorName": "审计学",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "42",
+    "majorName": "土木工程(新能源基础设施实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "43",
+    "majorName": "土木工程(智慧道桥与运维方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "44",
+    "majorName": "城市地下空间工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "45",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "46",
+    "majorName": "水文与水资源工程(智慧水文方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "47",
+    "majorName": "测绘工程(卓越计划班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "48",
+    "majorName": "测绘工程(导航方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "49",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "50",
+    "majorName": "遥感科学与技术(低空遥感技术方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "51",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "52",
+    "majorName": "地质工程(含卓越计划)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "53",
+    "majorName": "资源勘查工程(清洁能源勘查方向)",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "54",
+    "majorName": "资源勘查工程(战略矿产资源方向)",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "55",
+    "majorName": "资源环境大数据工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "702",
+    "collegeName": "河南理工大学(焦作市)[公办]",
+    "majorCode": "56",
+    "majorName": "采矿工程(卓越计划班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

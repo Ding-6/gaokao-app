@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "38",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "39",
+    "majorName": "应急技术与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "40",
+    "majorName": "消防工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "41",
+    "majorName": "国际商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1860",
+    "collegeName": "新疆工程学院(乌鲁木齐市)[公办]",
+    "majorCode": "42",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1861",
+    "collegeName": "新疆工程职业大学[公办]",
+    "majorCode": "27",
+    "majorName": "建筑工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1861",
+    "collegeName": "新疆工程职业大学[公办]",
+    "majorCode": "28",
+    "majorName": "电气工程及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1861",
+    "collegeName": "新疆工程职业大学[公办]",
+    "majorCode": "29",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1862",
+    "collegeName": "新疆工业学院[公办]",
+    "majorCode": "1",
+    "majorName": "经济统计学",
+    "majorRemark": "不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生不能录取",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1862",
+    "collegeName": "新疆工业学院[公办]",
+    "majorCode": "2",
+    "majorName": "地质学",
+    "majorRemark": "轻度色觉异常（俗称色弱）考生不能录取；色觉异常Ⅱ度（俗称色盲）考生不能录取；不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1862",
+    "collegeName": "新疆工业学院[公办]",
+    "majorCode": "3",
+    "majorName": "机械工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1862",
+    "collegeName": "新疆工业学院[公办]",
+    "majorCode": "4",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1862",
+    "collegeName": "新疆工业学院[公办]",
+    "majorCode": "5",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1862",
+    "collegeName": "新疆工业学院[公办]",
+    "majorCode": "6",
+    "majorName": "冶金工程",
+    "majorRemark": "色觉异常Ⅱ度（俗称色盲）考生不能录取；不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1862",
+    "collegeName": "新疆工业学院[公办]",
+    "majorCode": "7",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "轻度色觉异常（俗称色弱）考生不能录取；色觉异常Ⅱ度（俗称色盲）考生不能录取；不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

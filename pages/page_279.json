@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "42",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 27,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "43",
+    "majorName": "电子商务",
+    "majorRemark": "数智化运营",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "603",
+    "collegeName": "河北地质大学(地方专项计划)[公办]",
+    "majorCode": "4",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、金融学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "603",
+    "collegeName": "河北地质大学(地方专项计划)[公办]",
+    "majorCode": "5",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "603",
+    "collegeName": "河北地质大学(地方专项计划)[公办]",
+    "majorCode": "6",
+    "majorName": "宝石及材料工艺学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "603",
+    "collegeName": "河北地质大学(地方专项计划)[公办]",
+    "majorCode": "7",
+    "majorName": "计算机类",
+    "majorRemark": "含通信工程、软件工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "603",
+    "collegeName": "河北地质大学(地方专项计划)[公办]",
+    "majorCode": "8",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "校企深度合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "603",
+    "collegeName": "河北地质大学(地方专项计划)[公办]",
+    "majorCode": "9",
+    "majorName": "水利类",
+    "majorRemark": "含地下水科学与工程、水文与水资源工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "603",
+    "collegeName": "河北地质大学(地方专项计划)[公办]",
+    "majorCode": "10",
+    "majorName": "地质类",
+    "majorRemark": "含地质学、古生物学、资源勘查工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "603",
+    "collegeName": "河北地质大学(地方专项计划)[公办]",
+    "majorCode": "11",
+    "majorName": "地质工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "603",
+    "collegeName": "河北地质大学(地方专项计划)[公办]",
+    "majorCode": "12",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、市场营销、人力资源管理、旅游管理专业；企业管理方向",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "11",
+    "majorName": "经济学",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "12",
+    "majorName": "金融工程",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 47,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "13",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "14",
+    "majorName": "汉语国际教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

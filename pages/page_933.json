@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "22",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "23",
+    "majorName": "工程力学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "24",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "25",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "26",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "27",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "28",
+    "majorName": "储能科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "29",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "30",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "31",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "32",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "33",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "34",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "35",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1826",
+    "collegeName": "西南科技大学(绵阳市)[公办]",
+    "majorCode": "36",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  }
+]

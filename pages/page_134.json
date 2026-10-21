@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "8",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类；在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "9",
+    "majorName": "物理学",
+    "majorRemark": "师范类；在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "10",
+    "majorName": "生物技术",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "11",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "12",
+    "majorName": "机械电子工程",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "13",
+    "majorName": "车辆工程",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "14",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "15",
+    "majorName": "电子信息工程",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "16",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "17",
+    "majorName": "物联网工程",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "18",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "在百安校区就读；不招收色弱、色盲和单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "19",
+    "majorName": "食品科学与工程",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "20",
+    "majorName": "安全工程",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "284",
+    "collegeName": "重庆三峡科技大学[公办]",
+    "majorCode": "21",
+    "majorName": "农学",
+    "majorRemark": "在百安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "287",
+    "collegeName": "重庆师范大学[公办]",
+    "majorCode": "8",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5250
+  }
+]

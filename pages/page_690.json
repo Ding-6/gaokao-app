@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "18",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "19",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "20",
+    "majorName": "财政学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "21",
+    "majorName": "税收学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "22",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "23",
+    "majorName": "保险学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "24",
+    "majorName": "金融数学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "25",
+    "majorName": "精算学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "26",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "27",
+    "majorName": "经济与贸易类",
+    "majorRemark": "含国际经济与贸易、贸易经济、国际商务专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "28",
+    "majorName": "外国语言文学类",
+    "majorRemark": "含英语、法语、日语、商务英语专业",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "29",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "30",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "31",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1350",
+    "collegeName": "山东财经大学(济南市)[公办]",
+    "majorCode": "32",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

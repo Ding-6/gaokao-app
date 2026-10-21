@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "20",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "21",
+    "majorName": "智慧健康养老管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2782",
+    "collegeName": "张家界学院[民办]",
+    "majorCode": "14",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2782",
+    "collegeName": "张家界学院[民办]",
+    "majorCode": "15",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2782",
+    "collegeName": "张家界学院[民办]",
+    "majorCode": "16",
+    "majorName": "医学影像技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2782",
+    "collegeName": "张家界学院[民办]",
+    "majorCode": "17",
+    "majorName": "护理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2782",
+    "collegeName": "张家界学院[民办]",
+    "majorCode": "18",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23800
+  },
+  {
+    "collegeCode": "2782",
+    "collegeName": "张家界学院[民办]",
+    "majorCode": "19",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22700
+  },
+  {
+    "collegeCode": "2782",
+    "collegeName": "张家界学院[民办]",
+    "majorCode": "20",
+    "majorName": "无人机系统应用技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "9",
+    "majorName": "建筑设计",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "10",
+    "majorName": "园林景观工程",
+    "majorRemark": "办学地点：江北校区。身体条件要求详见学校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "11",
+    "majorName": "建筑工程",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "12",
+    "majorName": "智能建造工程",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "13",
+    "majorName": "建筑环境与能源工程",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "14",
+    "majorName": "建筑电气与智能化工程",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2013",
+    "collegeName": "浙江师范大学[公办]",
+    "majorCode": "23",
+    "majorName": "人工智能(智能精准诊疗)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "2013",
+    "collegeName": "浙江师范大学[公办]",
+    "majorCode": "24",
+    "majorName": "机器人工程",
+    "majorRemark": "第一学年在杭州校区，第二学年起在校本部",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "2013",
+    "collegeName": "浙江师范大学[公办]",
+    "majorCode": "25",
+    "majorName": "交通运输(数智交通)",
+    "majorRemark": "第一学年在杭州校区，第二学年起在校本部",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "2013",
+    "collegeName": "浙江师范大学[公办]",
+    "majorCode": "26",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "2013",
+    "collegeName": "浙江师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "2013",
+    "collegeName": "浙江师范大学[公办]",
+    "majorCode": "28",
+    "majorName": "智能医学工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "2013",
+    "collegeName": "浙江师范大学[公办]",
+    "majorCode": "29",
+    "majorName": "小学教育(中外合作办学)(师范)",
+    "majorRemark": "师范类；单科成绩要求：外语>=110",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "2013",
+    "collegeName": "浙江师范大学[公办]",
+    "majorCode": "30",
+    "majorName": "软件工程(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=90；杭州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2014",
+    "collegeName": "浙江水利水电学院(杭州市)[公办]",
+    "majorCode": "1",
+    "majorName": "翻译",
+    "majorRemark": "单科成绩要求：外语>=100",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2014",
+    "collegeName": "浙江水利水电学院(杭州市)[公办]",
+    "majorCode": "2",
+    "majorName": "商务英语",
+    "majorRemark": "单科成绩要求：外语>=100",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2014",
+    "collegeName": "浙江水利水电学院(杭州市)[公办]",
+    "majorCode": "3",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "2014",
+    "collegeName": "浙江水利水电学院(杭州市)[公办]",
+    "majorCode": "4",
+    "majorName": "智能感知工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2014",
+    "collegeName": "浙江水利水电学院(杭州市)[公办]",
+    "majorCode": "5",
+    "majorName": "智能电网信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2014",
+    "collegeName": "浙江水利水电学院(杭州市)[公办]",
+    "majorCode": "6",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2014",
+    "collegeName": "浙江水利水电学院(杭州市)[公办]",
+    "majorCode": "7",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6325
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2210",
+    "collegeName": "天津商业大学宝德学院[独立学院]",
+    "majorCode": "23",
+    "majorName": "电子商务",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2210",
+    "collegeName": "天津商业大学宝德学院[独立学院]",
+    "majorCode": "24",
+    "majorName": "酒店管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2211",
+    "collegeName": "天津商业大学宝德学院(按高考文化课成绩录取的艺术类专业)[独立学院]",
+    "majorCode": "3",
+    "majorName": "戏剧影视文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2211",
+    "collegeName": "天津商业大学宝德学院(按高考文化课成绩录取的艺术类专业)[独立学院]",
+    "majorCode": "4",
+    "majorName": "广播电视编导",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2212",
+    "collegeName": "天津外国语大学滨海外事学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "法语",
+    "majorRemark": "只招英语、法语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2212",
+    "collegeName": "天津外国语大学滨海外事学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "西班牙语",
+    "majorRemark": "只招英语、西班牙语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2212",
+    "collegeName": "天津外国语大学滨海外事学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "日语",
+    "majorRemark": "只招英语、日语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2212",
+    "collegeName": "天津外国语大学滨海外事学院[独立学院]",
+    "majorCode": "13",
+    "majorName": "朝鲜语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2212",
+    "collegeName": "天津外国语大学滨海外事学院[独立学院]",
+    "majorCode": "14",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2213",
+    "collegeName": "天津医科大学临床医学院[独立学院]",
+    "majorCode": "5",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2213",
+    "collegeName": "天津医科大学临床医学院[独立学院]",
+    "majorCode": "8",
+    "majorName": "药学",
+    "majorRemark": "色盲色弱者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25500
+  },
+  {
+    "collegeCode": "2213",
+    "collegeName": "天津医科大学临床医学院[独立学院]",
+    "majorCode": "9",
+    "majorName": "医学检验技术",
+    "majorRemark": "色盲色弱者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 25500
+  },
+  {
+    "collegeCode": "2213",
+    "collegeName": "天津医科大学临床医学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "医学影像技术",
+    "majorRemark": "色盲色弱者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 25500
+  },
+  {
+    "collegeCode": "2213",
+    "collegeName": "天津医科大学临床医学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "眼视光学",
+    "majorRemark": "色盲色弱者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 25500
+  },
+  {
+    "collegeCode": "2213",
+    "collegeName": "天津医科大学临床医学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "康复治疗学",
+    "majorRemark": "色盲色弱者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25500
+  }
+]

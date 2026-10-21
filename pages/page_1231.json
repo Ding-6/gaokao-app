@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "99",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 45900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "A0",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 36900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "A1",
+    "majorName": "文化产业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "A2",
+    "majorName": "健康服务与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 35900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "A3",
+    "majorName": "物流管理(智慧物流)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 35900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "A4",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 35900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "A5",
+    "majorName": "电子商务(创业与商业管理)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 45900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "A6",
+    "majorName": "旅游管理类",
+    "majorRemark": "含旅游管理(跨境文旅)、酒店管理(奢华品牌运营)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 36900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "A7",
+    "majorName": "智能电网工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "A8",
+    "majorName": "跨境电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 29800
+  },
+  {
+    "collegeCode": "2415",
+    "collegeName": "海口经济学院(按高考文化课成绩录取的艺术类专业)[民办]",
+    "majorCode": "02",
+    "majorName": "影视技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 49900
+  },
+  {
+    "collegeCode": "2415",
+    "collegeName": "海口经济学院(按高考文化课成绩录取的艺术类专业)[民办]",
+    "majorCode": "03",
+    "majorName": "智能人居设计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 36900
+  },
+  {
+    "collegeCode": "2419",
+    "collegeName": "海南科技职业大学[民办]",
+    "majorCode": "13",
+    "majorName": "具身智能工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 37900
+  },
+  {
+    "collegeCode": "2419",
+    "collegeName": "海南科技职业大学[民办]",
+    "majorCode": "14",
+    "majorName": "护理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 37900
+  },
+  {
+    "collegeCode": "2419",
+    "collegeName": "海南科技职业大学[民办]",
+    "majorCode": "15",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 37900
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "52",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "53",
+    "majorName": "智慧城市与空间规划",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "54",
+    "majorName": "数学与应用数学(中外合作办学)(数据智能)",
+    "majorRemark": "澳大利亚西澳大学合作，学费暂定68000元/年，具体以物价相关部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "55",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "德国安哈尔特应用技术大学",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 72000
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "56",
+    "majorName": "自动化(中外合作办学)",
+    "majorRemark": "德国安哈尔特应用技术大学",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 75000
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "57",
+    "majorName": "计算机科学与技术(中外合作办学)(智能方向)",
+    "majorRemark": "与澳大利亚科廷大学合作，学费暂定80000元/年，具体以物价相关部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "58",
+    "majorName": "地理空间信息工程(中外合作办学)",
+    "majorRemark": "德国安哈尔特应用技术大学",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 74000
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "59",
+    "majorName": "地下水科学与工程(中外合作办学)",
+    "majorRemark": "加拿大滑铁卢大学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 55000
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "15",
+    "majorName": "金融学",
+    "majorRemark": "设有金融学（AI+ACCA）实验班，入校后可选拔至金融科技（金融学+数学与应用数学）双学位项目、经济学拔尖班",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "16",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "入校后可选拔至经济学拔尖班",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "17",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学专业；入校后可选拔至金融科技（金融学+数学与应用数学）双学位项目、数学拔尖班",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "18",
+    "majorName": "物理学",
+    "majorRemark": "入校后可选拔至王大珩菁英班",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "19",
+    "majorName": "声学",
+    "majorRemark": "入校后可选拔至汪德昭菁英班",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "20",
+    "majorName": "化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "21",
+    "majorName": "大气科学",
+    "majorRemark": "设有省基础学科拔尖计划基地，入校后可选拔至大气科学拔尖班",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

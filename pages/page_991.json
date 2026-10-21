@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1904",
+    "collegeName": "烟台大学[公办]",
+    "majorCode": "26",
+    "majorName": "合成生物学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1904",
+    "collegeName": "烟台大学[公办]",
+    "majorCode": "27",
+    "majorName": "水产养殖学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1904",
+    "collegeName": "烟台大学[公办]",
+    "majorCode": "28",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1905",
+    "collegeName": "烟台大学(边防军人子女预科班)[公办]",
+    "majorCode": "2",
+    "majorName": "本科预科班",
+    "majorRemark": "只招通过边防子女资格审查的学生，其他事宜向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "1",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "6",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "7",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "8",
+    "majorName": "生物科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "9",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "10",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "11",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "12",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "13",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "14",
+    "majorName": "石油工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "15",
+    "majorName": "油气储运工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1909",
+    "collegeName": "延安大学[公办]",
+    "majorCode": "16",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  }
+]

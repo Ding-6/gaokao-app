@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "43",
+    "majorName": "生物科学类(中外合作办学)",
+    "majorRemark": "含生物技术(中外合作办学)、制药工程(中外合作办学)专业；与法国艾克斯马赛大学合办，“4+0”模式，部分课程以法语作为教学和考核语言，学生入校后第一年须安排法语强化学习，法语达到欧洲共同语言参考标准B1水平方可注册第二学年法方学籍，不招收色盲、色弱、单色识别异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 39800
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "44",
+    "majorName": "车辆工程(中外合作办学)(与英国威尔士三一圣大卫大学合办)",
+    "majorRemark": "“4+0”模式，非英语考生谨慎报考，办学地点：军山校区",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 42000
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "45",
+    "majorName": "车辆工程(中外合作办学)(与英国伦敦布鲁内尔大学合办)",
+    "majorRemark": "“4+0”模式，非英语考生谨慎报考，办学地点：军山校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 79500
+  },
+  {
+    "collegeCode": "1748",
+    "collegeName": "武汉理工大学[公办]",
+    "majorCode": "46",
+    "majorName": "材料科学与工程(中外合作办学)",
+    "majorRemark": "与澳大利亚蒙纳士大学合办，“2+2”模式，学生需赴国外学习2年，非英语考生谨慎报考，办学地点：军山校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 81500
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "7",
+    "majorName": "外国语言文学类",
+    "majorRemark": "含英语、翻译专业；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "8",
+    "majorName": "生物技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "9",
+    "majorName": "机械类",
+    "majorRemark": "含机械设计制造及其自动化、智能制造工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "10",
+    "majorName": "功能材料",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "11",
+    "majorName": "通信工程(新一代通信技术方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "12",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、软件工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "13",
+    "majorName": "土木类",
+    "majorRemark": "含土木工程、智能建造专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "14",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "15",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程、食品质量与安全、粮食工程、食品营养与健康专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "16",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1752",
+    "collegeName": "武汉轻工大学[公办]",
+    "majorCode": "17",
+    "majorName": "生物工程类",
+    "majorRemark": "含生物工程、合成生物学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

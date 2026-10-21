@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "64",
+    "majorName": "工商管理(工商与计算机双学士学位)",
+    "majorRemark": "不招单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "65",
+    "majorName": "会计学(数智会计)",
+    "majorRemark": "不招单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "66",
+    "majorName": "公共事业管理",
+    "majorRemark": "师范类；不招单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "67",
+    "majorName": "行政管理(应急治理)",
+    "majorRemark": "不招单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "68",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "收费标准：54000元/年（待审批）",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "69",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "收费标准：54000元/年（待审批）",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "70",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "不招单色不能识别的考生。收费标准：54000元/年（待审批）",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1016",
+    "collegeName": "江西水利电力大学[公办]",
+    "majorCode": "5",
+    "majorName": "投资学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4270
+  },
+  {
+    "collegeCode": "1016",
+    "collegeName": "江西水利电力大学[公办]",
+    "majorCode": "6",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4530
+  },
+  {
+    "collegeCode": "1016",
+    "collegeName": "江西水利电力大学[公办]",
+    "majorCode": "7",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4530
+  },
+  {
+    "collegeCode": "1016",
+    "collegeName": "江西水利电力大学[公办]",
+    "majorCode": "8",
+    "majorName": "光电信息材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4530
+  },
+  {
+    "collegeCode": "1016",
+    "collegeName": "江西水利电力大学[公办]",
+    "majorCode": "9",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4530
+  },
+  {
+    "collegeCode": "1016",
+    "collegeName": "江西水利电力大学[公办]",
+    "majorCode": "10",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1016",
+    "collegeName": "江西水利电力大学[公办]",
+    "majorCode": "11",
+    "majorName": "智能电网信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1016",
+    "collegeName": "江西水利电力大学[公办]",
+    "majorCode": "12",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4790
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "13",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "14",
+    "majorName": "工业设计",
+    "majorRemark": "不需要有美术基础；请色盲、色弱考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "15",
+    "majorName": "智能车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "16",
+    "majorName": "宝石及材料工艺学",
+    "majorRemark": "请色盲、色弱考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "17",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "请色盲、色弱考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "18",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "请色盲、色弱考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "19",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "20",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "21",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "22",
+    "majorName": "人工智能(AI十)",
+    "majorRemark": "具身智能方向",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "23",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "24",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "25",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "请学习非英语语种的考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "26",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "2372",
+    "collegeName": "广州城市理工学院[民办]",
+    "majorCode": "27",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  }
+]

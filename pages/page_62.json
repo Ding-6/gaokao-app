@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "55",
+    "majorName": "工商管理类",
+    "majorRemark": "含会计学、工商管理、人力资源管理、物业管理专业；一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "56",
+    "majorName": "生物技术(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=100；和加拿大不列颠哥伦比亚大学合办。第一二三学年每年40000元，第四五学年我校收取每生每年5500元，UBC按学分收取学费，此部分学费标准以入学UBC当年的标准执行，目前每生每学分标准为1769.4加元，约60学分。北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": null
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "57",
+    "majorName": "木材科学与工程(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=100；和加拿大不列颠哥伦比亚大学合办。第一二三学年每年40000元，第四五学年我校收取每生每年5500元，UBC按学分收取学费，此部分学费标准以入学UBC当年的标准执行，目前每生每学分标准为1769.4加元，约70学分。北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": null
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "7",
+    "majorName": "应用化学",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "8",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "9",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "10",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "11",
+    "majorName": "食品质量与安全",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "12",
+    "majorName": "酿酒工程",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "13",
+    "majorName": "食品营养与健康",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "14",
+    "majorName": "生物工程",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "15",
+    "majorName": "农学",
+    "majorRemark": "不招收色盲、色弱考生。免收学费",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "16",
+    "majorName": "园艺",
+    "majorRemark": "不招收色盲、色弱考生。免收学费",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "17",
+    "majorName": "植物保护(植物医学)",
+    "majorRemark": "不招收色盲、色弱考生。免收学费",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "127",
+    "collegeName": "北京农学院[公办]",
+    "majorCode": "18",
+    "majorName": "设施农业科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

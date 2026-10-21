@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "37",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "38",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "39",
+    "majorName": "城市地下空间工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "40",
+    "majorName": "水文与水资源工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "41",
+    "majorName": "测绘类(测绘与信息类)",
+    "majorRemark": "含测绘工程、地理空间信息工程、遥感科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "42",
+    "majorName": "地质工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "43",
+    "majorName": "资源勘查工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "44",
+    "majorName": "地下水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "45",
+    "majorName": "资源环境大数据工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "46",
+    "majorName": "石油工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "47",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "48",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "49",
+    "majorName": "应急技术与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "50",
+    "majorName": "管理科学与工程类",
+    "majorRemark": "含信息管理与信息系统、工程管理专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "51",
+    "majorName": "应急管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

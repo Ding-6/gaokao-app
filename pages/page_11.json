@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "45",
+    "majorName": "交通工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "46",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "47",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "48",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "49",
+    "majorName": "风景园林",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "50",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "51",
+    "majorName": "消防工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "52",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "53",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "54",
+    "majorName": "应急管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "55",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "56",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "57",
+    "majorName": "劳动与社会保障",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "58",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "59",
+    "majorName": "城市管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "532",
+    "collegeName": "哈尔滨工业大学[公办]",
+    "majorCode": "7",
+    "majorName": "人工智能(中关村班)",
+    "majorRemark": "与中关村学院深度融合培养，培养方式详见学校招生官网",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "532",
+    "collegeName": "哈尔滨工业大学[公办]",
+    "majorCode": "8",
+    "majorName": "具身智能(大湾区班)",
+    "majorRemark": "院士担任班主任，深度融入创新创业课程，培养地点在深圳校区，培养方式详见学校招生官网",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6230
+  },
+  {
+    "collegeCode": "532",
+    "collegeName": "哈尔滨工业大学[公办]",
+    "majorCode": "9",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "该专业是与俄罗斯圣彼得堡国立大学合作。学生入学后不得转专业，“4+0”培养，中英文授课",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 68000
+  },
+  {
+    "collegeCode": "532",
+    "collegeName": "哈尔滨工业大学[公办]",
+    "majorCode": "10",
+    "majorName": "应用物理学(中外合作办学)",
+    "majorRemark": "不招色盲考生；该专业是与俄罗斯圣彼得堡国立大学合作。学生入学后不得转专业，“4+0”培养，中英文授课",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 68000
+  },
+  {
+    "collegeCode": "532",
+    "collegeName": "哈尔滨工业大学[公办]",
+    "majorCode": "11",
+    "majorName": "化学(中外合作办学)",
+    "majorRemark": "不招色盲、色弱考生；该专业是与俄罗斯圣彼得堡国立大学合作。学生入学后不得转专业，“4+0”培养，中英文授课",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 68000
+  },
+  {
+    "collegeCode": "532",
+    "collegeName": "哈尔滨工业大学[公办]",
+    "majorCode": "12",
+    "majorName": "生物技术(中外合作办学)",
+    "majorRemark": "不招色盲、色弱考生；该专业是与俄罗斯圣彼得堡国立大学合作。学生入学后不得转专业，“4+0”培养，中英文授课",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 68000
+  },
+  {
+    "collegeCode": "532",
+    "collegeName": "哈尔滨工业大学[公办]",
+    "majorCode": "13",
+    "majorName": "智慧建筑与建造(中外合作办学)",
+    "majorRemark": "该专业与意大利都灵理工大学合作。学生入学后不得转专业，“4+0”培养，中英文授课",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "532",
+    "collegeName": "哈尔滨工业大学[公办]",
+    "majorCode": "14",
+    "majorName": "大数据管理与应用(中外合作办学)",
+    "majorRemark": "该专业是与法国里昂商学院合作。学生入学后不得转专业，“4+0”培养，中英文授课",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 78000
+  },
+  {
+    "collegeCode": "535",
+    "collegeName": "哈尔滨工业大学(深圳)[公办]",
+    "majorCode": "2",
+    "majorName": "工科试验班(未来信息)",
+    "majorRemark": "含计算机科学与技术、通信工程专业；本专业类内任选专业",
+    "subjectRequirementText": "化学",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 6230
+  },
+  {
+    "collegeCode": "535",
+    "collegeName": "哈尔滨工业大学(深圳)[公办]",
+    "majorCode": "3",
+    "majorName": "工科试验班(自主智能)",
+    "majorRemark": "含人工智能、机器人工程、自动化专业；本专业类内任选专业",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 6230
+  },
+  {
+    "collegeCode": "535",
+    "collegeName": "哈尔滨工业大学(深圳)[公办]",
+    "majorCode": "4",
+    "majorName": "通信工程(中外合作办学)",
+    "majorRemark": "该专业是与韩国汉阳大学合作办学，学生入学后不得转专业，“4+0”培养模式，中英文授课",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "537",
+    "collegeName": "哈尔滨工业大学(威海)[公办]",
+    "majorCode": "2",
+    "majorName": "工科试验班(未来智造拔尖班)",
+    "majorRemark": "含机器人工程、智能制造工程、飞行器制造工程、机械设计制造及其自动化、焊接技术与工程、电子封装技术、材料科学与工程、能源与动力工程、电气工程及其自动化、精密仪器、测控技术与仪器、储能科学与工程、智能感知工程、高分子材料与工程、复合材料与工程、仿生科学与工程、光电信息材料与器件、材料成型及控制工程、智能医学工程专业；本专业类内任选专业，不允许转专业，同时不接受其他专业学生转入申请，培养地点：前2年威海校区，后2年校本部",
+    "subjectRequirementText": "化学",
+    "planCount": 62,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "537",
+    "collegeName": "哈尔滨工业大学(威海)[公办]",
+    "majorCode": "3",
+    "majorName": "工科试验班(未来信息)",
+    "majorRemark": "含计算机科学与技术、人工智能、网络空间安全、自动化、通信工程、电子信息工程、集成电路设计与集成系统、光电信息科学与工程、电气工程及其自动化专业；本专业类内任选专业",
+    "subjectRequirementText": "化学",
+    "planCount": 100,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "537",
+    "collegeName": "哈尔滨工业大学(威海)[公办]",
+    "majorCode": "4",
+    "majorName": "智能材料与结构(中外合作办学)",
+    "majorRemark": "该专业是与韩国汉阳大学合作办学，学生入学后不得转专业，“4+0”培养，中英文授课",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 85000
+  },
+  {
+    "collegeCode": "540",
+    "collegeName": "哈尔滨建筑科技职业大学(哈尔滨市)[公办]",
+    "majorCode": "10",
+    "majorName": "建筑材料智能制造",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

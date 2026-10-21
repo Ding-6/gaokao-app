@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "17",
+    "majorName": "数字媒体技术(中外合作办学)",
+    "majorRemark": "四年教学均安排在海南校区（海南省陵水黎安国际教育创新试验区）。本专业部分课程采用英语授课，建议非英语考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "18",
+    "majorName": "智能科学与技术(中外合作办学)",
+    "majorRemark": "一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。本专业部分课程采用英语授课，建议非英语考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "156",
+    "collegeName": "北京邮电大学[公办]",
+    "majorCode": "19",
+    "majorName": "智能医学工程(中外合作办学)",
+    "majorRemark": "四年教学均安排在海南校区（海南省陵水黎安国际教育创新试验区）。本专业部分课程采用英语授课，建议非英语考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "22",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "23",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "24",
+    "majorName": "国家安全学(网络安全)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "27",
+    "majorName": "认知科学与技术(语言学习科学实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "28",
+    "majorName": "中国语言文学类",
+    "majorRemark": "含汉语国际教育、汉语言文学、古典文献学、汉学与中国学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "29",
+    "majorName": "语言科学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "30",
+    "majorName": "外国语言文学类(英语和翻译)",
+    "majorRemark": "含英语、英语(英西复语)、商务英语、翻译(AI辅助翻译)专业；只招英语语种考生；须口试合格",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "31",
+    "majorName": "区域国别学",
+    "majorRemark": "只招英语语种考生；须口试合格",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "32",
+    "majorName": "数字出版",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "33",
+    "majorName": "心理学(脑科学与智能工程)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "34",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、人工智能、数据科学与大数据技术、数字媒体技术、软件工程(智能辅助开发)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "35",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "29",
+    "majorName": "医学实验技术",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "30",
+    "majorName": "医学影像技术",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "31",
+    "majorName": "眼视光学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "32",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "33",
+    "majorName": "卫生检验与检疫",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "34",
+    "majorName": "老年医学与健康",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "35",
+    "majorName": "核医学工程",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "38",
+    "majorName": "信息管理与信息系统(医学信息学方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "39",
+    "majorName": "智能医学工程",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "40",
+    "majorName": "生物医药数据科学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1434",
+    "collegeName": "山西医科大学[公办]",
+    "majorCode": "41",
+    "majorName": "康复治疗学(中外合作办学)",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程；学费暂定50000元/年，最终以发改委批复文件为准；报考前务必详询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1435",
+    "collegeName": "山西医药学院[公办]",
+    "majorCode": "1",
+    "majorName": "临床医学",
+    "majorRemark": "前两年在孝义校区就读，后三年在汾阳校区就读，不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "5",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1435",
+    "collegeName": "山西医药学院[公办]",
+    "majorCode": "2",
+    "majorName": "预防医学",
+    "majorRemark": "前两年在孝义校区就读，后三年在汾阳校区就读，不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1435",
+    "collegeName": "山西医药学院[公办]",
+    "majorCode": "3",
+    "majorName": "药学",
+    "majorRemark": "孝义校区就读，不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1435",
+    "collegeName": "山西医药学院[公办]",
+    "majorCode": "4",
+    "majorName": "医学检验技术",
+    "majorRemark": "孝义校区就读，不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

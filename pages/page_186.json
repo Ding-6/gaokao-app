@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "383",
+    "collegeName": "福建理工大学(福州市)[公办]",
+    "majorCode": "12",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "第一学年在鼓山校区培养，后续学年在旗山校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "383",
+    "collegeName": "福建理工大学(福州市)[公办]",
+    "majorCode": "13",
+    "majorName": "交通运输",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程，第一学年在鼓山校区培养，后续学年在旗山校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "383",
+    "collegeName": "福建理工大学(福州市)[公办]",
+    "majorCode": "14",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程，第一学年在鼓山校区培养，后续学年在旗山校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "383",
+    "collegeName": "福建理工大学(福州市)[公办]",
+    "majorCode": "15",
+    "majorName": "工程管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程，第一学年在鼓山校区培养，后续学年在旗山校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "383",
+    "collegeName": "福建理工大学(福州市)[公办]",
+    "majorCode": "16",
+    "majorName": "工业工程",
+    "majorRemark": "第一学年在鼓山校区培养，后续学年在旗山校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "383",
+    "collegeName": "福建理工大学(福州市)[公办]",
+    "majorCode": "17",
+    "majorName": "信息与计算科学(中外合作办学)",
+    "majorRemark": "在旗山校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "6",
+    "majorName": "数字经济",
+    "majorRemark": "在福州大学城校区报到，第一年在福州大学城校区就读，后三年在泉州安溪校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "7",
+    "majorName": "自然地理与资源环境",
+    "majorRemark": "在福州仓山校区报到",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "8",
+    "majorName": "海洋科学",
+    "majorRemark": "在福州仓山校区报到，不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "9",
+    "majorName": "海洋资源与环境",
+    "majorRemark": "在福州仓山校区报到",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "10",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物科学、生物技术专业；在福州仓山校区报到，不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "11",
+    "majorName": "生态学",
+    "majorRemark": "在福州仓山校区报到，不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "12",
+    "majorName": "网络工程",
+    "majorRemark": "在福州大学城校区报到，第一年在福州大学城校区就读，后三年在泉州安溪校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "13",
+    "majorName": "土木工程",
+    "majorRemark": "在福州大学城校区报到",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "14",
+    "majorName": "制药工程",
+    "majorRemark": "在福州仓山校区报到，不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  }
+]

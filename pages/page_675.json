@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "10",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4720
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "11",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "12",
+    "majorName": "应用化学(拔尖创新人才班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "13",
+    "majorName": "应用化学(对口支援高校联合培养班)",
+    "majorRemark": "与华东理工大学、北京化工大学施行联合培养，第一、四学年在青海大学学习，第二、三学年在对口支援高校学习，学籍归属青海大学。若出现课程不及格、违反校纪校规、学术不端或身心状况不适宜等情况将自动退出项目并转入同专业普通班级。具体管理办法详见化工学院官网",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "14",
+    "majorName": "生物技术",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "15",
+    "majorName": "生物技术(高原生物学菁英班)",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "16",
+    "majorName": "生态学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "17",
+    "majorName": "生态学(高原生物学菁英班)",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "18",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "19",
+    "majorName": "机械设计制造及其自动化(创新人才实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "20",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "21",
+    "majorName": "过程装备与控制工程",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "22",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "23",
+    "majorName": "冶金工程",
+    "majorRemark": "不招色盲考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1320",
+    "collegeName": "青海大学(西宁市)[公办]",
+    "majorCode": "24",
+    "majorName": "新能源材料与器件(计算材料创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  }
+]

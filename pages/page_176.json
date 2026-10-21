@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "10",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "11",
+    "majorName": "材料类",
+    "majorRemark": "含高分子材料与工程、无机非金属材料工程、复合材料与工程(卓越班)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 7700
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "12",
+    "majorName": "功能材料",
+    "majorRemark": "含医疗与健康材料、复合材料与人工智能、新能源与光电材料、半导体与智能材料方向",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7700
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "13",
+    "majorName": "能源与环境系统工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "14",
+    "majorName": "电子信息类",
+    "majorRemark": "含电气工程及其自动化、自动化、通信工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "15",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "16",
+    "majorName": "人工智能",
+    "majorRemark": "专业选修方向分为：智能计算与知识工程、智能感知与机器人",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "17",
+    "majorName": "计算机类",
+    "majorRemark": "含软件工程、计算机科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "18",
+    "majorName": "纺织工程(艺工融合双学位)",
+    "majorRemark": "纺织工程与产品设计艺工融合双学位项目",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7700
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "19",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色弱、色盲、单色不识别考生，详见院校章程；设置生物材料医疗器械与微纳诊疗、柔性电子与智能可穿戴医疗2个主要学科方向",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "361",
+    "collegeName": "东华大学[公办]",
+    "majorCode": "20",
+    "majorName": "管理科学与工程类",
+    "majorRemark": "含信息管理与信息系统、电子商务、供应链管理专业；其中信息管理与信息系统专业、电子商务专业授予工学学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "3",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "4",
+    "majorName": "数学与应用数学",
+    "majorRemark": "抚州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "5",
+    "majorName": "物理学",
+    "majorRemark": "抚州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "364",
+    "collegeName": "东华理工大学[公办]",
+    "majorCode": "6",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  }
+]

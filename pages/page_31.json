@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "60",
+    "collegeName": "蚌埠医科大学[公办]",
+    "majorCode": "2",
+    "majorName": "食品质量与安全",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "60",
+    "collegeName": "蚌埠医科大学[公办]",
+    "majorCode": "3",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "60",
+    "collegeName": "蚌埠医科大学[公办]",
+    "majorCode": "4",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "9",
+    "majorName": "数字经济",
+    "majorRemark": "不招单色识别不全考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "10",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "11",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "12",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "13",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "14",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "地理",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6420
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "15",
+    "majorName": "人文地理与城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "16",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "17",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "18",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "19",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "20",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "1",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "在龙湖校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "2",
+    "majorName": "地理信息科学",
+    "majorRemark": "在凤阳校区就读",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "3",
+    "majorName": "环境工程",
+    "majorRemark": "在凤阳校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "4",
+    "majorName": "食品科学与工程",
+    "majorRemark": "在滁州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "5",
+    "majorName": "食品质量与安全",
+    "majorRemark": "在滁州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "6",
+    "majorName": "食品营养与健康",
+    "majorRemark": "在滁州校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "7",
+    "majorName": "建筑学",
+    "majorRemark": "在龙湖校区就读",
+    "subjectRequirementText": "地理",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "8",
+    "majorName": "城乡规划",
+    "majorRemark": "在龙湖校区就读",
+    "subjectRequirementText": "地理",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "9",
+    "majorName": "生物工程",
+    "majorRemark": "在凤阳校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "10",
+    "majorName": "农学",
+    "majorRemark": "在凤阳校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "11",
+    "majorName": "智慧农业",
+    "majorRemark": "在凤阳校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "12",
+    "majorName": "动物科学",
+    "majorRemark": "在凤阳校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "13",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "在龙湖校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "14",
+    "majorName": "财务管理",
+    "majorRemark": "在龙湖校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "24",
+    "collegeName": "安徽科技工程大学(蚌埠市)[公办]",
+    "majorCode": "15",
+    "majorName": "物流管理",
+    "majorRemark": "在龙湖校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

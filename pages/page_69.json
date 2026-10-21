@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "17",
+    "majorName": "人工智能(勤信实验班)",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "18",
+    "majorName": "机器人工程(勤信实验班)",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "19",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "20",
+    "majorName": "计算机科学与技术(勤信实验班)",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "21",
+    "majorName": "网络工程",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "22",
+    "majorName": "物联网工程",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "23",
+    "majorName": "智能科学与技术",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "24",
+    "majorName": "数据科学与大数据技术(天枢书院)",
+    "majorRemark": "在张家口校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "25",
+    "majorName": "信息管理与信息系统(天枢书院)",
+    "majorRemark": "在张家口校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "26",
+    "majorName": "大数据管理与应用(勤信实验班)",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "27",
+    "majorName": "大数据管理与应用(天枢书院)",
+    "majorRemark": "在张家口校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "28",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "29",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "151",
+    "collegeName": "北京信息科技大学[公办]",
+    "majorCode": "30",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "在沙河校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "154",
+    "collegeName": "北京印刷学院[公办]",
+    "majorCode": "10",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4200
+  }
+]

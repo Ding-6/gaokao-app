@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "16",
+    "majorName": "理科试验班(南强书院卓越领航班)",
+    "majorRemark": "含数学与应用数学、统计学、物理学、化学、海洋科学、生物科学、生态学、药学专业；入学后全校专业任选，不限于上述包含专业。实施“一生一方案”一体化培养计划，致力于培养具备深厚理科素养、原始创新能力和学科交叉视野的卓越领航人才，为投身基础科学前沿、破解人类未知难题奠定坚实基础",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "17",
+    "majorName": "经济学类(含双学士学位项目选拔)",
+    "majorRemark": "含金融学、财政学、税收学、国际经济与贸易、经济学专业；分流时本专业类内专业任选。入校后可选拔进入王亚南经济学专业本科创新实验班、财政学国际化试验班、经济学/金融学+数据科学与大数据技术、税收学+法学双学士学位项目等特色培养项目",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "18",
+    "majorName": "金融工程",
+    "majorRemark": "入校后可选拔进入经济学/金融学+数据科学与大数据技术、税收学+法学双学士学位项目",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "19",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学、统计学专业；分流时本专业类内专业任选。入校后可选拔进入景润拔尖班--数学国家级拔尖学生培养基地",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "20",
+    "majorName": "物理学类(含物理学、天文学)",
+    "majorRemark": "含物理学、天文学专业；分流时本专业类内专业任选。入校后可选拔进入萨本栋物理学国家级拔尖学生培养基地、天文学拔尖学生培养基地",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "21",
+    "majorName": "化学类",
+    "majorRemark": "含化学、能源化学、化学生物学、化学测量学与技术专业；色盲色弱及不能准确识别红、黄、绿、蓝、紫任何一种颜色的导线、按键、信号灯、几何图形者不予录取。分流时本专业类内专业任选。入校后可选拔进入化学国家级拔尖学生培养基地",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "22",
+    "majorName": "统计学类",
+    "majorRemark": "含经济统计学、统计学、数据科学专业；分流时本专业类内专业任选。入校后可选拔进入经济学/金融学+数据科学与大数据技术、税收学+法学双学士学位项目",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "23",
+    "majorName": "能源动力类",
+    "majorRemark": "含新能源科学与工程、储能科学与工程专业；分流时本专业类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1837",
+    "collegeName": "厦门大学[公办]",
+    "majorCode": "24",
+    "majorName": "会计学(会计、财务、审计，含双学士学位项目选拔)",
+    "majorRemark": "分流时本专业类（含会计学、财务管理、审计学专业）内专业任选。入校后可选拔进入会计学/财务管理+人工智能双学士学位项目",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1840",
+    "collegeName": "厦门大学(马来西亚分校)[公办]",
+    "majorCode": "6",
+    "majorName": "金融学(厦门大学马来西亚分校招生专业)",
+    "majorRemark": "单科成绩要求：外语>=120；学费2.9万林吉特/学年。全英文授课，非英语语种考生慎报。入学第一学年内获得专业要求的达标英语成绩后开始学位课程学习。办学地点在马来西亚雪邦",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1840",
+    "collegeName": "厦门大学(马来西亚分校)[公办]",
+    "majorCode": "7",
+    "majorName": "数学与应用数学(厦门大学马来西亚分校招生专业)",
+    "majorRemark": "单科成绩要求：外语>=120；学费2.8万林吉特/学年。全英文授课，非英语语种考生慎报。入学第一学年内获得专业要求的达标英语成绩后开始学位课程学习。办学地点在马来西亚雪邦",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1840",
+    "collegeName": "厦门大学(马来西亚分校)[公办]",
+    "majorCode": "8",
+    "majorName": "物理学(厦门大学马来西亚分校招生专业)",
+    "majorRemark": "单科成绩要求：外语>=120；学费3.1万林吉特/学年。全英文授课，非英语语种考生慎报。入学第一学年内获得专业要求的达标英语成绩后开始学位课程学习。办学地点在马来西亚雪邦",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1840",
+    "collegeName": "厦门大学(马来西亚分校)[公办]",
+    "majorCode": "9",
+    "majorName": "数据科学(厦门大学马来西亚分校招生专业)",
+    "majorRemark": "单科成绩要求：外语>=120；学费3.2万林吉特/学年。全英文授课，非英语语种考生慎报。入学第一学年内获得专业要求的达标英语成绩后开始学位课程学习。办学地点在马来西亚雪邦",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1840",
+    "collegeName": "厦门大学(马来西亚分校)[公办]",
+    "majorCode": "10",
+    "majorName": "新能源科学与工程(厦门大学马来西亚分校招生专业)",
+    "majorRemark": "单科成绩要求：外语>=120；学费3.1万林吉特/学年。全英文授课，非英语语种考生慎报。入学第一学年内获得专业要求的达标英语成绩后开始学位课程学习。办学地点在马来西亚雪邦",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1840",
+    "collegeName": "厦门大学(马来西亚分校)[公办]",
+    "majorCode": "11",
+    "majorName": "电子信息工程(厦门大学马来西亚分校招生专业)",
+    "majorRemark": "单科成绩要求：外语>=120；色盲色弱考生不予录取。学费3.1万林吉特/学年。全英文授课，非英语语种考生慎报。入学第一学年内获得专业要求的达标英语成绩后开始学位课程学习。办学地点在马来西亚雪邦",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  }
+]

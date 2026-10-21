@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "6",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "7",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "8",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "9",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "10",
+    "majorName": "过程装备与控制工程",
+    "majorRemark": "色弱、色盲及单色不可识别者慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "11",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "12",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "14",
+    "majorName": "材料科学与工程(绿色钛现代产业学院)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "15",
+    "majorName": "冶金工程(菁英)",
+    "majorRemark": "色盲及单色不可识别者慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "16",
+    "majorName": "功能材料",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "17",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "18",
+    "majorName": "新能源科学与工程(绿色能源现代产业学院)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "19",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "20",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1064",
+    "collegeName": "昆明理工大学[公办]",
+    "majorCode": "21",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

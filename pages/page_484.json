@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "20",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "21",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "22",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "23",
+    "majorName": "制药工程",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "24",
+    "majorName": "食品科学与工程",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "25",
+    "majorName": "临床医学",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "26",
+    "majorName": "药学",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "27",
+    "majorName": "医学检验技术",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "941",
+    "collegeName": "吉首大学[公办]",
+    "majorCode": "29",
+    "majorName": "工商管理",
+    "majorRemark": "单色不识别考生不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "10",
+    "majorName": "经济学",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "11",
+    "majorName": "财政学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "12",
+    "majorName": "金融学(双学士学位项目)",
+    "majorRemark": "“金融学+数学与应用数学”双学士学位复合型人才培养项目",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "13",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "14",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "15",
+    "majorName": "数学与应用数学(双学士学位项目)",
+    "majorRemark": "“数学与应用数学+经济学”双学士学位复合型人才培养项目",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  }
+]

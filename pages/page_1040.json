@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "47",
+    "majorName": "生物育种技术",
+    "majorRemark": "回龙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "48",
+    "majorName": "农业资源与环境",
+    "majorRemark": "回龙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "49",
+    "majorName": "医学检验技术",
+    "majorRemark": "回龙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "50",
+    "majorName": "工商管理",
+    "majorRemark": "一年级就读于回龙校区，后就读于钱湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "51",
+    "majorName": "会计学",
+    "majorRemark": "一年级就读于回龙校区，后就读于钱湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "52",
+    "majorName": "财务管理",
+    "majorRemark": "一年级就读于回龙校区，后就读于钱湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "53",
+    "majorName": "物流管理",
+    "majorRemark": "一年级就读于回龙校区，后就读于钱湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "54",
+    "majorName": "供应链管理",
+    "majorRemark": "一年级就读于回龙校区，后就读于钱湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "55",
+    "majorName": "电子商务",
+    "majorRemark": "一年级就读于回龙校区，后就读于钱湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "56",
+    "majorName": "跨境电子商务",
+    "majorRemark": "一年级就读于回龙校区，后就读于钱湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2017",
+    "collegeName": "浙江万里学院(宁波市)[公办]",
+    "majorCode": "57",
+    "majorName": "智能影像工程",
+    "majorRemark": "回龙校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2018",
+    "collegeName": "浙江药科职业大学[公办]",
+    "majorCode": "2",
+    "majorName": "化妆品工程技术",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2018",
+    "collegeName": "浙江药科职业大学[公办]",
+    "majorCode": "3",
+    "majorName": "制药工程技术",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2018",
+    "collegeName": "浙江药科职业大学[公办]",
+    "majorCode": "4",
+    "majorName": "药品质量管理",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2018",
+    "collegeName": "浙江药科职业大学[公办]",
+    "majorCode": "5",
+    "majorName": "康复工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

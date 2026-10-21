@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "33",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 107,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "34",
+    "majorName": "工业设计",
+    "majorRemark": "含包装设计方向",
+    "subjectRequirementText": "化学",
+    "planCount": 153,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "35",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 162,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "36",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 126,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "37",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 104,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "38",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 110,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "39",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 73,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "40",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 136,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "41",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 110,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "42",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 96,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "43",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 107,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "44",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 100,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "45",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 110,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "46",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 120,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "47",
+    "majorName": "制药工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 76,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

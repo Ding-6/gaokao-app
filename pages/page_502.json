@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "974",
+    "collegeName": "江苏第二师范学院(南京市)[公办]",
+    "majorCode": "2",
+    "majorName": "数学与应用数学(师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "974",
+    "collegeName": "江苏第二师范学院(南京市)[公办]",
+    "majorCode": "3",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "不招色盲、单色不识别考生；与德国威瑟堡应用技术大学合作，四年均在江苏第二师范学院学习，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26400
+  },
+  {
+    "collegeCode": "974",
+    "collegeName": "江苏第二师范学院(南京市)[公办]",
+    "majorCode": "4",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "不招单色不识别考生；与美国迪吉彭理工学院合作，四年均在江苏第二师范学院学习，学费暂定59000元/年，最终以院校公示为准，具体咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "9",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "10",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "11",
+    "majorName": "应用气象学",
+    "majorRemark": "不招色盲且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "12",
+    "majorName": "海洋科学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "13",
+    "majorName": "海洋技术",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "14",
+    "majorName": "海洋资源与环境",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "15",
+    "majorName": "生物技术",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "16",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "17",
+    "majorName": "储能科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "18",
+    "majorName": "海洋信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "19",
+    "majorName": "土木、水利与海洋工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "979",
+    "collegeName": "江苏海洋大学(连云港市)[公办]",
+    "majorCode": "20",
+    "majorName": "港口航道与海岸工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  }
+]

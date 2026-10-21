@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "59",
+    "majorName": "装甲车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "60",
+    "majorName": "信息对抗技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "61",
+    "majorName": "智能无人系统技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "62",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "63",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "64",
+    "majorName": "应急技术与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "65",
+    "majorName": "生物工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "66",
+    "majorName": "市场营销",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "67",
+    "majorName": "财务管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2034",
+    "collegeName": "中北大学[公办]",
+    "majorCode": "68",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "16",
+    "majorName": "新闻学(新闻舆论学方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "17",
+    "majorName": "广告学(计算广告双学士学位实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "18",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "19",
+    "majorName": "人工智能(智能视听卓越人才实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "20",
+    "majorName": "智能视听工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

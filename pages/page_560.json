@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "29",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；不招色弱、色盲和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "30",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "31",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "32",
+    "majorName": "日语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "33",
+    "majorName": "商务英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "34",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "35",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "36",
+    "majorName": "历史学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "37",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 142,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "38",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 104,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "39",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色弱、色盲和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 110,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "40",
+    "majorName": "应用化学",
+    "majorRemark": "不招色弱、色盲和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "41",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物科学(师范类)、生物技术专业；不招色弱、色盲和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 143,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "42",
+    "majorName": "心理学",
+    "majorRemark": "师范类；不招色弱、色盲和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1090",
+    "collegeName": "廊坊师范学院[公办]",
+    "majorCode": "43",
+    "majorName": "材料化学",
+    "majorRemark": "不招色弱、色盲和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 69,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

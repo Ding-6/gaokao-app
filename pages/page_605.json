@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "32",
+    "majorName": "智能建造与智慧交通",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "33",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "34",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "35",
+    "majorName": "核工程与核技术(含卓越工程师班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "36",
+    "majorName": "辐射防护与核安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "37",
+    "majorName": "核化工与核燃料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "38",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "39",
+    "majorName": "建筑学",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "40",
+    "majorName": "城乡规划",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "41",
+    "majorName": "风景园林",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "42",
+    "majorName": "安全工程(含卓越工程师班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "43",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "44",
+    "majorName": "麻醉学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "45",
+    "majorName": "预防医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "1181",
+    "collegeName": "南华大学(衡阳市)[公办]",
+    "majorCode": "46",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 7500
+  }
+]

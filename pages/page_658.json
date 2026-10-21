@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "35",
+    "majorName": "动物科学",
+    "majorRemark": "农林类；在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "36",
+    "majorName": "动物医学",
+    "majorRemark": "农林类；在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "37",
+    "majorName": "林学",
+    "majorRemark": "农林类；在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "38",
+    "majorName": "草业科学(生物双学士学位项目)",
+    "majorRemark": "农林类；草业科学、生物技术专业双学士学位项目，在银川校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "39",
+    "majorName": "大数据管理与应用(中卫校区)",
+    "majorRemark": "在中卫校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "40",
+    "majorName": "机械工程(中外合作办学)",
+    "majorRemark": "在银川校区就读，第三学年赴马来西亚彭亨大学学习",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 23800
+  },
+  {
+    "collegeCode": "1267",
+    "collegeName": "宁夏大学(银川市)[公办]",
+    "majorCode": "41",
+    "majorName": "葡萄与葡萄酒工程(中外合作办学)",
+    "majorRemark": "在银川校区就读，第四学年赴新西兰尼尔森马尔伯勒理工学院学习",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "1268",
+    "collegeName": "宁夏工商职业技术大学[公办]",
+    "majorCode": "9",
+    "majorName": "机械设计制造及自动化",
+    "majorRemark": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1268",
+    "collegeName": "宁夏工商职业技术大学[公办]",
+    "majorCode": "10",
+    "majorName": "电气工程及自动化",
+    "majorRemark": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1268",
+    "collegeName": "宁夏工商职业技术大学[公办]",
+    "majorCode": "11",
+    "majorName": "应用化工技术",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程。学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1272",
+    "collegeName": "宁夏师范大学(固原市)[公办]",
+    "majorCode": "10",
+    "majorName": "科学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1272",
+    "collegeName": "宁夏师范大学(固原市)[公办]",
+    "majorCode": "11",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1272",
+    "collegeName": "宁夏师范大学(固原市)[公办]",
+    "majorCode": "12",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生；须口试合格；单科成绩要求：外语>=80",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1272",
+    "collegeName": "宁夏师范大学(固原市)[公办]",
+    "majorCode": "13",
+    "majorName": "翻译",
+    "majorRemark": "只招英语语种考生；须口试合格；单科成绩要求：外语>=80",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1272",
+    "collegeName": "宁夏师范大学(固原市)[公办]",
+    "majorCode": "14",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类；单科成绩要求：数学>=75",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4840
+  }
+]

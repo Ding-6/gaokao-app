@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "598",
+    "collegeName": "河北大学(保定市)(国际本科学术互认课程项目)[公办]",
+    "majorCode": "9",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "单科成绩要求：外语>=105；该专业为本科学术互认课程(ISEC)项目高收费专业，采用英语或中英双语授课，国内就读期间学费为28000元/年。若申请国外学习，国外学习阶段学费按国外大学收费标准由国外大学收取。请考生报考前务必咨询高校或查看学校章程，以免因为学费影响入学；不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "不限",
+    "planCount": 120,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "601",
+    "collegeName": "河北大学(保定市)(少数民族预科班)[公办]",
+    "majorCode": "2",
+    "majorName": "本科预科班",
+    "majorRemark": "少数民族预科班，招少数民族考生，在河北师范大学附属民族学院学习一年后成绩合格转入本校学习，详情向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 35,
+    "duration": "1",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "14",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、金融学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 44,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "15",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 32,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "16",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "17",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "18",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学、应用统计学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 131,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "19",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "20",
+    "majorName": "防灾减灾科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "21",
+    "majorName": "材料类",
+    "majorRemark": "含矿物加工工程、材料科学与工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "22",
+    "majorName": "宝石及材料工艺学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "23",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 31,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "24",
+    "majorName": "计算机类",
+    "majorRemark": "含通信工程、软件工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 59,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "25",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "校企深度合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 259,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "26",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

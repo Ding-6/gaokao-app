@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "22",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "23",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "24",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "25",
+    "majorName": "化学工程与工业生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "26",
+    "majorName": "纺织类",
+    "majorRemark": "含纺织工程、非织造材料与工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "27",
+    "majorName": "纺织工程",
+    "majorRemark": "未来纺织创新人才班",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "28",
+    "majorName": "服装设计与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "29",
+    "majorName": "轻化工程",
+    "majorRemark": "卓越工程师教育培养计划；不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "30",
+    "majorName": "环境工程",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "31",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "32",
+    "majorName": "工商管理",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "33",
+    "majorName": "会计学",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "34",
+    "majorName": "人力资源管理",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1769",
+    "collegeName": "西安工业大学[公办]",
+    "majorCode": "5",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1769",
+    "collegeName": "西安工业大学[公办]",
+    "majorCode": "6",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  }
+]

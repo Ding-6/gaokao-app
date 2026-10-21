@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "403",
+    "collegeName": "复旦大学[公办]",
+    "majorCode": "6",
+    "majorName": "工科试验班(计算与智能领军人才班)",
+    "majorRemark": "含人工智能专业；含下一代多模态大模型与智能体体系方向、数字安全方向",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "403",
+    "collegeName": "复旦大学[公办]",
+    "majorCode": "7",
+    "majorName": "工科试验班(未来信息领军人才班)",
+    "majorRemark": "含电子信息科学与技术专业；含“光子计划”院士班",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "403",
+    "collegeName": "复旦大学[公办]",
+    "majorCode": "8",
+    "majorName": "工科试验班(未来信息创新学院)",
+    "majorRemark": "含电子信息科学与技术、通信工程、光电信息科学与工程专业；含未来信息产教融合班。含光电信息科学与工程-信息与计算科学（人工智能方向）、电子信息科学与技术-信息与计算科学（人工智能方向）双学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "403",
+    "collegeName": "复旦大学[公办]",
+    "majorCode": "9",
+    "majorName": "理科试验班(相辉学堂相辉计划)",
+    "majorRemark": "含数学与应用数学、物理学、化学、生物科学专业；含数学、物理、化学、生物科学英才班",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7700
+  },
+  {
+    "collegeCode": "403",
+    "collegeName": "复旦大学[公办]",
+    "majorCode": "10",
+    "majorName": "计算机科学与技术(拔尖人才试验班)",
+    "majorRemark": "含下一代多模态大模型与智能体体系方向、数字安全方向",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "403",
+    "collegeName": "复旦大学[公办]",
+    "majorCode": "11",
+    "majorName": "数据科学与大数据技术(数字孪生)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7700
+  },
+  {
+    "collegeCode": "406",
+    "collegeName": "复旦大学医学院[公办]",
+    "majorCode": "1",
+    "majorName": "临床医学(八年制正谊明道班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "8",
+    "tuition": 8140
+  },
+  {
+    "collegeCode": "406",
+    "collegeName": "复旦大学医学院[公办]",
+    "majorCode": "2",
+    "majorName": "临床医学(卓越临床医师班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 8140
+  },
+  {
+    "collegeCode": "406",
+    "collegeName": "复旦大学医学院[公办]",
+    "majorCode": "3",
+    "majorName": "口腔医学",
+    "majorRemark": "含卓越口腔医师班。含口腔颌面外科方向；含口腔医学-人工智能双学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 7400
+  },
+  {
+    "collegeCode": "406",
+    "collegeName": "复旦大学医学院[公办]",
+    "majorCode": "4",
+    "majorName": "预防医学",
+    "majorRemark": "含预防医学拔尖班。含预防医学-人工智能、预防医学-公共事业管理双学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 8140
+  },
+  {
+    "collegeCode": "406",
+    "collegeName": "复旦大学医学院[公办]",
+    "majorCode": "5",
+    "majorName": "药学",
+    "majorRemark": "含药学拔尖班、药学产教融合班。含创新药物转化方向、药品监管科学方向；含药学-人工智能、药学-经济学双学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 8140
+  },
+  {
+    "collegeCode": "414",
+    "collegeName": "甘肃林业职业技术大学[公办]",
+    "majorCode": "7",
+    "majorName": "设施园艺",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "414",
+    "collegeName": "甘肃林业职业技术大学[公办]",
+    "majorCode": "8",
+    "majorName": "智慧林业技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "414",
+    "collegeName": "甘肃林业职业技术大学[公办]",
+    "majorCode": "9",
+    "majorName": "园林工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "414",
+    "collegeName": "甘肃林业职业技术大学[公办]",
+    "majorCode": "10",
+    "majorName": "林草保护工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  }
+]

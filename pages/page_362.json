@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "28",
+    "majorName": "水产养殖学(数智渔业方向)",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "715",
+    "collegeName": "河南医药大学[公办]",
+    "majorCode": "4",
+    "majorName": "麻醉学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "715",
+    "collegeName": "河南医药大学[公办]",
+    "majorCode": "5",
+    "majorName": "医学影像学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "715",
+    "collegeName": "河南医药大学[公办]",
+    "majorCode": "6",
+    "majorName": "精神医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "715",
+    "collegeName": "河南医药大学[公办]",
+    "majorCode": "7",
+    "majorName": "儿科学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "715",
+    "collegeName": "河南医药大学[公办]",
+    "majorCode": "8",
+    "majorName": "临床药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "715",
+    "collegeName": "河南医药大学[公办]",
+    "majorCode": "9",
+    "majorName": "法医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "717",
+    "collegeName": "河南中医药大学(郑州市)[公办]",
+    "majorCode": "3",
+    "majorName": "英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "717",
+    "collegeName": "河南中医药大学(郑州市)[公办]",
+    "majorCode": "4",
+    "majorName": "中西医临床医学",
+    "majorRemark": "不招色盲、色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "717",
+    "collegeName": "河南中医药大学(郑州市)[公办]",
+    "majorCode": "6",
+    "majorName": "公共管理类",
+    "majorRemark": "含公共事业管理(卫生事业管理方向)、健康服务与管理、应用心理学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "718",
+    "collegeName": "河套学院[公办]",
+    "majorCode": "1",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "719",
+    "collegeName": "河西学院(张掖市)[公办]",
+    "majorCode": "5",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "719",
+    "collegeName": "河西学院(张掖市)[公办]",
+    "majorCode": "6",
+    "majorName": "化学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "719",
+    "collegeName": "河西学院(张掖市)[公办]",
+    "majorCode": "7",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "719",
+    "collegeName": "河西学院(张掖市)[公办]",
+    "majorCode": "8",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  }
+]

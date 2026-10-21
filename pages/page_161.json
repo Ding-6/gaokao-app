@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "44",
+    "majorName": "财务管理(中外合作办学)(与英国萨里大学合作办学)",
+    "majorRemark": "与英国萨里大学合作办学；录取后首年强化英语学习，升入大二时要求学生英文水平须能够适应全英文授课环境；具体详情咨询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "4",
+    "majorName": "经济管理试验班",
+    "majorRemark": "含工业工程、信息管理与信息系统、工商管理、会计学、市场营销、金融学、经济学专业；入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "5",
+    "majorName": "工科试验班(2)",
+    "majorRemark": "含矿物加工工程、遥感科学与技术、资源勘查工程、环境工程、安全工程、土木工程专业；入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "6",
+    "majorName": "工科试验班(1)",
+    "majorRemark": "含冶金工程、环境科学、资源循环科学与工程专业；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "7",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学专业；入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "8",
+    "majorName": "应用物理学",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "9",
+    "majorName": "化学类",
+    "majorRemark": "含化学、应用化学专业；入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "10",
+    "majorName": "工程力学",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "11",
+    "majorName": "机械类",
+    "majorRemark": "含机械工程、真空工程与技术、智能车辆工程、工业设计专业",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "12",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "13",
+    "majorName": "材料类",
+    "majorRemark": "含材料科学与工程、材料成型及控制工程、材料物理、功能材料专业；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "14",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "15",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "16",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "17",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息工程、通信工程专业；入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  }
+]

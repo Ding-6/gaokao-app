@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2740",
+    "collegeName": "新疆昆仑科技学院[民办]",
+    "majorCode": "11",
+    "majorName": "低空技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 27170
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "21",
+    "majorName": "建筑装饰工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "22",
+    "majorName": "智能建造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "23",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "24",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "25",
+    "majorName": "电梯工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "26",
+    "majorName": "电梯工程技术",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "27",
+    "majorName": "无人机系统应用技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "28",
+    "majorName": "无人机系统应用技术",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "29",
+    "majorName": "新能源汽车工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "30",
+    "majorName": "新能源汽车工程技术",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "31",
+    "majorName": "民航运输服务与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "32",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "33",
+    "majorName": "数字媒体技术",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "34",
+    "majorName": "大数据工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 12700
+  }
+]

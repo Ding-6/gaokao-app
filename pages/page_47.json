@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "85",
+    "collegeName": "北京第二外国语学院[公办]",
+    "majorCode": "26",
+    "majorName": "财务管理(智能财务)",
+    "majorRemark": "单科成绩要求：外语>=90；辅修英语专业，合格者可获得相应辅修学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "86",
+    "collegeName": "北京电影学院[公办]",
+    "majorCode": "6",
+    "majorName": "戏剧影视文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "89",
+    "collegeName": "北京服装学院[公办]",
+    "majorCode": "3",
+    "majorName": "工业设计",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "89",
+    "collegeName": "北京服装学院[公办]",
+    "majorCode": "4",
+    "majorName": "智能交互设计",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "89",
+    "collegeName": "北京服装学院[公办]",
+    "majorCode": "5",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "89",
+    "collegeName": "北京服装学院[公办]",
+    "majorCode": "6",
+    "majorName": "智能工程与创意设计",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "89",
+    "collegeName": "北京服装学院[公办]",
+    "majorCode": "7",
+    "majorName": "服装设计与工程",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "89",
+    "collegeName": "北京服装学院[公办]",
+    "majorCode": "8",
+    "majorName": "轻化工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "1",
+    "majorName": "应用化学(日化创新实验班)",
+    "majorRemark": "不招收色盲、色弱、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "2",
+    "majorName": "材料类",
+    "majorRemark": "含高分子材料与工程(环境友好高分子、新型智能高分子)、功能材料(先进新材料、高端电子材料)、高分子材料与工程(新材料智造与智能财务双学士学位项目)专业；不招收色盲、色弱、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "3",
+    "majorName": "高分子材料与工程(求真书院实验班)",
+    "majorRemark": "不招收色盲、色弱、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "4",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "5",
+    "majorName": "数据科学与大数据技术(创新书院实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "6",
+    "majorName": "香料香精技术与工程",
+    "majorRemark": "不招收色盲、色弱、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "90",
+    "collegeName": "北京工商大学[公办]",
+    "majorCode": "7",
+    "majorName": "化妆品技术与工程(卓越工程班、化妆品与营销双学士学位项目)",
+    "majorRemark": "不招收色盲、色弱、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

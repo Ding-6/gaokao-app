@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "15",
+    "majorName": "能源化学",
+    "majorRemark": "不招色盲色弱及单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "16",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；不招色盲及单色识别不全者",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "17",
+    "majorName": "自然地理与资源环境",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "18",
+    "majorName": "人文地理与城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "19",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "20",
+    "majorName": "大气科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "21",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；不招色盲色弱及单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "22",
+    "majorName": "生物技术",
+    "majorRemark": "不招色盲色弱及单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "23",
+    "majorName": "生态学",
+    "majorRemark": "不招色盲色弱及单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "24",
+    "majorName": "材料化学",
+    "majorRemark": "不招色盲色弱及单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "25",
+    "majorName": "纳米材料与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "26",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "28",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "29",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5520
+  }
+]

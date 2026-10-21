@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "30",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "31",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "32",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "33",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "34",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "35",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "36",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "37",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "38",
+    "majorName": "建筑电气与智能化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "39",
+    "majorName": "道路桥梁与渡河工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "40",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "41",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "42",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "43",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "21",
+    "collegeName": "安徽建筑大学(合肥市)[公办]",
+    "majorCode": "44",
+    "majorName": "地质工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

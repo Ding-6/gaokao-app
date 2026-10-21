@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "65",
+    "majorName": "智慧林业",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 3600
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "66",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "67",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "68",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "69",
+    "majorName": "农林经济管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "70",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "71",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "72",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "73",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "74",
+    "majorName": "金融学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=100；与英国班戈大学联合举办，绝大部分专业课采用全英文教学和考核，非英语语种考生慎重填报，录取学生不得转专业；考生务必详见该项目当年招生简章",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 38000
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "75",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=100；与英国班戈大学联合举办，绝大部分专业课采用全英文教学和考核，非英语语种考生慎重填报，录取学生不得转专业；考生务必详见该项目当年招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "76",
+    "majorName": "林学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=100；与英国班戈大学联合举办，绝大部分专业课采用全英文教学和考核，非英语语种考生慎重填报，录取学生不得转专业；考生务必详见该项目当年招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 37000
+  },
+  {
+    "collegeCode": "2106",
+    "collegeName": "中南林业科技大学[公办]",
+    "majorCode": "77",
+    "majorName": "会计学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=100；与英国班戈大学联合举办，绝大部分专业课采用全英文教学和考核，非英语语种考生慎重填报，录取学生不得转专业；考生务必详见该项目当年招生简章",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 38000
+  },
+  {
+    "collegeCode": "2107",
+    "collegeName": "中南民族大学(武汉市)[公办]",
+    "majorCode": "7",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、金融学、国际经济与贸易专业",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2107",
+    "collegeName": "中南民族大学(武汉市)[公办]",
+    "majorCode": "8",
+    "majorName": "社会学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

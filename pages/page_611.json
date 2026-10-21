@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "24",
+    "majorName": "交通工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "25",
+    "majorName": "水质科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "26",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "27",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "28",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "29",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "30",
+    "majorName": "应急技术与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "31",
+    "majorName": "生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "32",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6800
+  },
+  {
+    "collegeCode": "1188",
+    "collegeName": "南京工业大学[公办]",
+    "majorCode": "33",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1190",
+    "collegeName": "南京工业职业技术大学[公办]",
+    "majorCode": "3",
+    "majorName": "电气工程及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1190",
+    "collegeName": "南京工业职业技术大学[公办]",
+    "majorCode": "4",
+    "majorName": "自动化技术与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1190",
+    "collegeName": "南京工业职业技术大学[公办]",
+    "majorCode": "5",
+    "majorName": "航空智能制造技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "10",
+    "majorName": "信息与计算科学(信息与计算科学+人工智能双学士学位培养项目)",
+    "majorRemark": "一、二年级在常州市天目湖校区就读，三、四年级在南京市将军路校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "11",
+    "majorName": "工程力学(钱伟长班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  }
+]

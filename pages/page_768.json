@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "17",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "18",
+    "majorName": "电气工程与智能控制",
+    "majorRemark": "辽阳分校",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "19",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "20",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "21",
+    "majorName": "工业智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "22",
+    "majorName": "软件工程",
+    "majorRemark": "软件学院",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 9400
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "23",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "24",
+    "majorName": "电子与计算机工程",
+    "majorRemark": "辽阳分校",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "25",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "26",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "辽阳分校，不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "27",
+    "majorName": "油气储运工程",
+    "majorRemark": "辽阳分校，不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "28",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "29",
+    "majorName": "环保设备工程",
+    "majorRemark": "辽阳分校",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "30",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1534",
+    "collegeName": "沈阳工业大学[公办]",
+    "majorCode": "31",
+    "majorName": "工程管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

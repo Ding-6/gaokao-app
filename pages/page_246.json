@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "555",
+    "collegeName": "海军军医大学[公办]",
+    "majorCode": "1",
+    "majorName": "临床医学",
+    "majorRemark": "录取分数不低于特殊类型招生录取控制分数线；学校只招收普通高中应届毕业生，考生政治面貌须为共青团员或中共党员，考生不用参加政治考核和军检，入学后无军籍，不享受生长军官学员相关待遇，毕业后面向社会自主就业，其他要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "5",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "555",
+    "collegeName": "海军军医大学[公办]",
+    "majorCode": "2",
+    "majorName": "麻醉学",
+    "majorRemark": "录取分数不低于特殊类型招生录取控制分数线；学校只招收普通高中应届毕业生，考生政治面貌须为共青团员或中共党员，考生不用参加政治考核和军检，入学后无军籍，不享受生长军官学员相关待遇，毕业后面向社会自主就业，其他要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "555",
+    "collegeName": "海军军医大学[公办]",
+    "majorCode": "3",
+    "majorName": "医学影像学",
+    "majorRemark": "录取分数不低于特殊类型招生录取控制分数线；学校只招收普通高中应届毕业生，考生政治面貌须为共青团员或中共党员，考生不用参加政治考核和军检，入学后无军籍，不享受生长军官学员相关待遇，毕业后面向社会自主就业，其他要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "555",
+    "collegeName": "海军军医大学[公办]",
+    "majorCode": "4",
+    "majorName": "中医学",
+    "majorRemark": "录取分数不低于特殊类型招生录取控制分数线；学校只招收普通高中应届毕业生，考生政治面貌须为共青团员或中共党员，考生不用参加政治考核和军检，入学后无军籍，不享受生长军官学员相关待遇，毕业后面向社会自主就业，其他要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "555",
+    "collegeName": "海军军医大学[公办]",
+    "majorCode": "5",
+    "majorName": "药学",
+    "majorRemark": "录取分数不低于特殊类型招生录取控制分数线；学校只招收普通高中应届毕业生，考生政治面貌须为共青团员或中共党员，考生不用参加政治考核和军检，入学后无军籍，不享受生长军官学员相关待遇，毕业后面向社会自主就业，其他要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "555",
+    "collegeName": "海军军医大学[公办]",
+    "majorCode": "6",
+    "majorName": "护理学",
+    "majorRemark": "录取分数不低于特殊类型招生录取控制分数线；学校只招收普通高中应届毕业生，考生政治面貌须为共青团员或中共党员，考生不用参加政治考核和军检，入学后无军籍，不享受生长军官学员相关待遇，毕业后面向社会自主就业，其他要求详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "556",
+    "collegeName": "海南比勒费尔德应用科学大学[中外合作办学]",
+    "majorCode": "2",
+    "majorName": "经济工程",
+    "majorRemark": "英语教学为主，非英语语种考生慎重报考",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "556",
+    "collegeName": "海南比勒费尔德应用科学大学[中外合作办学]",
+    "majorCode": "3",
+    "majorName": "电气工程与智能控制",
+    "majorRemark": "英语教学为主，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "556",
+    "collegeName": "海南比勒费尔德应用科学大学[中外合作办学]",
+    "majorCode": "4",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "单色识别不清者不予录取，详见院校招生章程；英语教学为主，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "556",
+    "collegeName": "海南比勒费尔德应用科学大学[中外合作办学]",
+    "majorCode": "5",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "单色识别不清者不予录取，详见院校招生章程；英语教学为主，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "556",
+    "collegeName": "海南比勒费尔德应用科学大学[中外合作办学]",
+    "majorCode": "6",
+    "majorName": "软件工程",
+    "majorRemark": "单色识别不清者不予录取，详见院校招生章程；英语教学为主，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "556",
+    "collegeName": "海南比勒费尔德应用科学大学[中外合作办学]",
+    "majorCode": "7",
+    "majorName": "物流工程",
+    "majorRemark": "英语教学为主，非英语语种考生慎重报考",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "18",
+    "majorName": "金融学",
+    "majorRemark": "观澜湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "19",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "20",
+    "majorName": "应用物理学",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "612",
+    "collegeName": "河北工业大学(天津市)(地方专项计划)[公办]",
+    "majorCode": "29",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "612",
+    "collegeName": "河北工业大学(天津市)(地方专项计划)[公办]",
+    "majorCode": "30",
+    "majorName": "制药工程",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "612",
+    "collegeName": "河北工业大学(天津市)(地方专项计划)[公办]",
+    "majorCode": "31",
+    "majorName": "环境工程",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "612",
+    "collegeName": "河北工业大学(天津市)(地方专项计划)[公办]",
+    "majorCode": "32",
+    "majorName": "生物工程",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "612",
+    "collegeName": "河北工业大学(天津市)(地方专项计划)[公办]",
+    "majorCode": "33",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "612",
+    "collegeName": "河北工业大学(天津市)(地方专项计划)[公办]",
+    "majorCode": "34",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "612",
+    "collegeName": "河北工业大学(天津市)(地方专项计划)[公办]",
+    "majorCode": "35",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "614",
+    "collegeName": "河北工业大学(天津市)(少数民族预科班)[公办]",
+    "majorCode": "2",
+    "majorName": "本科预科班",
+    "majorRemark": "少数民族预科班，招少数民族考生，在河北师范大学附属民族学院学习一年后成绩合格转入本校学习，详情向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "1",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "20",
+    "majorName": "生态环境工程技术",
+    "majorRemark": "色盲色弱考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "21",
+    "majorName": "安全工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "22",
+    "majorName": "消防工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "23",
+    "majorName": "钢铁智能冶金技术",
+    "majorRemark": "色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "24",
+    "majorName": "钢铁智能轧制技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 52,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "25",
+    "majorName": "材料化冶金应用技术",
+    "majorRemark": "色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "26",
+    "majorName": "智能建造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

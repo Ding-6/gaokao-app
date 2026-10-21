@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1646",
+    "collegeName": "天津城建大学[公办]",
+    "majorCode": "52",
+    "majorName": "风景园林(中外合作办学)",
+    "majorRemark": "与波兰克拉科夫工业大学合办，学生须在大三年级出国访学一年；不招色弱、色盲、单色不识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 48000
+  },
+  {
+    "collegeCode": "1649",
+    "collegeName": "天津大学[公办]",
+    "majorCode": "5",
+    "majorName": "工科试验班(国家未来技术学院)",
+    "majorRemark": "任选五大未来人才培养方向(具身智能、人工智能、柔性电子、脑机接口、集成电路)，或任选全校各院级大师班，或任选全校所有专业。100%实施超常规培养",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1649",
+    "collegeName": "天津大学[公办]",
+    "majorCode": "6",
+    "majorName": "工科试验班(全国新工科教育创新中心)",
+    "majorRemark": "含人工智能图灵班、精仪王守融班、网安拔尖创新班、软件未来领军班、微电子吴咏诗英才班、未来能源精英班、计算机许镇宇班、自动化卓越创新班、机械学院未来机器人领军班、合成生物学大师班、化工卓越领军班、茅以升未来建设工程智慧平台、医学院瑞恒班、新材料师昌绪班；全国新工科建设工作组组长单位，可任选14个院级大师班，实施精英化培养",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1649",
+    "collegeName": "天津大学[公办]",
+    "majorCode": "7",
+    "majorName": "工科试验班(电气信息类)",
+    "majorRemark": "含电气工程及其自动化、电子信息工程、通信工程、物联网工程、智能电网信息工程、自动化、机器人工程专业；大类分流专业任选；转专业无次数限制；设有自动化学院卓越创新班；拥有智能配用电装备与系统全国重点实验室、智能电网教育部重点实验室",
+    "subjectRequirementText": "化学",
+    "planCount": 82,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1649",
+    "collegeName": "天津大学[公办]",
+    "majorCode": "8",
+    "majorName": "工科试验班(国家特色化示范性软件学院智能与计算类)",
+    "majorRemark": "含计算机科学与技术、人工智能、软件工程、网络空间安全专业；大类分流专业任选；转专业无次数限制；设有人工智能图灵班、计算机许镇宇班、软件未来领军班，网安拔尖创新班，是国家一流网络安全学院、国家示范性软件学院",
+    "subjectRequirementText": "化学",
+    "planCount": 69,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1649",
+    "collegeName": "天津大学[公办]",
+    "majorCode": "9",
+    "majorName": "工科试验班(国家试点学院精仪与光电信息类)",
+    "majorRemark": "含测控技术与仪器、电子科学与技术(光电子技术)、光电信息科学与工程、智能感知工程专业；大类分流专业任选；转专业无次数限制；设有精仪王守融班",
+    "subjectRequirementText": "化学",
+    "planCount": 67,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1649",
+    "collegeName": "天津大学[公办]",
+    "majorCode": "10",
+    "majorName": "工科试验班(国家示范性微电子学院集成电路类)",
+    "majorRemark": "含电子科学与技术(微电子)、集成电路设计与集成系统专业；大类分流专业任选；转专业无次数限制；设有微电子吴咏诗英才班",
+    "subjectRequirementText": "化学",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1649",
+    "collegeName": "天津大学[公办]",
+    "majorCode": "11",
+    "majorName": "光电信息科学与工程(与南开大学合办)",
+    "majorRemark": "学位证书上注明南开大学和天津大学",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1649",
+    "collegeName": "天津大学[公办]",
+    "majorCode": "12",
+    "majorName": "计算机科学与技术(内地与港澳台合作办学)",
+    "majorRemark": "办学地点位于深圳，与香港理工大学合作办学。毕业授予天津大学与香港理工大学两校学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 130000
+  },
+  {
+    "collegeCode": "1649",
+    "collegeName": "天津大学[公办]",
+    "majorCode": "13",
+    "majorName": "智能医学工程(内地与港澳台合作办学，脑机接口方向)",
+    "majorRemark": "办学地点位于深圳，与香港理工大学合作办学。毕业授予天津大学与香港理工大学两校学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 130000
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "12",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学、应用统计学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "13",
+    "majorName": "应用物理学",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "14",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "15",
+    "majorName": "化学生物学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1653",
+    "collegeName": "天津工业大学[公办]",
+    "majorCode": "16",
+    "majorName": "机械工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5400
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "204",
+    "collegeName": "长春汽车职业技术大学[公办]",
+    "majorCode": "14",
+    "majorName": "信息安全与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "204",
+    "collegeName": "长春汽车职业技术大学[公办]",
+    "majorCode": "15",
+    "majorName": "人工智能工程技术",
+    "majorRemark": "学费暂定9000元/年，最终以发改委批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "204",
+    "collegeName": "长春汽车职业技术大学[公办]",
+    "majorCode": "16",
+    "majorName": "集成电路工程技术",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "204",
+    "collegeName": "长春汽车职业技术大学[公办]",
+    "majorCode": "17",
+    "majorName": "物流工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 8800
+  },
+  {
+    "collegeCode": "205",
+    "collegeName": "长春师范大学[公办]",
+    "majorCode": "7",
+    "majorName": "智能制造工程",
+    "majorRemark": "我校与长春三友汽车部件制造有限公司合作办学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 13000
+  },
+  {
+    "collegeCode": "205",
+    "collegeName": "长春师范大学[公办]",
+    "majorCode": "8",
+    "majorName": "人工智能",
+    "majorRemark": "我校与科大讯飞股份有限公司合作办学专业；学费暂定8500元/年，最终以发改委批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "205",
+    "collegeName": "长春师范大学[公办]",
+    "majorCode": "9",
+    "majorName": "跨境电子商务",
+    "majorRemark": "我校与福建海狮集团有限公司合作办学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 13000
+  },
+  {
+    "collegeCode": "205",
+    "collegeName": "长春师范大学[公办]",
+    "majorCode": "10",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "我校与澳大利亚南十字星大学合作办学专业。主干课用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "206",
+    "collegeName": "长春师范大学(国际创新课程项目)[公办]",
+    "majorCode": "2",
+    "majorName": "经济与金融",
+    "majorRemark": "国际创新课程项目，主干课用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "206",
+    "collegeName": "长春师范大学(国际创新课程项目)[公办]",
+    "majorCode": "3",
+    "majorName": "科学教育",
+    "majorRemark": "师范类；国际创新课程项目，主干课用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "206",
+    "collegeName": "长春师范大学(国际创新课程项目)[公办]",
+    "majorCode": "4",
+    "majorName": "地理信息科学",
+    "majorRemark": "国际创新课程项目，主干课用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "206",
+    "collegeName": "长春师范大学(国际创新课程项目)[公办]",
+    "majorCode": "5",
+    "majorName": "车辆工程",
+    "majorRemark": "国际创新课程项目，主干课用英语授课，非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "206",
+    "collegeName": "长春师范大学(国际创新课程项目)[公办]",
+    "majorCode": "6",
+    "majorName": "环境科学",
+    "majorRemark": "国际创新课程项目，主干课用英语授课，非英语语种考生慎重报考。不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "209",
+    "collegeName": "长春职业技术大学[公办]",
+    "majorCode": "5",
+    "majorName": "现代畜牧",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "209",
+    "collegeName": "长春职业技术大学[公办]",
+    "majorCode": "6",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 8800
+  }
+]

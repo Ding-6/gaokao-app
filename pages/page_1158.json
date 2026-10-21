@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2205",
+    "collegeName": "首都师范大学科德学院[独立学院]",
+    "majorCode": "9",
+    "majorName": "汉语言文学",
+    "majorRemark": "学费包含一次粤港地区研学或实习实践，2026级全体学生原则上均赴粤港地区开展名校研学或名企实习实践，该过程纳入学分。学校培养模式、收费标准等，考生报考前请务必向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 79800
+  },
+  {
+    "collegeCode": "2205",
+    "collegeName": "首都师范大学科德学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "网络与新媒体",
+    "majorRemark": "学费包含一次粤港地区研学或实习实践，2026级全体学生原则上均赴粤港地区开展名校研学或名企实习实践，该过程纳入学分。学校培养模式、收费标准等，考生报考前请务必向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 79800
+  },
+  {
+    "collegeCode": "2205",
+    "collegeName": "首都师范大学科德学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "应用心理学",
+    "majorRemark": "学费包含一次粤港地区研学或实习实践，2026级全体学生原则上均赴粤港地区开展名校研学或名企实习实践，该过程纳入学分。学校培养模式、收费标准等，考生报考前请务必向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 79800
+  },
+  {
+    "collegeCode": "2205",
+    "collegeName": "首都师范大学科德学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "人工智能",
+    "majorRemark": "学费包含一次粤港地区研学或实习实践，2026级全体学生原则上均赴粤港地区开展名校研学或名企实习实践，该过程纳入学分。学校培养模式、收费标准等，考生报考前请务必向院校咨询",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 79800
+  },
+  {
+    "collegeCode": "2205",
+    "collegeName": "首都师范大学科德学院[独立学院]",
+    "majorCode": "13",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "学费包含一次粤港地区研学或实习实践，2026级全体学生原则上均赴粤港地区开展名校研学或名企实习实践，该过程纳入学分。学校培养模式、收费标准等，考生报考前请务必向院校咨询",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 79800
+  },
+  {
+    "collegeCode": "2205",
+    "collegeName": "首都师范大学科德学院[独立学院]",
+    "majorCode": "14",
+    "majorName": "会计学",
+    "majorRemark": "学费包含一次粤港地区研学或实习实践，2026级全体学生原则上均赴粤港地区开展名校研学或名企实习实践，该过程纳入学分。学校培养模式、收费标准等，考生报考前请务必向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 79800
+  },
+  {
+    "collegeCode": "2205",
+    "collegeName": "首都师范大学科德学院[独立学院]",
+    "majorCode": "15",
+    "majorName": "审计学",
+    "majorRemark": "学费包含一次粤港地区研学或实习实践，2026级全体学生原则上均赴粤港地区开展名校研学或名企实习实践，该过程纳入学分。学校培养模式、收费标准等，考生报考前请务必向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 79800
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "8",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "13",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "14",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2206",
+    "collegeName": "四川大学锦江学院[独立学院]",
+    "majorCode": "15",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  }
+]

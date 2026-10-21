@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "27",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "28",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 84,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "29",
+    "majorName": "金属材料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "30",
+    "majorName": "金属材料工程(创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "31",
+    "majorName": "无机非金属材料工程",
+    "majorRemark": "色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 63,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "32",
+    "majorName": "无机非金属材料工程(创新实验班)",
+    "majorRemark": "色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "33",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 52,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "34",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 61,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "35",
+    "majorName": "电子信息材料",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "36",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 119,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "37",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 94,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "38",
+    "majorName": "储能科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 140,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "39",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 278,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "40",
+    "majorName": "电气工程及其自动化(创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "41",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 134,
+    "duration": "4",
+    "tuition": 5800
+  }
+]

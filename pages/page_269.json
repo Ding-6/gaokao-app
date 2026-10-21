@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "40",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "41",
+    "majorName": "制药工程",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "42",
+    "majorName": "食品科学与工程",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "43",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "44",
+    "majorName": "农学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "45",
+    "majorName": "园艺",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "46",
+    "majorName": "植物保护",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "47",
+    "majorName": "智慧农业",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "48",
+    "majorName": "动物科学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 100,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "49",
+    "majorName": "动物医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 190,
+    "duration": "5",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "50",
+    "majorName": "动植物检疫",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "51",
+    "majorName": "草业科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "52",
+    "majorName": "临床医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 246,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "53",
+    "majorName": "麻醉学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "54",
+    "majorName": "医学影像学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "5",
+    "tuition": 5700
+  }
+]

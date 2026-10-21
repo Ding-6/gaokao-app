@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "61",
+    "majorName": "会计学",
+    "majorRemark": "在亚心校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "62",
+    "majorName": "人力资源管理",
+    "majorRemark": "在亚心校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "63",
+    "majorName": "农林经济管理",
+    "majorRemark": "在亚心校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "64",
+    "majorName": "公共事业管理",
+    "majorRemark": "在亚心校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "65",
+    "majorName": "公共事业管理",
+    "majorRemark": "在塔城校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "66",
+    "majorName": "土地资源管理",
+    "majorRemark": "在亚心校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "67",
+    "majorName": "物流工程",
+    "majorRemark": "在亚心校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "68",
+    "majorName": "旅游管理",
+    "majorRemark": "在塔城校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "69",
+    "majorName": "土木工程(中外合作办学)",
+    "majorRemark": "在亚心校区就读；俄罗斯托木斯克国立建筑大学",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "1872",
+    "collegeName": "新疆农业大学[公办]",
+    "majorCode": "70",
+    "majorName": "交通运输(中外合作办学)",
+    "majorRemark": "在亚心校区就读；俄罗斯国立太平洋大学",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "5",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "1873",
+    "collegeName": "新疆农业大学(八协计划)[公办]",
+    "majorCode": "2",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "在亚心校区就读；八协计划，招加试蒙古语文考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1873",
+    "collegeName": "新疆农业大学(八协计划)[公办]",
+    "majorCode": "3",
+    "majorName": "食品质量与安全",
+    "majorRemark": "在亚心校区就读；八协计划，招加试蒙古语文考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "20",
+    "majorName": "现代种业技术",
+    "majorRemark": "农林类；不招色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "21",
+    "majorName": "作物生产与品质改良",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "22",
+    "majorName": "设施园艺",
+    "majorRemark": "农林类；不招色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  }
+]

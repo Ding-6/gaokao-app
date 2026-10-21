@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "67",
+    "majorName": "行政管理(中外合作办学)",
+    "majorRemark": "大部分课程采用英文教材和英语授课，非英语语种考生慎报。观澜湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 73000
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "68",
+    "majorName": "电子商务(中外合作办学)",
+    "majorRemark": "大部分课程采用英文教材和英语授课，非英语语种考生慎报。观澜湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "69",
+    "majorName": "酒店管理(中外合作办学)",
+    "majorRemark": "大部分课程采用英文教材和英语授课，非英语语种考生慎报。观澜湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 73000
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "70",
+    "majorName": "会展经济与管理(中外合作办学)",
+    "majorRemark": "大部分课程采用英文教材和英语授课，非英语语种考生慎报。观澜湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "559",
+    "collegeName": "海南洛桑旅游大学[中外合作办学]",
+    "majorCode": "2",
+    "majorName": "烹饪与营养教育",
+    "majorRemark": "单科成绩要求：外语>=100",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "559",
+    "collegeName": "海南洛桑旅游大学[中外合作办学]",
+    "majorCode": "3",
+    "majorName": "酒店管理",
+    "majorRemark": "单科成绩要求：外语>=100",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "17",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "18",
+    "majorName": "数据计算及应用",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "19",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "20",
+    "majorName": "化学",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "21",
+    "majorName": "海洋科学",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "22",
+    "majorName": "海洋技术",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "23",
+    "majorName": "海洋资源与环境",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "24",
+    "majorName": "生物科学",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "560",
+    "collegeName": "海南热带海洋学院(三亚市)[公办]",
+    "majorCode": "25",
+    "majorName": "生物技术",
+    "majorRemark": "不招色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4620
+  }
+]

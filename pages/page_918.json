@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1804",
+    "collegeName": "西北政法大学(西安市)[公办]",
+    "majorCode": "27",
+    "majorName": "法学",
+    "majorRemark": "行政法学院培养",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1804",
+    "collegeName": "西北政法大学(西安市)[公办]",
+    "majorCode": "28",
+    "majorName": "法学",
+    "majorRemark": "国际法学院培养",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1804",
+    "collegeName": "西北政法大学(西安市)[公办]",
+    "majorCode": "29",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1804",
+    "collegeName": "西北政法大学(西安市)[公办]",
+    "majorCode": "30",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "14",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "15",
+    "majorName": "财政学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "16",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "17",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生；单科成绩要求：外语>=90",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "18",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=90",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3360
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "19",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类；单科成绩要求：数学>=90",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "20",
+    "majorName": "物理学",
+    "majorRemark": "师范类；单科成绩要求：数学>=90",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "21",
+    "majorName": "化学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "22",
+    "majorName": "地理科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "23",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "1805",
+    "collegeName": "西藏大学(拉萨市)[公办]",
+    "majorCode": "26",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 3360
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "38",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "279",
+    "collegeName": "重庆交通大学[公办]",
+    "majorCode": "39",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "合作院校：英国诺森比亚大学。外方学费按当年外方学校收费标准执行",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "3",
+    "majorName": "化学",
+    "majorRemark": "不招收色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "4",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "5",
+    "majorName": "冶金工程",
+    "majorRemark": "不招收色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "6",
+    "majorName": "焊接技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "7",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "8",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "9",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "10",
+    "majorName": "制药工程",
+    "majorRemark": "不招收色弱、色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5880
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "11",
+    "majorName": "资源勘查工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "12",
+    "majorName": "石油工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "13",
+    "majorName": "油气储运工程",
+    "majorRemark": "不招收色盲、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "14",
+    "majorName": "海洋油气工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "280",
+    "collegeName": "重庆科技大学[公办]",
+    "majorCode": "15",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5880
+  }
+]

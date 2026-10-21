@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "27",
+    "majorName": "水利类",
+    "majorRemark": "含地下水科学与工程、水文与水资源工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 27,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "28",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 47,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "29",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "30",
+    "majorName": "地质类",
+    "majorRemark": "含地质学、古生物学、资源勘查工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 57,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "31",
+    "majorName": "地质工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 27,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "32",
+    "majorName": "勘查技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 48,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "33",
+    "majorName": "资源环境大数据工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "34",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "35",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "36",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 37,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "37",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "38",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、市场营销、人力资源管理、旅游管理专业；企业管理方向",
+    "subjectRequirementText": "不限",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "39",
+    "majorName": "工商管理类",
+    "majorRemark": "含会计学、审计学专业；财会方向",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "40",
+    "majorName": "公共管理类",
+    "majorRemark": "含行政管理、劳动与社会保障专业",
+    "subjectRequirementText": "不限",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "602",
+    "collegeName": "河北地质大学[公办]",
+    "majorCode": "41",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

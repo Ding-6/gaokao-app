@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "845",
+    "collegeName": "湖南文理学院(常德市)[公办]",
+    "majorCode": "11",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "非英语语种考生慎重填报。合作高校：美国科罗拉多州立大学普韦布洛分校",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "845",
+    "collegeName": "湖南文理学院(常德市)[公办]",
+    "majorCode": "12",
+    "majorName": "信息管理与信息系统(中外合作办学)",
+    "majorRemark": "非英语语种考生慎重填报。合作高校：加拿大菲莎河谷大学。单色不识别考生谨慎填报",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "847",
+    "collegeName": "湖南医药学院(怀化市)[公办]",
+    "majorCode": "1",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "847",
+    "collegeName": "湖南医药学院(怀化市)[公办]",
+    "majorCode": "2",
+    "majorName": "医学影像学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "847",
+    "collegeName": "湖南医药学院(怀化市)[公办]",
+    "majorCode": "3",
+    "majorName": "针灸推拿学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "847",
+    "collegeName": "湖南医药学院(怀化市)[公办]",
+    "majorCode": "4",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "847",
+    "collegeName": "湖南医药学院(怀化市)[公办]",
+    "majorCode": "5",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "14",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "15",
+    "majorName": "商务英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "16",
+    "majorName": "应用心理学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "17",
+    "majorName": "医学信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "18",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "19",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "20",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "21",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  }
+]

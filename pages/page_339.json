@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "48",
+    "majorName": "安全工程",
+    "majorRemark": "大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "49",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "50",
+    "majorName": "工程管理(数智创新班)",
+    "majorRemark": "大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "51",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "52",
+    "majorName": "机械工程(中外合作办学)(河海里尔学院)",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "53",
+    "majorName": "土木工程(中外合作办学)(河海里尔学院)",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "10",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "11",
+    "majorName": "财政学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "12",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "13",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "14",
+    "majorName": "数学与应用数学",
+    "majorRemark": "大一在文北校区就读，大二至大四在郑东校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "15",
+    "majorName": "统计学",
+    "majorRemark": "大一在文北校区就读，大二至大四在郑东校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "16",
+    "majorName": "人工智能",
+    "majorRemark": "大一在文北校区就读，大二至大四在郑东校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "17",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "大一在文北校区就读，大二至大四在郑东校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "684",
+    "collegeName": "河南财经政法大学(郑州市)[公办]",
+    "majorCode": "18",
+    "majorName": "软件工程(智能金融方向)",
+    "majorRemark": "省级特色化示范性软件学院，大一在文北校区就读，大二至大四在郑东校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 12000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "704",
+    "collegeName": "河南农业大学(郑州市)[公办]",
+    "majorCode": "49",
+    "majorName": "动物科学(中外合作办学)",
+    "majorRemark": "农林类；不招色盲、色弱、单色不识别考生，详见院校章程；澳大利亚新英格兰大学",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "14",
+    "majorName": "运动人体科学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "15",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4840
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "16",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "17",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "18",
+    "majorName": "地理科学(智能人居与空间治理方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "19",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；不招色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "20",
+    "majorName": "生态学(卓越人才班)",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "21",
+    "majorName": "智能材料与结构",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 9000
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "22",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "23",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "24",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 9000
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "25",
+    "majorName": "医学信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 9000
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "26",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "707",
+    "collegeName": "河南师范大学(新乡市)[公办]",
+    "majorCode": "27",
+    "majorName": "环境科学与工程类",
+    "majorRemark": "含环境工程、环境科学专业；其中：环境工程专业不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

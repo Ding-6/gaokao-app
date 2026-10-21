@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "44",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母者不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 85,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "45",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 88,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "46",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "47",
+    "majorName": "制药工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 59,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "48",
+    "majorName": "食品科学与工程",
+    "majorRemark": "色弱、色盲不能录取，不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 53,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "49",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 63,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "50",
+    "majorName": "财务管理",
+    "majorRemark": "不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "51",
+    "majorName": "文化产业管理",
+    "majorRemark": "不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "52",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "53",
+    "majorName": "化学工程与工艺(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=80；该专业与马来西亚思特雅国际大学学院大学合作办学，学生四年均在邯郸学院学习，学费33000元/年。该专业外语教学科目使用英语教学，请考生谨慎填报，入学后不得转入其他专业学习，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 99,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "569",
+    "collegeName": "邯郸学院[公办]",
+    "majorCode": "54",
+    "majorName": "环境生态工程(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=90；该专业与波兰华沙应用科学技术与艺术大学（原波兰华沙生态与管理大学）合作办学，学生第六学期和第七学期须出国学习。国内学习期间，学费23000元/年，由邯郸学院收取。国外学习期间，按照华沙应用科学技术与艺术大学当年国际学生学费水平收取，由外方大学收取，我校不向学生双重收费。该专业外语教学科目使用英语教学，请考生谨慎填报，入学后不得转入其他专业学习，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 82,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "573",
+    "collegeName": "韩山师范学院[公办]",
+    "majorCode": "4",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "573",
+    "collegeName": "韩山师范学院[公办]",
+    "majorCode": "5",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "574",
+    "collegeName": "汉江师范学院[公办]",
+    "majorCode": "6",
+    "majorName": "经济与金融",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "574",
+    "collegeName": "汉江师范学院[公办]",
+    "majorCode": "7",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

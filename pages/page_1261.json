@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2502",
+    "collegeName": "兰州工商学院[民办]",
+    "majorCode": "6",
+    "majorName": "经济与金融",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2502",
+    "collegeName": "兰州工商学院[民办]",
+    "majorCode": "7",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2502",
+    "collegeName": "兰州工商学院[民办]",
+    "majorCode": "8",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2502",
+    "collegeName": "兰州工商学院[民办]",
+    "majorCode": "9",
+    "majorName": "会计学(注册会计师方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2502",
+    "collegeName": "兰州工商学院[民办]",
+    "majorCode": "10",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2505",
+    "collegeName": "兰州信息科技学院[民办]",
+    "majorCode": "1",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2505",
+    "collegeName": "兰州信息科技学院[民办]",
+    "majorCode": "2",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2505",
+    "collegeName": "兰州信息科技学院[民办]",
+    "majorCode": "3",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2505",
+    "collegeName": "兰州信息科技学院[民办]",
+    "majorCode": "4",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2505",
+    "collegeName": "兰州信息科技学院[民办]",
+    "majorCode": "5",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "21",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21500
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "22",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21500
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "23",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21500
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "24",
+    "majorName": "学前教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2506",
+    "collegeName": "丽江文化旅游学院[民办]",
+    "majorCode": "25",
+    "majorName": "小学教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 21000
+  }
+]

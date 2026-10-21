@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "22",
+    "majorName": "农业智能装备工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "23",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "24",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "25",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "26",
+    "majorName": "粮食工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "27",
+    "majorName": "酿酒工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "28",
+    "majorName": "风景园林",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "37",
+    "majorName": "农药化肥",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "39",
+    "majorName": "农业资源与环境",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "40",
+    "majorName": "水土保持与荒漠化防治",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "46",
+    "majorName": "林学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "53",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "54",
+    "majorName": "农林经济管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "55",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "928",
+    "collegeName": "吉林农业大学(长春市)[公办]",
+    "majorCode": "56",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  }
+]

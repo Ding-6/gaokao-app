@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "833",
+    "collegeName": "湖南女子学院(长沙市)[公办]",
+    "majorCode": "18",
+    "majorName": "虚拟现实技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "833",
+    "collegeName": "湖南女子学院(长沙市)[公办]",
+    "majorCode": "19",
+    "majorName": "旅游地学与规划工程",
+    "majorRemark": "色盲色弱的考生请谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "833",
+    "collegeName": "湖南女子学院(长沙市)[公办]",
+    "majorCode": "20",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "836",
+    "collegeName": "湖南人文科技学院(娄底市)[公办]",
+    "majorCode": "2",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "836",
+    "collegeName": "湖南人文科技学院(娄底市)[公办]",
+    "majorCode": "3",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "836",
+    "collegeName": "湖南人文科技学院(娄底市)[公办]",
+    "majorCode": "4",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "21",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "22",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "23",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "24",
+    "majorName": "外国语言文学类",
+    "majorRemark": "含英语、俄语、德语、法语、日语、朝鲜语、西班牙语专业；须口试合格；含世承书院锺书班",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "25",
+    "majorName": "新闻传播学类",
+    "majorRemark": "含新闻学、网络与新媒体专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "26",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类；含世承书院天问班",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "28",
+    "majorName": "物理学",
+    "majorRemark": "师范类；含世承书院周光召班",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "29",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色盲、色弱、单色识别不全考生，详见院校章程；含世承书院浩青班",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

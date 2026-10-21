@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2557",
+    "collegeName": "齐齐哈尔工程学院[民办]",
+    "majorCode": "15",
+    "majorName": "建筑电气与智能化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2557",
+    "collegeName": "齐齐哈尔工程学院[民办]",
+    "majorCode": "16",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2557",
+    "collegeName": "齐齐哈尔工程学院[民办]",
+    "majorCode": "17",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 27800
+  },
+  {
+    "collegeCode": "2557",
+    "collegeName": "齐齐哈尔工程学院[民办]",
+    "majorCode": "20",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2557",
+    "collegeName": "齐齐哈尔工程学院[民办]",
+    "majorCode": "21",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 26800
+  },
+  {
+    "collegeCode": "2557",
+    "collegeName": "齐齐哈尔工程学院[民办]",
+    "majorCode": "22",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 26800
+  },
+  {
+    "collegeCode": "2557",
+    "collegeName": "齐齐哈尔工程学院[民办]",
+    "majorCode": "23",
+    "majorName": "跨境电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2560",
+    "collegeName": "青岛滨海学院[民办]",
+    "majorCode": "6",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2560",
+    "collegeName": "青岛滨海学院[民办]",
+    "majorCode": "7",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2560",
+    "collegeName": "青岛滨海学院[民办]",
+    "majorCode": "8",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2560",
+    "collegeName": "青岛滨海学院[民办]",
+    "majorCode": "9",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2560",
+    "collegeName": "青岛滨海学院[民办]",
+    "majorCode": "10",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "10",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "11",
+    "majorName": "智能制造工程(德国博世产教融合示范班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2561",
+    "collegeName": "青岛城市学院[民办]",
+    "majorCode": "12",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  }
+]

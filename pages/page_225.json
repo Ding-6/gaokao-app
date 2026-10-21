@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "513",
+    "collegeName": "贵州师范大学(贵阳市)[公办]",
+    "majorCode": "13",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "513",
+    "collegeName": "贵州师范大学(贵阳市)[公办]",
+    "majorCode": "14",
+    "majorName": "计算机科学与技术(3加1培养模式)",
+    "majorRemark": "不招收不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母考生。建议外语单科成绩不低于75分（150分制），单科成绩不满足要求的考生谨慎报考。专业的部分核心课程为英语授课，建议非英语语种考生谨慎报考。大二注册英方学籍需达雅思4.5分。前三年本校学习，学费19000元/年；第四年选择本校就读学费4200元/年，选择出国续读学费按国外大学标准缴纳",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "513",
+    "collegeName": "贵州师范大学(贵阳市)[公办]",
+    "majorCode": "15",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "513",
+    "collegeName": "贵州师范大学(贵阳市)[公办]",
+    "majorCode": "16",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "513",
+    "collegeName": "贵州师范大学(贵阳市)[公办]",
+    "majorCode": "17",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "513",
+    "collegeName": "贵州师范大学(贵阳市)[公办]",
+    "majorCode": "18",
+    "majorName": "市场营销(国际通识教育课程)",
+    "majorRemark": "不招收不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生。建议外语单科成绩不低于75分（150分制），单科成绩不满足要求的考生谨慎报考。专业的部分核心课程为英语授课，建议非英语语种考生谨慎报考。前两年在我校进行英语、专业基础和通识课程学习，后两年可在我校继续修读也可申请国外合作大学完成学习；学费22000元/年，出国续读的学费按照国外大学标准缴纳",
+    "subjectRequirementText": "不限",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "513",
+    "collegeName": "贵州师范大学(贵阳市)[公办]",
+    "majorCode": "19",
+    "majorName": "旅游管理(国际通识教育课程)",
+    "majorRemark": "建议外语单科成绩不低于75分（150分制），单科成绩不满足要求的考生谨慎报考。专业的部分核心课程为英语授课，建议非英语语种考生谨慎报考。前两年在我校进行英语、专业基础和通识课程学习，后两年可在我校继续修读也可申请国外合作大学完成学习；学费22000元/年，出国续读的学费按照国外大学标准缴纳",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "514",
+    "collegeName": "贵州师范学院(贵阳市)[公办]",
+    "majorCode": "2",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "516",
+    "collegeName": "贵州医科大学(贵阳市)[公办]",
+    "majorCode": "1",
+    "majorName": "生物技术(中外高水平大学学生交流计划)",
+    "majorRemark": "单科成绩要求：外语>=90；色弱、色盲、单色不识别考生不予录取。第1、2年学费为4200元/年，第3、4年将前往澳大利亚昆士兰大学就读，学费约58056澳元/年。后两年为全英文教学，请非英语语种考生谨慎填报该专业。请仔细阅读我校招生章程后谨慎填报",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "516",
+    "collegeName": "贵州医科大学(贵阳市)[公办]",
+    "majorCode": "2",
+    "majorName": "医学信息工程",
+    "majorRemark": "单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "516",
+    "collegeName": "贵州医科大学(贵阳市)[公办]",
+    "majorCode": "3",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "516",
+    "collegeName": "贵州医科大学(贵阳市)[公办]",
+    "majorCode": "4",
+    "majorName": "食品科学与工程",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "516",
+    "collegeName": "贵州医科大学(贵阳市)[公办]",
+    "majorCode": "5",
+    "majorName": "基础医学",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "516",
+    "collegeName": "贵州医科大学(贵阳市)[公办]",
+    "majorCode": "6",
+    "majorName": "临床医学",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "516",
+    "collegeName": "贵州医科大学(贵阳市)[公办]",
+    "majorCode": "7",
+    "majorName": "麻醉学",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 4500
+  }
+]

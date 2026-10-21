@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "22",
+    "majorName": "海洋科学",
+    "majorRemark": "设有海洋科学基础学科拔尖计划2.0基地、海洋科学强基班",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "23",
+    "majorName": "海洋科学(蓝梦拔尖人才实验班)",
+    "majorRemark": "含海洋科学、智慧水产、海洋生命、海洋工程与技术、海洋治理（法学）五个方向，一年级大类培养、书院制管理，二年级分方向培养，1：1配备博士导师担任科研导师，实施个性化培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "24",
+    "majorName": "海洋技术",
+    "majorRemark": "设有海洋技术强基班、入校后可选拔至汪德昭菁英班",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "25",
+    "majorName": "海洋资源与环境",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "26",
+    "majorName": "地球信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "27",
+    "majorName": "生物科学类",
+    "majorRemark": "含生态学、生物技术、生物科学专业；设有生物科学基础学科拔尖计划2.0基地、生物科学强基班",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "28",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "29",
+    "majorName": "材料类",
+    "majorRemark": "含材料科学与工程、高分子材料与工程、新能源材料与器件专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "30",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息工程、通信工程、微电子科学与工程、集成电路设计与集成系统专业；设有中法卓越工程师项目班",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "31",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "入校后可选拔至王大珩菁英班",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "32",
+    "majorName": "人工智能(AI拔尖人才实验班)",
+    "majorRemark": "1:1配备博士生导师担任科研导师，配备专属实验室，实施个性化\"AI+X\"培养方案",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "33",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "34",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "35",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、数据科学与大数据技术、网络空间安全、软件工程、保密技术专业；设有软件工程五八卓越人才班、计算机科学与技术卓越工程师班、中法卓越工程师班",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "2044",
+    "collegeName": "中国海洋大学(青岛市)[公办]",
+    "majorCode": "36",
+    "majorName": "港口航道与海岸工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

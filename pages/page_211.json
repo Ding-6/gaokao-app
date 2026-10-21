@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "458",
+    "collegeName": "广西财经学院(南宁市)[公办]",
+    "majorCode": "7",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "第一学年在武鸣校区，第二至第四学年在明秀或相思湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "458",
+    "collegeName": "广西财经学院(南宁市)[公办]",
+    "majorCode": "8",
+    "majorName": "计算机科学与技术(中澳2+2学分互认联合培养项目)",
+    "majorRemark": "与澳大利亚麦考瑞大学联合培养，采用“2+2”模式；前两年在我校学习，学费为4600元/学年；后两年赴澳学习，出国费用另计（澳方学费约46300澳元/学年），满足授予条件可获中澳双学士学位证。考生应具备较好的英语基础，报考前请务必查阅学校招生章程和项目招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "458",
+    "collegeName": "广西财经学院(南宁市)[公办]",
+    "majorCode": "9",
+    "majorName": "会计学",
+    "majorRemark": "第一学年在武鸣校区，第二至第四学年在明秀或相思湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "458",
+    "collegeName": "广西财经学院(南宁市)[公办]",
+    "majorCode": "10",
+    "majorName": "金融数学(中外合作办学)",
+    "majorRemark": "中匈合作办学，实行“3+1”模式，前三年在我校学习，第四年可赴匈牙利德布勒森大学留学，满足授予条件可获中匈双学士学位证。第四年不出国的学生按35000元／学年收费，只发我校金融数学专业本科毕业证及学士学位证",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "458",
+    "collegeName": "广西财经学院(南宁市)[公办]",
+    "majorCode": "11",
+    "majorName": "数字媒体技术(中外合作办学)",
+    "majorRemark": "中英合作办学，实行“4+0”办学模式，合作院校为英国奇切斯特大学。学生四年均在我校就读，符合双方学校毕业条件和学位授予条件的，可获得中方院校毕业证、学士学位证和外方院校学士学位证。学费最终收费标准以价格主管相关部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 42500
+  },
+  {
+    "collegeCode": "458",
+    "collegeName": "广西财经学院(南宁市)[公办]",
+    "majorCode": "12",
+    "majorName": "会计学(中外合作办学)",
+    "majorRemark": "中澳合作办学，实行“3+1”模式，前三年在我校学习，第四年可赴澳大利亚国立管理与商业学院留学，满足授予条件可获中澳双学士学位证。第四年不出国的学生按30000元／学年收费，只发我校会计学专业本科毕业证及学士学位证",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "459",
+    "collegeName": "广西大学(南宁市)[公办]",
+    "majorCode": "1",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5975
+  },
+  {
+    "collegeCode": "459",
+    "collegeName": "广西大学(南宁市)[公办]",
+    "majorCode": "2",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5975
+  },
+  {
+    "collegeCode": "459",
+    "collegeName": "广西大学(南宁市)[公办]",
+    "majorCode": "4",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5977
+  },
+  {
+    "collegeCode": "459",
+    "collegeName": "广西大学(南宁市)[公办]",
+    "majorCode": "5",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5977
+  },
+  {
+    "collegeCode": "459",
+    "collegeName": "广西大学(南宁市)[公办]",
+    "majorCode": "6",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5974
+  },
+  {
+    "collegeCode": "459",
+    "collegeName": "广西大学(南宁市)[公办]",
+    "majorCode": "7",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5977
+  },
+  {
+    "collegeCode": "459",
+    "collegeName": "广西大学(南宁市)[公办]",
+    "majorCode": "8",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "459",
+    "collegeName": "广西大学(南宁市)[公办]",
+    "majorCode": "9",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5970
+  },
+  {
+    "collegeCode": "459",
+    "collegeName": "广西大学(南宁市)[公办]",
+    "majorCode": "10",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5977
+  }
+]

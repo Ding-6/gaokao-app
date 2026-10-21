@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "25",
+    "majorName": "电气工程与智能控制",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "26",
+    "majorName": "电子信息工程",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 42,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "27",
+    "majorName": "通信工程",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "28",
+    "majorName": "微电子科学与工程",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "29",
+    "majorName": "人工智能",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "30",
+    "majorName": "自动化",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 46,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "31",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "在固安校区就读，不招不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母者",
+    "subjectRequirementText": "化学",
+    "planCount": 137,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "32",
+    "majorName": "网络工程",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 42,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "33",
+    "majorName": "空间信息与数字技术",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "34",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "35",
+    "majorName": "土木工程",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "36",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "37",
+    "majorName": "道路桥梁与渡河工程",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "38",
+    "majorName": "智能建造",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "78",
+    "collegeName": "北华航天工业学院(廊坊市)[公办]",
+    "majorCode": "39",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "在固安校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

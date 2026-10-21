@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2553",
+    "collegeName": "宁夏理工学院(石嘴山市)[民办]",
+    "majorCode": "18",
+    "majorName": "自动化",
+    "majorRemark": "该专业与东北大学、浙江工业大学开展2+2联合培养，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2553",
+    "collegeName": "宁夏理工学院(石嘴山市)[民办]",
+    "majorCode": "19",
+    "majorName": "机器人工程",
+    "majorRemark": "该专业与东北大学、浙江工业大学开展2+2联合培养，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2553",
+    "collegeName": "宁夏理工学院(石嘴山市)[民办]",
+    "majorCode": "20",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、网络工程、软件工程、信息安全专业；软件工程与东北大学开展校内卓越班联合培养；网络工程与东北大学、浙江工业大学开展2+2联合培养；计算机科学与技术与东北大学、厦门理工学院开展2+2联合培养，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 74,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2553",
+    "collegeName": "宁夏理工学院(石嘴山市)[民办]",
+    "majorCode": "21",
+    "majorName": "物联网工程",
+    "majorRemark": "该专业与东北大学、厦门理工学院开展2+2联合培养，同时与东北大学开展校内卓越班联合培养，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2553",
+    "collegeName": "宁夏理工学院(石嘴山市)[民办]",
+    "majorCode": "22",
+    "majorName": "制药工程",
+    "majorRemark": "该专业与浙江工业大学开展2+2联合培养，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2553",
+    "collegeName": "宁夏理工学院(石嘴山市)[民办]",
+    "majorCode": "23",
+    "majorName": "交通运输(机场运行)",
+    "majorRemark": "该专业与广慧金通教育科技有限公司联合办学，同时与东北大学开展2+2联合培养，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "2553",
+    "collegeName": "宁夏理工学院(石嘴山市)[民办]",
+    "majorCode": "24",
+    "majorName": "交通运输(航空物流)",
+    "majorRemark": "该专业与广慧金通教育科技有限公司联合办学，同时与东北大学开展2+2联合培养，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "2553",
+    "collegeName": "宁夏理工学院(石嘴山市)[民办]",
+    "majorCode": "25",
+    "majorName": "环境工程",
+    "majorRemark": "该专业与东北大学开展2+2联合培养，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2553",
+    "collegeName": "宁夏理工学院(石嘴山市)[民办]",
+    "majorCode": "26",
+    "majorName": "安全工程",
+    "majorRemark": "该专业与东北大学开展2+2联合培养，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2555",
+    "collegeName": "齐鲁理工学院[民办]",
+    "majorCode": "5",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 23500
+  },
+  {
+    "collegeCode": "2555",
+    "collegeName": "齐鲁理工学院[民办]",
+    "majorCode": "6",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 26500
+  },
+  {
+    "collegeCode": "2555",
+    "collegeName": "齐鲁理工学院[民办]",
+    "majorCode": "7",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 26500
+  },
+  {
+    "collegeCode": "2555",
+    "collegeName": "齐鲁理工学院[民办]",
+    "majorCode": "8",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2556",
+    "collegeName": "齐鲁医药学院(淄博市)[民办]",
+    "majorCode": "12",
+    "majorName": "生物医学科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2556",
+    "collegeName": "齐鲁医药学院(淄博市)[民办]",
+    "majorCode": "13",
+    "majorName": "临床医学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 22500
+  }
+]

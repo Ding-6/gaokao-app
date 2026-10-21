@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1405",
+    "collegeName": "山东政法学院[公办]",
+    "majorCode": "16",
+    "majorName": "社区矫正",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1405",
+    "collegeName": "山东政法学院[公办]",
+    "majorCode": "17",
+    "majorName": "司法鉴定学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1405",
+    "collegeName": "山东政法学院[公办]",
+    "majorCode": "18",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1405",
+    "collegeName": "山东政法学院[公办]",
+    "majorCode": "19",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1405",
+    "collegeName": "山东政法学院[公办]",
+    "majorCode": "20",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1405",
+    "collegeName": "山东政法学院[公办]",
+    "majorCode": "21",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1405",
+    "collegeName": "山东政法学院[公办]",
+    "majorCode": "22",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1405",
+    "collegeName": "山东政法学院[公办]",
+    "majorCode": "23",
+    "majorName": "信息管理与信息系统(中外合作办学)",
+    "majorRemark": "与芬兰哈格哈里亚应用科学大学合作",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 52000
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "3",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "4",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "5",
+    "majorName": "中医学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 7900
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "6",
+    "majorName": "针灸推拿学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7900
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "7",
+    "majorName": "中医康复学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "8",
+    "majorName": "中医养生学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "9",
+    "majorName": "中西医临床医学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7900
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "295",
+    "collegeName": "重庆邮电大学[公办]",
+    "majorCode": "23",
+    "majorName": "生物医学工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "295",
+    "collegeName": "重庆邮电大学[公办]",
+    "majorCode": "24",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "295",
+    "collegeName": "重庆邮电大学[公办]",
+    "majorCode": "25",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "295",
+    "collegeName": "重庆邮电大学[公办]",
+    "majorCode": "26",
+    "majorName": "集成电路科学与工程(拔尖创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "295",
+    "collegeName": "重庆邮电大学[公办]",
+    "majorCode": "27",
+    "majorName": "通信工程(中外合作办学)",
+    "majorRemark": "采用4+0培养模式，合作办学方全称：英国伦敦布鲁内尔大学；英语教学，请非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "295",
+    "collegeName": "重庆邮电大学[公办]",
+    "majorCode": "28",
+    "majorName": "软件工程(中外合作办学)",
+    "majorRemark": "采用3+1培养模式，第四年在美国纽约州立大学阿尔巴尼分校学习，在国外修读期间需按外方学校学费标准缴纳外方学校学费；英语教学，请非英语语种考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 45000
+  },
+  {
+    "collegeCode": "297",
+    "collegeName": "重庆中医药学院[公办]",
+    "majorCode": "6",
+    "majorName": "中医学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "297",
+    "collegeName": "重庆中医药学院[公办]",
+    "majorCode": "7",
+    "majorName": "针灸推拿学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "297",
+    "collegeName": "重庆中医药学院[公办]",
+    "majorCode": "8",
+    "majorName": "中医康复学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "297",
+    "collegeName": "重庆中医药学院[公办]",
+    "majorCode": "9",
+    "majorName": "中医养生学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "297",
+    "collegeName": "重庆中医药学院[公办]",
+    "majorCode": "10",
+    "majorName": "中医骨伤科学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "297",
+    "collegeName": "重庆中医药学院[公办]",
+    "majorCode": "11",
+    "majorName": "中药学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "297",
+    "collegeName": "重庆中医药学院[公办]",
+    "majorCode": "12",
+    "majorName": "中药制药",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "301",
+    "collegeName": "楚雄师范学院[公办]",
+    "majorCode": "2",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "301",
+    "collegeName": "楚雄师范学院[公办]",
+    "majorCode": "3",
+    "majorName": "生物技术",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

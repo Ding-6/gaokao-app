@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "755",
+    "collegeName": "黑龙江中医药大学[公办]",
+    "majorCode": "16",
+    "majorName": "药学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "755",
+    "collegeName": "黑龙江中医药大学[公办]",
+    "majorCode": "17",
+    "majorName": "中药学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "755",
+    "collegeName": "黑龙江中医药大学[公办]",
+    "majorCode": "18",
+    "majorName": "中药制药",
+    "majorRemark": "所属学院为佳木斯学院，授课地点在佳木斯市；不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "755",
+    "collegeName": "黑龙江中医药大学[公办]",
+    "majorCode": "19",
+    "majorName": "医学影像技术",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "755",
+    "collegeName": "黑龙江中医药大学[公办]",
+    "majorCode": "20",
+    "majorName": "康复治疗学",
+    "majorRemark": "所属学院为佳木斯学院，授课地点在佳木斯市；不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "755",
+    "collegeName": "黑龙江中医药大学[公办]",
+    "majorCode": "22",
+    "majorName": "公共事业管理",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "755",
+    "collegeName": "黑龙江中医药大学[公办]",
+    "majorCode": "23",
+    "majorName": "智能医学工程",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "19",
+    "majorName": "经济与金融",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "20",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "21",
+    "majorName": "社会工作",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "22",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；色弱、色盲和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "23",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "24",
+    "majorName": "汉语国际教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "25",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "26",
+    "majorName": "商务英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

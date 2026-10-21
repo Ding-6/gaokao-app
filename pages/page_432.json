@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "860",
+    "collegeName": "华北理工大学(唐山市)(地方专项计划)[公办]",
+    "majorCode": "59",
+    "majorName": "工程管理",
+    "majorRemark": "不招单色识别不全考生",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "860",
+    "collegeName": "华北理工大学(唐山市)(地方专项计划)[公办]",
+    "majorCode": "60",
+    "majorName": "会计学",
+    "majorRemark": "不招单色识别不全考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "863",
+    "collegeName": "华北理工大学(唐山市)(少数民族预科班)[公办]",
+    "majorCode": "2",
+    "majorName": "本科预科班",
+    "majorRemark": "少数民族预科班，招少数民族考生，在河北师范大学附属民族学院学习一年后成绩合格转入本校学习，详情向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 27,
+    "duration": "1",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "7",
+    "majorName": "数字经济",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为龙子湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "8",
+    "majorName": "数学与应用数学",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "9",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "10",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "11",
+    "majorName": "功能材料",
+    "majorRemark": "花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "12",
+    "majorName": "能源与动力工程(热动)",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "13",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "14",
+    "majorName": "智慧能源工程",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "15",
+    "majorName": "电子科学与技术",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "16",
+    "majorName": "人工智能",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "17",
+    "majorName": "自动化",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为花园校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "864",
+    "collegeName": "华北水利水电大学(郑州市)[公办]",
+    "majorCode": "18",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "新生入学及就读地点为江淮校区，第2学年起就读地点为龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

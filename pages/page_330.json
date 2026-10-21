@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "664",
+    "collegeName": "河北石油职业技术大学[公办]",
+    "majorCode": "33",
+    "majorName": "大数据与会计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "8",
+    "majorName": "经济与金融",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "9",
+    "majorName": "商务英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "10",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "11",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 203,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "12",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 56,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "13",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 176,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "14",
+    "majorName": "智能电网信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 49,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "15",
+    "majorName": "电气工程与智能控制",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 47,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "16",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 79,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "17",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 52,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "18",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "19",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 167,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "20",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 51,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "21",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "18",
+    "majorName": "材料科学与工程",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "19",
+    "majorName": "能源与动力工程",
+    "majorRemark": "大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "20",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "21",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "22",
+    "majorName": "电子信息类(大禹拔尖人才培养班)",
+    "majorRemark": "含人工智能、通信工程专业；大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "23",
+    "majorName": "电子信息工程",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "24",
+    "majorName": "通信工程",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "25",
+    "majorName": "人工智能",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "26",
+    "majorName": "自动化(产教融合卓越班)",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "27",
+    "majorName": "机器人工程",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "28",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "29",
+    "majorName": "软件工程",
+    "majorRemark": "大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "30",
+    "majorName": "物联网工程",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "31",
+    "majorName": "智能科学与技术",
+    "majorRemark": "大一在南京相应校区学习，大二起在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "681",
+    "collegeName": "河海大学[公办]",
+    "majorCode": "32",
+    "majorName": "土木工程(茅以升拔尖人才培养班)",
+    "majorRemark": "大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  }
+]

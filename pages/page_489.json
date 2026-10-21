@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "49",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "50",
+    "majorName": "城乡规划(智慧城规创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "51",
+    "majorName": "药学",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "52",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "53",
+    "majorName": "文化产业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "54",
+    "majorName": "标准化工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "55",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "949",
+    "collegeName": "济宁学院[公办]",
+    "majorCode": "1",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "949",
+    "collegeName": "济宁学院[公办]",
+    "majorCode": "2",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "950",
+    "collegeName": "济宁医学院[公办]",
+    "majorCode": "1",
+    "majorName": "生物技术",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "950",
+    "collegeName": "济宁医学院[公办]",
+    "majorCode": "2",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "950",
+    "collegeName": "济宁医学院[公办]",
+    "majorCode": "3",
+    "majorName": "生物工程",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "950",
+    "collegeName": "济宁医学院[公办]",
+    "majorCode": "4",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 7900
+  },
+  {
+    "collegeCode": "950",
+    "collegeName": "济宁医学院[公办]",
+    "majorCode": "5",
+    "majorName": "医学影像学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "950",
+    "collegeName": "济宁医学院[公办]",
+    "majorCode": "6",
+    "majorName": "精神医学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7900
+  }
+]

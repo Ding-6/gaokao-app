@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "51",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "师范类；单科成绩要求：数学>=60；不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "52",
+    "majorName": "网络工程",
+    "majorRemark": "单科成绩要求：数学>=60",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "53",
+    "majorName": "数字媒体技术",
+    "majorRemark": "单科成绩要求：数学>=60",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "54",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "55",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "56",
+    "majorName": "道路桥梁与渡河工程",
+    "majorRemark": "单科成绩要求：数学>=60",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "57",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "58",
+    "majorName": "资源循环科学与工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "59",
+    "majorName": "交通运输",
+    "majorRemark": "单科成绩要求：数学>=60；不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "60",
+    "majorName": "交通工程",
+    "majorRemark": "单科成绩要求：数学>=60",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "61",
+    "majorName": "环境科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "62",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "63",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "64",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "65",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "5",
+    "tuition": 4500
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "32",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "33",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "34",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "35",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "36",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "38",
+    "majorName": "生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "39",
+    "majorName": "生物制药",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "40",
+    "majorName": "植物科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "41",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "42",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "43",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "44",
+    "majorName": "生物科学(中外合作办学)",
+    "majorRemark": "合作方：马来西亚博特拉大学，采取“4+0”双学籍、双学位培养模式，获得外方学位有英语语言水平要求",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "45",
+    "majorName": "物联网工程(中外合作办学)",
+    "majorRemark": "合作方：马来西亚博特拉大学，采取“4+0”双学籍、双学位培养模式，获得外方学位有英语语言水平要求",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2122",
+    "collegeName": "周口师范学院[公办]",
+    "majorCode": "46",
+    "majorName": "食品质量与安全(中外合作办学)",
+    "majorRemark": "合作方：马来西亚博特拉大学，采取“4+0”双学籍、双学位培养模式，获得外方学位有英语语言水平要求",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2127",
+    "collegeName": "遵义师范学院[公办]",
+    "majorCode": "2",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类；单科成绩要求：数学>=90",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "18",
+    "majorName": "金属材料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "19",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "20",
+    "majorName": "能源与环境系统工程",
+    "majorRemark": "学费暂定5500元/年，最终以主管部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "21",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "22",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "23",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "24",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "25",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "26",
+    "majorName": "自动化(融创班)",
+    "majorRemark": "依托学校现代产业学院办学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "27",
+    "majorName": "自动化(实验班)",
+    "majorRemark": "学制3.5+X，阶段考核和分流培养",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "28",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "29",
+    "majorName": "软件工程",
+    "majorRemark": "大一、大二学年6000元/年，大三、大四学年14000元/年",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "30",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "31",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "359",
+    "collegeName": "东北石油大学[公办]",
+    "majorCode": "32",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

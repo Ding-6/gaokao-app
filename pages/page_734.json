@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1435",
+    "collegeName": "山西医药学院[公办]",
+    "majorCode": "5",
+    "majorName": "医学影像技术",
+    "majorRemark": "前一年半在孝义校区就读，后两年半在汾阳校区就读，不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1435",
+    "collegeName": "山西医药学院[公办]",
+    "majorCode": "6",
+    "majorName": "眼视光学",
+    "majorRemark": "前一年半在孝义校区就读，后两年半在汾阳校区就读，不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1435",
+    "collegeName": "山西医药学院[公办]",
+    "majorCode": "7",
+    "majorName": "康复治疗学",
+    "majorRemark": "前一年半在孝义校区就读，后两年半在汾阳校区就读，不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1435",
+    "collegeName": "山西医药学院[公办]",
+    "majorCode": "8",
+    "majorName": "护理学",
+    "majorRemark": "前一年半在孝义校区就读，后两年半在汾阳校区就读，不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1435",
+    "collegeName": "山西医药学院[公办]",
+    "majorCode": "9",
+    "majorName": "健康服务与管理",
+    "majorRemark": "汾阳校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4950
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "8",
+    "majorName": "医学信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "9",
+    "majorName": "制药工程",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "10",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "11",
+    "majorName": "中医学(5+3一体化)",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "12",
+    "majorName": "中医学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "5",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "13",
+    "majorName": "针灸推拿学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "14",
+    "majorName": "中医康复学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "15",
+    "majorName": "中医骨伤科学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "17",
+    "majorName": "药学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "18",
+    "majorName": "中药学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5635
+  }
+]

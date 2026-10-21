@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "30",
+    "majorName": "人工智能",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "31",
+    "majorName": "自动化",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "32",
+    "majorName": "轨道交通信号与控制",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "33",
+    "majorName": "机器人工程",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "34",
+    "majorName": "智能工程与创意设计",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "35",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、软件工程专业；在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "36",
+    "majorName": "信息安全",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "37",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "38",
+    "majorName": "土木工程(土木与大数据双学位)",
+    "majorRemark": "在成都犀浦校区就读；土木工程+数据科学与大数据技术双学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "39",
+    "majorName": "城市地下空间工程",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "40",
+    "majorName": "道路桥梁与渡河工程",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "41",
+    "majorName": "铁道工程",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "42",
+    "majorName": "智能建造",
+    "majorRemark": "在成都东部国际校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "43",
+    "majorName": "测绘类",
+    "majorRemark": "含测绘工程、遥感科学与技术、地理信息科学专业；在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "44",
+    "majorName": "制药工程",
+    "majorRemark": "在成都犀浦校区就读；色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  }
+]

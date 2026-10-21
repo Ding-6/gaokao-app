@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "932",
+    "collegeName": "吉林师范大学(国际本科学术互认课程项目)[公办]",
+    "majorCode": "3",
+    "majorName": "软件工程",
+    "majorRemark": "国际本科学术互认课程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "932",
+    "collegeName": "吉林师范大学(国际本科学术互认课程项目)[公办]",
+    "majorCode": "4",
+    "majorName": "财务管理",
+    "majorRemark": "国际本科学术互认课程专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "935",
+    "collegeName": "吉林体育学院(长春市)[公办]",
+    "majorCode": "3",
+    "majorName": "社会工作",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "935",
+    "collegeName": "吉林体育学院(长春市)[公办]",
+    "majorCode": "4",
+    "majorName": "康复治疗",
+    "majorRemark": "职业教育本科",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "935",
+    "collegeName": "吉林体育学院(长春市)[公办]",
+    "majorCode": "5",
+    "majorName": "智慧健康养老管理",
+    "majorRemark": "职业教育本科",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "1",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "学费暂定8800元/年，最终以价格主管部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "2",
+    "majorName": "电气工程及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 8800
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "3",
+    "majorName": "轨道交通车辆工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 8800
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "4",
+    "majorName": "高速铁路动车组技术",
+    "majorRemark": "学费暂定8800元/年，最终以价格主管部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "5",
+    "majorName": "高速铁路信号控制技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 8800
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "6",
+    "majorName": "铁道机车智能运用技术",
+    "majorRemark": "学费暂定8800元/年，最终以价格主管部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "7",
+    "majorName": "高速铁路运营管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 8800
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "8",
+    "majorName": "高速铁路通信技术",
+    "majorRemark": "学费暂定8800元/年，最终以价格主管部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "9",
+    "majorName": "高速铁路智能供电技术",
+    "majorRemark": "学费暂定8800元/年，最终以价格主管部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "936",
+    "collegeName": "吉林铁道职业技术大学[公办]",
+    "majorCode": "10",
+    "majorName": "城市轨道交通设备与控制技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 8800
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "3",
+    "majorName": "食品营养与健康",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "4",
+    "majorName": "动物科学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "5",
+    "majorName": "动物医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "6",
+    "majorName": "动植物检疫",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "7",
+    "majorName": "兽医公共卫生",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "8",
+    "majorName": "基础医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "9",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "10",
+    "majorName": "医学影像学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "11",
+    "majorName": "口腔医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "12",
+    "majorName": "预防医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "13",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "14",
+    "majorName": "临床药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "15",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "16",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1038",
+    "collegeName": "锦州医科大学[公办]",
+    "majorCode": "17",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

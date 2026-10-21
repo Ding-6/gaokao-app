@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "14",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "15",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "16",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "17",
+    "majorName": "智能工程与创意设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "19",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "20",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "21",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "22",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "23",
+    "majorName": "眼视光学",
+    "majorRemark": "不招收轻度色觉异常(俗称色弱)、色觉异常Ⅱ度(俗称色盲)考生",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "24",
+    "majorName": "口腔医学技术",
+    "majorRemark": "不招收轻度色觉异常(俗称色弱)、色觉异常Ⅱ度(俗称色盲)考生",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "25",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "26",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "27",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2181",
+    "collegeName": "辽宁师范大学海华学院[独立学院]",
+    "majorCode": "28",
+    "majorName": "养老服务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28000
+  }
+]

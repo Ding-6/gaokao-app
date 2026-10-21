@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "33",
+    "majorName": "生物技术",
+    "majorRemark": "在昌黎校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 105,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "34",
+    "majorName": "应用心理学",
+    "majorRemark": "在秦皇岛市山东堡校区就读；师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "35",
+    "majorName": "应用统计学",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "36",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "在开发区校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 146,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "37",
+    "majorName": "智能制造工程",
+    "majorRemark": "在开发区校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "38",
+    "majorName": "材料物理",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 120,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "39",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "在开发区校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 151,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "40",
+    "majorName": "微电子科学与工程",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 140,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "41",
+    "majorName": "人工智能",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 92,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "42",
+    "majorName": "自动化",
+    "majorRemark": "在开发区校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 77,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "43",
+    "majorName": "物联网工程",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 96,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "44",
+    "majorName": "数字媒体技术",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 71,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "45",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 106,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "46",
+    "majorName": "土木工程",
+    "majorRemark": "在秦皇岛校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 120,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "642",
+    "collegeName": "河北科技师范学院(秦皇岛市)[公办]",
+    "majorCode": "47",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "在昌黎校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

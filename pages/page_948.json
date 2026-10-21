@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "15",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "16",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3800
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "17",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3800
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "18",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "19",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "20",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "21",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "22",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "23",
+    "majorName": "物联网工程",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "24",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "25",
+    "majorName": "医学影像学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "26",
+    "majorName": "口腔医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "27",
+    "majorName": "针灸推拿学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "28",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1851",
+    "collegeName": "湘南学院(郴州市)[公办]",
+    "majorCode": "29",
+    "majorName": "临床药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  }
+]

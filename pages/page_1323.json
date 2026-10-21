@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2692",
+    "collegeName": "武昌首义学院[民办]",
+    "majorCode": "31",
+    "majorName": "智能制造工程",
+    "majorRemark": "大一就读嘉鱼教学改革基地，大二起就读武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26800
+  },
+  {
+    "collegeCode": "2692",
+    "collegeName": "武昌首义学院[民办]",
+    "majorCode": "32",
+    "majorName": "电气工程及其自动化(创新实验班)",
+    "majorRemark": "大一就读嘉鱼教学改革基地，大二起就读武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2692",
+    "collegeName": "武昌首义学院[民办]",
+    "majorCode": "33",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "大一就读嘉鱼教学改革基地，大二起就读武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2692",
+    "collegeName": "武昌首义学院[民办]",
+    "majorCode": "34",
+    "majorName": "人工智能(华为精英班)",
+    "majorRemark": "大一就读嘉鱼教学改革基地，大二起就读武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2692",
+    "collegeName": "武昌首义学院[民办]",
+    "majorCode": "35",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "大一就读嘉鱼教学改革基地，大二起就读武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2692",
+    "collegeName": "武昌首义学院[民办]",
+    "majorCode": "36",
+    "majorName": "计算机科学与技术(华为云特色班)",
+    "majorRemark": "大一就读嘉鱼教学改革基地，大二起就读武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26800
+  },
+  {
+    "collegeCode": "2692",
+    "collegeName": "武昌首义学院[民办]",
+    "majorCode": "37",
+    "majorName": "软件工程",
+    "majorRemark": "大一就读嘉鱼教学改革基地，大二起就读武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2692",
+    "collegeName": "武昌首义学院[民办]",
+    "majorCode": "38",
+    "majorName": "软件工程(华为云特色班)",
+    "majorRemark": "大一就读嘉鱼教学改革基地，大二起就读武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26800
+  },
+  {
+    "collegeCode": "2695",
+    "collegeName": "武汉城市学院[民办]",
+    "majorCode": "6",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 21800
+  },
+  {
+    "collegeCode": "2695",
+    "collegeName": "武汉城市学院[民办]",
+    "majorCode": "7",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 20800
+  },
+  {
+    "collegeCode": "2695",
+    "collegeName": "武汉城市学院[民办]",
+    "majorCode": "8",
+    "majorName": "能源与环境系统工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2695",
+    "collegeName": "武汉城市学院[民办]",
+    "majorCode": "9",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2695",
+    "collegeName": "武汉城市学院[民办]",
+    "majorCode": "10",
+    "majorName": "护理学",
+    "majorRemark": "女生身高达158cm，无色觉异常",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2695",
+    "collegeName": "武汉城市学院[民办]",
+    "majorCode": "11",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2695",
+    "collegeName": "武汉城市学院[民办]",
+    "majorCode": "12",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 21800
+  }
+]

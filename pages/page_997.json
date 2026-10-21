@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "53",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "54",
+    "majorName": "智能医学工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "55",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "外语教学为英语,非英语语种考生慎报,采取4+0模式(4年全部在国内)，学费72000元/年。达到中外双方共同制定的毕业要求的毕业生将获得燕山大学本科毕业证书、学士学位证书以及西里西亚技术大学学士学位证书。具体可查看该项目招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 72000
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "56",
+    "majorName": "电子科学与技术(中外合作办学)",
+    "majorRemark": "外语教学为英语,非英语语种考生慎报,采取4+0模式(4年全部在国内)，学费72000元/年。达到中外双方共同制定的毕业要求的毕业生将获得燕山大学本科毕业证书、学士学位证书以及西里西亚技术大学学士学位证书。具体可查看该项目招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 72000
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "57",
+    "majorName": "自动化(中外合作办学)",
+    "majorRemark": "外语教学为英语,非英语语种考生慎报,采取4+0模式(4年全部在国内)，学费72000元/年。达到中外双方共同制定的毕业要求的毕业生将获得燕山大学本科毕业证书、学士学位证书以及西里西亚技术大学学士学位证书。具体可查看该项目招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 72000
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "58",
+    "majorName": "软件工程(中外合作办学)",
+    "majorRemark": "外语教学为英语,非英语语种考生慎报,采取4+0模式(4年全部在国内)，学费72000元/年。达到中外双方共同制定的毕业要求的毕业生将获得燕山大学本科毕业证书、学士学位证书以及西里西亚技术大学学士学位证书。具体可查看该项目招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 72000
+  },
+  {
+    "collegeCode": "1919",
+    "collegeName": "燕山大学(秦皇岛市)[公办]",
+    "majorCode": "59",
+    "majorName": "工业工程(中外合作办学)",
+    "majorRemark": "外语教学为英语，非英语语种考生慎报。与澳大利亚科廷大学合作项目，采取3+1模式（国内3年，澳大利亚1年,必须出国）。国内学费25500元/年；国外学费约42000澳元/年。具体可查看该项目招生简章",
+    "subjectRequirementText": "不限",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 25500
+  },
+  {
+    "collegeCode": "1920",
+    "collegeName": "燕山大学(秦皇岛市)(地方专项计划)[公办]",
+    "majorCode": "6",
+    "majorName": "机械类",
+    "majorRemark": "含机械设计制造及其自动化、智能制造工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1920",
+    "collegeName": "燕山大学(秦皇岛市)(地方专项计划)[公办]",
+    "majorCode": "7",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1920",
+    "collegeName": "燕山大学(秦皇岛市)(地方专项计划)[公办]",
+    "majorCode": "8",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1920",
+    "collegeName": "燕山大学(秦皇岛市)(地方专项计划)[公办]",
+    "majorCode": "9",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1920",
+    "collegeName": "燕山大学(秦皇岛市)(地方专项计划)[公办]",
+    "majorCode": "10",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1920",
+    "collegeName": "燕山大学(秦皇岛市)(地方专项计划)[公办]",
+    "majorCode": "11",
+    "majorName": "土木类",
+    "majorRemark": "含土木工程、建筑环境与能源应用工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 46,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1922",
+    "collegeName": "燕山大学(秦皇岛市)(少数民族预科班)[公办]",
+    "majorCode": "2",
+    "majorName": "本科预科班",
+    "majorRemark": "少数民族预科班，招少数民族考生，在河北师范大学附属民族学院学习一年后成绩合格转入本校学习，详情向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "1",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1923",
+    "collegeName": "扬州大学[公办]",
+    "majorCode": "8",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

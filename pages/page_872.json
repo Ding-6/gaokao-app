@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1719",
+    "collegeName": "温州肯恩大学[中外合作办学]",
+    "majorCode": "17",
+    "majorName": "管理科学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=105；全英文教学，请非英语语种考生慎重报考",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 88000
+  },
+  {
+    "collegeCode": "1719",
+    "collegeName": "温州肯恩大学[中外合作办学]",
+    "majorCode": "18",
+    "majorName": "市场营销(中外合作办学)(国际方向)",
+    "majorRemark": "单科成绩要求：外语>=105；全英文教学，请非英语语种考生慎重报考",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 88000
+  },
+  {
+    "collegeCode": "1719",
+    "collegeName": "温州肯恩大学[中外合作办学]",
+    "majorCode": "19",
+    "majorName": "会计学(中外合作办学)(国际会计方向)",
+    "majorRemark": "单科成绩要求：外语>=105；全英文教学，请非英语语种考生慎重报考",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 88000
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "1",
+    "majorName": "金融科技",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "2",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "3",
+    "majorName": "机械工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "4",
+    "majorName": "新能源汽车工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "5",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "6",
+    "majorName": "人工智能",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "7",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "8",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "9",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "10",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1720",
+    "collegeName": "温州理工学院[公办]",
+    "majorCode": "11",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1721",
+    "collegeName": "温州医科大学[公办]",
+    "majorCode": "1",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6900
+  }
+]

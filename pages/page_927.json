@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "47",
+    "majorName": "农业机械化及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "48",
+    "majorName": "环境科学与工程",
+    "majorRemark": "不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "49",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程、食品质量与安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "51",
+    "majorName": "植物生产类",
+    "majorRemark": "农林类；含农学、园艺、植物保护专业；不招色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "52",
+    "majorName": "智慧农业",
+    "majorRemark": "农林类；不招色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "53",
+    "majorName": "生物育种科学",
+    "majorRemark": "农林类；不招色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "54",
+    "majorName": "自然保护与环境生态类",
+    "majorRemark": "农林类；含农业资源与环境、水土保持与荒漠化防治、土地科学与技术专业；不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5865
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "55",
+    "majorName": "生物质科学与工程",
+    "majorRemark": "农林类；不招色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5865
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "56",
+    "majorName": "蚕学(双学士学位)",
+    "majorRemark": "农林类；不招色盲、单色识别不全考生。蚕学+生物技术双学士学位复合型人才培养项目",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5610
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "58",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "59",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、会计学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "60",
+    "majorName": "农林经济管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "61",
+    "majorName": "公共管理类",
+    "majorRemark": "含行政管理、文化产业管理、社会工作专业",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "62",
+    "majorName": "生物技术(中外合作办学)",
+    "majorRemark": "不招色盲、单色识别不全考生。“3+1”模式（国内3年+国外1年）或“4+0”模式（国内4年）。在西南大学就读期间学费5万元/年，在外方高校就读期间，按外方高校学费标准缴纳学费。外方合作高校：澳大利亚西澳大学。以英语为主要授课语言，建议非英语语种考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1817",
+    "collegeName": "西南大学[公办]",
+    "majorCode": "63",
+    "majorName": "心理学(中外合作办学)",
+    "majorRemark": "不招色盲、单色识别不全考生。“3+1”模式（国内3年+国外1年）。在西南大学就读期间学费5万元/年，在外方高校就读期间，按外方高校学费标准缴纳学费。外方合作高校：新西兰奥克兰大学。以英语为主要授课语言，建议非英语语种考生谨慎报考",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 50000
+  }
+]

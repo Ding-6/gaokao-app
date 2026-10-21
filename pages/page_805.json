@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1586",
+    "collegeName": "四川旅游学院[公办]",
+    "majorCode": "4",
+    "majorName": "智能装备与系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1586",
+    "collegeName": "四川旅游学院[公办]",
+    "majorCode": "5",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1586",
+    "collegeName": "四川旅游学院[公办]",
+    "majorCode": "6",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1586",
+    "collegeName": "四川旅游学院[公办]",
+    "majorCode": "7",
+    "majorName": "烹饪与营养教育",
+    "majorRemark": "要求考生裸眼或矫正视力（戴上眼镜）达到4.8及以上且无色盲",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1586",
+    "collegeName": "四川旅游学院[公办]",
+    "majorCode": "8",
+    "majorName": "会计学(ACCA方向)",
+    "majorRemark": "ACCA方向，每年另收课程培训费10000元",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1587",
+    "collegeName": "四川美术学院(重庆市)[公办]",
+    "majorCode": "5",
+    "majorName": "艺术教育",
+    "majorRemark": "在虎溪校区就读；非色盲",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1587",
+    "collegeName": "四川美术学院(重庆市)[公办]",
+    "majorCode": "6",
+    "majorName": "工业设计",
+    "majorRemark": "在虎溪校区就读；非色盲",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1587",
+    "collegeName": "四川美术学院(重庆市)[公办]",
+    "majorCode": "7",
+    "majorName": "建筑学",
+    "majorRemark": "在虎溪校区就读；非色盲",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1587",
+    "collegeName": "四川美术学院(重庆市)[公办]",
+    "majorCode": "8",
+    "majorName": "艺术史论",
+    "majorRemark": "在虎溪校区就读；非色盲",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 9550
+  },
+  {
+    "collegeCode": "1588",
+    "collegeName": "四川民族学院[公办]",
+    "majorCode": "1",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1588",
+    "collegeName": "四川民族学院[公办]",
+    "majorCode": "2",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "5",
+    "majorName": "经济学(中外高水平大学学生交流计划)",
+    "majorRemark": "在四川农业大学成都校区就读；不招单色不识别考生，详见院校章程；四年均须向四川农业大学缴付相应普通类专业本科生学费，第三、四学年必须赴澳大利亚麦考瑞大学学习，期间须按照国外高校的收费标准缴纳学费（约46,900澳元/学年），在澳生活费约35,000-40,000澳元/学年",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "6",
+    "majorName": "数字经济",
+    "majorRemark": "在四川农业大学成都校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "7",
+    "majorName": "金融学",
+    "majorRemark": "在四川农业大学成都校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1589",
+    "collegeName": "四川农业大学[公办]",
+    "majorCode": "8",
+    "majorName": "投资学",
+    "majorRemark": "在四川农业大学成都校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5760
+  }
+]

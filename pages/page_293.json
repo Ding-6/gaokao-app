@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "42",
+    "majorName": "大数据工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "43",
+    "majorName": "人工智能工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "44",
+    "majorName": "工业互联网技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 56,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "45",
+    "majorName": "医养照护与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "46",
+    "majorName": "金融科技应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 42,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "47",
+    "majorName": "大数据与会计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "48",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 31,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "49",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "50",
+    "majorName": "现代物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "51",
+    "majorName": "现代家政管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "619",
+    "collegeName": "河北工业职业技术大学(石家庄市)[公办]",
+    "majorCode": "52",
+    "majorName": "智慧健康养老管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "625",
+    "collegeName": "河北环境工程学院(秦皇岛市)[公办]",
+    "majorCode": "9",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "625",
+    "collegeName": "河北环境工程学院(秦皇岛市)[公办]",
+    "majorCode": "10",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "625",
+    "collegeName": "河北环境工程学院(秦皇岛市)[公办]",
+    "majorCode": "11",
+    "majorName": "海洋资源与环境",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "625",
+    "collegeName": "河北环境工程学院(秦皇岛市)[公办]",
+    "majorCode": "12",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 31,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "_说明": "新高考3+1+2模式省份配置。3=语数外（不分科），1=首选科目(物理/历史二选一)，2=再选科目(化学/生物/政治/地理中选2)。本文件为框架内置示例，省份列表/批次规则建议对照本省教育考试院当年文件核实后再使用。",
+  "mode": "3+1+2",
+  "provinces": [
+    {
+      "code": "HEN", "name": "河南",
+      "subjectRule": {
+        "primary": ["物理", "历史"],
+        "secondaryPool": ["化学", "生物", "政治", "地理"],
+        "secondaryPick": 2
+      },
+      "batches": [
+        { "id": "ug_batch", "name": "本科批", "maxVolunteers": 45, "unit": "专业(类)+院校" },
+        { "id": "hvc_batch", "name": "高职高专批", "maxVolunteers": 80, "unit": "专业(类)+院校" }
+      ]
+    },
+    {
+      "code": "HEB", "name": "河北",
+      "subjectRule": {
+        "primary": ["物理", "历史"],
+        "secondaryPool": ["化学", "生物", "政治", "地理"],
+        "secondaryPick": 2
+      },
+      "batches": [
+        { "id": "ug_batch", "name": "本科批", "maxVolunteers": 96, "unit": "院校专业组" },
+        { "id": "hvc_batch", "name": "专科批", "maxVolunteers": 80, "unit": "院校专业组" }
+      ]
+    },
+    {
+      "code": "GD", "name": "广东",
+      "subjectRule": {
+        "primary": ["物理", "历史"],
+        "secondaryPool": ["化学", "生物", "政治", "地理"],
+        "secondaryPick": 2
+      },
+      "batches": [
+        { "id": "ug_batch", "name": "本科批", "maxVolunteers": 45, "unit": "院校专业组" },
+        { "id": "hvc_batch", "name": "专科批", "maxVolunteers": 45, "unit": "院校专业组" }
+      ]
+    }
+  ],
+  "_待办": "如需新增省份（如重庆/江西/福建/湖南/湖北/辽宁/福建等同为3+1+2的省份），复制上面任一对象修改code/name/batches即可；各省每年志愿数和批次合并规则可能调整，请以当年公布的《招生考试工作规定》为准。"
+}

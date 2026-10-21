@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "57",
+    "majorName": "化学工程与工艺(创新实验班)",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "58",
+    "majorName": "制药工程",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 44,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "59",
+    "majorName": "交通工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 160,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "60",
+    "majorName": "环境工程",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "61",
+    "majorName": "生物医学工程",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 64,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "62",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 41,
+    "duration": "5",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "63",
+    "majorName": "生物工程",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 68,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "64",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "65",
+    "majorName": "工程管理(创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "66",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 32,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "67",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "68",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 29,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "69",
+    "majorName": "公共事业管理",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "70",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 31,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "71",
+    "majorName": "智能医学工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 41,
+    "duration": "4",
+    "tuition": 5800
+  }
+]

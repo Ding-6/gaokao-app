@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "28",
+    "majorName": "动物医学",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 4090
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "29",
+    "majorName": "林学(惟义实验班)",
+    "majorRemark": "农林类；单科成绩要求：外语>=105；建议英语语种考生报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4090
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "30",
+    "majorName": "林学",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4090
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "31",
+    "majorName": "林学(公管双学士学位)",
+    "majorRemark": "农林类；“林学+公共事业管理”双学士学位复合型人才培养项目； 大一、大二学费7890元/年，大三、大四学费4090元/年",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7890
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "32",
+    "majorName": "智慧林业",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4090
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "33",
+    "majorName": "水产养殖学",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4090
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "34",
+    "majorName": "水产养殖学(农经管双学士学位)",
+    "majorRemark": "农林类；“水产养殖学+农林经济管理”双学士学位复合型人才培养项目；大一、大二学费7890元/年；大三、大四学费4090元/年",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7890
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "35",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "36",
+    "majorName": "公共事业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1009",
+    "collegeName": "江西农业大学(南昌市)[公办]",
+    "majorCode": "37",
+    "majorName": "电子商务(商务智能方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "29",
+    "majorName": "经济学(数字创新)",
+    "majorRemark": "不招单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "30",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "31",
+    "majorName": "国际经济与贸易(数字经贸)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "32",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "33",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4660
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "24",
+    "majorName": "应用心理学",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "25",
+    "majorName": "统计学",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "26",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "27",
+    "majorName": "车辆工程",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "28",
+    "majorName": "功能材料",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "29",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "30",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "31",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "32",
+    "majorName": "人工智能",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "33",
+    "majorName": "自动化",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "34",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、数字媒体技术、数据科学与大数据技术专业；一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "35",
+    "majorName": "林业工程类",
+    "majorRemark": "含林产化工、木材科学与工程、木材科学与工程(木结构材料与工程方向)专业；一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "36",
+    "majorName": "林业工程类(梁希实验班)",
+    "majorRemark": "含林产化工、木材科学与工程专业；北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "37",
+    "majorName": "木材科学与工程(德语复合人才实验班)",
+    "majorRemark": "北京校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "124",
+    "collegeName": "北京林业大学[公办]",
+    "majorCode": "38",
+    "majorName": "环境工程",
+    "majorRemark": "一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

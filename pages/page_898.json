@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "6",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "7",
+    "majorName": "电子信息工程",
+    "majorRemark": "菁英人才培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "8",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "9",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "10",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "11",
+    "majorName": "土木工程",
+    "majorRemark": "卓越班",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "12",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "13",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "菁英人才培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "14",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "菁英人才培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "15",
+    "majorName": "地质工程",
+    "majorRemark": "卓越班",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "16",
+    "majorName": "资源勘查工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "17",
+    "majorName": "采矿工程",
+    "majorRemark": "卓越班",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "18",
+    "majorName": "矿物加工工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "19",
+    "majorName": "智能采矿工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "20",
+    "majorName": "安全工程",
+    "majorRemark": "领军人才培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  }
+]

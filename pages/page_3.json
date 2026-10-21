@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "22",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "23",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "24",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "25",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "26",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "27",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "28",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "29",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "30",
+    "majorName": "低空技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "31",
+    "majorName": "应用物理学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=115；部分课程使用英文原版教材和外籍教师全英文授课，高考为非英语语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "32",
+    "majorName": "应用统计学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=115；部分课程使用英文原版教材和外籍教师全英文授课，高考为非英语语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "8",
+    "collegeName": "安徽大学[公办]",
+    "majorCode": "33",
+    "majorName": "数字媒体技术(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=115；部分课程使用英文原版教材和外籍教师全英文授课，高考为非英语语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "11",
+    "collegeName": "安徽工程大学(芜湖市)[公办]",
+    "majorCode": "1",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "11",
+    "collegeName": "安徽工程大学(芜湖市)[公办]",
+    "majorCode": "2",
+    "majorName": "应用化学",
+    "majorRemark": "不招色弱、色盲及单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "11",
+    "collegeName": "安徽工程大学(芜湖市)[公办]",
+    "majorCode": "3",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5980
+  }
+]

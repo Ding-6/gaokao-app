@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "33",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 187,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "34",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "35",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母的考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 116,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "36",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 53,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "37",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "38",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 87,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "39",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "40",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 87,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "41",
+    "majorName": "制药工程",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 96,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "42",
+    "majorName": "能源化学工程",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "43",
+    "majorName": "纺织工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 96,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "44",
+    "majorName": "轻化工程",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "45",
+    "majorName": "环境工程",
+    "majorRemark": "污染防控方向。色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 52,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "46",
+    "majorName": "环境工程",
+    "majorRemark": "生态工程方向。色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 44,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "47",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

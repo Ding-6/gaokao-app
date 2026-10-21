@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "675",
+    "collegeName": "河北中医药大学[公办]",
+    "majorCode": "28",
+    "majorName": "中药资源与开发",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "675",
+    "collegeName": "河北中医药大学[公办]",
+    "majorCode": "29",
+    "majorName": "中药制药",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "675",
+    "collegeName": "河北中医药大学[公办]",
+    "majorCode": "30",
+    "majorName": "中草药栽培与鉴定",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "675",
+    "collegeName": "河北中医药大学[公办]",
+    "majorCode": "31",
+    "majorName": "医学检验技术",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "675",
+    "collegeName": "河北中医药大学[公办]",
+    "majorCode": "32",
+    "majorName": "医学影像技术",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "675",
+    "collegeName": "河北中医药大学[公办]",
+    "majorCode": "33",
+    "majorName": "康复治疗学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "675",
+    "collegeName": "河北中医药大学[公办]",
+    "majorCode": "34",
+    "majorName": "口腔医学技术",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "675",
+    "collegeName": "河北中医药大学[公办]",
+    "majorCode": "37",
+    "majorName": "健康服务与管理",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "675",
+    "collegeName": "河北中医药大学[公办]",
+    "majorCode": "38",
+    "majorName": "智能医学工程",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "676",
+    "collegeName": "河北中医药大学(地方专项计划)[公办]",
+    "majorCode": "4",
+    "majorName": "中医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "676",
+    "collegeName": "河北中医药大学(地方专项计划)[公办]",
+    "majorCode": "5",
+    "majorName": "针灸推拿学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "676",
+    "collegeName": "河北中医药大学(地方专项计划)[公办]",
+    "majorCode": "6",
+    "majorName": "中医儿科学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "676",
+    "collegeName": "河北中医药大学(地方专项计划)[公办]",
+    "majorCode": "7",
+    "majorName": "中西医临床医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "676",
+    "collegeName": "河北中医药大学(地方专项计划)[公办]",
+    "majorCode": "8",
+    "majorName": "中药学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "680",
+    "collegeName": "河池学院[公办]",
+    "majorCode": "5",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4200
+  }
+]

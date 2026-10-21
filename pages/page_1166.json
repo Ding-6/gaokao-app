@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2220",
+    "collegeName": "西安交通大学城市学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 25300
+  },
+  {
+    "collegeCode": "2220",
+    "collegeName": "西安交通大学城市学院[独立学院]",
+    "majorCode": "19",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 25300
+  },
+  {
+    "collegeCode": "2220",
+    "collegeName": "西安交通大学城市学院[独立学院]",
+    "majorCode": "20",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 25300
+  },
+  {
+    "collegeCode": "2220",
+    "collegeName": "西安交通大学城市学院[独立学院]",
+    "majorCode": "21",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 25300
+  },
+  {
+    "collegeCode": "2221",
+    "collegeName": "西安科技大学高新学院[独立学院]",
+    "majorCode": "4",
+    "majorName": "人文教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2221",
+    "collegeName": "西安科技大学高新学院[独立学院]",
+    "majorCode": "5",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 27000
+  },
+  {
+    "collegeCode": "2221",
+    "collegeName": "西安科技大学高新学院[独立学院]",
+    "majorCode": "6",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2221",
+    "collegeName": "西安科技大学高新学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2221",
+    "collegeName": "西安科技大学高新学院[独立学院]",
+    "majorCode": "8",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "SQAAD国际项目",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 42800
+  },
+  {
+    "collegeCode": "2221",
+    "collegeName": "西安科技大学高新学院[独立学院]",
+    "majorCode": "9",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2221",
+    "collegeName": "西安科技大学高新学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2221",
+    "collegeName": "西安科技大学高新学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "财务管理",
+    "majorRemark": "SQAAD国际项目",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 42800
+  },
+  {
+    "collegeCode": "2221",
+    "collegeName": "西安科技大学高新学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "与新西兰惠灵顿理工学院合作举办，考生录取后不允许转专业，学制4年，引进外方课程门数占全部课程门数的三分之一，由西安科技大学高新学院与新西兰惠灵顿理工学院联合培养，完成本专业人才培养方案规定课程，并达到双方毕业条件与学位授予标准后，可获得西安科技大学高新学院颁发的计算机科学与技术专业本科毕业证书、工学学士学位证书与新西兰惠灵顿理工学院颁发的信息技术（软件开发专业）学士学位证书，详询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 49600
+  },
+  {
+    "collegeCode": "2222",
+    "collegeName": "西北大学现代学院[独立学院]",
+    "majorCode": "3",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2222",
+    "collegeName": "西北大学现代学院[独立学院]",
+    "majorCode": "4",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 25000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1538",
+    "collegeName": "沈阳化工大学[公办]",
+    "majorCode": "37",
+    "majorName": "生物工程",
+    "majorRemark": "不招色弱、色盲、单色不识别的考生。详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1538",
+    "collegeName": "沈阳化工大学[公办]",
+    "majorCode": "38",
+    "majorName": "工程管理",
+    "majorRemark": "不招单色不识别的考生。详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1538",
+    "collegeName": "沈阳化工大学[公办]",
+    "majorCode": "39",
+    "majorName": "应急管理",
+    "majorRemark": "不招单色不识别的考生。详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1538",
+    "collegeName": "沈阳化工大学[公办]",
+    "majorCode": "40",
+    "majorName": "会计学",
+    "majorRemark": "不招单色不识别的考生。详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1538",
+    "collegeName": "沈阳化工大学[公办]",
+    "majorCode": "41",
+    "majorName": "能源与动力工程(中外合作办学)",
+    "majorRemark": "高收费",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1538",
+    "collegeName": "沈阳化工大学[公办]",
+    "majorCode": "42",
+    "majorName": "化学工程与工艺(中外合作办学)",
+    "majorRemark": "高收费；不招色弱、色盲、单色不识别的考生。详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1539",
+    "collegeName": "沈阳建筑大学[公办]",
+    "majorCode": "2",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1539",
+    "collegeName": "沈阳建筑大学[公办]",
+    "majorCode": "3",
+    "majorName": "机械工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1539",
+    "collegeName": "沈阳建筑大学[公办]",
+    "majorCode": "4",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1539",
+    "collegeName": "沈阳建筑大学[公办]",
+    "majorCode": "5",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1539",
+    "collegeName": "沈阳建筑大学[公办]",
+    "majorCode": "6",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1539",
+    "collegeName": "沈阳建筑大学[公办]",
+    "majorCode": "7",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1539",
+    "collegeName": "沈阳建筑大学[公办]",
+    "majorCode": "8",
+    "majorName": "无机非金属材料工程",
+    "majorRemark": "不招收色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1539",
+    "collegeName": "沈阳建筑大学[公办]",
+    "majorCode": "9",
+    "majorName": "无机非金属材料工程(卓越工程师班)",
+    "majorRemark": "不招收色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1539",
+    "collegeName": "沈阳建筑大学[公办]",
+    "majorCode": "10",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "不招收色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

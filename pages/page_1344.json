@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "50",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "51",
+    "majorName": "旅游管理",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "52",
+    "majorName": "全媒体新闻采编与制作",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "53",
+    "majorName": "全媒体新闻采编与制作",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "54",
+    "majorName": "应用俄语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "55",
+    "majorName": "应用俄语",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2749",
+    "collegeName": "信阳学院[民办]",
+    "majorCode": "3",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2749",
+    "collegeName": "信阳学院[民办]",
+    "majorCode": "4",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2754",
+    "collegeName": "烟台科技学院(烟台市)[民办]",
+    "majorCode": "6",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2754",
+    "collegeName": "烟台科技学院(烟台市)[民办]",
+    "majorCode": "7",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2754",
+    "collegeName": "烟台科技学院(烟台市)[民办]",
+    "majorCode": "8",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2754",
+    "collegeName": "烟台科技学院(烟台市)[民办]",
+    "majorCode": "9",
+    "majorName": "电机电器智能化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2754",
+    "collegeName": "烟台科技学院(烟台市)[民办]",
+    "majorCode": "10",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2754",
+    "collegeName": "烟台科技学院(烟台市)[民办]",
+    "majorCode": "11",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2754",
+    "collegeName": "烟台科技学院(烟台市)[民办]",
+    "majorCode": "12",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 19000
+  }
+]

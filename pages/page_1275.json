@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "19",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "20",
+    "majorName": "英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "21",
+    "majorName": "广告学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "22",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "23",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "24",
+    "majorName": "应用心理学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "25",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "26",
+    "majorName": "电气工程及其自动化(国际班)",
+    "majorRemark": "学校核心班型，依托拔尖人才培养计划，报考前务必先向院校咨询后再填报；国际班专项培养费用（含雅思教学及国际化课程培养相关费用）四年合计79800元，该培养方向统一归属我校国际教育学院管理，由新生在入学报到前自主选定培养方向",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "27",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "28",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "29",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "30",
+    "majorName": "人工智能(国际班)",
+    "majorRemark": "学校核心班型，依托拔尖人才培养计划，报考前务必先向院校咨询后再填报；国际班专项培养费用（含雅思教学及国际化课程培养相关费用）四年合计79800元，该培养方向统一归属我校国际教育学院管理，由新生在入学报到前自主选定培养方向",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "31",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "32",
+    "majorName": "机器人工程(国际班)",
+    "majorRemark": "学校核心班型，依托拔尖人才培养计划，报考前务必先向院校咨询后再填报；国际班专项培养费用（含雅思教学及国际化课程培养相关费用）四年合计79800元，该培养方向统一归属我校国际教育学院管理，由新生在入学报到前自主选定培养方向",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2542",
+    "collegeName": "南宁理工学院[民办]",
+    "majorCode": "33",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母者不能录取到该专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  }
+]

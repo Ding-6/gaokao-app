@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "96",
+    "majorName": "工商管理(双学士学位)",
+    "majorRemark": "工商管理-法学双学士学位复合型人才培养项目：商学与管理学院和法学院联合建设",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 8500
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "97",
+    "majorName": "会计学",
+    "majorRemark": "按类招。含会计学、财务管理。财务管理专业特色培养方向为：数智化决策",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "98",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6070
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "99",
+    "majorName": "档案学(档案数据工程)",
+    "majorRemark": "不招单色不识别考生；大三下学期开始进入科教融汇和产教融合双元路径培养",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6070
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "A0",
+    "majorName": "物流管理(双学士学位)",
+    "majorRemark": "物流管理-计算机科学与技术双学士学位复合型人才培养项目：商学与管理学院和计算机科学与技术学院联合建设",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 8800
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "A1",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6070
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "A2",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "第4年在加拿大阿尔伯塔大学学习，学费外方收取",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "A3",
+    "majorName": "物理学(中外合作办学)",
+    "majorRemark": "第4年在俄罗斯托姆斯克理工大学学习，学费外方收取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "919",
+    "collegeName": "吉林工程技术师范学院(长春市)[公办]",
+    "majorCode": "05",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类；数学单科成绩低者谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "919",
+    "collegeName": "吉林工程技术师范学院(长春市)[公办]",
+    "majorCode": "06",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "919",
+    "collegeName": "吉林工程技术师范学院(长春市)[公办]",
+    "majorCode": "07",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "师范类；色弱、色盲、单色不识别不予录取，其它要求详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "919",
+    "collegeName": "吉林工程技术师范学院(长春市)[公办]",
+    "majorCode": "08",
+    "majorName": "车辆工程",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "919",
+    "collegeName": "吉林工程技术师范学院(长春市)[公办]",
+    "majorCode": "09",
+    "majorName": "智能制造工程",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "919",
+    "collegeName": "吉林工程技术师范学院(长春市)[公办]",
+    "majorCode": "10",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "919",
+    "collegeName": "吉林工程技术师范学院(长春市)[公办]",
+    "majorCode": "11",
+    "majorName": "电子信息工程",
+    "majorRemark": "师范类；其它要求详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5400
+  }
+]

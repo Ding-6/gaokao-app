@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "42",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 61,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "43",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "色弱、色盲和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 57,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "44",
+    "majorName": "环境生态工程",
+    "majorRemark": "色弱、色盲和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "45",
+    "majorName": "食品质量与安全",
+    "majorRemark": "色弱、色盲和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 47,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "46",
+    "majorName": "中草药栽培与鉴定",
+    "majorRemark": "色弱、色盲和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "47",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "48",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 47,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "49",
+    "majorName": "财务管理",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 43,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "50",
+    "majorName": "人力资源管理",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "51",
+    "majorName": "健康服务与管理",
+    "majorRemark": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "52",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "53",
+    "majorName": "广播电视编导",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "54",
+    "majorName": "智能医学工程",
+    "majorRemark": "色弱、色盲和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "757",
+    "collegeName": "衡水学院[公办]",
+    "majorCode": "55",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "衡水学院与美国中央密苏里大学合作举办数学与应用数学专业本科教育项目采用“3+1”或“国内4+0”培养模式，前3学年本校就读，学费标准每生29000元/年；第4学年可赴美国中央密苏里大学学习，学费按外方标准执行，本校不收费；考试成绩合格，符合中美两校学位授予条件的，将获得衡水学院毕业证书和学士学位及美国中央密苏里大学授予的学位证书。第4学年未赴美国中央密苏里大学学习，仅在衡水学院就读的学生，第4学年学费按每生29000元标准收取，修业期满成绩符合毕业及学位授予标准的学生，将获得衡水学院毕业证书和学士学位。详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 68,
+    "duration": "4",
+    "tuition": 29000
+  },
+  {
+    "collegeCode": "764",
+    "collegeName": "衡阳师范学院[公办]",
+    "majorCode": "10",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

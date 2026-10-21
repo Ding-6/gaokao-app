@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2788",
+    "collegeName": "郑州财经学院[民办]",
+    "majorCode": "24",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2788",
+    "collegeName": "郑州财经学院[民办]",
+    "majorCode": "25",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2788",
+    "collegeName": "郑州财经学院[民办]",
+    "majorCode": "26",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2790",
+    "collegeName": "郑州工商学院[民办]",
+    "majorCode": "5",
+    "majorName": "法学",
+    "majorRemark": "第一年在兰考校区培养，第二至四年在郑州校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2790",
+    "collegeName": "郑州工商学院[民办]",
+    "majorCode": "6",
+    "majorName": "英语",
+    "majorRemark": "第一年在兰考校区培养，第二至四年在郑州校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2790",
+    "collegeName": "郑州工商学院[民办]",
+    "majorCode": "7",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "第一年在兰考校区培养，第二至四年在郑州校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2790",
+    "collegeName": "郑州工商学院[民办]",
+    "majorCode": "8",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "第一年在兰考校区培养，第二至四年在郑州校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2790",
+    "collegeName": "郑州工商学院[民办]",
+    "majorCode": "9",
+    "majorName": "电子信息工程",
+    "majorRemark": "第一年在兰考校区培养，第二至四年在郑州校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2790",
+    "collegeName": "郑州工商学院[民办]",
+    "majorCode": "10",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "第一年在兰考校区培养，第二至四年在郑州校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2790",
+    "collegeName": "郑州工商学院[民办]",
+    "majorCode": "11",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "第一年在兰考校区培养，第二至四年在郑州校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2790",
+    "collegeName": "郑州工商学院[民办]",
+    "majorCode": "12",
+    "majorName": "会计学",
+    "majorRemark": "第一年在兰考校区培养，第二至四年在郑州校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2790",
+    "collegeName": "郑州工商学院[民办]",
+    "majorCode": "13",
+    "majorName": "财务管理",
+    "majorRemark": "第一年在兰考校区培养，第二至四年在郑州校区培养",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2791",
+    "collegeName": "郑州工业应用技术学院[民办]",
+    "majorCode": "5",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2791",
+    "collegeName": "郑州工业应用技术学院[民办]",
+    "majorCode": "6",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2791",
+    "collegeName": "郑州工业应用技术学院[民办]",
+    "majorCode": "7",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 16000
+  }
+]

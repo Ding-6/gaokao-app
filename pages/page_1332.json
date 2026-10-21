@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "23",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21780
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "24",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21780
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "25",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21780
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "26",
+    "majorName": "动物医学",
+    "majorRemark": "宠物医院订单班",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 22880
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "27",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21780
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "28",
+    "majorName": "医学检验技术",
+    "majorRemark": "国家专业与标准化教育融合试点专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22880
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "29",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22880
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "30",
+    "majorName": "口腔医学技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22880
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "32",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22880
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "33",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21780
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "34",
+    "majorName": "资产评估",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21780
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "35",
+    "majorName": "电子商务",
+    "majorRemark": "数智运营创新实验班",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20680
+  },
+  {
+    "collegeCode": "2719",
+    "collegeName": "西安培华学院[民办]",
+    "majorCode": "36",
+    "majorName": "广播电视编导",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 25080
+  },
+  {
+    "collegeCode": "2720",
+    "collegeName": "西安汽车职业大学[民办]",
+    "majorCode": "34",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25080
+  },
+  {
+    "collegeCode": "2720",
+    "collegeName": "西安汽车职业大学[民办]",
+    "majorCode": "35",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25080
+  }
+]

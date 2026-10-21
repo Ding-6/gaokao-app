@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "42",
+    "majorName": "农学(未来农业领军人才班)",
+    "majorRemark": "色弱色盲不能录取；多元化创新人才培养模式，开展个性化学习+全学程科研素质与创新能力训练，详见学校招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "43",
+    "majorName": "园艺(园艺类)",
+    "majorRemark": "含园艺、茶学专业；色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "44",
+    "majorName": "园艺(后稷实验班)",
+    "majorRemark": "色弱色盲不能录取；多元化创新人才培养模式，开展个性化学习+全学程科研素质与创新能力训练，详见学校招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "45",
+    "majorName": "植物保护",
+    "majorRemark": "色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "46",
+    "majorName": "植物保护(后稷实验班)",
+    "majorRemark": "色弱色盲不能录取；多元化创新人才培养模式，开展个性化学习+全学程科研素质与创新能力训练，详见学校招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "47",
+    "majorName": "设施农业科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "48",
+    "majorName": "智慧农业",
+    "majorRemark": "色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "49",
+    "majorName": "水土保持与荒漠化防治",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "50",
+    "majorName": "水土保持与荒漠化防治(后稷实验班)",
+    "majorRemark": "多元化创新人才培养模式，开展个性化学习+全学程科研素质与创新能力训练，详见学校招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "51",
+    "majorName": "土地科学与技术",
+    "majorRemark": "色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "52",
+    "majorName": "生态修复学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "53",
+    "majorName": "动物科学",
+    "majorRemark": "色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "54",
+    "majorName": "智慧牧业科学与工程",
+    "majorRemark": "色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "55",
+    "majorName": "动物医学",
+    "majorRemark": "色弱色盲不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "5",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1800",
+    "collegeName": "西北农林科技大学(咸阳市)[公办]",
+    "majorCode": "56",
+    "majorName": "动物医学(后稷实验班)",
+    "majorRemark": "色弱色盲不能录取；多元化创新人才培养模式，开展个性化学习+全学程科研素质与创新能力训练，详见学校招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6600
+  }
+]

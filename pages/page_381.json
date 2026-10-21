@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "776",
+    "collegeName": "湖北大学(武汉市)[公办]",
+    "majorCode": "23",
+    "majorName": "机器人工程(中外合作办学)",
+    "majorRemark": "第一、二学年在武昌校区；学费7万元人民币/年；中英合作办学；武昌校区；英国曼彻斯特城市大学；非英语语种考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "776",
+    "collegeName": "湖北大学(武汉市)[公办]",
+    "majorCode": "24",
+    "majorName": "软件工程(中外合作办学)",
+    "majorRemark": "第一、二学年在武昌校区；学费6万元人民币/年；中英合作办学；英国曼彻斯特城市大学；非英语语种考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "777",
+    "collegeName": "湖北第二师范学院[公办]",
+    "majorCode": "5",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "777",
+    "collegeName": "湖北第二师范学院[公办]",
+    "majorCode": "6",
+    "majorName": "化学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "777",
+    "collegeName": "湖北第二师范学院[公办]",
+    "majorCode": "7",
+    "majorName": "材料物理(新能源电池方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "777",
+    "collegeName": "湖北第二师范学院[公办]",
+    "majorCode": "8",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、软件工程、数据科学与大数据技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "777",
+    "collegeName": "湖北第二师范学院[公办]",
+    "majorCode": "9",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "778",
+    "collegeName": "湖北工程学院(孝感市)[公办]",
+    "majorCode": "1",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "778",
+    "collegeName": "湖北工程学院(孝感市)[公办]",
+    "majorCode": "2",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "778",
+    "collegeName": "湖北工程学院(孝感市)[公办]",
+    "majorCode": "3",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "778",
+    "collegeName": "湖北工程学院(孝感市)[公办]",
+    "majorCode": "4",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "778",
+    "collegeName": "湖北工程学院(孝感市)[公办]",
+    "majorCode": "5",
+    "majorName": "化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "778",
+    "collegeName": "湖北工程学院(孝感市)[公办]",
+    "majorCode": "6",
+    "majorName": "生物科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "778",
+    "collegeName": "湖北工程学院(孝感市)[公办]",
+    "majorCode": "7",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "778",
+    "collegeName": "湖北工程学院(孝感市)[公办]",
+    "majorCode": "8",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "_说明": "院校基础数据。本文件仅含【结构示例】，下方少量条目数据为占位/示例，标注 isRealData:false 的字段表示尚未核实，正式使用前请通过【阳光高考信息平台 gaokao.chsi.com.cn】或院校官网招生网核对替换。导入规则见 docs/数据更新维护说明.md。",
+  "schema": {
+    "collegeCode": "院校代码（教育部标准码，6位）",
+    "collegeName": "院校名称",
+    "level": "本科 | 专科",
+    "ownership": "公办 | 民办 | 独立学院 | 中外合作",
+    "province": "院校所在省份",
+    "city": "院校所在城市",
+    "tags": "标签数组，如 985/211/双一流/省重点",
+    "tuitionRange": "[最低学费, 最高学费]，单位：元/年，按本科普通专业，艺术/中外合作等专业以专业表为准",
+    "isRealData": "布尔值，true=已核实的真实数据，false=占位示例，导入官方数据后应改为true"
+  },
+  "colleges": [
+    {
+      "collegeCode": "10459",
+      "collegeName": "示例：郑州大学",
+      "level": "本科",
+      "ownership": "公办",
+      "province": "河南",
+      "city": "郑州",
+      "tags": ["211", "双一流"],
+      "tuitionRange": [4500, 5500],
+      "isRealData": false
+    },
+    {
+      "collegeCode": "10001",
+      "collegeName": "示例：北京大学",
+      "level": "本科",
+      "ownership": "公办",
+      "province": "北京",
+      "city": "北京",
+      "tags": ["985", "211", "双一流"],
+      "tuitionRange": [5000, 5000],
+      "isRealData": false
+    }
+  ],
+  "_待办": "这里只放了2条占位条目用于跑通界面。请用 docs/数据导入模板.csv 批量导入你核实过的100+院校数据，系统会自动校验字段完整性。"
+}

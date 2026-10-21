@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "22",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "23",
+    "majorName": "化学工程与工艺(卓越工程师班)",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "24",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "25",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "26",
+    "majorName": "化学工程与工业生物工程",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "27",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "28",
+    "majorName": "安全工程",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "29",
+    "majorName": "应急技术与管理",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "30",
+    "majorName": "安全生产监管",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "31",
+    "majorName": "生物制药",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "32",
+    "majorName": "药物分析",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "33",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "34",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "职业本科；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "138",
+    "collegeName": "北京体育大学[公办]",
+    "majorCode": "10",
+    "majorName": "运动人体科学",
+    "majorRemark": "色弱、色盲考生不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "138",
+    "collegeName": "北京体育大学[公办]",
+    "majorCode": "11",
+    "majorName": "运动康复",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

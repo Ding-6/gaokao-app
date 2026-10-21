@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "37",
+    "majorName": "农业水利工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 48,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "38",
+    "majorName": "智慧建筑与建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "39",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "40",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "41",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "42",
+    "majorName": "国际商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "43",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "665",
+    "collegeName": "河北水利电力学院[公办]",
+    "majorCode": "44",
+    "majorName": "跨境电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "667",
+    "collegeName": "河北体育学院[公办]",
+    "majorCode": "4",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；正定新区校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "667",
+    "collegeName": "河北体育学院[公办]",
+    "majorCode": "5",
+    "majorName": "运动人体科学",
+    "majorRemark": "正定新区校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "667",
+    "collegeName": "河北体育学院[公办]",
+    "majorCode": "6",
+    "majorName": "运动康复",
+    "majorRemark": "正定新区校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "667",
+    "collegeName": "河北体育学院[公办]",
+    "majorCode": "7",
+    "majorName": "体育康养",
+    "majorRemark": "正定新区校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "667",
+    "collegeName": "河北体育学院[公办]",
+    "majorCode": "8",
+    "majorName": "体育经济与管理",
+    "majorRemark": "正定新区校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "4",
+    "majorName": "生物制药",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "14",
+    "majorName": "预防医学",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 77,
+    "duration": "5",
+    "tuition": 5200
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "55",
+    "majorName": "口腔医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "56",
+    "majorName": "预防医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "57",
+    "majorName": "中医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 32,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "58",
+    "majorName": "针灸推拿学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "59",
+    "majorName": "中西医临床医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 48,
+    "duration": "5",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "60",
+    "majorName": "药学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 120,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "61",
+    "majorName": "药物制剂",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "62",
+    "majorName": "中药学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "63",
+    "majorName": "法医学",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "64",
+    "majorName": "医学检验技术",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 67,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "65",
+    "majorName": "卫生检验与检疫",
+    "majorRemark": "色盲、色弱不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "67",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "68",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "69",
+    "majorName": "农林经济管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "593",
+    "collegeName": "河北北方学院[公办]",
+    "majorCode": "70",
+    "majorName": "戏剧影视文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 8000
+  }
+]

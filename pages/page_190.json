@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "47",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "48",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "49",
+    "majorName": "跨境电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "50",
+    "majorName": "旅游管理与服务教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "386",
+    "collegeName": "福建商学院(边防军人子女预科班)[公办]",
+    "majorCode": "2",
+    "majorName": "本科预科班",
+    "majorRemark": "只招通过边防子女资格审查的考生，其他事宜向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "1",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "5",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "6",
+    "majorName": "纪检监察",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "7",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类，包含“教育技术学+人工智能”双学士学位复合型人才培养项目",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "8",
+    "majorName": "地理科学",
+    "majorRemark": "不招色盲；师范类",
+    "subjectRequirementText": "地理",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "10",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "11",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "12",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "13",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息工程、通信工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "14",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "15",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 10500
+  }
+]

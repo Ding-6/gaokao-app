@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "17",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "18",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "19",
+    "majorName": "微电子科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "20",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "21",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "22",
+    "majorName": "自动化(量新拔尖人才创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "23",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "24",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "25",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "有身体条件建议，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "26",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "27",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "28",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "29",
+    "majorName": "生物工程",
+    "majorRemark": "有身体条件建议，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "30",
+    "majorName": "药学",
+    "majorRemark": "有身体条件建议，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2047",
+    "collegeName": "中国计量大学(杭州市)[公办]",
+    "majorCode": "31",
+    "majorName": "卫生检验与检疫",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  }
+]

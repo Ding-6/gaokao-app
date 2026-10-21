@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1694",
+    "collegeName": "通化师范学院[公办]",
+    "majorCode": "2",
+    "majorName": "互联网金融",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1694",
+    "collegeName": "通化师范学院[公办]",
+    "majorCode": "3",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1694",
+    "collegeName": "通化师范学院[公办]",
+    "majorCode": "4",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1694",
+    "collegeName": "通化师范学院[公办]",
+    "majorCode": "5",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 5940
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "3",
+    "majorName": "工科试验班(国豪精英班)",
+    "majorRemark": "工科拔尖人才培养计划，含未来技术班、20的四次方无限跃升计划。所有工科专业任选。专业确认后按专业标准收费。身体条件限制详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "4",
+    "majorName": "工科试验班(卓越计划班)",
+    "majorRemark": "含机器人、工程互联网、智能网联交通（智能网联车辆、低空技术与工程）、智慧空间四个领域，领域内专业任选。身体条件限制详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "5",
+    "majorName": "工科试验班(机器人与智能化制造类)",
+    "majorRemark": "含新能源材料与器件、机械设计制造及其自动化、智能制造工程、飞行器制造工程、工业设计、未来机器人专业；该类内分流时若进入机械工程与机器人学院，院内专业任选（未来机器人、机械设计制造及其自动化、智能制造工程）。分流专业中工业设计每年收费标准为7700元。身体条件限制详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "6",
+    "majorName": "工科试验班(计算机与电子类)",
+    "majorRemark": "含计算机科学与技术、信息安全、数据科学与大数据技术、电气工程及其自动化、自动化、通信工程、人工智能、微电子科学与工程、软件工程专业；该类内分流时学院内专业任选。分流专业中软件工程专业三、四年级每年收费标准16000元。单色不能识别者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "7",
+    "majorName": "理科试验班(数理化拔尖基地)",
+    "majorRemark": "含数学与应用数学(基础学科拔尖基地)、应用物理学(基础学科拔尖基地)、应用化学(基础学科拔尖基地)专业；该类录取学生可在数学拔尖学生培养基地、物理学拔尖学生培养基地、化学拔尖学生培养基地中任选。身体条件限制详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "8",
+    "majorName": "医学试验班",
+    "majorRemark": "含临床医学(领军人才培养)、临床医学、口腔医学、生物技术、生物信息学专业；不招色盲、色弱考生。含生命科学拔尖学生培养基地。分流专业中生物技术和生物信息学为四年制",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 7400
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "9",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "10",
+    "majorName": "人工智能(拔尖班)",
+    "majorRemark": "对接人工智能专项。单色不能识别者不录取",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "11",
+    "majorName": "临床医学(5+3一体化)",
+    "majorRemark": "本硕衔接培养，合格毕业生获执业医师资格证、住院医师规范化培训合格证书、硕士研究生毕业证和学位证。该专业不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 7400
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "12",
+    "majorName": "信息管理与信息系统(数据科学与大数据技术双学士学位)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1697",
+    "collegeName": "同济大学[公办]",
+    "majorCode": "13",
+    "majorName": "机械类(中外合作办学)",
+    "majorRemark": "含机械电子工程(中外合作办学)、建筑电气与智能化(中外合作办学)、车辆工程(中外合作办学)专业；采用3（同济）+1（德国/瑞士）进阶式国际化人才培养模式，成绩合格者获得同济大学毕业证、工学学士学位证以及外方合作院校学士学位证书",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 21000
+  }
+]

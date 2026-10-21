@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "72",
+    "collegeName": "北方工业大学[公办]",
+    "majorCode": "47",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "不招单色不识别考生；与英国伦敦布鲁内尔大学合作，4+0模式，建议非英语语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "72",
+    "collegeName": "北方工业大学[公办]",
+    "majorCode": "48",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "与英国伦敦布鲁内尔大学合作，4+0模式，建议非英语语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 65000
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "14",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "16",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "17",
+    "majorName": "阿拉伯语",
+    "majorRemark": "只招英语、日语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "18",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "19",
+    "majorName": "生物科学",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "20",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "21",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "22",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "23",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "24",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "25",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "26",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "73",
+    "collegeName": "北方民族大学(银川市)[公办]",
+    "majorCode": "27",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  }
+]

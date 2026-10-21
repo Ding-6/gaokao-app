@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "10",
+    "majorName": "中药学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7900
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "11",
+    "majorName": "眼视光学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7900
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "12",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "13",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7900
+  },
+  {
+    "collegeCode": "1407",
+    "collegeName": "山东中医药大学(济南市)[公办]",
+    "majorCode": "14",
+    "majorName": "康复治疗学(中外合作办学)",
+    "majorRemark": "与德国比勒费尔德中等企业应用技术大学合作，采用“4+0”培养模式，四年均在山东中医药大学学习，部分课程采用德语教学，康复治疗学专业不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "25",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "26",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "27",
+    "majorName": "资源与环境经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "28",
+    "majorName": "能源经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "29",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "30",
+    "majorName": "财政学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "31",
+    "majorName": "税收学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "32",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "33",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1408",
+    "collegeName": "山西财经大学[公办]",
+    "majorCode": "34",
+    "majorName": "保险学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5100
+  }
+]

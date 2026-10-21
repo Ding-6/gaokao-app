@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "31",
+    "majorName": "环境科学",
+    "majorRemark": "碳核算与环境健康",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "32",
+    "majorName": "建筑类",
+    "majorRemark": "含建筑学、城乡规划、历史建筑保护工程、城市设计专业；卓越班，人工智能设计",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "33",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "数智化系统设计与开发",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "34",
+    "majorName": "工程管理",
+    "majorRemark": "数智项目管理",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "35",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "36",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "双学位",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "37",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "双学位",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "38",
+    "majorName": "智能建造(中外合作办学)",
+    "majorRemark": "双学位",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "39",
+    "majorName": "环境科学(中外合作办学)",
+    "majorRemark": "双学位",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 68000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "40",
+    "majorName": "工程管理(中外合作办学)",
+    "majorRemark": "双学位",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "4",
+    "majorName": "工科试验班(智造重器国卓班)",
+    "majorRemark": "含机械工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "5",
+    "majorName": "工科试验班(空天科技国卓班)",
+    "majorRemark": "含飞行器设计与工程、工程力学专业；专业分流时，类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "6",
+    "majorName": "工科试验班(医学电子信息优本班)",
+    "majorRemark": "含生物医学工程专业；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "7",
+    "majorName": "工科试验班(计算机科学技术类)",
+    "majorRemark": "含计算机科学与技术、物联网工程专业；不招单色不识别考生，详见院校章程；国内首批计算机专业；A类学科，双国家级一流本科专业，拥有两位国家级教学名师，屡获国家级教学奖，首批入选国家拔尖计划2.0基地；2个国家级、7个省部级科研平台",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "8",
+    "majorName": "工科试验班(智慧能源领军班)",
+    "majorRemark": "含能源与动力工程、核工程与核技术专业；领军人才担任班主任，专业分流时，100%类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

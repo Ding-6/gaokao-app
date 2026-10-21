@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "30",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5508
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "32",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "33",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "34",
+    "majorName": "智能车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "35",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "36",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "37",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "38",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "39",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6328
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "40",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "41",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "42",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "43",
+    "majorName": "工商管理(联合学士学位项目)",
+    "majorRemark": "工商管理(重庆工商大学)+交通运输(重庆交通大学)联合学士学位人才培养项目，第一、第二、第四学年在重庆工商大学就读住宿，第三年在重庆交通大学就读住宿",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "44",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "45",
+    "majorName": "会计学(双学士学位项目)",
+    "majorRemark": "会计学+统计学双学士学位人才项目",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

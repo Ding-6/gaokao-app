@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "24",
+    "majorName": "自动化(钱学森班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "25",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "26",
+    "majorName": "网络空间安全",
+    "majorRemark": "国家战略刚需黄金赛道，院士领衔顶尖师资，产学研深度融合，名企实战淬炼，就业横跨政企军研全领域，职业发展稳健广阔",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "27",
+    "majorName": "临床医学(侯宗濂班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "28",
+    "majorName": "具身智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "29",
+    "majorName": "工业设计(中外合作办学)",
+    "majorRemark": "合作高校为意大利米兰理工大学，学费10.5万元/年，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 105000
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "30",
+    "majorName": "智能制造工程(中外合作办学)",
+    "majorRemark": "合作高校为意大利米兰理工大学，学费12万元/年，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 120000
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "31",
+    "majorName": "材料科学与工程(中外合作办学)",
+    "majorRemark": "合作高校为意大利米兰理工大学，学费12万元/年，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 120000
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "32",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "合作高校为意大利米兰理工大学，学费15万元/年，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 150000
+  },
+  {
+    "collegeCode": "1774",
+    "collegeName": "西安交通大学[公办]",
+    "majorCode": "33",
+    "majorName": "建筑学(中外合作办学)",
+    "majorRemark": "合作高校为意大利米兰理工大学，学费10.5万元/年，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 105000
+  },
+  {
+    "collegeCode": "1777",
+    "collegeName": "西安交通大学(中外合作办学)[公办]",
+    "majorCode": "2",
+    "majorName": "碳中和科学与工程(中外合作办学)",
+    "majorRemark": "在海南校区就读；合作高校为加拿大不列颠哥伦比亚大学，国内期间学费为15万元/年，国外期间学费由外方按照其标准收取，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 150000
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "2",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "3",
+    "majorName": "工程力学",
+    "majorRemark": "菁英人才培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "4",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1778",
+    "collegeName": "西安科技大学[公办]",
+    "majorCode": "5",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

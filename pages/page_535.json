@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1049",
+    "collegeName": "九江学院[公办]",
+    "majorCode": "20",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1050",
+    "collegeName": "九江学院(国际学分互认联合培养项目)[公办]",
+    "majorCode": "1",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "与澳大利亚昆士兰大学“2+2”学分互认双学位联合培养，学生第三、四年需赴昆士兰大学学习，否则仅获中方学位。四年均需向九江学院缴纳学费，在国内学习期间需向外方授权方缴纳联合培养费。留学期间向昆士兰大学缴纳学费。建议英语语种考生报考。详见学校官网招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "22",
+    "majorName": "经济统计学",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "23",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "24",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "25",
+    "majorName": "社会工作",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "27",
+    "majorName": "教育学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "28",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "29",
+    "majorName": "汉语言文学",
+    "majorRemark": "师范类；单科成绩要求：语文>=100",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "30",
+    "majorName": "汉语国际教育",
+    "majorRemark": "单科成绩要求：语文>=100，外语>=70",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "31",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生；单科成绩要求：外语>=75",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "32",
+    "majorName": "俄语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "33",
+    "majorName": "翻译",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=75",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "34",
+    "majorName": "广播电视学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1053",
+    "collegeName": "喀什大学[公办]",
+    "majorCode": "35",
+    "majorName": "广告学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

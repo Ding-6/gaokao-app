@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2756",
+    "collegeName": "烟台南山学院[民办]",
+    "majorCode": "28",
+    "majorName": "精细化工",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 15800
+  },
+  {
+    "collegeCode": "2756",
+    "collegeName": "烟台南山学院[民办]",
+    "majorCode": "29",
+    "majorName": "纺织工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 15800
+  },
+  {
+    "collegeCode": "2756",
+    "collegeName": "烟台南山学院[民办]",
+    "majorCode": "30",
+    "majorName": "计算金融",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 16800
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "30",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 149,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "31",
+    "majorName": "税收学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 49,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "32",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 78,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "33",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 150,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "34",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 37,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "35",
+    "majorName": "学前教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "36",
+    "majorName": "小学教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "37",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "38",
+    "majorName": "英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 49,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "39",
+    "majorName": "商务英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "40",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 148,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2758",
+    "collegeName": "燕京理工学院(燕郊)[民办]",
+    "majorCode": "41",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 29,
+    "duration": "4",
+    "tuition": 20000
+  }
+]

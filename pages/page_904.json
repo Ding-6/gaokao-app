@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1785",
+    "collegeName": "西安外国语大学[公办]",
+    "majorCode": "23",
+    "majorName": "葡萄牙语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1785",
+    "collegeName": "西安外国语大学[公办]",
+    "majorCode": "24",
+    "majorName": "翻译",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1785",
+    "collegeName": "西安外国语大学[公办]",
+    "majorCode": "25",
+    "majorName": "商务英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1785",
+    "collegeName": "西安外国语大学[公办]",
+    "majorCode": "26",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1785",
+    "collegeName": "西安外国语大学[公办]",
+    "majorCode": "27",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1785",
+    "collegeName": "西安外国语大学[公办]",
+    "majorCode": "28",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1786",
+    "collegeName": "西安文理学院[公办]",
+    "majorCode": "7",
+    "majorName": "化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1786",
+    "collegeName": "西安文理学院[公办]",
+    "majorCode": "8",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1786",
+    "collegeName": "西安文理学院[公办]",
+    "majorCode": "11",
+    "majorName": "智能材料与结构",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1786",
+    "collegeName": "西安文理学院[公办]",
+    "majorCode": "12",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1788",
+    "collegeName": "西安医学院[公办]",
+    "majorCode": "4",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1788",
+    "collegeName": "西安医学院[公办]",
+    "majorCode": "5",
+    "majorName": "预防医学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1788",
+    "collegeName": "西安医学院[公办]",
+    "majorCode": "6",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1788",
+    "collegeName": "西安医学院[公办]",
+    "majorCode": "7",
+    "majorName": "医学检验技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1788",
+    "collegeName": "西安医学院[公办]",
+    "majorCode": "9",
+    "majorName": "健康服务与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

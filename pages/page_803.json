@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "19",
+    "majorName": "生物科学类(含双学士学位)",
+    "majorRemark": "含生物科学、生态学、生物科学(计算生物学双学士学位)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "20",
+    "majorName": "材料类(先进材料与新能源)",
+    "majorRemark": "含材料科学与工程、新能源材料与器件专业",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "21",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "22",
+    "majorName": "高分子材料与工程(先进高分子材料工程创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "23",
+    "majorName": "电气类",
+    "majorRemark": "含电气工程及其自动化、自动化专业",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "24",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息工程、光电信息科学与工程、通信工程、集成电路设计与集成系统、半导体工艺与装备专业",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "25",
+    "majorName": "计算机类(含双学士学位)",
+    "majorRemark": "含计算机科学与技术、计算机科学与技术(计算与金融双学士学位)、软件工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "26",
+    "majorName": "网络空间安全(含双学士学位)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "27",
+    "majorName": "航空航天类",
+    "majorRemark": "含航空航天工程、飞行器控制与信息工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "28",
+    "majorName": "生物医学工程类",
+    "majorRemark": "含生物医学工程、医学信息工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "29",
+    "majorName": "临床医学(五年制)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 7250
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "30",
+    "majorName": "临床医学(八年制)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "8",
+    "tuition": 7250
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "31",
+    "majorName": "口腔医学(五年制)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7250
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "32",
+    "majorName": "口腔医学(八年制)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "8",
+    "tuition": 7250
+  },
+  {
+    "collegeCode": "1577",
+    "collegeName": "四川大学[公办]",
+    "majorCode": "33",
+    "majorName": "公共卫生与预防医学类(含双学士学位)",
+    "majorRemark": "含预防医学、食品卫生与营养学、卫生检验与检疫、预防医学(预防与软件双学士学位)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7250
+  }
+]

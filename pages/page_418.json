@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "37",
+    "majorName": "中医骨伤科学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "38",
+    "majorName": "中西医临床医学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "39",
+    "majorName": "中西医临床医学(慢性病方向)",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "40",
+    "majorName": "药学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "41",
+    "majorName": "药物制剂",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "42",
+    "majorName": "中药学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "43",
+    "majorName": "中药学(中药种质保护与创制方向)",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "44",
+    "majorName": "中药资源与开发",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "45",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "46",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "47",
+    "majorName": "康复治疗学(脑机接口康复方向)",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "48",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "49",
+    "majorName": "护理学(中医智护方向)",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "50",
+    "majorName": "公共事业管理",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "849",
+    "collegeName": "湖南中医药大学[公办]",
+    "majorCode": "51",
+    "majorName": "医疗保险",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

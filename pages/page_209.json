@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "452",
+    "collegeName": "广东外语外贸大学[公办]",
+    "majorCode": "26",
+    "majorName": "朝鲜语(国贸双学士学位)",
+    "majorRemark": "培养“朝鲜语+国际经济与贸易”双学士学位复合型人才，颁发文学和经济学双学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 7303
+  },
+  {
+    "collegeCode": "452",
+    "collegeName": "广东外语外贸大学[公办]",
+    "majorCode": "27",
+    "majorName": "匈牙利语(国贸双学士学位)",
+    "majorRemark": "培养“匈牙利语+国际经济与贸易”双学士学位复合型人才，颁发文学和经济学双学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 7153
+  },
+  {
+    "collegeCode": "452",
+    "collegeName": "广东外语外贸大学[公办]",
+    "majorCode": "28",
+    "majorName": "克罗地亚语(国贸双学士学位)",
+    "majorRemark": "培养“克罗地亚语+国际经济与贸易”双学士学位复合型人才，颁发文学和经济学双学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 7123
+  },
+  {
+    "collegeCode": "452",
+    "collegeName": "广东外语外贸大学[公办]",
+    "majorCode": "29",
+    "majorName": "翻译",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "452",
+    "collegeName": "广东外语外贸大学[公办]",
+    "majorCode": "30",
+    "majorName": "商务英语",
+    "majorRemark": "培养数字媒体管理、数智贸易与金融、国际经济法人才",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "452",
+    "collegeName": "广东外语外贸大学[公办]",
+    "majorCode": "31",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "452",
+    "collegeName": "广东外语外贸大学[公办]",
+    "majorCode": "32",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、市场营销、人力资源管理专业；第二学期专业分流",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6061
+  },
+  {
+    "collegeCode": "452",
+    "collegeName": "广东外语外贸大学[公办]",
+    "majorCode": "33",
+    "majorName": "工商管理(国际化管理创新班)",
+    "majorRemark": "国际化管理创新班；培养国际化商务管理人才",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6061
+  },
+  {
+    "collegeCode": "452",
+    "collegeName": "广东外语外贸大学[公办]",
+    "majorCode": "34",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6061
+  },
+  {
+    "collegeCode": "453",
+    "collegeName": "广东药科大学[公办]",
+    "majorCode": "1",
+    "majorName": "生物技术",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6230
+  },
+  {
+    "collegeCode": "453",
+    "collegeName": "广东药科大学[公办]",
+    "majorCode": "2",
+    "majorName": "生物制药",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6230
+  },
+  {
+    "collegeCode": "453",
+    "collegeName": "广东药科大学[公办]",
+    "majorCode": "3",
+    "majorName": "预防医学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "453",
+    "collegeName": "广东药科大学[公办]",
+    "majorCode": "4",
+    "majorName": "药学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "453",
+    "collegeName": "广东药科大学[公办]",
+    "majorCode": "5",
+    "majorName": "中药制药",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "454",
+    "collegeName": "广东医科大学[公办]",
+    "majorCode": "1",
+    "majorName": "临床医学(东莞校区)",
+    "majorRemark": "在东莞校区就读；不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7656
+  }
+]

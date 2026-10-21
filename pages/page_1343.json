@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "35",
+    "majorName": "大数据工程技术",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "36",
+    "majorName": "云计算技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "37",
+    "majorName": "信息安全与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "38",
+    "majorName": "人工智能工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "39",
+    "majorName": "现代通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 12700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "40",
+    "majorName": "财税大数据应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "41",
+    "majorName": "财税大数据应用",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "42",
+    "majorName": "大数据与会计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "43",
+    "majorName": "大数据与会计",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "44",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "45",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "46",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "47",
+    "majorName": "电子商务",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "48",
+    "majorName": "现代物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 11700
+  },
+  {
+    "collegeCode": "2743",
+    "collegeName": "新疆天山职业技术大学[民办]",
+    "majorCode": "49",
+    "majorName": "现代物流管理",
+    "majorRemark": "在克州校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 11700
+  }
+]

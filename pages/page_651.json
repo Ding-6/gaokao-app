@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1257",
+    "collegeName": "内蒙古师范大学[公办]",
+    "majorCode": "26",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1257",
+    "collegeName": "内蒙古师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "行政管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1257",
+    "collegeName": "内蒙古师范大学[公办]",
+    "majorCode": "28",
+    "majorName": "旅游管理",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1258",
+    "collegeName": "内蒙古师范大学(八协计划)[公办]",
+    "majorCode": "3",
+    "majorName": "地理信息科学",
+    "majorRemark": "八协计划，招加试蒙古语文考生",
+    "subjectRequirementText": "地理",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1258",
+    "collegeName": "内蒙古师范大学(八协计划)[公办]",
+    "majorCode": "4",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "师范类；八协计划，招加试蒙古语文考生；不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1258",
+    "collegeName": "内蒙古师范大学(八协计划)[公办]",
+    "majorCode": "5",
+    "majorName": "环境科学",
+    "majorRemark": "八协计划，招加试蒙古语文考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1259",
+    "collegeName": "内蒙古医科大学(呼和浩特市)[公办]",
+    "majorCode": "8",
+    "majorName": "中医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "5",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1262",
+    "collegeName": "宁波大学[公办]",
+    "majorCode": "7",
+    "majorName": "数学与应用数学(拔尖人才创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1262",
+    "collegeName": "宁波大学[公办]",
+    "majorCode": "8",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1262",
+    "collegeName": "宁波大学[公办]",
+    "majorCode": "9",
+    "majorName": "数学与应用数学(师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1262",
+    "collegeName": "宁波大学[公办]",
+    "majorCode": "10",
+    "majorName": "物理学(拔尖人才创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1262",
+    "collegeName": "宁波大学[公办]",
+    "majorCode": "11",
+    "majorName": "物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1262",
+    "collegeName": "宁波大学[公办]",
+    "majorCode": "12",
+    "majorName": "物理学(师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1262",
+    "collegeName": "宁波大学[公办]",
+    "majorCode": "13",
+    "majorName": "化学",
+    "majorRemark": "色弱、色盲、单色识别不全者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1262",
+    "collegeName": "宁波大学[公办]",
+    "majorCode": "14",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物技术、水产养殖学专业；色弱、色盲、单色识别不全者不予录取。梅山校区",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5300
+  }
+]

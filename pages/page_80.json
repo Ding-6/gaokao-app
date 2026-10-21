@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "30",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "教育部-ICT产教融合创新基地项目；不招单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 8500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "31",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "32",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "33",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "34",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "35",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "36",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "37",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "38",
+    "majorName": "能源化学工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "39",
+    "majorName": "化工安全工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "40",
+    "majorName": "交通运输",
+    "majorRemark": "单科成绩要求：外语>=60；不招色盲、单色不识别考生，身体条件限制要求较多，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "41",
+    "majorName": "飞行器制造工程",
+    "majorRemark": "不招色盲、色弱考生，身体条件限制要求较多，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "42",
+    "majorName": "飞行器质量与可靠性",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "43",
+    "majorName": "无人驾驶航空器系统工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "190",
+    "collegeName": "昌吉学院[公办]",
+    "majorCode": "44",
+    "majorName": "飞行器运维工程",
+    "majorRemark": "不招色盲、色弱考生，身体条件限制要求较高，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

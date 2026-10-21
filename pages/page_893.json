@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1770",
+    "collegeName": "西安航空学院[公办]",
+    "majorCode": "5",
+    "majorName": "飞行器制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1770",
+    "collegeName": "西安航空学院[公办]",
+    "majorCode": "6",
+    "majorName": "无人驾驶航空器系统工程",
+    "majorRemark": "钱学森航空工程实验班",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1770",
+    "collegeName": "西安航空学院[公办]",
+    "majorCode": "7",
+    "majorName": "信息与计算科学(中外合作办学)",
+    "majorRemark": "属于高收费项目",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1770",
+    "collegeName": "西安航空学院[公办]",
+    "majorCode": "8",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "属于高收费项目",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1770",
+    "collegeName": "西安航空学院[公办]",
+    "majorCode": "9",
+    "majorName": "机械电子工程(中外合作办学)",
+    "majorRemark": "前3年在国内，后1.5年在德国，属于高收费项目",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "1770",
+    "collegeName": "西安航空学院[公办]",
+    "majorCode": "10",
+    "majorName": "自动化(中外合作办学)",
+    "majorRemark": "属于高收费项目",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1770",
+    "collegeName": "西安航空学院[公办]",
+    "majorCode": "11",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "属于高收费项目",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "8",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "9",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "未来学院拔尖创新人才培养班",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "10",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "卓越班，增材制造方向",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "11",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "12",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "13",
+    "majorName": "材料类",
+    "majorRemark": "含材料科学与工程、功能材料、资源循环科学与工程专业；生态与新能源材料",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "14",
+    "majorName": "材料类",
+    "majorRemark": "含冶金工程、金属材料工程专业；先进材料智造，定向至中天钢铁集团就业",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "15",
+    "majorName": "材料科学与工程",
+    "majorRemark": "未来学院拔尖创新人才培养班",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  }
+]

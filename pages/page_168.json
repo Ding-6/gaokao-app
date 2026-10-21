@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "37",
+    "majorName": "林业工程类(未来尖班)",
+    "majorRemark": "含木材科学与工程、林产化工专业；“1+2+X”全链条人才发展模式，全员进阶式项目制，领军人才培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "38",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "39",
+    "majorName": "智慧景观营造",
+    "majorRemark": "学费暂定5500元/年，最终以发改委批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "40",
+    "majorName": "合成生物学",
+    "majorRemark": "学费暂定5500元/年，最终以发改委批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "41",
+    "majorName": "生物育种科学(拔尖人才成栋班)",
+    "majorRemark": "“4+X”全链条人才发展模式，精英化培养；学费暂定5500元/年，最终以发改委批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "42",
+    "majorName": "动物医学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "43",
+    "majorName": "林学类",
+    "majorRemark": "含林学、森林保护专业；国家级“卓越农林人才教育培养计划”",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "44",
+    "majorName": "林学类(未来尖班)",
+    "majorRemark": "含林学、森林保护专业；“1+2+X”全链条人才发展模式，全员进阶式项目制，领军人才培养",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "45",
+    "majorName": "智慧林业",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "46",
+    "majorName": "智慧林业(未来尖班)",
+    "majorRemark": "“1+2+X”全链条人才发展模式，全员进阶式项目制，领军人才培养",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "47",
+    "majorName": "工商管理类",
+    "majorRemark": "含工商管理、市场营销、会计学、农林经济管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "48",
+    "majorName": "化学(中外合作办学)",
+    "majorRemark": "该专业与新西兰奥克兰大学合作办学，学生入校后可选择“4+0”或“3+2（校际交流）”培养模式，部分课程以英语授课，建议英语语种考生报考，具体要求详见学校网站介绍",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "49",
+    "majorName": "生物技术(中外合作办学)",
+    "majorRemark": "该专业与新西兰奥克兰大学合作办学，学生入校后可选择“4+0”或“3+2（校际交流）”培养模式，部分课程以英语授课，建议英语语种考生报考，具体要求详见学校网站介绍",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "50",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "该专业与新西兰奥克兰大学合作办学，学生入校后可选择“4+0”或“3+2（校际交流）”培养模式，部分课程以英语授课，建议英语语种考生报考，具体要求详见学校网站介绍",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "350",
+    "collegeName": "东北林业大学(哈尔滨市)[公办]",
+    "majorCode": "51",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "该专业与澳大利亚悉尼科技大学合作办学，采取“3+1”培养模式。部分课程以英语授课，建议英语语种考生报考，办学地点：海南国际学院（海南省陵水黎族自治县博学大道1号）。具体要求详见学校网站介绍",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 100000
+  }
+]

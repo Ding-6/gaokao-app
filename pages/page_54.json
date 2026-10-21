@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "102",
+    "collegeName": "北京建筑大学[公办]",
+    "majorCode": "21",
+    "majorName": "环境工程(海绵城市建设)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "102",
+    "collegeName": "北京建筑大学[公办]",
+    "majorCode": "22",
+    "majorName": "环境科学(碳减排与碳管理)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "102",
+    "collegeName": "北京建筑大学[公办]",
+    "majorCode": "23",
+    "majorName": "环境生态工程(城市生态环境修复)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "102",
+    "collegeName": "北京建筑大学[公办]",
+    "majorCode": "24",
+    "majorName": "城乡规划",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "102",
+    "collegeName": "北京建筑大学[公办]",
+    "majorCode": "25",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "102",
+    "collegeName": "北京建筑大学[公办]",
+    "majorCode": "26",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "102",
+    "collegeName": "北京建筑大学[公办]",
+    "majorCode": "27",
+    "majorName": "工业工程(工业互联网与大数据)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "102",
+    "collegeName": "北京建筑大学[公办]",
+    "majorCode": "28",
+    "majorName": "碳中和科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "7",
+    "majorName": "理科试验班类(詹天佑试点班信息类)",
+    "majorRemark": "含通信工程、计算机科学与技术、信息安全专业；特殊培养方案，详见学校招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "8",
+    "majorName": "理科试验班类(詹天佑试点班智能类)",
+    "majorRemark": "含轨道交通信号与控制、交通运输、测控技术与仪器、电气工程及其自动化专业；特殊培养方案，详见学校招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "9",
+    "majorName": "理科试验班",
+    "majorRemark": "含系统科学与工程(智能交通系统拔尖班)、信息与计算科学(数学拔尖班)、信息与计算科学、统计学、数据科学、应用物理学(黄昆英才班)、纳米材料与技术(智能材料)专业；一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "10",
+    "majorName": "电子信息类",
+    "majorRemark": "含通信工程、信息工程、电子科学与技术、电气工程及其自动化、电气工程及其自动化(经济、电气双学位项目)、光电信息科学与工程专业；一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "11",
+    "majorName": "通信工程(知行创新班未来信息通信院士班)",
+    "majorRemark": "特殊培养方案详见学校招生网站。一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "12",
+    "majorName": "自动化类(智能系统与智能制造)",
+    "majorRemark": "含轨道交通信号与控制、自动化、低空技术与工程、机器人工程、智能制造工程、智能车辆工程、测控技术与仪器、能源与动力工程专业；一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "103",
+    "collegeName": "北京交通大学[公办]",
+    "majorCode": "13",
+    "majorName": "机器人工程(知行创新班产学研融合示范班)",
+    "majorRemark": "特殊培养方案详见学校招生网站。一二年级在北京校区培养，三年级起在雄安校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

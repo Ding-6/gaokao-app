@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "14",
+    "majorName": "金融审计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "15",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "16",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "与深圳市讯方技术股份有限公司联合培养鸿蒙班",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "17",
+    "majorName": "信息安全",
+    "majorRemark": "与北京天融信教育科技有限公司联合培养天融信班",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "19",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "20",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "21",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "22",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "23",
+    "majorName": "审计学(与南京市注册会计师协会联合培养)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "24",
+    "majorName": "资产评估",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "25",
+    "majorName": "内部审计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2190",
+    "collegeName": "南京审计大学金审学院[独立学院]",
+    "majorCode": "26",
+    "majorName": "养老服务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2192",
+    "collegeName": "南京邮电大学通达学院(扬州市)[独立学院]",
+    "majorCode": "1",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2192",
+    "collegeName": "南京邮电大学通达学院(扬州市)[独立学院]",
+    "majorCode": "2",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  }
+]

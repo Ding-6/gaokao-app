@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "71",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "72",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母考生",
+    "subjectRequirementText": "化学",
+    "planCount": 86,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "73",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 91,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "74",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 102,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "75",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 46,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "76",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 91,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "77",
+    "majorName": "环境工程",
+    "majorRemark": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 63,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "78",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 29,
+    "duration": "5",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "79",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 69,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "80",
+    "majorName": "临床医学",
+    "majorRemark": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 239,
+    "duration": "5",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "81",
+    "majorName": "口腔医学",
+    "majorRemark": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "5",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "82",
+    "majorName": "预防医学",
+    "majorRemark": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 92,
+    "duration": "5",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "83",
+    "majorName": "中医学",
+    "majorRemark": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "不限",
+    "planCount": 72,
+    "duration": "5",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "84",
+    "majorName": "药学类",
+    "majorRemark": "含药学、药物制剂专业；不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 103,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "85",
+    "majorName": "中药学",
+    "majorRemark": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 63,
+    "duration": "4",
+    "tuition": 5720
+  }
+]

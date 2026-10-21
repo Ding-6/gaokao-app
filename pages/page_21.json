@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "47",
+    "majorName": "化学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "48",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "49",
+    "majorName": "地理科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "50",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "51",
+    "majorName": "生物科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "52",
+    "majorName": "生物技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "53",
+    "majorName": "生态学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "54",
+    "majorName": "心理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "55",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "56",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "57",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "58",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "59",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "60",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "61",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

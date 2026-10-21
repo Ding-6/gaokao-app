@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2093",
+    "collegeName": "中国医科大学(沈阳市)[公办]",
+    "majorCode": "11",
+    "majorName": "临床药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2093",
+    "collegeName": "中国医科大学(沈阳市)[公办]",
+    "majorCode": "12",
+    "majorName": "法医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2093",
+    "collegeName": "中国医科大学(沈阳市)[公办]",
+    "majorCode": "13",
+    "majorName": "生物科学(中外合作办学)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 69000
+  },
+  {
+    "collegeCode": "2093",
+    "collegeName": "中国医科大学(沈阳市)[公办]",
+    "majorCode": "14",
+    "majorName": "生物技术(中外合作办学)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 69000
+  },
+  {
+    "collegeCode": "2093",
+    "collegeName": "中国医科大学(沈阳市)[公办]",
+    "majorCode": "15",
+    "majorName": "食品质量与安全(中外合作办学)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 69000
+  },
+  {
+    "collegeCode": "2093",
+    "collegeName": "中国医科大学(沈阳市)[公办]",
+    "majorCode": "16",
+    "majorName": "药物制剂(中外合作办学)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 69000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "21",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "22",
+    "majorName": "金融工程(成思危现代金融菁英班)",
+    "majorRemark": "本专业人才培养模式改革有关安排详见章程",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "23",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "24",
+    "majorName": "法学(法学人才培养模式改革实验班)",
+    "majorRemark": "本专业人才培养模式改革有关安排详见章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "25",
+    "majorName": "法学(北邮联合培养智慧法学实验班)",
+    "majorRemark": "由我校和北京邮电大学联合培养，第三学年到北邮学习一年，授予两校联合学士学位，详见章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "26",
+    "majorName": "法学(经济学双学士学位项目)",
+    "majorRemark": "在商学院培养，可获得法学和经济学专业两个学士学位，详见章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "27",
+    "majorName": "法学(金融双学士学位项目)",
+    "majorRemark": "在商学院培养，可获得法学和金融工程专业两个学士学位，详见章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "28",
+    "majorName": "知识产权",
+    "majorRemark": "法学大类专业，可参加国家法律职业资格考试",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2096",
+    "collegeName": "中国政法大学[公办]",
+    "majorCode": "29",
+    "majorName": "法律英语(涉外法治外语人才培养实验班)",
+    "majorRemark": "只招英语语种考生；本专业人才培养模式改革有关安排详见章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

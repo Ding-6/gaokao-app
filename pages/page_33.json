@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "36",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "64",
+    "collegeName": "宝鸡文理学院[公办]",
+    "majorCode": "37",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "18",
+    "majorName": "投资学",
+    "majorRemark": "不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "19",
+    "majorName": "知识产权",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "20",
+    "majorName": "科学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "21",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；不招色弱、色盲以及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "22",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "23",
+    "majorName": "特殊教育",
+    "majorRemark": "师范类；不招色弱、色盲以及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "24",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生；须口试合格；单科成绩要求：外语>=110",
+    "subjectRequirementText": "不限",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "25",
+    "majorName": "商务英语",
+    "majorRemark": "只招英语语种考生；须口试合格；单科成绩要求：外语>=100",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "26",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "27",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 85,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "28",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 85,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "29",
+    "majorName": "化学",
+    "majorRemark": "不招色弱、色盲以及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "67",
+    "collegeName": "保定学院[公办]",
+    "majorCode": "30",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；不招色盲以及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "地理",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

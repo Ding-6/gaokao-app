@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "16",
+    "majorName": "纳米材料与技术",
+    "majorRemark": "先进能源与器件",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "17",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "18",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "19",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "20",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "21",
+    "majorName": "土木工程",
+    "majorRemark": "定向至长江精工钢结构就业",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "22",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "绿色低碳与建筑节能",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "23",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "未来学院拔尖创新人才培养班",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "24",
+    "majorName": "建筑电气与智能化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "25",
+    "majorName": "城市地下空间工程",
+    "majorRemark": "城市基础设施营建与运维",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "26",
+    "majorName": "智能建造",
+    "majorRemark": "定向至陕西建工第十一建设集团就业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "27",
+    "majorName": "智能建造",
+    "majorRemark": "未来学院拔尖创新人才培养班",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "28",
+    "majorName": "化工与制药类",
+    "majorRemark": "含化学工程与工艺、应用化学专业；绿色与智慧能源",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "29",
+    "majorName": "资源环境大数据工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1773",
+    "collegeName": "西安建筑科技大学[公办]",
+    "majorCode": "30",
+    "majorName": "交通运输",
+    "majorRemark": "卓越班，总图运输智能化",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  }
+]

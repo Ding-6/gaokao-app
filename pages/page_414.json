@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "30",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；不招色盲、单色识别不全考生，详见院校章程",
+    "subjectRequirementText": "地理",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "31",
+    "majorName": "人文地理与城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "32",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "33",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；不招色盲、色弱、单色识别不全考生，详见院校章程；含世承书院国家生命科学与技术人才培养基地班",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "34",
+    "majorName": "生物技术",
+    "majorRemark": "不招色盲、色弱、单色识别不全考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "35",
+    "majorName": "应用心理学",
+    "majorRemark": "不招色盲、色弱、单色识别不全考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "36",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "37",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "38",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "39",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "40",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "41",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "42",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色识别不全考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "43",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "838",
+    "collegeName": "湖南师范大学[公办]",
+    "majorCode": "44",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5300
+  }
+]

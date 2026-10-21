@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2135",
+    "collegeName": "北京邮电大学世纪学院[独立学院]",
+    "majorCode": "15",
+    "majorName": "财务管理(国际注册会计师)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "2135",
+    "collegeName": "北京邮电大学世纪学院[独立学院]",
+    "majorCode": "16",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "2135",
+    "collegeName": "北京邮电大学世纪学院[独立学院]",
+    "majorCode": "17",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 36000
+  },
+  {
+    "collegeCode": "2135",
+    "collegeName": "北京邮电大学世纪学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 34000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "9",
+    "majorName": "中医学",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 690,
+    "duration": "5",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "针灸推拿学",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "不限",
+    "planCount": 513,
+    "duration": "5",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "中西医临床医学",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 862,
+    "duration": "5",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 100,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "13",
+    "majorName": "药事管理",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 72,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "14",
+    "majorName": "中药学",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 225,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "15",
+    "majorName": "中药制药",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 215,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "16",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 266,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "17",
+    "majorName": "医学影像技术",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 184,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "眼视光学",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 119,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2136",
+    "collegeName": "北京中医药大学东方学院[独立学院]",
+    "majorCode": "19",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲、色弱、不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 186,
+    "duration": "4",
+    "tuition": 21000
+  }
+]

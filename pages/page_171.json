@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "35",
+    "majorName": "动物科学(双学士学位)",
+    "majorRemark": "“动物科学+农林经济管理”双学士学位复合型人才培养项目。不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "36",
+    "majorName": "动物科学(拔尖人才培养班)",
+    "majorRemark": "本专业实行动态考核与分流培养的管理机制。不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "37",
+    "majorName": "动物科学(中美121双学位项目)",
+    "majorRemark": "与美国莫瑞州立大学合作，获普通高中毕业证书方可报考，仅建议有出国留学意愿的英语语种考生报考，国内学费5000元/年，国外学费、食宿费和医疗保险等预计28744美元/年，第3-6学期出国学习。出国手续等费用见学校招生章程。不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "38",
+    "majorName": "动物医学",
+    "majorRemark": "不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "353",
+    "collegeName": "东北农业大学(哈尔滨市)[公办]",
+    "majorCode": "39",
+    "majorName": "动物药学",
+    "majorRemark": "不招色弱、色盲、单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "13",
+    "majorName": "经济学",
+    "majorRemark": "经济学-统计学双学士学位复合型人才培养项目，不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6070
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "14",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5810
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "15",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "16",
+    "majorName": "物理学类",
+    "majorRemark": "含物理学(师范)、电子信息科学与技术、材料物理专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "17",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "18",
+    "majorName": "地理科学类",
+    "majorRemark": "含地理科学(师范)、地理信息科学、人文地理与城乡规划专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "19",
+    "majorName": "生物科学(郝水试验班)",
+    "majorRemark": "师范类；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "20",
+    "majorName": "心理学",
+    "majorRemark": "师范类；不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "21",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、数据科学与大数据技术、人工智能、教育技术学(智能教育，师范)、人工智能教育(师范)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "354",
+    "collegeName": "东北师范大学[公办]",
+    "majorCode": "22",
+    "majorName": "数字媒体技术",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6830
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "26",
+    "majorName": "储能科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "27",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "28",
+    "majorName": "电气工程及其自动化(卓越计划班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "29",
+    "majorName": "电气工程及其自动化(拔尖人才培养实验班)",
+    "majorRemark": "非英语语种考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "30",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "31",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "32",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "33",
+    "majorName": "通信工程(茅以升班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "34",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "35",
+    "majorName": "自动化(茅以升班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "36",
+    "majorName": "轨道交通信号与控制",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "37",
+    "majorName": "轨道交通信号与控制(茅以升班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "38",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "39",
+    "majorName": "计算机科学与技术(本科拔尖人才联合培养)",
+    "majorRemark": "与北京交通大学按“1+2+1”模式联合培养，非英语语种考生谨慎报考。第一年、第四年在兰州交通大学就读，第二年、第三年在北京交通大学就读，学费、住宿费按照就读学校当年收费标准执行。就读地点按照北京交通大学具体安排执行",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6100
+  },
+  {
+    "collegeCode": "1081",
+    "collegeName": "兰州交通大学[公办]",
+    "majorCode": "40",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6100
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "50",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "51",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6210
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "52",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "53",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子科学与技术、微电子科学与工程、电子信息科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "54",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "55",
+    "majorName": "信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "56",
+    "majorName": "集成电路设计与集成系统(集成电路科技英才特色班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6210
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "57",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6210
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "58",
+    "majorName": "人工智能(王湘浩班)",
+    "majorRemark": "宜英语语种考生就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "59",
+    "majorName": "人工智能",
+    "majorRemark": "宜英语语种考生就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "60",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "61",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6210
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "62",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生，宜英语语种考生就读",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "63",
+    "majorName": "软件工程",
+    "majorRemark": "宜英语语种考生就读，不招单色不识别考生；第3、4年学费共28000元",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "64",
+    "majorName": "物联网工程",
+    "majorRemark": "不招单色不识别考生；宜英语语种考生就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6830
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2563",
+    "collegeName": "青岛工学院[民办]",
+    "majorCode": "33",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2563",
+    "collegeName": "青岛工学院[民办]",
+    "majorCode": "34",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2563",
+    "collegeName": "青岛工学院[民办]",
+    "majorCode": "35",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2563",
+    "collegeName": "青岛工学院[民办]",
+    "majorCode": "36",
+    "majorName": "国际商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2563",
+    "collegeName": "青岛工学院[民办]",
+    "majorCode": "37",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2563",
+    "collegeName": "青岛工学院[民办]",
+    "majorCode": "38",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2565",
+    "collegeName": "青岛恒星科技学院[民办]",
+    "majorCode": "24",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2565",
+    "collegeName": "青岛恒星科技学院[民办]",
+    "majorCode": "25",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2565",
+    "collegeName": "青岛恒星科技学院[民办]",
+    "majorCode": "26",
+    "majorName": "教育技术学(智能教育方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2565",
+    "collegeName": "青岛恒星科技学院[民办]",
+    "majorCode": "27",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 27800
+  },
+  {
+    "collegeCode": "2565",
+    "collegeName": "青岛恒星科技学院[民办]",
+    "majorCode": "28",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2565",
+    "collegeName": "青岛恒星科技学院[民办]",
+    "majorCode": "29",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2565",
+    "collegeName": "青岛恒星科技学院[民办]",
+    "majorCode": "30",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2565",
+    "collegeName": "青岛恒星科技学院[民办]",
+    "majorCode": "31",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28800
+  },
+  {
+    "collegeCode": "2565",
+    "collegeName": "青岛恒星科技学院[民办]",
+    "majorCode": "32",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28800
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1275",
+    "collegeName": "宁夏医科大学(银川市)[公办]",
+    "majorCode": "16",
+    "majorName": "药学",
+    "majorRemark": "不录取色盲、色弱或不能准确识别红、黄、绿、兰、紫等各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1275",
+    "collegeName": "宁夏医科大学(银川市)[公办]",
+    "majorCode": "17",
+    "majorName": "临床药学",
+    "majorRemark": "不录取色盲、色弱或不能准确识别红、黄、绿、兰、紫等各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1275",
+    "collegeName": "宁夏医科大学(银川市)[公办]",
+    "majorCode": "18",
+    "majorName": "中药学",
+    "majorRemark": "不录取色盲、色弱或不能准确识别红、黄、绿、兰、紫等各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1275",
+    "collegeName": "宁夏医科大学(银川市)[公办]",
+    "majorCode": "19",
+    "majorName": "医学检验技术",
+    "majorRemark": "不录取色盲、色弱或不能准确识别红、黄、绿、兰、紫等各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1275",
+    "collegeName": "宁夏医科大学(银川市)[公办]",
+    "majorCode": "20",
+    "majorName": "康复治疗学",
+    "majorRemark": "不录取色盲、色弱或不能准确识别红、黄、绿、兰、紫等各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1275",
+    "collegeName": "宁夏医科大学(银川市)[公办]",
+    "majorCode": "21",
+    "majorName": "卫生检验与检疫",
+    "majorRemark": "不录取色盲、色弱或不能准确识别红、黄、绿、兰、紫等各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1275",
+    "collegeName": "宁夏医科大学(银川市)[公办]",
+    "majorCode": "22",
+    "majorName": "老年医学与健康",
+    "majorRemark": "不录取色盲、色弱或不能准确识别红、黄、绿、兰、紫等各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1275",
+    "collegeName": "宁夏医科大学(银川市)[公办]",
+    "majorCode": "24",
+    "majorName": "公共事业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1275",
+    "collegeName": "宁夏医科大学(银川市)[公办]",
+    "majorCode": "25",
+    "majorName": "生物医药数据科学",
+    "majorRemark": "不录取色盲、色弱或不能准确识别红、黄、绿、兰、紫等各种颜色中任何一种颜色的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1278",
+    "collegeName": "宁夏职业技术大学[公办]",
+    "majorCode": "3",
+    "majorName": "机械电子工程技术",
+    "majorRemark": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1278",
+    "collegeName": "宁夏职业技术大学[公办]",
+    "majorCode": "4",
+    "majorName": "电气工程及自动化",
+    "majorRemark": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1278",
+    "collegeName": "宁夏职业技术大学[公办]",
+    "majorCode": "5",
+    "majorName": "应用化工技术",
+    "majorRemark": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1280",
+    "collegeName": "攀枝花学院[公办]",
+    "majorCode": "2",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1280",
+    "collegeName": "攀枝花学院[公办]",
+    "majorCode": "3",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1284",
+    "collegeName": "平顶山学院[公办]",
+    "majorCode": "6",
+    "majorName": "汉语国际教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "49",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "50",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "51",
+    "majorName": "行政管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "52",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "53",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "54",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "55",
+    "majorName": "旅游管理",
+    "majorRemark": "在阿勒泰校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "56",
+    "majorName": "酒店管理",
+    "majorRemark": "在阿勒泰校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "57",
+    "majorName": "会展经济与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1857",
+    "collegeName": "新疆财经大学(乌鲁木齐市)[公办]",
+    "majorCode": "58",
+    "majorName": "数字文旅",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "12",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "13",
+    "majorName": "经济学",
+    "majorRemark": "数字经济方向",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "14",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "16",
+    "majorName": "汉语国际教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "17",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=110",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

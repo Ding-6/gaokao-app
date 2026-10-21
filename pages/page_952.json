@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "63",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "64",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "65",
+    "majorName": "土木工程(数智建造与运维融创班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "66",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "67",
+    "majorName": "化学工程与工艺(韶峰班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "68",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "69",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "70",
+    "majorName": "环境工程(数智环境融创班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "71",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "72",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "73",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "74",
+    "majorName": "应急管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "75",
+    "majorName": "会计学",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "76",
+    "majorName": "人力资源管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1852",
+    "collegeName": "湘潭大学[公办]",
+    "majorCode": "77",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

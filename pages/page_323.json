@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "79",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 41,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "80",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "与德国马格德堡-施滕达尔应用技术大学合作办学，入学后不可转出马格德堡工学院，可全学程在国内，也可在三年级末到国外学习；学费56000元/年，出国学习期间免纳国外学费，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 64,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "81",
+    "majorName": "机械电子工程(中外合作办学)",
+    "majorRemark": "与德国马格德堡-施滕达尔应用技术大学合作办学，入学后不可转出马格德堡工学院，可全学程在国内，也可在三年级末到国外学习；学费56000元/年，出国学习期间免纳国外学费，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 39,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "82",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "与德国马格德堡-施滕达尔应用技术大学合作办学，入学后不可转出马格德堡工学院，可全学程在国内，也可在三年级末到国外学习；学费56000元/年，出国学习期间免纳国外学费，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 97,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "652",
+    "collegeName": "河北农业大学(保定校区)[公办]",
+    "majorCode": "83",
+    "majorName": "制药工程(中外合作办学)",
+    "majorRemark": "与韩国培材大学合作办学，入学后不得转专业，可全学程在国内，也可在二年级末到国外学习，国内学费23000元/年；国外学费按外方标准执行，出国学习期间免纳国内学费，详情咨询院校",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "653",
+    "collegeName": "河北农业大学(秦皇岛校区)[公办]",
+    "majorCode": "1",
+    "majorName": "海洋科学类",
+    "majorRemark": "含海洋科学、海洋技术、水产养殖学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 270,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "653",
+    "collegeName": "河北农业大学(秦皇岛校区)[公办]",
+    "majorCode": "2",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "教学为制冷机械方向",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "653",
+    "collegeName": "河北农业大学(秦皇岛校区)[公办]",
+    "majorCode": "3",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "653",
+    "collegeName": "河北农业大学(秦皇岛校区)[公办]",
+    "majorCode": "4",
+    "majorName": "环境科学",
+    "majorRemark": "教学为海洋环境方向",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "33",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 102,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "34",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 31,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "38",
+    "majorName": "家政学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "41",
+    "majorName": "教育学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "42",
+    "majorName": "科学教育",
+    "majorRemark": "师范类；不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "43",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 72,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

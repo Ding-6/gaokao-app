@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1524",
+    "collegeName": "绍兴理工学院[公办]",
+    "majorCode": "7",
+    "majorName": "电子封装技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1524",
+    "collegeName": "绍兴理工学院[公办]",
+    "majorCode": "8",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、网络工程专业；一年后由学生自主选择分流至类内专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1524",
+    "collegeName": "绍兴理工学院[公办]",
+    "majorCode": "9",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1524",
+    "collegeName": "绍兴理工学院[公办]",
+    "majorCode": "10",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1524",
+    "collegeName": "绍兴理工学院[公办]",
+    "majorCode": "11",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1524",
+    "collegeName": "绍兴理工学院[公办]",
+    "majorCode": "12",
+    "majorName": "纺织工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1524",
+    "collegeName": "绍兴理工学院[公办]",
+    "majorCode": "14",
+    "majorName": "药学",
+    "majorRemark": "色盲、色弱考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1524",
+    "collegeName": "绍兴理工学院[公办]",
+    "majorCode": "16",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1525",
+    "collegeName": "深圳北理莫斯科大学[中外合作办学]",
+    "majorCode": "15",
+    "majorName": "金融科技(中外合作办学)",
+    "majorRemark": "单科成绩要求：数学>=95，外语>=110；1.单色识别不全者慎重报考；2.英语教学为主，非英语考生慎重报考；3.仅注册深圳北理莫斯科大学学籍，毕业达到要求，颁发深圳北理莫斯科大学学历学位证书",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1525",
+    "collegeName": "深圳北理莫斯科大学[中外合作办学]",
+    "majorCode": "16",
+    "majorName": "国际经济与贸易(中外合作办学)",
+    "majorRemark": "单科成绩要求：数学>=95，外语>=110；1.单色识别不全者慎重报考；2.英语教学为主，非英语考生慎重报考；3.仅注册深圳北理莫斯科大学学籍，毕业达到要求，颁发深圳北理莫斯科大学学历学位证书",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1525",
+    "collegeName": "深圳北理莫斯科大学[中外合作办学]",
+    "majorCode": "17",
+    "majorName": "智能感知工程(中外合作办学)",
+    "majorRemark": "单科成绩要求：数学>=95，外语>=110；1.仅注册深圳北理莫斯科大学学籍，毕业达到要求，颁发深圳北理莫斯科大学学历学位证书；2.不招色盲色弱者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1525",
+    "collegeName": "深圳北理莫斯科大学[中外合作办学]",
+    "majorCode": "18",
+    "majorName": "电子与计算机工程(中外合作办学)",
+    "majorRemark": "单科成绩要求：数学>=95，外语>=110；1.单色识别不全者慎重报考；2.仅注册深圳北理莫斯科大学学籍，毕业达到要求，颁发深圳北理莫斯科大学学历学位证书",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "9",
+    "majorName": "金融学",
+    "majorRemark": "学费约5510-6061元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "10",
+    "majorName": "金融科技",
+    "majorRemark": "学费约5510-6061元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "11",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1569",
+    "collegeName": "首都师范大学[公办]",
+    "majorCode": "22",
+    "majorName": "电子信息工程(智能感知与具身系统)",
+    "majorRemark": "不招单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1569",
+    "collegeName": "首都师范大学[公办]",
+    "majorCode": "23",
+    "majorName": "电子信息工程",
+    "majorRemark": "不招单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1569",
+    "collegeName": "首都师范大学[公办]",
+    "majorCode": "24",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "不招色盲、单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1569",
+    "collegeName": "首都师范大学[公办]",
+    "majorCode": "25",
+    "majorName": "人工智能(拔尖创新班)",
+    "majorRemark": "不招单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1569",
+    "collegeName": "首都师范大学[公办]",
+    "majorCode": "26",
+    "majorName": "人工智能",
+    "majorRemark": "不招单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1569",
+    "collegeName": "首都师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "软件工程",
+    "majorRemark": "不招单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1569",
+    "collegeName": "首都师范大学[公办]",
+    "majorCode": "28",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1569",
+    "collegeName": "首都师范大学[公办]",
+    "majorCode": "29",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "不招单色识别能力异常考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1570",
+    "collegeName": "首都体育学院[公办]",
+    "majorCode": "3",
+    "majorName": "运动人体科学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "1570",
+    "collegeName": "首都体育学院[公办]",
+    "majorCode": "4",
+    "majorName": "运动康复",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "1570",
+    "collegeName": "首都体育学院[公办]",
+    "majorCode": "5",
+    "majorName": "电子竞技运动与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "1570",
+    "collegeName": "首都体育学院[公办]",
+    "majorCode": "6",
+    "majorName": "新闻学(体育新闻)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "1571",
+    "collegeName": "首都医科大学[公办]",
+    "majorCode": "1",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色盲、色弱、斜视、弱视及其他各类不能准确识别颜色者",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1571",
+    "collegeName": "首都医科大学[公办]",
+    "majorCode": "2",
+    "majorName": "基础医学",
+    "majorRemark": "不招色盲、色弱、斜视、弱视及其他各类不能准确识别颜色者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1571",
+    "collegeName": "首都医科大学[公办]",
+    "majorCode": "3",
+    "majorName": "临床医学(阶平班)",
+    "majorRemark": "不招色盲、色弱、斜视、弱视及其他各类不能准确识别颜色者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 6000
+  }
+]

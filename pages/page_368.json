@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "731",
+    "collegeName": "黑龙江八一农垦大学(大庆市)[公办]",
+    "majorCode": "41",
+    "majorName": "农林经济管理(创新人才培养班)",
+    "majorRemark": "培养模式详见学校招生官网",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "731",
+    "collegeName": "黑龙江八一农垦大学(大庆市)[公办]",
+    "majorCode": "42",
+    "majorName": "公共事业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3300
+  },
+  {
+    "collegeCode": "731",
+    "collegeName": "黑龙江八一农垦大学(大庆市)[公办]",
+    "majorCode": "43",
+    "majorName": "食品科学与工程(中外合作办学)",
+    "majorRemark": "与马来西亚敦胡先翁大学合作办学，培养模式为“4+0”，学费暂定35000-40000元/年，具体学费标准以上级部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "21",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "国际经济与贸易＋俄语双学士学位复合型人才培养项目",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "22",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；英语+大数据管理与应用双学士学位复合型人才培养项目",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "23",
+    "majorName": "区域国别学",
+    "majorRemark": "只招英语语种考生；朝鲜语方向；学费暂定8000元/年，具体以上级部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "24",
+    "majorName": "物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 2500
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "25",
+    "majorName": "物理学",
+    "majorRemark": "中俄学院招生，由物理科学与技术学院培养；俄语课程四年不断线，部分专业课程由俄罗斯新西伯利亚国立大学教师讲授；学业成绩优秀者，可获国家留学基金委公派赴俄罗斯留学资格，留学遵循自愿原则",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "26",
+    "majorName": "化学",
+    "majorRemark": "前1名考生入选学校拔尖人才培养计划，具体培养模式详见黑龙江大学本科招生信息网。不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 2500
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "27",
+    "majorName": "应用化学",
+    "majorRemark": "应用化学＋光电信息科学与工程双学士学位复合型人才培养项目。不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 2500
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "28",
+    "majorName": "生物技术",
+    "majorRemark": "中俄学院招生，由生命科学学院培养；俄语课程四年不断线，部分专业课程由俄罗斯新西伯利亚国立大学教师讲授；学业成绩优秀者，可获国家留学基金委公派赴俄罗斯留学资格，留学遵循自愿原则。不招色盲且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "29",
+    "majorName": "智能制造工程",
+    "majorRemark": "学费暂定8000元/年，具体以上级部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "30",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "31",
+    "majorName": "计算机科学与技术(中澳学分互认联合培养项目)",
+    "majorRemark": "与澳大利亚昆士兰大学2+2联合培养双学士学位，第一、第二学年在黑龙江大学学习，学费为6000元/学年；第三、第四学年须赴外方大学学习攻读学位，学费约58000澳币/学年，外方教学语言为英语;其他详细信息务必查阅学校招生网站",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "32",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

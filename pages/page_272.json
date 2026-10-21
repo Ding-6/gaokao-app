@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "41",
+    "majorName": "教育学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "42",
+    "majorName": "教育学(教育学+信息管理与信息系统双学位)",
+    "majorRemark": "教育学+信息管理与信息系统双学士学位复合型人才培养项目；不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "43",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "44",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "45",
+    "majorName": "俄语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "46",
+    "majorName": "法语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "47",
+    "majorName": "日语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "48",
+    "majorName": "新闻传播学类",
+    "majorRemark": "含新闻学、编辑出版学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "49",
+    "majorName": "广告学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "50",
+    "majorName": "历史学类",
+    "majorRemark": "含历史学、世界史专业",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "51",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "52",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "53",
+    "majorName": "物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "54",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "595",
+    "collegeName": "河北大学(保定市)[公办]",
+    "majorCode": "55",
+    "majorName": "应用物理学",
+    "majorRemark": "不招色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "19",
+    "majorName": "植物保护",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "20",
+    "majorName": "生物育种技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "21",
+    "majorName": "野生动物与自然保护区管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "22",
+    "majorName": "动物科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "23",
+    "majorName": "动物医学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "24",
+    "majorName": "动植物检疫",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "26",
+    "majorName": "中药学类",
+    "majorRemark": "含中药学、中药资源与开发、中草药栽培与鉴定专业；不招色盲、色弱、单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "27",
+    "majorName": "电子商务",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "28",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "与韩国庆南大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "929",
+    "collegeName": "吉林农业科技学院[公办]",
+    "majorCode": "29",
+    "majorName": "动物医学(中外合作办学)",
+    "majorRemark": "与韩国中部大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "5",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "930",
+    "collegeName": "吉林师范大学[公办]",
+    "majorCode": "17",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "930",
+    "collegeName": "吉林师范大学[公办]",
+    "majorCode": "18",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "930",
+    "collegeName": "吉林师范大学[公办]",
+    "majorCode": "19",
+    "majorName": "应用物理学",
+    "majorRemark": "不招色盲、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "930",
+    "collegeName": "吉林师范大学[公办]",
+    "majorCode": "20",
+    "majorName": "化学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "930",
+    "collegeName": "吉林师范大学[公办]",
+    "majorCode": "21",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "_说明": "这是系统最核心、也是真实性要求最高的数据表：各院校在各省份的专业组录取数据。本框架不内置任何编造的分数/位次，全部由你通过【数据导入面板】或本文件批量导入。下方仅保留 schema 定义和 1 条结构示例（isRealData:false），帮助你确认字段格式。",
+  "schema": {
+    "id": "唯一ID，建议用 院校代码_专业组号 拼接",
+    "collegeCode": "对应 colleges.json 中的院校代码",
+    "province": "招生所在省份（即考生所在省份，如河南/河北/广东）",
+    "year": "数据年份，如 2025",
+    "groupId": "专业组号（同一院校在一个省份可能有多个专业组，各组选科要求不同）",
+    "subjectRequirement": {
+      "primary": "首选科目要求，如 ['物理'] 或 ['物理','历史']（不限则两者都填）",
+      "secondary": "再选科目要求，如 ['化学'] 表示必须选化学，[]表示不限"
+    },
+    "majors": "本专业组下的专业列表，每项含 majorCode/majorName/minScore/minRank/avgScore/planCount/tuition",
+    "minScoreGroup": "该专业组整体最低分（部分省份按组而非按专业公布）",
+    "minRankGroup": "该专业组整体最低位次",
+    "isRealData": "true=已核实真实数据；false=占位示例，请勿用于实际填报参考"
+  },
+  "admissionPlans": [
+    {
+      "id": "10459_01_example",
+      "collegeCode": "10459",
+      "province": "河南",
+      "year": 2025,
+      "groupId": "01",
+      "subjectRequirement": { "primary": ["物理"], "secondary": ["化学"] },
+      "minScoreGroup": 0,
+      "minRankGroup": 0,
+      "majors": [
+        {
+          "majorCode": "080901",
+          "majorName": "示例专业：计算机科学与技术",
+          "minScore": 0,
+          "minRank": 0,
+          "avgScore": 0,
+          "planCount": 0,
+          "tuition": 0
+        }
+      ],
+      "isRealData": false
+    }
+  ],
+  "_待办": "请删除上面这条示例，改为导入你核实过的真实2025年录取数据。批量导入格式见 docs/数据导入模板.csv，导入后系统会自动重建索引。"
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "36",
+    "majorName": "听力与言语康复学(中外合作办学)",
+    "majorRemark": "在海南国际学院就读",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 82500
+  },
+  {
+    "collegeCode": "159",
+    "collegeName": "北京语言大学[公办]",
+    "majorCode": "37",
+    "majorName": "信息管理与信息系统(中外合作办学)",
+    "majorRemark": "在海南国际学院就读",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "5",
+    "majorName": "生物工程(交叉创新班)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "6",
+    "majorName": "中医学(王琦班)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "9",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "7",
+    "majorName": "中医学(岐黄班)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "9",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "8",
+    "majorName": "中医学(卓越5+3一体化)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "5",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "9",
+    "majorName": "中医学(卓越中医儿科班5+3一体化)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "10",
+    "majorName": "中医学(任应秋数智中医班)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "11",
+    "majorName": "中医学",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "5",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "12",
+    "majorName": "针灸推拿学",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "5",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "13",
+    "majorName": "中医骨伤科学",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "14",
+    "majorName": "中西医临床医学(华佗班)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "9",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "15",
+    "majorName": "药学",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "16",
+    "majorName": "药事管理",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "163",
+    "collegeName": "北京中医药大学[公办]",
+    "majorCode": "17",
+    "majorName": "中药学(时珍国药正华班)",
+    "majorRemark": "色盲、色弱及其他各类不能准确识别颜色考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5800
+  }
+]

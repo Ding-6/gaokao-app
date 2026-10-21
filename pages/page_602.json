@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1179",
+    "collegeName": "南方科技大学(深圳市)[公办]",
+    "majorCode": "2",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "入学时不分专业，在大学一、二年级根据自己的兴趣和能力，结合国家发展和社会进步对人才的需求，按照学校专业设置的实际情况，自主选择专业（中外合作办学专业除外）；特优考生可进入卓越计划",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "5",
+    "majorName": "生物技术",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "6",
+    "majorName": "生物信息学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "7",
+    "majorName": "生物统计学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "8",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "9",
+    "majorName": "基础医学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "10",
+    "majorName": "基础医学(院士创新班)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "11",
+    "majorName": "临床医学(八年制)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "8",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "12",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "13",
+    "majorName": "预防医学(卓越创新班)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "14",
+    "majorName": "预防医学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "15",
+    "majorName": "中医学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "16",
+    "majorName": "中西医临床医学(创新班)",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "17",
+    "majorName": "临床药学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "1180",
+    "collegeName": "南方医科大学[公办]",
+    "majorCode": "18",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7660
+  }
+]

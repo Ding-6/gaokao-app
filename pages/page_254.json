@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "562",
+    "collegeName": "海南师范大学(海口市)[公办]",
+    "majorCode": "55",
+    "majorName": "广播电视编导(中外合作办学)",
+    "majorRemark": "报考考生须为普通高中毕业，录取时须提供高中学业水平测试成绩单。高收费专业，艺术类专业，授予艺术学学士学位",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "2",
+    "majorName": "生物统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "3",
+    "majorName": "医学信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4620
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "4",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "5",
+    "majorName": "麻醉学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "6",
+    "majorName": "医学影像学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "7",
+    "majorName": "眼视光医学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "8",
+    "majorName": "口腔医学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "9",
+    "majorName": "预防医学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "10",
+    "majorName": "预防医学(哈尔滨医科大学班)",
+    "majorRemark": "哈尔滨医科大学-海南医科大学联合学士学位；不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "11",
+    "majorName": "中医学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "12",
+    "majorName": "中西医临床医学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "13",
+    "majorName": "药学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "14",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "565",
+    "collegeName": "海南医科大学(海口市)[公办]",
+    "majorCode": "15",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

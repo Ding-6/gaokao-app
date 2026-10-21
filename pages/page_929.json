@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "15",
+    "majorName": "工程力学",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "16",
+    "majorName": "机械类",
+    "majorRemark": "含机械设计制造及其自动化、测控技术与仪器、工业工程专业；在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "17",
+    "majorName": "工业设计",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "18",
+    "majorName": "车辆工程",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "19",
+    "majorName": "智能制造工程",
+    "majorRemark": "在成都东部国际校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "20",
+    "majorName": "材料类",
+    "majorRemark": "含材料科学与工程、材料成型及控制工程专业；在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "21",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "在成都犀浦校区就读；色弱、色盲、单色不识别考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "22",
+    "majorName": "能源动力类",
+    "majorRemark": "含建筑环境与能源应用工程、能源与动力工程专业；在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "23",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "在成都东部国际校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "24",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "25",
+    "majorName": "大功率半导体科学与工程",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "26",
+    "majorName": "电子信息类",
+    "majorRemark": "含微电子科学与工程、电子科学与技术专业；在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "27",
+    "majorName": "电子信息工程",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "28",
+    "majorName": "通信工程",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1823",
+    "collegeName": "西南交通大学[公办]",
+    "majorCode": "29",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "在成都犀浦校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  }
+]

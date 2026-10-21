@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1489",
+    "collegeName": "上海交通大学[公办]",
+    "majorCode": "6",
+    "majorName": "电子信息类(IEEE试点班，含双学士学位项目)",
+    "majorRemark": "含计算机科学与技术、信息工程、信息安全、自动化专业；含电子信息类（IEEE试点班）-数学与应用数学双学士学位项目",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1489",
+    "collegeName": "上海交通大学[公办]",
+    "majorCode": "7",
+    "majorName": "电子信息类(计算机永强试验班)",
+    "majorRemark": "含计算机科学与技术、软件工程、信息安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1489",
+    "collegeName": "上海交通大学[公办]",
+    "majorCode": "8",
+    "majorName": "电子信息类(集成电路英才班)",
+    "majorRemark": "含微电子科学与工程、电子科学与技术、信息工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7700
+  },
+  {
+    "collegeCode": "1489",
+    "collegeName": "上海交通大学[公办]",
+    "majorCode": "9",
+    "majorName": "人工智能(拔尖英才试点班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7700
+  },
+  {
+    "collegeCode": "1489",
+    "collegeName": "上海交通大学[公办]",
+    "majorCode": "10",
+    "majorName": "机器人工程(自主智能领军班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7700
+  },
+  {
+    "collegeCode": "1489",
+    "collegeName": "上海交通大学[公办]",
+    "majorCode": "11",
+    "majorName": "具身智能(拔尖英才试点班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 7700
+  },
+  {
+    "collegeCode": "1492",
+    "collegeName": "上海交通大学医学院[公办]",
+    "majorCode": "1",
+    "majorName": "临床医学(八年制本博连读)",
+    "majorRemark": "含欧洲、澳洲等国家和地区的临床实践交流项目",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "8",
+    "tuition": 8140
+  },
+  {
+    "collegeCode": "1492",
+    "collegeName": "上海交通大学医学院[公办]",
+    "majorCode": "2",
+    "majorName": "临床医学(五年制)",
+    "majorRemark": "含欧洲、澳洲等国家和地区的临床实践交流项目",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "5",
+    "tuition": 8140
+  },
+  {
+    "collegeCode": "1492",
+    "collegeName": "上海交通大学医学院[公办]",
+    "majorCode": "3",
+    "majorName": "临床医学(眼视光方向)",
+    "majorRemark": "含国际临床实践",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 8140
+  },
+  {
+    "collegeCode": "1492",
+    "collegeName": "上海交通大学医学院[公办]",
+    "majorCode": "4",
+    "majorName": "口腔医学(5+3一体化)",
+    "majorRemark": "“5+3”一体化培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 8140
+  },
+  {
+    "collegeCode": "1495",
+    "collegeName": "上海交通大学(中外合作办学)[公办]",
+    "majorCode": "1",
+    "majorName": "电子信息类(中外合作办学)(浦江国际学院，依托张江国际理工学院)",
+    "majorRemark": "含机械工程(中外合作办学)、电子与计算机工程(中外合作办学)、计算机科学与技术(中外合作办学)、数据科学与大数据技术(中外合作办学)专业；含电子与计算机工程-工商管理双学士学位项目",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 98000
+  },
+  {
+    "collegeCode": "1499",
+    "collegeName": "上海理工大学[公办]",
+    "majorCode": "3",
+    "majorName": "工科试验班(智能化制造类)",
+    "majorRemark": "含机械设计制造及其自动化、材料成型及控制工程、工业设计、过程装备与控制工程、车辆工程、材料科学与工程、能源与动力工程、新能源科学与工程、储能科学与工程、机器人工程、土木工程、建筑环境与能源应用工程、交通工程、环境工程、生物医学工程、康复工程、食品科学与工程、食品质量与安全、应用化学、生物技术、医学影像技术、智能医学工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 41,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1499",
+    "collegeName": "上海理工大学[公办]",
+    "majorCode": "4",
+    "majorName": "工科试验班(电子与信息类)",
+    "majorRemark": "含测控技术与仪器、电气工程及其自动化、电子信息工程、电子科学与技术、通信工程、光电信息科学与工程、医学信息工程、人工智能、自动化、计算机科学与技术、智能科学与技术、数据科学与大数据技术、新媒体技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1499",
+    "collegeName": "上海理工大学[公办]",
+    "majorCode": "5",
+    "majorName": "理科试验班",
+    "majorRemark": "含数学与应用数学、应用物理学、系统科学与工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7000
+  },
+  {
+    "collegeCode": "1499",
+    "collegeName": "上海理工大学[公办]",
+    "majorCode": "6",
+    "majorName": "电子信息科学与技术(中外合作办学)(中英合作)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 30000
+  }
+]

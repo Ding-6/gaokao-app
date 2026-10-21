@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1144",
+    "collegeName": "龙岩学院[公办]",
+    "majorCode": "28",
+    "majorName": "智能建造与智慧交通",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1144",
+    "collegeName": "龙岩学院[公办]",
+    "majorCode": "29",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1144",
+    "collegeName": "龙岩学院[公办]",
+    "majorCode": "30",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1144",
+    "collegeName": "龙岩学院[公办]",
+    "majorCode": "31",
+    "majorName": "生物制药",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1144",
+    "collegeName": "龙岩学院[公办]",
+    "majorCode": "32",
+    "majorName": "动物科学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1144",
+    "collegeName": "龙岩学院[公办]",
+    "majorCode": "33",
+    "majorName": "动物医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "1144",
+    "collegeName": "龙岩学院[公办]",
+    "majorCode": "34",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1144",
+    "collegeName": "龙岩学院[公办]",
+    "majorCode": "35",
+    "majorName": "市场营销",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1144",
+    "collegeName": "龙岩学院[公办]",
+    "majorCode": "36",
+    "majorName": "材料科学与工程(中外合作办学)",
+    "majorRemark": "培养模式为“3+1”，前3年学生在国内学习，第4年须赴泰国塔亚武里皇家理工大学学习；教学采用中英双语，非英语语种考生慎重报考；国内学费暂定20000元/年/生，最终以上级批复为准；国外学费参照泰校当年国际学生收费和学费减免标准（参考学费：人民币20000元/年/生）",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1145",
+    "collegeName": "陇东学院(庆阳市)[公办]",
+    "majorCode": "5",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1145",
+    "collegeName": "陇东学院(庆阳市)[公办]",
+    "majorCode": "6",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1145",
+    "collegeName": "陇东学院(庆阳市)[公办]",
+    "majorCode": "7",
+    "majorName": "过程装备与控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1145",
+    "collegeName": "陇东学院(庆阳市)[公办]",
+    "majorCode": "8",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1145",
+    "collegeName": "陇东学院(庆阳市)[公办]",
+    "majorCode": "9",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1145",
+    "collegeName": "陇东学院(庆阳市)[公办]",
+    "majorCode": "10",
+    "majorName": "石油工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "15",
+    "majorName": "日语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "16",
+    "majorName": "数学与应用数学(师范类)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "17",
+    "majorName": "化学",
+    "majorRemark": "不招轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "18",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "19",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "20",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "21",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母者",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "22",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "23",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "24",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "25",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "26",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1617",
+    "collegeName": "绥化学院[公办]",
+    "majorCode": "27",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "11",
+    "majorName": "投资学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "12",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

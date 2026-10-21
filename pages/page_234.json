@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "522",
+    "collegeName": "桂林理工大学[公办]",
+    "majorCode": "26",
+    "majorName": "地下水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "522",
+    "collegeName": "桂林理工大学[公办]",
+    "majorCode": "27",
+    "majorName": "生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "522",
+    "collegeName": "桂林理工大学[公办]",
+    "majorCode": "28",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "522",
+    "collegeName": "桂林理工大学[公办]",
+    "majorCode": "29",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 40000
+  },
+  {
+    "collegeCode": "522",
+    "collegeName": "桂林理工大学[公办]",
+    "majorCode": "30",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 57000
+  },
+  {
+    "collegeCode": "522",
+    "collegeName": "桂林理工大学[公办]",
+    "majorCode": "31",
+    "majorName": "软件工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 57000
+  },
+  {
+    "collegeCode": "522",
+    "collegeName": "桂林理工大学[公办]",
+    "majorCode": "32",
+    "majorName": "网络工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 57000
+  },
+  {
+    "collegeCode": "523",
+    "collegeName": "桂林旅游学院[公办]",
+    "majorCode": "8",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "中外合作办学高收费专业；学生完成四年国内学习可获得本校毕业证、学位证及外方学位证",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 59800
+  },
+  {
+    "collegeCode": "523",
+    "collegeName": "桂林旅游学院[公办]",
+    "majorCode": "9",
+    "majorName": "旅游管理(中外合作办学)",
+    "majorRemark": "中外合作办学高收费专业；学生完成四年国内学习可获得本校毕业证、学位证及外方学位证",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 59800
+  },
+  {
+    "collegeCode": "523",
+    "collegeName": "桂林旅游学院[公办]",
+    "majorCode": "10",
+    "majorName": "酒店管理(中外合作办学)",
+    "majorRemark": "中外合作办学高收费专业；学生完成四年国内学习可获得本校毕业证和学位证并可申请外方学术资格认证证书，达到语言要求可申请赴外方学习1.5年，毕业可获得本校毕业证、学位证及外方学位证",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 39300
+  },
+  {
+    "collegeCode": "524",
+    "collegeName": "桂林师范学院[公办]",
+    "majorCode": "11",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "525",
+    "collegeName": "桂林医科大学[公办]",
+    "majorCode": "1",
+    "majorName": "基础医学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "525",
+    "collegeName": "桂林医科大学[公办]",
+    "majorCode": "2",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "525",
+    "collegeName": "桂林医科大学[公办]",
+    "majorCode": "3",
+    "majorName": "医学影像学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "525",
+    "collegeName": "桂林医科大学[公办]",
+    "majorCode": "4",
+    "majorName": "食品卫生与营养学(中澳学分互认联合培养项目)",
+    "majorRemark": "单科成绩要求：外语>=90；不招色盲、色弱考生；与澳大利亚昆士兰大学合作，采取3+2分段培养模式，第四、五学年需赴澳大利亚学习，英语教学，非英语考生谨慎报考；费用另计（项目服务费68000元人民币/生、澳方高校学费约58,056澳元/学年），具体事项详见学校招生章程及项目简章",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  }
+]

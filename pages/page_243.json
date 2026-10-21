@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "545",
+    "collegeName": "哈尔滨商业大学[公办]",
+    "majorCode": "40",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "545",
+    "collegeName": "哈尔滨商业大学[公办]",
+    "majorCode": "41",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "545",
+    "collegeName": "哈尔滨商业大学[公办]",
+    "majorCode": "42",
+    "majorName": "劳动与社会保障",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 3300
+  },
+  {
+    "collegeCode": "545",
+    "collegeName": "哈尔滨商业大学[公办]",
+    "majorCode": "43",
+    "majorName": "供应链管理",
+    "majorRemark": "学费暂定5000元/年，最终以上级主管部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "11",
+    "majorName": "汉语言文学(行知实验班)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4560
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "12",
+    "majorName": "汉语言文学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4560
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "13",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "14",
+    "majorName": "法语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "15",
+    "majorName": "西班牙语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "16",
+    "majorName": "波兰语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "17",
+    "majorName": "数学与应用数学(行知实验班)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "18",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "19",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "20",
+    "majorName": "化学(行知实验班)",
+    "majorRemark": "师范类；不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "546",
+    "collegeName": "哈尔滨师范大学[公办]",
+    "majorCode": "21",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 2800
+  }
+]

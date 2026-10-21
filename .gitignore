@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 环境变量与本地凭证
+.env
+.env.*
+
+# 爬虫抓取的原始数据（体积大，按需重新抓取）
+招生计划_标准导入格式.json
+录取数据_标准导入格式.json
+河北2026招生计划_标准导入.json
+融合后完整数据.json
+
+# 导出文件
+*.xlsx
+*.pdf
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store

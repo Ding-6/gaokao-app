@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "20",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "21",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "22",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "23",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "24",
+    "majorName": "水文与水资源工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "25",
+    "majorName": "智慧水利",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "26",
+    "majorName": "农业机械化及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "27",
+    "majorName": "环境科学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "28",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "29",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "30",
+    "majorName": "生物工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "31",
+    "majorName": "生物制药",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "32",
+    "majorName": "农学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "33",
+    "majorName": "园艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1666",
+    "collegeName": "天津农学院[公办]",
+    "majorCode": "34",
+    "majorName": "植物保护",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4400
+  }
+]

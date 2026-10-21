@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "390",
+    "collegeName": "福建中医药大学(福州市)[公办]",
+    "majorCode": "1",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 6760
+  },
+  {
+    "collegeCode": "390",
+    "collegeName": "福建中医药大学(福州市)[公办]",
+    "majorCode": "6",
+    "majorName": "中西医临床医学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6760
+  },
+  {
+    "collegeCode": "390",
+    "collegeName": "福建中医药大学(福州市)[公办]",
+    "majorCode": "7",
+    "majorName": "药学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6760
+  },
+  {
+    "collegeCode": "390",
+    "collegeName": "福建中医药大学(福州市)[公办]",
+    "majorCode": "8",
+    "majorName": "中药学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6760
+  },
+  {
+    "collegeCode": "390",
+    "collegeName": "福建中医药大学(福州市)[公办]",
+    "majorCode": "9",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6760
+  },
+  {
+    "collegeCode": "390",
+    "collegeName": "福建中医药大学(福州市)[公办]",
+    "majorCode": "10",
+    "majorName": "听力与言语康复学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6760
+  },
+  {
+    "collegeCode": "391",
+    "collegeName": "福州大学[公办]",
+    "majorCode": "3",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学专业；第一学年在福州市铜盘校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "391",
+    "collegeName": "福州大学[公办]",
+    "majorCode": "4",
+    "majorName": "化学",
+    "majorRemark": "不招色弱、色盲、单色识别不全的考生，第一学年在福州市铜盘校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "391",
+    "collegeName": "福州大学[公办]",
+    "majorCode": "5",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "在泉州市晋江校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "391",
+    "collegeName": "福州大学[公办]",
+    "majorCode": "6",
+    "majorName": "电子科学与技术",
+    "majorRemark": "第一学年在福州市铜盘校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "391",
+    "collegeName": "福州大学[公办]",
+    "majorCode": "7",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "第一学年在福州市铜盘校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "391",
+    "collegeName": "福州大学[公办]",
+    "majorCode": "8",
+    "majorName": "自动化",
+    "majorRemark": "第一学年在福州市铜盘校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "391",
+    "collegeName": "福州大学[公办]",
+    "majorCode": "9",
+    "majorName": "机器人工程",
+    "majorRemark": "第一学年在福州市铜盘校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "391",
+    "collegeName": "福州大学[公办]",
+    "majorCode": "10",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色识别不全的考生，第一学年在福州市铜盘校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "391",
+    "collegeName": "福州大学[公办]",
+    "majorCode": "11",
+    "majorName": "土木工程",
+    "majorRemark": "第一学年在福州市铜盘校区培养",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "19",
+    "majorName": "中药学(临床中药学方向)",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "20",
+    "majorName": "中药资源与开发",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "21",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招收色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5635
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "23",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4860
+  },
+  {
+    "collegeCode": "1438",
+    "collegeName": "山西中医药大学(晋中市)[公办]",
+    "majorCode": "24",
+    "majorName": "健康服务与管理",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4860
+  },
+  {
+    "collegeCode": "1441",
+    "collegeName": "陕西工业职业技术大学(咸阳市)[公办]",
+    "majorCode": "1",
+    "majorName": "金属智能成型技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1441",
+    "collegeName": "陕西工业职业技术大学(咸阳市)[公办]",
+    "majorCode": "2",
+    "majorName": "城市设计数字技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1441",
+    "collegeName": "陕西工业职业技术大学(咸阳市)[公办]",
+    "majorCode": "3",
+    "majorName": "建筑工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1441",
+    "collegeName": "陕西工业职业技术大学(咸阳市)[公办]",
+    "majorCode": "4",
+    "majorName": "自动化技术与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1441",
+    "collegeName": "陕西工业职业技术大学(咸阳市)[公办]",
+    "majorCode": "5",
+    "majorName": "大数据与会计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 7150
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "1",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "2",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "3",
+    "majorName": "教育技术学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "4",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5250
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "5",
+    "majorName": "应用物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

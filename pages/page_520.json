@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "34",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "35",
+    "majorName": "日语(跨国商务)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "36",
+    "majorName": "新闻传播学类",
+    "majorRemark": "含新闻学、广告学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "37",
+    "majorName": "数学与应用数学(英才班)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "38",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "39",
+    "majorName": "物理学(拔尖创新班)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "40",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "41",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色弱、色盲、单色不能识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "42",
+    "majorName": "应用化学",
+    "majorRemark": "不招色弱、色盲、单色不能识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "43",
+    "majorName": "地理科学类",
+    "majorRemark": "含地理科学(师范)、地理信息科学专业；专业分流时地理科学专业有色觉要求",
+    "subjectRequirementText": "地理",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "44",
+    "majorName": "地理信息科学(地理信息与计算机双学士学位)",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "45",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；不招色弱、色盲、单色不能识别的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "46",
+    "majorName": "心理学类",
+    "majorRemark": "含心理学(师范)、应用心理学专业；不招色弱、色盲、单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "47",
+    "majorName": "应用心理学(智慧学习与评价拔尖创新人才班)",
+    "majorRemark": "不招色弱、色盲、单色不能识别的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1013",
+    "collegeName": "江西师范大学[公办]",
+    "majorCode": "48",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4940
+  }
+]

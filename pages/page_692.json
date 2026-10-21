@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "15",
+    "majorName": "化学类",
+    "majorRemark": "含化学专业；含邓从豪基地班、化学拔尖2.0班（泰山学堂）；不招收色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "16",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物科学、生物技术、生态学、生物工程专业；含童第周、曾呈奎基地班、生命拔尖2.0班（泰山学堂）、王应睐、戴芳澜英才班；不招收色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "17",
+    "majorName": "工程力学",
+    "majorRemark": "含“钱七虎学堂”",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "18",
+    "majorName": "机械类",
+    "majorRemark": "含机械设计制造及其自动化、智能制造工程专业；含卓越工程师培养计划",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "19",
+    "majorName": "智能感知工程(未来技术新工科实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "20",
+    "majorName": "材料类(先进材料与智能成型方向)",
+    "majorRemark": "含材料科学与工程、材料成型及控制工程专业；含先进材料创新人才基地班、卓越工程师培养计划；含牛津大学、新加坡国立大学及欧洲多校交流项目",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "21",
+    "majorName": "能源动力类(电气与智慧能源新工科实验班)",
+    "majorRemark": "含电气工程及其自动化、能源与动力工程、能源与环境系统工程、新能源科学与工程、储能科学与工程、核工程与核技术专业；含卓越工程师培养计划、全球能源互联网新工科特色班、能源与环境系统工程实验班、吴有训核科学英才班",
+    "subjectRequirementText": "化学",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "22",
+    "majorName": "电子信息类(通信电子与光电方向)",
+    "majorRemark": "含通信工程、电子科学与技术、光电信息科学与工程专业；含崇新学堂、微纳光电子科学与技术实验班、光电科创未来精英班",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "23",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "24",
+    "majorName": "自动化类",
+    "majorRemark": "含自动化、机器人工程专业；含卓越工程师培养计划、自动化科学新工科实验班",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "25",
+    "majorName": "计算机类(智能软件与芯片新工科实验班)",
+    "majorRemark": "含软件工程、数字媒体技术、数据科学与大数据技术、微电子科学与工程、集成电路设计与集成系统专业；含人工智能国际班，网安新工科创新实验班、软件菁英班、集成电路拔尖人才培养“健坤班”、黄昆半导体英才班、微系统英才班",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "26",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "含计算机拔尖2.0班（泰山学堂）、计算机菁英班、人工智能与大数据新工科创新实验班",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "27",
+    "majorName": "网络空间安全",
+    "majorRemark": "可向密码科学与技术分流；国家一流网络安全学院建设示范项目",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "28",
+    "majorName": "密码科学与技术(潘承洞密码班)",
+    "majorRemark": "依托密码与数字经济安全全国重点实验室等科研平台建设",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1354",
+    "collegeName": "山东大学[公办]",
+    "majorCode": "29",
+    "majorName": "智能建造与智慧交通(工程机器人新工科实验班)",
+    "majorRemark": "依托高端工程机械智能制造全国重点实验室、人形机器人未来产业实验室等科研平台建设；可参加多所海外高校联合培养或交流项目",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

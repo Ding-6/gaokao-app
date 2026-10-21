@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "7",
+    "majorName": "化学",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "8",
+    "majorName": "地球信息科学与技术",
+    "majorRemark": "不招色盲且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "9",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "10",
+    "majorName": "工程力学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "11",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "12",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "13",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "14",
+    "majorName": "智能感知工程(IC封测技术创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "15",
+    "majorName": "材料科学与工程(创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "16",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "17",
+    "majorName": "材料物理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "18",
+    "majorName": "无机非金属材料工程",
+    "majorRemark": "不招色盲且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "19",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "20",
+    "majorName": "电子信息材料",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "582",
+    "collegeName": "合肥工业大学[公办]",
+    "majorCode": "21",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

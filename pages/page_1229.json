@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "69",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 36900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "70",
+    "majorName": "艺术教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 36900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "71",
+    "majorName": "外国语言文学类",
+    "majorRemark": "含日语(商务方向)、朝鲜语(商务方向)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 36900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "72",
+    "majorName": "英语(教育、翻译、商务方向)",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 36900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "73",
+    "majorName": "网络与新媒体(AI媒介应用)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 54900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "74",
+    "majorName": "国际新闻与传播",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 38900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "75",
+    "majorName": "新能源汽车工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "76",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 38900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "77",
+    "majorName": "智能电网信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 32900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "78",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息工程、通信工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 38900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "79",
+    "majorName": "人工智能(车路云与智能交通)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "80",
+    "majorName": "智能测控工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 32900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "81",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 32900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "82",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 38900
+  },
+  {
+    "collegeCode": "2414",
+    "collegeName": "海口经济学院[民办]",
+    "majorCode": "83",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 38900
+  }
+]

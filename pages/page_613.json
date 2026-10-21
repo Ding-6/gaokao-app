@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "27",
+    "majorName": "软件工程",
+    "majorRemark": "一、二年级在常州市天目湖校区就读，三、四年级在南京市将军路校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "28",
+    "majorName": "信息安全",
+    "majorRemark": "一、二年级在常州市天目湖校区就读，三、四年级在南京市将军路校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "29",
+    "majorName": "物联网工程",
+    "majorRemark": "一、二年级在常州市天目湖校区就读，三、四年级在南京市将军路校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "30",
+    "majorName": "航空航天类(长空创新班)",
+    "majorRemark": "含飞行器设计与工程、飞行器环境与生命保障工程、飞行器动力工程、飞行器制造工程、航空航天工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "31",
+    "majorName": "航空航天类",
+    "majorRemark": "含飞行器设计与工程、飞行器环境与生命保障工程、飞行器动力工程、飞行器制造工程、航空航天工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "32",
+    "majorName": "飞行器设计与工程(航天科工集团定制班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "33",
+    "majorName": "飞行器适航技术",
+    "majorRemark": "一、二年级在常州市天目湖校区就读，三、四年级在南京市将军路校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "34",
+    "majorName": "飞行器控制与信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "35",
+    "majorName": "无人驾驶航空器系统工程",
+    "majorRemark": "入学后在天目湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "36",
+    "majorName": "智能飞行器技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "37",
+    "majorName": "低空技术与工程",
+    "majorRemark": "入学后在天目湖校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "38",
+    "majorName": "具身智能",
+    "majorRemark": "一、二年级在常州市天目湖校区就读，三、四年级在南京市将军路校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "39",
+    "majorName": "应用物理学(中外合作办学)",
+    "majorRemark": "学费暂定40000元/年，最终以主管部门批复为准；第一阶段学习地点在天目湖校区，第二阶段学习地点根据培养计划具体安排",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "40",
+    "majorName": "人工智能(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 65000
+  },
+  {
+    "collegeCode": "1191",
+    "collegeName": "南京航空航天大学[公办]",
+    "majorCode": "41",
+    "majorName": "工业工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 65000
+  }
+]

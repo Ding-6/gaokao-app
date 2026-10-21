@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "39",
+    "majorName": "小学教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 146,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "40",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 75,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "41",
+    "majorName": "商务英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "42",
+    "majorName": "地质学",
+    "majorRemark": "色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 76,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "43",
+    "majorName": "应用心理学",
+    "majorRemark": "色盲考生不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "44",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 267,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "45",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 96,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "46",
+    "majorName": "新能源汽车工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 96,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "47",
+    "majorName": "宝石及材料工艺学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "48",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 267,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "49",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 72,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "50",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 200,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "51",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 290,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "52",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 102,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2249",
+    "collegeName": "保定理工学院[民办]",
+    "majorCode": "53",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 59,
+    "duration": "4",
+    "tuition": 22000
+  }
+]

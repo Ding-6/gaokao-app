@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "21",
+    "majorName": "智能工程与创意设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "22",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "23",
+    "majorName": "数字媒体技术(游戏科学与技术方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "24",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "25",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "26",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "27",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "28",
+    "majorName": "网络空间安全(AI治理与视听安全方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "29",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "30",
+    "majorName": "工商管理(智能商业管理方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "31",
+    "majorName": "智能影像艺术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "32",
+    "majorName": "数字经济(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 85000
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "33",
+    "majorName": "数字媒体技术(中外合作办学)",
+    "majorRemark": "与英国阿伯泰大学合作。办学地点：海南省陵水黎族自治县黎安国际教育创新试验区",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "2035",
+    "collegeName": "中国传媒大学[公办]",
+    "majorCode": "34",
+    "majorName": "智能科学与技术(中外合作办学)",
+    "majorRemark": "与英国考文垂大学合作。办学地点：海南省陵水黎族自治县黎安国际教育创新试验区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "8",
+    "majorName": "经济学(与资勘专业双学士学位)",
+    "majorRemark": "不招单色不识别考生；一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

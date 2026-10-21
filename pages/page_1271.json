@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2523",
+    "collegeName": "绵阳城市学院[民办]",
+    "majorCode": "3",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18020
+  },
+  {
+    "collegeCode": "2523",
+    "collegeName": "绵阳城市学院[民办]",
+    "majorCode": "4",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 18020
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "13",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24600
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "14",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "15",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22600
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "16",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24600
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "17",
+    "majorName": "电机电器智能化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24600
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "18",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "19",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 24600
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "20",
+    "majorName": "智能装备与系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 24600
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "21",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "22",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "23",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24600
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "24",
+    "majorName": "农业水利工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24600
+  },
+  {
+    "collegeCode": "2531",
+    "collegeName": "南昌工学院[民办]",
+    "majorCode": "25",
+    "majorName": "机械设计制造及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 22000
+  }
+]

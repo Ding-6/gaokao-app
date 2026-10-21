@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1812",
+    "collegeName": "西华师范大学(南充市)[公办]",
+    "majorCode": "5",
+    "majorName": "地理科学(师范)",
+    "majorRemark": "师范类；不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1812",
+    "collegeName": "西华师范大学(南充市)[公办]",
+    "majorCode": "7",
+    "majorName": "材料物理",
+    "majorRemark": "不招收色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1812",
+    "collegeName": "西华师范大学(南充市)[公办]",
+    "majorCode": "8",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1812",
+    "collegeName": "西华师范大学(南充市)[公办]",
+    "majorCode": "9",
+    "majorName": "环境工程",
+    "majorRemark": "不招收色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1812",
+    "collegeName": "西华师范大学(南充市)[公办]",
+    "majorCode": "10",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1813",
+    "collegeName": "西交利物浦大学[中外合作办学]",
+    "majorCode": "2",
+    "majorName": "金融学类(中外合作办学)",
+    "majorRemark": "含精算学(中外合作办学)、金融数学(中外合作办学)专业；西浦采用大类招生，入学后可跨大类自主选择专业（详见学校招生章程）。学费标准如有调整，按省发改委、省教育厅最新政策执行（2025年学费为9.3万元/年；2026年学费最高不超过10万元/年）",
+    "subjectRequirementText": "不限",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1813",
+    "collegeName": "西交利物浦大学[中外合作办学]",
+    "majorCode": "3",
+    "majorName": "电子信息类(中外合作办学)",
+    "majorRemark": "含电子科学与技术(中外合作办学)、通信工程(中外合作办学)、微电子科学与工程(中外合作办学)、人工智能(中外合作办学)专业；西浦采用大类招生，入学后可跨大类自主选择专业（详见学校招生章程）。学费标准如有调整，按省发改委、省教育厅最新政策执行（2025年学费为9.3万元/年；2026年学费最高不超过10万元/年）",
+    "subjectRequirementText": "化学",
+    "planCount": 71,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1814",
+    "collegeName": "西南财经大学[公办]",
+    "majorCode": "19",
+    "majorName": "经济学(国家经济学基础人才培养基地班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1814",
+    "collegeName": "西南财经大学[公办]",
+    "majorCode": "20",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1814",
+    "collegeName": "西南财经大学[公办]",
+    "majorCode": "21",
+    "majorName": "数字经济(基础学科拔尖实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1814",
+    "collegeName": "西南财经大学[公办]",
+    "majorCode": "22",
+    "majorName": "金融学类",
+    "majorRemark": "含金融学、金融学(证券与期货方向)、金融学(双语实验班)、信用管理(金融智能风控)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1814",
+    "collegeName": "西南财经大学[公办]",
+    "majorCode": "23",
+    "majorName": "金融学(智能金融与区块链金融)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1814",
+    "collegeName": "西南财经大学[公办]",
+    "majorCode": "24",
+    "majorName": "金融学(经管国际化创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "1814",
+    "collegeName": "西南财经大学[公办]",
+    "majorCode": "25",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1814",
+    "collegeName": "西南财经大学[公办]",
+    "majorCode": "26",
+    "majorName": "投资学(投资学与数据双学位)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5760
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2728",
+    "collegeName": "厦门工学院[民办]",
+    "majorCode": "15",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 34000
+  },
+  {
+    "collegeCode": "2728",
+    "collegeName": "厦门工学院[民办]",
+    "majorCode": "16",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 41000
+  },
+  {
+    "collegeCode": "2728",
+    "collegeName": "厦门工学院[民办]",
+    "majorCode": "17",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2728",
+    "collegeName": "厦门工学院[民办]",
+    "majorCode": "18",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 39000
+  },
+  {
+    "collegeCode": "2728",
+    "collegeName": "厦门工学院[民办]",
+    "majorCode": "19",
+    "majorName": "风景园林",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2728",
+    "collegeName": "厦门工学院[民办]",
+    "majorCode": "20",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 34000
+  },
+  {
+    "collegeCode": "2728",
+    "collegeName": "厦门工学院[民办]",
+    "majorCode": "21",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 34000
+  },
+  {
+    "collegeCode": "2728",
+    "collegeName": "厦门工学院[民办]",
+    "majorCode": "22",
+    "majorName": "软件工程(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "2728",
+    "collegeName": "厦门工学院[民办]",
+    "majorCode": "23",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "2730",
+    "collegeName": "厦门华厦学院[民办]",
+    "majorCode": "1",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2730",
+    "collegeName": "厦门华厦学院[民办]",
+    "majorCode": "2",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2730",
+    "collegeName": "厦门华厦学院[民办]",
+    "majorCode": "3",
+    "majorName": "制药工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2735",
+    "collegeName": "湘潭理工学院[民办]",
+    "majorCode": "5",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23500
+  },
+  {
+    "collegeCode": "2735",
+    "collegeName": "湘潭理工学院[民办]",
+    "majorCode": "6",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22500
+  },
+  {
+    "collegeCode": "2735",
+    "collegeName": "湘潭理工学院[民办]",
+    "majorCode": "7",
+    "majorName": "新能源汽车工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22500
+  }
+]

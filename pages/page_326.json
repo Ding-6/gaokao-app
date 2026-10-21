@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "78",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 27,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "79",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "80",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 48,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "81",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "82",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "83",
+    "majorName": "行政管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "84",
+    "majorName": "广播电视编导",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "85",
+    "majorName": "翻译(中外合作办学)",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=95；与英国斯特灵大学合作办学，学制4年，采用“3+1”人才培养合作模式，前三年就读于河北师范大学，每年学费为26000元人民币；按要求学生须修完规定学分，第四年须进入斯特灵大学学习（按2029年入学时英方国家规定标准收取学费，学费预计1.8万英镑/年），食宿等费用自理，按照外方标准执行。翻译（中外合作办学）专业学生不得转入其他专业。报考前请登录“河北师范大学招生信息网”查询中外合作办学项目招生简章",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "86",
+    "majorName": "数据计算及应用(中外合作办学)",
+    "majorRemark": "与英国斯特灵大学合作办学，学制4年，采用“4+0”人才培养合作模式，学生全部在中国境内完成培养，每年学费70000元人民币（最终以物价部门批复为准）。数据计算及应用（中外合作办学）专业学生不得转入其他专业。报考前请登录“河北师范大学招生信息网”查询中外合作办学项目招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 85,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "658",
+    "collegeName": "河北师范大学[公办]",
+    "majorCode": "87",
+    "majorName": "智能科学与技术(中外合作办学)",
+    "majorRemark": "与英国斯特灵大学合作办学，学制4年，采用“4+0”人才培养合作模式，学生全部在中国境内完成培养，每年学费70000元人民币（最终以物价部门批复为准）。智能科学与技术（中外合作办学）专业学生不得转入其他专业。报考前请登录“河北师范大学招生信息网”查询中外合作办学项目招生简章",
+    "subjectRequirementText": "化学",
+    "planCount": 85,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "659",
+    "collegeName": "河北师范大学(地方专项计划)[公办]",
+    "majorCode": "17",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "659",
+    "collegeName": "河北师范大学(地方专项计划)[公办]",
+    "majorCode": "18",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "659",
+    "collegeName": "河北师范大学(地方专项计划)[公办]",
+    "majorCode": "20",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；不招色盲、色弱考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "659",
+    "collegeName": "河北师范大学(地方专项计划)[公办]",
+    "majorCode": "21",
+    "majorName": "英语",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "659",
+    "collegeName": "河北师范大学(地方专项计划)[公办]",
+    "majorCode": "22",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

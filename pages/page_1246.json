@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "47",
+    "majorName": "物流管理(数智供应链方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "48",
+    "majorName": "电子商务(数智运营方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2435",
+    "collegeName": "黑龙江财经学院(哈尔滨市)[民办]",
+    "majorCode": "49",
+    "majorName": "金融科技应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "3",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "4",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "5",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "6",
+    "majorName": "新能源汽车工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "7",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "8",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "9",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "10",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "11",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "12",
+    "majorName": "农业智能装备工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "13",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "14",
+    "majorName": "乳品工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  }
+]

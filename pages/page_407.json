@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "828",
+    "collegeName": "湖南科技大学(湘潭市)[公办]",
+    "majorCode": "80",
+    "majorName": "生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "828",
+    "collegeName": "湖南科技大学(湘潭市)[公办]",
+    "majorCode": "81",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "7",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "8",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "9",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "10",
+    "majorName": "材料化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "11",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "12",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "13",
+    "majorName": "空间信息与数字技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "14",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "15",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "16",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "17",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "829",
+    "collegeName": "湖南科技学院(永州市)[公办]",
+    "majorCode": "18",
+    "majorName": "智慧农业",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 3600
+  },
+  {
+    "collegeCode": "830",
+    "collegeName": "湖南理工大学(岳阳市)[公办]",
+    "majorCode": "5",
+    "majorName": "知识产权",
+    "majorRemark": "专业方向：华商律师菁英班",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

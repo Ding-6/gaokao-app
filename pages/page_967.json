@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1866",
+    "collegeName": "新疆交通职业技术大学[公办]",
+    "majorCode": "12",
+    "majorName": "城市轨道交通设备与控制技术",
+    "majorRemark": "单科成绩要求：语文>=56",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1866",
+    "collegeName": "新疆交通职业技术大学[公办]",
+    "majorCode": "13",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "单科成绩要求：语文>=56",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1866",
+    "collegeName": "新疆交通职业技术大学[公办]",
+    "majorCode": "14",
+    "majorName": "现代物流管理",
+    "majorRemark": "单科成绩要求：语文>=56",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1867",
+    "collegeName": "新疆警察学院[公办]",
+    "majorCode": "2",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1867",
+    "collegeName": "新疆警察学院[公办]",
+    "majorCode": "3",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "5",
+    "majorName": "数字经济",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "6",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "7",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "8",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "9",
+    "majorName": "医学信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "10",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "11",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "12",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "13",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1868",
+    "collegeName": "新疆科技学院[公办]",
+    "majorCode": "14",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

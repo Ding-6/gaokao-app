@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "876",
+    "collegeName": "华南理工大学[公办]",
+    "majorCode": "27",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "876",
+    "collegeName": "华南理工大学[公办]",
+    "majorCode": "28",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、信息安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "876",
+    "collegeName": "华南理工大学[公办]",
+    "majorCode": "29",
+    "majorName": "软件工程",
+    "majorRemark": "第一、二学年6850元/年，第三、四学年16000元/年",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "876",
+    "collegeName": "华南理工大学[公办]",
+    "majorCode": "30",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6060
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "1",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "2",
+    "majorName": "海洋科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "3",
+    "majorName": "生物科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "4",
+    "majorName": "材料科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "5",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "6",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "7",
+    "majorName": "制药工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "8",
+    "majorName": "农业机械化及其自动化(智能农业装备)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "9",
+    "majorName": "家具设计与工程(索菲亚班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "10",
+    "majorName": "食品科学与工程",
+    "majorRemark": "因用人单位可能对考生身体素质有要求，请转氨酶异常的考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "879",
+    "collegeName": "华南农业大学[公办]",
+    "majorCode": "11",
+    "majorName": "食品质量与安全",
+    "majorRemark": "因用人单位可能对考生身体素质有要求，请转氨酶异常的考生慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6853
+  }
+]

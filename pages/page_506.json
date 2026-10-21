@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "985",
+    "collegeName": "江苏科技大学(镇江市)[公办]",
+    "majorCode": "32",
+    "majorName": "管理科学与工程类",
+    "majorRemark": "含信息管理与信息系统、大数据管理与应用专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "985",
+    "collegeName": "江苏科技大学(镇江市)[公办]",
+    "majorCode": "33",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "985",
+    "collegeName": "江苏科技大学(镇江市)[公办]",
+    "majorCode": "34",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "1",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "2",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "3",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "4",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "5",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "6",
+    "majorName": "过程装备与控制工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "7",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "8",
+    "majorName": "汽车服务工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "9",
+    "majorName": "智能车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "10",
+    "majorName": "增材制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "11",
+    "majorName": "金属材料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "987",
+    "collegeName": "江苏理工学院[公办]",
+    "majorCode": "12",
+    "majorName": "功能材料",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "65",
+    "majorName": "空间信息与数字技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "66",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "不招单色不识别考生；宜英语语种考生就读。第3、4年学费共28000元",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "67",
+    "majorName": "网络空间安全",
+    "majorRemark": "不招单色不识别考生；宜英语语种考生就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "68",
+    "majorName": "网络空间安全(王湘浩班)",
+    "majorRemark": "不招单色不识别考生；宜英语语种考生就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "69",
+    "majorName": "土木类",
+    "majorRemark": "含土木工程、地质工程专业；实行“类内专业分流任选”，100%按照学生意愿分流",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "70",
+    "majorName": "水利类",
+    "majorRemark": "含水文与水资源工程、地下水科学与工程专业；实行“类内专业分流任选”，100%按照学生意愿分流",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "71",
+    "majorName": "地质类",
+    "majorRemark": "含地质学、资源勘查工程、土地资源管理专业；实行“类内专业分流任选”，100%按照学生意愿分流。不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6070
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "72",
+    "majorName": "地质工程(黄大年班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "73",
+    "majorName": "地质工程(深地极地探测特色班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "74",
+    "majorName": "勘查技术与工程",
+    "majorRemark": "按类招。含勘查技术与工程、地球物理学、地理信息科学、测绘工程。实行“类内专业分流任选”，100%按照学生意愿分流",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "75",
+    "majorName": "地下水科学与工程(黄大年班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "76",
+    "majorName": "交通运输类",
+    "majorRemark": "含交通运输、交通工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "77",
+    "majorName": "交通运输(低空交通科技英才特色班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "78",
+    "majorName": "农业机械化及其自动化(智能农业装备特色班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6830
+  },
+  {
+    "collegeCode": "915",
+    "collegeName": "吉林大学[公办]",
+    "majorCode": "79",
+    "majorName": "环境科学与工程类",
+    "majorRemark": "含环境科学、环境工程专业；实行“类内专业分流任选”，100%按照学生意愿分流",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6830
+  }
+]

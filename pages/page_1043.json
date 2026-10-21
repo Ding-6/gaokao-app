@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "12",
+    "majorName": "化学类",
+    "majorRemark": "含化学、应用化学专业；不招收色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "13",
+    "majorName": "工程力学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "14",
+    "majorName": "机械工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "15",
+    "majorName": "材料类",
+    "majorRemark": "含材料科学与工程、高分子材料与工程、材料化学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "16",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "17",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "18",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "19",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "20",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招收单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "21",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "22",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "23",
+    "majorName": "水利类",
+    "majorRemark": "含水利水电工程、水文与水资源工程、道路桥梁与渡河工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "24",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "25",
+    "majorName": "化工与制药类",
+    "majorRemark": "含化学工程与工艺、制药工程、冶金工程专业；不招收色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5700
+  },
+  {
+    "collegeCode": "2022",
+    "collegeName": "郑州大学[公办]",
+    "majorCode": "26",
+    "majorName": "基础医学",
+    "majorRemark": "不招收色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "5",
+    "tuition": 6300
+  }
+]

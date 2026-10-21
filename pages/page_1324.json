@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2695",
+    "collegeName": "武汉城市学院[民办]",
+    "majorCode": "13",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 22800
+  },
+  {
+    "collegeCode": "2696",
+    "collegeName": "武汉传媒学院[民办]",
+    "majorCode": "5",
+    "majorName": "数据科学与大数据技术(AI生成数字内容与应用方向)",
+    "majorRemark": "大一在大悟校区就读，大二起就读武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2697",
+    "collegeName": "武汉东湖学院[民办]",
+    "majorCode": "15",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2697",
+    "collegeName": "武汉东湖学院[民办]",
+    "majorCode": "16",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2697",
+    "collegeName": "武汉东湖学院[民办]",
+    "majorCode": "17",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2697",
+    "collegeName": "武汉东湖学院[民办]",
+    "majorCode": "18",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、网络空间安全、物联网工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2697",
+    "collegeName": "武汉东湖学院[民办]",
+    "majorCode": "19",
+    "majorName": "护理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2698",
+    "collegeName": "武汉工程科技学院[民办]",
+    "majorCode": "17",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2698",
+    "collegeName": "武汉工程科技学院[民办]",
+    "majorCode": "18",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2701",
+    "collegeName": "武汉华夏理工学院[民办]",
+    "majorCode": "3",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2701",
+    "collegeName": "武汉华夏理工学院[民办]",
+    "majorCode": "4",
+    "majorName": "电子信息工程(华为精英班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2701",
+    "collegeName": "武汉华夏理工学院[民办]",
+    "majorCode": "5",
+    "majorName": "人工智能(华为精英班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2701",
+    "collegeName": "武汉华夏理工学院[民办]",
+    "majorCode": "6",
+    "majorName": "计算机科学与技术(华为精英班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2701",
+    "collegeName": "武汉华夏理工学院[民办]",
+    "majorCode": "7",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2702",
+    "collegeName": "武汉晴川学院[民办]",
+    "majorCode": "4",
+    "majorName": "机械电子工程(工业机器人实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22000
+  }
+]

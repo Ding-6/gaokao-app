@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "18",
+    "majorName": "人工智能(知行英才班)",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "19",
+    "majorName": "人工智能(未来技术学院)",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "20",
+    "majorName": "自动化类",
+    "majorRemark": "含自动化、工业智能、电气工程及其自动化、测控技术与仪器、电子科学与技术专业；入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "21",
+    "majorName": "机器人工程",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "22",
+    "majorName": "计算机类",
+    "majorRemark": "含软件工程、信息安全、虚拟现实技术专业；入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考。大一、大二学费为5200元/年，大三、大四学费为16000元/年",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "23",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "24",
+    "majorName": "软件工程(特色班)",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考。大一、大二学费为5200元/年，大三、大四学费为16000元/年",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "25",
+    "majorName": "物联网工程",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "26",
+    "majorName": "生物医学工程",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "27",
+    "majorName": "建筑类",
+    "majorRemark": "含建筑学、城乡规划专业",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "28",
+    "majorName": "生物工程类",
+    "majorRemark": "含生物工程、生物制药专业；入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "29",
+    "majorName": "会计学(双学士学位项目)",
+    "majorRemark": "双学士学位项目，与人工智能合办。入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "30",
+    "majorName": "工业工程(双学士学位项目)",
+    "majorRemark": "双学士学位项目，与自动化合办。入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "343",
+    "collegeName": "东北大学[公办]",
+    "majorCode": "31",
+    "majorName": "具身智能",
+    "majorRemark": "入学后部分课程采用英文教材和英语授课，外语语种为非英语的考生请慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "346",
+    "collegeName": "东北大学秦皇岛分校[公办]",
+    "majorCode": "5",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、金融学、国际经济与贸易专业；身体条件要求详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 6240
+  }
+]

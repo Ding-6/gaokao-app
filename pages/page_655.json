@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1263",
+    "collegeName": "宁波工程学院[公办]",
+    "majorCode": "27",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1263",
+    "collegeName": "宁波工程学院[公办]",
+    "majorCode": "28",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1263",
+    "collegeName": "宁波工程学院[公办]",
+    "majorCode": "29",
+    "majorName": "信息与计算科学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=100；中美合作办学，4年国内学习",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "1263",
+    "collegeName": "宁波工程学院[公办]",
+    "majorCode": "30",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=100；中美合作办学，4年国内学习",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "7",
+    "majorName": "经济学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "8",
+    "majorName": "金融科技(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "9",
+    "majorName": "国际经济与贸易(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "10",
+    "majorName": "传播学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "11",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报，含2+2和4+0两种学制，进校后自由选择学制，2+2后两年在英国诺丁汉大学就读，学费另计",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "12",
+    "majorName": "统计学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报，含2+2和4+0两种学制，进校后自由选择学制，2+2后两年在英国诺丁汉大学就读，学费另计",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "13",
+    "majorName": "电气类(中外合作办学)",
+    "majorRemark": "含材料成型及控制工程(中外合作办学)、工业设计(中外合作办学)、电气工程及其自动化(中外合作办学)、土木工程(中外合作办学)、建筑环境与能源应用工程(中外合作办学)、航空航天工程(中外合作办学)、化学工程与工艺(中外合作办学)、环境工程(中外合作办学)专业；单科成绩要求：外语>=110；含2+2和4+0两种学制，进校后自由选择学制，2+2后两年在英国诺丁汉大学就读，学费另计",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "14",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报，含2个专业方向：计算机科学、计算机科学与人工智能。含2+2和4+0两种学制，进校后自由选择学制，2+2后两年在英国诺丁汉大学就读，学费另计",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "15",
+    "majorName": "建筑学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1264",
+    "collegeName": "宁波诺丁汉大学[中外合作办学]",
+    "majorCode": "16",
+    "majorName": "财务管理(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 110000
+  },
+  {
+    "collegeCode": "1265",
+    "collegeName": "宁波职业技术大学[公办]",
+    "majorCode": "4",
+    "majorName": "无人机测绘技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

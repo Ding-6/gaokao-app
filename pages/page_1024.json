@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "17",
+    "majorName": "广告学",
+    "majorRemark": "桐乡乌镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "18",
+    "majorName": "传播学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "19",
+    "majorName": "编辑出版学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "20",
+    "majorName": "网络与新媒体",
+    "majorRemark": "桐乡乌镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "21",
+    "majorName": "电子科学与技术(演艺工程与舞台技术)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "22",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "23",
+    "majorName": "智能视听工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6300
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "24",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "25",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "26",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "27",
+    "majorName": "电影制作",
+    "majorRemark": "桐乡乌镇校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 58000
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "28",
+    "majorName": "虚拟现实技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "29",
+    "majorName": "文化产业管理",
+    "majorRemark": "桐乡乌镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "30",
+    "majorName": "传播学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=105",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "1988",
+    "collegeName": "浙江传媒学院[公办]",
+    "majorCode": "31",
+    "majorName": "数字媒体技术(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28800
+  }
+]

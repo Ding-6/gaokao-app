@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "17",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "18",
+    "majorName": "环境工程",
+    "majorRemark": "污染防控方向。色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "19",
+    "majorName": "环境工程",
+    "majorRemark": "生态工程方向。色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "20",
+    "majorName": "环境科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "21",
+    "majorName": "食品科学与工程",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "22",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "23",
+    "majorName": "生物工程",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "24",
+    "majorName": "药学",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "25",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "单色识别不全考生不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "26",
+    "majorName": "工商管理",
+    "majorRemark": "单色识别不全考生不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "27",
+    "majorName": "财务管理",
+    "majorRemark": "单色识别不全考生不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "28",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "29",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "638",
+    "collegeName": "河北科技大学(地方专项计划)[公办]",
+    "majorCode": "30",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "640",
+    "collegeName": "河北科技大学(少数民族预科班)[公办]",
+    "majorCode": "2",
+    "majorName": "本科预科班",
+    "majorRemark": "少数民族预科班，招少数民族考生，在河北师范大学附属民族学院学习一年后成绩合格转入本校学习，详情向院校咨询",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "1",
+    "tuition": 4600
+  }
+]

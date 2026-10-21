@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "22",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学(英才班)、数学与应用数学(未来卓越教师实验班、非公费师范)、数据计算及应用、数学与应用数学(非公费师范)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "23",
+    "majorName": "物理学(国家拔尖学生培养基地班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "24",
+    "majorName": "物理学(含未来卓越教师实验班、非公费师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "25",
+    "majorName": "化学类",
+    "majorRemark": "含化学(英才班)、化学(未来卓越教师实验班、非公费师范)、化学(智能化学)专业；色盲、色弱或单色识别不全者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "26",
+    "majorName": "地理科学类",
+    "majorRemark": "含地理科学(英才班)、地理科学、地理信息科学专业",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物科学(英才班)、生物科学(未来卓越教师实验班、非公费师范)、生物技术(化学生物交叉班)、生物科学、生物技术专业；色盲、色弱或单色识别不全者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "28",
+    "majorName": "心理学类",
+    "majorRemark": "含心理学、应用心理学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "29",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "30",
+    "majorName": "电子信息类",
+    "majorRemark": "含智能装备与系统、集成电路设计与集成系统、电子信息科学与技术、通信工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "31",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术(智能基座基地班)、计算机科学与技术、软件工程、信息安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "32",
+    "majorName": "计算机类",
+    "majorRemark": "含人工智能(数智实验班)、人工智能、数据科学与大数据技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "33",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "34",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "35",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "889",
+    "collegeName": "华中师范大学[公办]",
+    "majorCode": "36",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

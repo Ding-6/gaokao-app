@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "16",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=110",
+    "subjectRequirementText": "不限",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "17",
+    "majorName": "翻译",
+    "majorRemark": "只招英语、俄语、日语语种考生；分为俄汉口笔译和日汉口笔译两个方向，开学报到前进行分流",
+    "subjectRequirementText": "不限",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "18",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 76,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "19",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 77,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "20",
+    "majorName": "应用物理学",
+    "majorRemark": "不招色盲及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 54,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "21",
+    "majorName": "化学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 39,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "22",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "23",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物技术、生物信息学专业；不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "化学",
+    "planCount": 130,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "24",
+    "majorName": "应用心理学",
+    "majorRemark": "不招色盲、色弱及单色识别不全考生",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "25",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 133,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "26",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 74,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "27",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 59,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "28",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "29",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 75,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "859",
+    "collegeName": "华北理工大学(唐山市)[公办]",
+    "majorCode": "30",
+    "majorName": "材料类",
+    "majorRemark": "含冶金工程、金属材料工程专业；色盲考生请谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 159,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1045",
+    "collegeName": "井冈山大学(吉安市)[公办]",
+    "majorCode": "27",
+    "majorName": "临床医学",
+    "majorRemark": "色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1045",
+    "collegeName": "井冈山大学(吉安市)[公办]",
+    "majorCode": "28",
+    "majorName": "口腔医学",
+    "majorRemark": "色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1045",
+    "collegeName": "井冈山大学(吉安市)[公办]",
+    "majorCode": "29",
+    "majorName": "中医学",
+    "majorRemark": "色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "5",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1045",
+    "collegeName": "井冈山大学(吉安市)[公办]",
+    "majorCode": "30",
+    "majorName": "药学",
+    "majorRemark": "色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1045",
+    "collegeName": "井冈山大学(吉安市)[公办]",
+    "majorCode": "31",
+    "majorName": "康复治疗学",
+    "majorRemark": "色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1045",
+    "collegeName": "井冈山大学(吉安市)[公办]",
+    "majorCode": "32",
+    "majorName": "护理学",
+    "majorRemark": "色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4790
+  },
+  {
+    "collegeCode": "1045",
+    "collegeName": "井冈山大学(吉安市)[公办]",
+    "majorCode": "33",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4270
+  },
+  {
+    "collegeCode": "1046",
+    "collegeName": "景德镇陶瓷大学[公办]",
+    "majorCode": "13",
+    "majorName": "文物保护技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4380
+  },
+  {
+    "collegeCode": "1046",
+    "collegeName": "景德镇陶瓷大学[公办]",
+    "majorCode": "14",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1046",
+    "collegeName": "景德镇陶瓷大学[公办]",
+    "majorCode": "15",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1046",
+    "collegeName": "景德镇陶瓷大学[公办]",
+    "majorCode": "16",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1046",
+    "collegeName": "景德镇陶瓷大学[公办]",
+    "majorCode": "17",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1046",
+    "collegeName": "景德镇陶瓷大学[公办]",
+    "majorCode": "18",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1046",
+    "collegeName": "景德镇陶瓷大学[公办]",
+    "majorCode": "19",
+    "majorName": "材料物理",
+    "majorRemark": "除患有《普通高等学校招生体检工作指导意见》中第一部分所列严重疾病（严重心脏病、重症支气管扩张、恶性肿瘤、严重精神病等）者学校不予录取外，色盲、单色识别不全均不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4940
+  },
+  {
+    "collegeCode": "1046",
+    "collegeName": "景德镇陶瓷大学[公办]",
+    "majorCode": "20",
+    "majorName": "材料化学",
+    "majorRemark": "除患有《普通高等学校招生体检工作指导意见》中第一部分所列严重疾病（严重心脏病、重症支气管扩张、恶性肿瘤、严重精神病等）者学校不予录取外，色弱、色盲、单色识别不全均不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4940
+  }
+]

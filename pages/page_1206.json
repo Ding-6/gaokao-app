@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "19",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "20",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "21",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "22",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "23",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "24",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "25",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "26",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "27",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "28",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "29",
+    "majorName": "医学影像技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "30",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "31",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "32",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2332",
+    "collegeName": "大连东软信息学院[民办]",
+    "majorCode": "33",
+    "majorName": "健康服务与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "30",
+    "majorName": "自动化",
+    "majorRemark": "在珠海校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "31",
+    "majorName": "计算机科学与技术(全英语教学)",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 14000
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "32",
+    "majorName": "物联网工程",
+    "majorRemark": "在珠海校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "33",
+    "majorName": "网络空间安全",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "34",
+    "majorName": "土木工程(院士领航创新班)",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "35",
+    "majorName": "包装工程(绿色智造卓越班)",
+    "majorRemark": "在珠海校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "36",
+    "majorName": "环境科学与工程(智慧环境创新班)",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "37",
+    "majorName": "生物医学工程",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "38",
+    "majorName": "临床医学(全英语教学)",
+    "majorRemark": "在广州石牌校区就读；色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "39",
+    "majorName": "口腔医学",
+    "majorRemark": "在广州石牌校区就读；色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "40",
+    "majorName": "中药学",
+    "majorRemark": "在广州番禺校区就读；色弱、色盲考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7660
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "41",
+    "majorName": "应急管理",
+    "majorRemark": "在广州石牌校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6060
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "42",
+    "majorName": "低空技术与工程",
+    "majorRemark": "在珠海校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "43",
+    "majorName": "经济学(中外合作办学)",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "953",
+    "collegeName": "暨南大学[公办]",
+    "majorCode": "44",
+    "majorName": "经济统计学(中外合作办学)",
+    "majorRemark": "在广州番禺校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 100000
+  }
+]

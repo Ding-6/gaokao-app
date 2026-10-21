@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "42",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 92,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "43",
+    "majorName": "电子科学与技术(创新实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "44",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 76,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "45",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "46",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 32,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "47",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 85,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "48",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 79,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "49",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 173,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "50",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 36,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "51",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 43,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "52",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "53",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "54",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "55",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 39,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "611",
+    "collegeName": "河北工业大学(天津市)[公办]",
+    "majorCode": "56",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 98,
+    "duration": "4",
+    "tuition": 5800
+  }
+]

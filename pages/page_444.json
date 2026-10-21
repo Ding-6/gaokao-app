@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "881",
+    "collegeName": "华南师范大学(广州市)[公办]",
+    "majorCode": "13",
+    "majorName": "物理学(师范)",
+    "majorRemark": "师范类；不招色盲且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "881",
+    "collegeName": "华南师范大学(广州市)[公办]",
+    "majorCode": "14",
+    "majorName": "化学(师范)",
+    "majorRemark": "师范类；不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "881",
+    "collegeName": "华南师范大学(广州市)[公办]",
+    "majorCode": "15",
+    "majorName": "心理学(师范)",
+    "majorRemark": "师范类；不招色盲色弱且不招单色识别不全者。大一学年在南海校园就读一年，之后回到石牌校园培养",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "881",
+    "collegeName": "华南师范大学(广州市)[公办]",
+    "majorCode": "16",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "881",
+    "collegeName": "华南师范大学(广州市)[公办]",
+    "majorCode": "17",
+    "majorName": "计算机科学与技术(师范)",
+    "majorRemark": "师范类；大一学年在南海校园就读一年，之后回到石牌校园培养",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "881",
+    "collegeName": "华南师范大学(广州市)[公办]",
+    "majorCode": "18",
+    "majorName": "网络工程",
+    "majorRemark": "大一学年在南海校园就读一年，之后回到石牌校园培养",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6850
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "19",
+    "majorName": "哲学(中西哲学比较试验班、中华文化学试验班)",
+    "majorRemark": "厦门校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "20",
+    "majorName": "经济学类(中美121双学位班，可接轨CFA金融分析师)",
+    "majorRemark": "含金融学(全英文教学)专业；建议具有较好英语水平的考生报考；泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "21",
+    "majorName": "经济学",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "22",
+    "majorName": "金融学",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "23",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "24",
+    "majorName": "法学",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "26",
+    "majorName": "汉语言文学",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "27",
+    "majorName": "汉语国际教育",
+    "majorRemark": "大一入住龙舟池校区；厦门校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "882",
+    "collegeName": "华侨大学(泉州市，厦门市)[公办]",
+    "majorCode": "28",
+    "majorName": "数学与应用数学(金融统计方向、数据分析方向)",
+    "majorRemark": "泉州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  }
+]

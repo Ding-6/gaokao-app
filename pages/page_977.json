@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "23",
+    "majorName": "智能化农业装备技术",
+    "majorRemark": "农林类；不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "24",
+    "majorName": "动物医学",
+    "majorRemark": "农林类；不招色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "25",
+    "majorName": "宠物医疗",
+    "majorRemark": "农林类；不招色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "26",
+    "majorName": "现代畜牧",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "27",
+    "majorName": "现代水产养殖技术",
+    "majorRemark": "农林类；不招色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "28",
+    "majorName": "智慧水利工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "29",
+    "majorName": "农业水利工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "30",
+    "majorName": "食品工程技术",
+    "majorRemark": "不招色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1874",
+    "collegeName": "新疆农业职业技术大学(昌吉市)[公办]",
+    "majorCode": "31",
+    "majorName": "现代粮食工程技术",
+    "majorRemark": "不招色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "1875",
+    "collegeName": "新疆师范大学[公办]",
+    "majorCode": "21",
+    "majorName": "经济学",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1875",
+    "collegeName": "新疆师范大学[公办]",
+    "majorCode": "22",
+    "majorName": "数字经济",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1875",
+    "collegeName": "新疆师范大学[公办]",
+    "majorCode": "23",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1875",
+    "collegeName": "新疆师范大学[公办]",
+    "majorCode": "24",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1875",
+    "collegeName": "新疆师范大学[公办]",
+    "majorCode": "25",
+    "majorName": "国际法",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "1875",
+    "collegeName": "新疆师范大学[公办]",
+    "majorCode": "27",
+    "majorName": "社会工作",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

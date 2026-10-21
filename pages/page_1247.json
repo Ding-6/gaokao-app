@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2436",
+    "collegeName": "黑龙江东方学院(哈尔滨市)[民办]",
+    "majorCode": "15",
+    "majorName": "食品营养与健康",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2437",
+    "collegeName": "黑龙江工商学院(哈尔滨市)[民办]",
+    "majorCode": "5",
+    "majorName": "英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2437",
+    "collegeName": "黑龙江工商学院(哈尔滨市)[民办]",
+    "majorCode": "6",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2437",
+    "collegeName": "黑龙江工商学院(哈尔滨市)[民办]",
+    "majorCode": "7",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2437",
+    "collegeName": "黑龙江工商学院(哈尔滨市)[民办]",
+    "majorCode": "8",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2437",
+    "collegeName": "黑龙江工商学院(哈尔滨市)[民办]",
+    "majorCode": "9",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 26,
+    "duration": "4",
+    "tuition": 25800
+  },
+  {
+    "collegeCode": "2437",
+    "collegeName": "黑龙江工商学院(哈尔滨市)[民办]",
+    "majorCode": "10",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2439",
+    "collegeName": "黑龙江外国语学院[民办]",
+    "majorCode": "12",
+    "majorName": "国际经济与贸易(精英班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2439",
+    "collegeName": "黑龙江外国语学院[民办]",
+    "majorCode": "13",
+    "majorName": "汉语言文学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2439",
+    "collegeName": "黑龙江外国语学院[民办]",
+    "majorCode": "14",
+    "majorName": "汉语国际教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2439",
+    "collegeName": "黑龙江外国语学院[民办]",
+    "majorCode": "15",
+    "majorName": "英语",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2439",
+    "collegeName": "黑龙江外国语学院[民办]",
+    "majorCode": "16",
+    "majorName": "英语(数智创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2439",
+    "collegeName": "黑龙江外国语学院[民办]",
+    "majorCode": "17",
+    "majorName": "德语(智能商务)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2439",
+    "collegeName": "黑龙江外国语学院[民办]",
+    "majorCode": "18",
+    "majorName": "法语(智能商务)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2439",
+    "collegeName": "黑龙江外国语学院[民办]",
+    "majorCode": "19",
+    "majorName": "西班牙语(智能商务)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 26000
+  }
+]

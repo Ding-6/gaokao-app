@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "33",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "中俄学院招生，由化学化工与材料学院培养；俄语课程四年不断线，部分专业课程由俄罗斯新西伯利亚国立大学教师讲授；学业成绩优秀者，可获国家留学基金委公派赴俄罗斯留学资格，留学遵循自愿原则。不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "34",
+    "majorName": "化学工程与工艺(中澳学分互认联合培养项目)",
+    "majorRemark": "与澳大利亚昆士兰大学2+2联合培养双学士学位，第一、第二学年在黑龙江大学学习，学费为4000元/学年；第三、第四学年须赴外方大学学习攻读学位，学费约58000澳币/学年，外方教学语言为英语;其他详细信息务必查阅学校招生网站。不招色盲色弱且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "35",
+    "majorName": "食品科学与工程(中澳学分互认联合培养项目)",
+    "majorRemark": "与澳大利亚昆士兰大学2+2联合培养双学士学位，第一、第二学年在黑龙江大学学习，学费为4000元/学年；第三、第四学年须赴外方大学学习攻读学位，学费约54000澳币/学年，外方教学语言为英语;其他详细信息务必查阅学校招生网站。不招色盲且不招单色识别不全者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "36",
+    "majorName": "会计学(中澳学分互认联合培养项目)",
+    "majorRemark": "与澳大利亚麦考瑞大学2+2联合培养双学士学位，第一、第二学年在黑龙江大学学习，学费为3850元/学年；第三、第四学年须赴外方大学学习攻读学位，学费约47000澳币/学年，外方教学语言为英语;其他详细信息务必查阅学校招生网站",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3850
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "37",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "38",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "黑龙江大学与俄罗斯新西伯利亚国立大学合作办学；采用“3+1”的培养模式（即国内3年+国外1年）；符合两校毕业条件，可获黑龙江大学毕业证、学位证，新西伯利亚国立大学学位证；学费暂定45000元/年，具体以上级部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "39",
+    "majorName": "生物技术(中外合作办学)",
+    "majorRemark": "黑龙江大学与俄罗斯新西伯利亚国立大学合作办学；采用“3+1”的培养模式（即国内3年+国外1年）；符合两校毕业条件，可获黑龙江大学毕业证、学位证，新西伯利亚国立大学学位证；不招色盲且不招单色识别不全者；学费暂定45000元/年，具体以上级部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "40",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "黑龙江大学与俄罗斯新西伯利亚国立大学合作办学；采用“3+1”的培养模式（即国内3年+国外1年）；符合两校毕业条件，可获黑龙江大学毕业证、学位证，新西伯利亚国立大学学位证；学费暂定45000元/年，具体以上级部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "734",
+    "collegeName": "黑龙江大学(哈尔滨市)[公办]",
+    "majorCode": "41",
+    "majorName": "化学工程与工艺(中外合作办学)",
+    "majorRemark": "黑龙江大学与俄罗斯新西伯利亚国立大学合作办学；采用“3+1”的培养模式（即国内3年+国外1年）；符合两校毕业条件，可获黑龙江大学毕业证、学位证，新西伯利亚国立大学学位证；不招色盲色弱且不招单色识别不全者；学费暂定45000元/年，具体以上级部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "735",
+    "collegeName": "黑龙江大学(绥芬河校区)[公办]",
+    "majorCode": "3",
+    "majorName": "国际经济与贸易(黑龙江大学绥芬河校区招生专业)",
+    "majorRemark": "黑龙江大学绥芬河校区招生专业。对俄跨境贸易方向",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "736",
+    "collegeName": "黑龙江工程学院[公办]",
+    "majorCode": "3",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "736",
+    "collegeName": "黑龙江工程学院[公办]",
+    "majorCode": "4",
+    "majorName": "机械类",
+    "majorRemark": "含材料成型及控制工程、机械电子工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "736",
+    "collegeName": "黑龙江工程学院[公办]",
+    "majorCode": "5",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "736",
+    "collegeName": "黑龙江工程学院[公办]",
+    "majorCode": "6",
+    "majorName": "车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "736",
+    "collegeName": "黑龙江工程学院[公办]",
+    "majorCode": "7",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

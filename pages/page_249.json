@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "51",
+    "majorName": "植物保护",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；儋州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "52",
+    "majorName": "种子科学与工程",
+    "majorRemark": "一年级在儋州校区，二、三、四年级在三亚崖州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "53",
+    "majorName": "设施农业科学与工程",
+    "majorRemark": "一、二年级在儋州校区，三、四年级在崖州校区（保亭热带果蔬科创基地）",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "54",
+    "majorName": "农业资源与环境",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；儋州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "55",
+    "majorName": "动物科学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；一年级在儋州校区，二、三、四年级在三亚崖州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "56",
+    "majorName": "动物医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；一年级在儋州校区，二、三、四、五年级在三亚崖州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "57",
+    "majorName": "林学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程；儋州校区",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "59",
+    "majorName": "水产养殖学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "60",
+    "majorName": "海洋渔业科学与技术",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4100
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "61",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "62",
+    "majorName": "农林经济管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程；儋州校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "63",
+    "majorName": "土地资源管理",
+    "majorRemark": "观澜湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "64",
+    "majorName": "物流管理",
+    "majorRemark": "观澜湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "65",
+    "majorName": "人文地理与城乡规划(中外合作办学)",
+    "majorRemark": "大部分课程采用英文教材和英语授课，非英语语种考生慎报。观澜湖校区",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 73000
+  },
+  {
+    "collegeCode": "557",
+    "collegeName": "海南大学(海口市)[公办]",
+    "majorCode": "66",
+    "majorName": "智能科学与技术(中外合作办学)",
+    "majorRemark": "大部分课程采用英文教材和英语授课，非英语语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 85000
+  }
+]

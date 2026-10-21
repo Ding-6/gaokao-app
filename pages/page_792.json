@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "24",
+    "majorName": "功能材料",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 33,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "25",
+    "majorName": "储能科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 32,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "26",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "卓越计划班",
+    "subjectRequirementText": "化学",
+    "planCount": 46,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "27",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 82,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "28",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 63,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "29",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 69,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "30",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 89,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "31",
+    "majorName": "轨道交通信号与控制",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 39,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "32",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 132,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "33",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "34",
+    "majorName": "土木工程",
+    "majorRemark": "卓越计划班",
+    "subjectRequirementText": "化学",
+    "planCount": 43,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "35",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 121,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "36",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "人工环境与智慧能源实验班",
+    "subjectRequirementText": "化学",
+    "planCount": 21,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "37",
+    "majorName": "城市地下空间工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1557",
+    "collegeName": "石家庄铁道大学[公办]",
+    "majorCode": "38",
+    "majorName": "铁道工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 132,
+    "duration": "4",
+    "tuition": 5390
+  }
+]

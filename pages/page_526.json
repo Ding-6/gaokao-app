@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1032",
+    "collegeName": "江西中医药大学(南昌市)[公办]",
+    "majorCode": "26",
+    "majorName": "健康服务与管理",
+    "majorRemark": "不招收单色识别不全的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4660
+  },
+  {
+    "collegeCode": "1032",
+    "collegeName": "江西中医药大学(南昌市)[公办]",
+    "majorCode": "27",
+    "majorName": "智能医学工程",
+    "majorRemark": "不招收色盲、色弱、单色识别不全的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1032",
+    "collegeName": "江西中医药大学(南昌市)[公办]",
+    "majorCode": "28",
+    "majorName": "生物医药数据科学",
+    "majorRemark": "不招收色盲、色弱、单色识别不全的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5220
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "7",
+    "majorName": "动物医学",
+    "majorRemark": "农林类；不招色弱、色盲及单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7200
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "8",
+    "majorName": "智能建造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "9",
+    "majorName": "机械设计制造及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 7500
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "10",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "11",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "12",
+    "majorName": "电气工程及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "13",
+    "majorName": "航空智能制造技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "14",
+    "majorName": "制药工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "15",
+    "majorName": "药物分析",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "16",
+    "majorName": "生物制药技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "17",
+    "majorName": "电子信息工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1035",
+    "collegeName": "金华职业技术大学[公办]",
+    "majorCode": "18",
+    "majorName": "人工智能工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

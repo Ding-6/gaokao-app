@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "26",
+    "majorName": "广告学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "27",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "28",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 152,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "29",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 135,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "30",
+    "majorName": "化学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 137,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "31",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "32",
+    "majorName": "生物科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 141,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "33",
+    "majorName": "生物技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 115,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "34",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "35",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "36",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "37",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 61,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "38",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "39",
+    "majorName": "信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "176",
+    "collegeName": "沧州师范学院[公办]",
+    "majorCode": "40",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

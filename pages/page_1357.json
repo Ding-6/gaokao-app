@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "15",
+    "majorName": "工程造价",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "16",
+    "majorName": "建设工程管理",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "17",
+    "majorName": "给排水工程",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "18",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "19",
+    "majorName": "机械电子工程技术",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "20",
+    "majorName": "机器人技术",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "21",
+    "majorName": "无人机系统应用技术",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "22",
+    "majorName": "道路与桥梁工程",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "23",
+    "majorName": "民航运输服务与管理",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "24",
+    "majorName": "智慧机场运行与管理",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "25",
+    "majorName": "物联网工程技术",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "26",
+    "majorName": "计算机应用工程",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "27",
+    "majorName": "软件工程技术",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "28",
+    "majorName": "虚拟现实技术",
+    "majorRemark": "办学地点：木雕小镇校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 33000
+  },
+  {
+    "collegeCode": "2785",
+    "collegeName": "浙江广厦建设职业技术大学[民办]",
+    "majorCode": "29",
+    "majorName": "大数据与会计",
+    "majorRemark": "办学地点：江北校区",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 32000
+  }
+]

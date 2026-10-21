@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1098",
+    "collegeName": "辽东学院(丹东市)[公办]",
+    "majorCode": "9",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "患有轻度色觉异常（俗称色弱）疾病和色觉异常Ⅱ度（俗称色盲）疾病者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1098",
+    "collegeName": "辽东学院(丹东市)[公办]",
+    "majorCode": "10",
+    "majorName": "纺织工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1098",
+    "collegeName": "辽东学院(丹东市)[公办]",
+    "majorCode": "11",
+    "majorName": "食品营养与健康",
+    "majorRemark": "患有轻度色觉异常（俗称色弱）疾病和色觉异常Ⅱ度（俗称色盲）疾病者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1098",
+    "collegeName": "辽东学院(丹东市)[公办]",
+    "majorCode": "12",
+    "majorName": "护理学",
+    "majorRemark": "患有轻度色觉异常（俗称色弱）疾病和色觉异常Ⅱ度（俗称色盲）疾病者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "21",
+    "majorName": "哲学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "22",
+    "majorName": "经济学类",
+    "majorRemark": "含经济学、国民经济管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "23",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "24",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "25",
+    "majorName": "财政学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "26",
+    "majorName": "金融学类",
+    "majorRemark": "含金融学、保险学专业",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "27",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "28",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "29",
+    "majorName": "纪检监察",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5520
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "30",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "31",
+    "majorName": "俄语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

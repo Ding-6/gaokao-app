@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2288",
+    "collegeName": "常德学院(常德市)[民办]",
+    "majorCode": "7",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 23500
+  },
+  {
+    "collegeCode": "2288",
+    "collegeName": "常德学院(常德市)[民办]",
+    "majorCode": "8",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19800
+  },
+  {
+    "collegeCode": "2288",
+    "collegeName": "常德学院(常德市)[民办]",
+    "majorCode": "9",
+    "majorName": "药学",
+    "majorRemark": "不招色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23500
+  },
+  {
+    "collegeCode": "2288",
+    "collegeName": "常德学院(常德市)[民办]",
+    "majorCode": "10",
+    "majorName": "药物分析",
+    "majorRemark": "不招色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 22500
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "6",
+    "majorName": "信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19080
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "7",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "8",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19080
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "9",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19080
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "10",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19080
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "11",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19080
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "12",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19080
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "13",
+    "majorName": "医学影像技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "14",
+    "majorName": "信息管理与信息系统",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 19080
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "15",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2291",
+    "collegeName": "成都东软学院[民办]",
+    "majorCode": "16",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "第1-3年在成都东软学院学习（学费68000元/年），符合条件者第4年在美国东康涅狄格州立大学学习（学费约150000元/年）。达到两校毕业及学位授予条件者，分别授予成都东软学院毕业证、学位证书，东康涅狄格州立大学学位证书。进校后不得转专业，非英语语种慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 68000
+  }
+]

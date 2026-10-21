@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "6",
+    "majorName": "量子信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "7",
+    "majorName": "化学类",
+    "majorRemark": "含化学、应用化学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "8",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "9",
+    "majorName": "过程装备与控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "10",
+    "majorName": "材料类",
+    "majorRemark": "含材料科学与工程、材料物理、材料化学、无机非金属材料工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "11",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "12",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "13",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "14",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "15",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "16",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "17",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "18",
+    "majorName": "新媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "19",
+    "majorName": "能源化学工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1446",
+    "collegeName": "陕西科技大学(西安市)[公办]",
+    "majorCode": "20",
+    "majorName": "轻化工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  }
+]

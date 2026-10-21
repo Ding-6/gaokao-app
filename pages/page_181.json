@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "19",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "20",
+    "majorName": "金融学类",
+    "majorRemark": "含金融学、金融学(国际金融与市场)、经济与金融、投资学、保险学专业；按成绩和志愿分入学院内，可类内专业任选，保险学分流时只招收第一志愿学生",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "21",
+    "majorName": "金融工程(大类招生，项目选拔进入，分流时专业任选)",
+    "majorRemark": "含金融工程、金融科技、金融科技（北邮人工智能联合学士学位培养项目）",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "22",
+    "majorName": "金融数学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "23",
+    "majorName": "精算学(选拔进入双学士学位项目或实验班)",
+    "majorRemark": "可参与精算学-劳动与社会保障双学士学位项目或精算与风险管理实验班选拔；国际交流：自愿参与曼彻斯特大学、肯特大学联合培养“2+2”项目选拔",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "24",
+    "majorName": "法学类",
+    "majorRemark": "含法学、法学(大数据双学士学位项目)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "25",
+    "majorName": "法学(涉外型卓越经贸法律人才实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "26",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "27",
+    "majorName": "数据科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "28",
+    "majorName": "数据科学与大数据技术(大类招生，项目选拔进入，分流时专业任选)",
+    "majorRemark": "含数据科学与大数据技术、法学-数据科学与大数据技术双学士学位项目、保险学-数据科学与大数据技术双学士学位项目、智能科学与技术、人工智能（项目制培养）",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "29",
+    "majorName": "工商管理类(项目选拔进入，分流时专业任选)",
+    "majorRemark": "含会计学、财务管理、人力资源管理、市场营销、工商管理、会计学(北邮计算机联合学士学位培养项目)、会计学(北邮金科联合学士学位培养项目)专业",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "30",
+    "majorName": "保险学(中外合作办学)",
+    "majorRemark": "合作院校：英国伦敦玛丽女王大学；学习方式：4+0",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "31",
+    "majorName": "精算学(中外合作办学)",
+    "majorRemark": "合作院校：英国伦敦玛丽女王大学；学习方式：4+0",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "373",
+    "collegeName": "对外经济贸易大学[公办]",
+    "majorCode": "32",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "合作院校：美国乔治梅森大学；学费：在对外经济贸易大学三年期间99000元/生/学年，在美学费按照对方国际学生标准收取",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "377",
+    "collegeName": "鄂尔多斯应用技术学院[公办]",
+    "majorCode": "2",
+    "majorName": "机械工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

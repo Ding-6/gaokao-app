@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "13",
+    "majorName": "交通运输",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4120
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "14",
+    "majorName": "交通工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4120
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "15",
+    "majorName": "飞行器制造工程",
+    "majorRemark": "色盲、色弱、屈光不正（近视眼或远视眼，任何一眼矫正到4.8镜片度数大于800度）和两耳听力均在3米以内的考生请谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4120
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "16",
+    "majorName": "飞行器动力工程",
+    "majorRemark": "色盲、色弱、屈光不正（近视眼或远视眼，任何一眼矫正到4.8镜片度数大于800度）和两耳听力均在3米以内的考生请谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4120
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "17",
+    "majorName": "飞行器适航技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4120
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "18",
+    "majorName": "无人驾驶航空器系统工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4120
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "19",
+    "majorName": "智能飞行器技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4120
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "20",
+    "majorName": "飞行器运维工程",
+    "majorRemark": "色盲、色弱、屈光不正（近视眼或远视眼，任何一眼矫正到4.8镜片度数大于800度）和两耳听力均在3米以内的考生请谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4120
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "21",
+    "majorName": "应急管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3880
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "22",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3880
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "23",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3880
+  },
+  {
+    "collegeCode": "998",
+    "collegeName": "江西飞行学院[公办]",
+    "majorCode": "24",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3880
+  },
+  {
+    "collegeCode": "1006",
+    "collegeName": "江西科技师范大学(南昌市)[公办]",
+    "majorCode": "9",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4530
+  },
+  {
+    "collegeCode": "1006",
+    "collegeName": "江西科技师范大学(南昌市)[公办]",
+    "majorCode": "10",
+    "majorName": "数学与应用数学(师范)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4530
+  },
+  {
+    "collegeCode": "1006",
+    "collegeName": "江西科技师范大学(南昌市)[公办]",
+    "majorCode": "11",
+    "majorName": "数据计算及应用",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4530
+  }
+]

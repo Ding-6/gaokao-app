@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1976",
+    "collegeName": "张家口学院[公办]",
+    "majorCode": "35",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1976",
+    "collegeName": "张家口学院[公办]",
+    "majorCode": "36",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1981",
+    "collegeName": "肇庆学院[公办]",
+    "majorCode": "4",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "1981",
+    "collegeName": "肇庆学院[公办]",
+    "majorCode": "5",
+    "majorName": "资源环境科学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5710
+  },
+  {
+    "collegeCode": "1982",
+    "collegeName": "肇庆医学院[公办]",
+    "majorCode": "1",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1982",
+    "collegeName": "肇庆医学院[公办]",
+    "majorCode": "2",
+    "majorName": "药学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1982",
+    "collegeName": "肇庆医学院[公办]",
+    "majorCode": "3",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1982",
+    "collegeName": "肇庆医学院[公办]",
+    "majorCode": "4",
+    "majorName": "医学影像技术",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1982",
+    "collegeName": "肇庆医学院[公办]",
+    "majorCode": "5",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1982",
+    "collegeName": "肇庆医学院[公办]",
+    "majorCode": "6",
+    "majorName": "口腔医学技术",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1982",
+    "collegeName": "肇庆医学院[公办]",
+    "majorCode": "7",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1983",
+    "collegeName": "浙大城市学院[公办]",
+    "majorCode": "6",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1983",
+    "collegeName": "浙大城市学院[公办]",
+    "majorCode": "7",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1983",
+    "collegeName": "浙大城市学院[公办]",
+    "majorCode": "8",
+    "majorName": "能源与环境系统工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1983",
+    "collegeName": "浙大城市学院[公办]",
+    "majorCode": "9",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

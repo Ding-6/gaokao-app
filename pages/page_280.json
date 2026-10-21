@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "15",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "16",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "17",
+    "majorName": "工程力学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "18",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "19",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 42,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "20",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "21",
+    "majorName": "冶金工程",
+    "majorRemark": "色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 44,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "22",
+    "majorName": "金属材料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 57,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "23",
+    "majorName": "复合材料与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 52,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "24",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "25",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "26",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "27",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 44,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "28",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 23,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "606",
+    "collegeName": "河北工程大学(邯郸市)[公办]",
+    "majorCode": "29",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 79,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

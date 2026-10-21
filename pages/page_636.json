@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "49",
+    "majorName": "材料化学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "50",
+    "majorName": "稀土材料科学与工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "51",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "52",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "53",
+    "majorName": "电子信息科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "54",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "55",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "56",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "57",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "拔尖学生培养基地,不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "58",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "59",
+    "majorName": "软件工程",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 9000
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "60",
+    "majorName": "智能科学与技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "61",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "62",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5060
+  },
+  {
+    "collegeCode": "1240",
+    "collegeName": "内蒙古大学[公办]",
+    "majorCode": "63",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5060
+  }
+]

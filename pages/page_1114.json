@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2138",
+    "collegeName": "长春工业大学人文信息学院[独立学院]",
+    "majorCode": "25",
+    "majorName": "制药工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2138",
+    "collegeName": "长春工业大学人文信息学院[独立学院]",
+    "majorCode": "26",
+    "majorName": "生物制药",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2138",
+    "collegeName": "长春工业大学人文信息学院[独立学院]",
+    "majorCode": "27",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2138",
+    "collegeName": "长春工业大学人文信息学院[独立学院]",
+    "majorCode": "28",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2139",
+    "collegeName": "长江大学文理学院[独立学院]",
+    "majorCode": "6",
+    "majorName": "外国语言文学类",
+    "majorRemark": "含英语(师范类)、英语(英日或英韩)、商务英语专业",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16500
+  },
+  {
+    "collegeCode": "2139",
+    "collegeName": "长江大学文理学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "土木工程(工业与民用建筑、水利构筑物、造价管理)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 16500
+  },
+  {
+    "collegeCode": "2140",
+    "collegeName": "常州大学怀德学院[独立学院]",
+    "majorCode": "3",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2140",
+    "collegeName": "常州大学怀德学院[独立学院]",
+    "majorCode": "4",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2140",
+    "collegeName": "常州大学怀德学院[独立学院]",
+    "majorCode": "5",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "2141",
+    "collegeName": "成都理工大学工程技术学院(乐山市)[独立学院]",
+    "majorCode": "3",
+    "majorName": "机械工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 17800
+  },
+  {
+    "collegeCode": "2141",
+    "collegeName": "成都理工大学工程技术学院(乐山市)[独立学院]",
+    "majorCode": "4",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 17800
+  },
+  {
+    "collegeCode": "2141",
+    "collegeName": "成都理工大学工程技术学院(乐山市)[独立学院]",
+    "majorCode": "5",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 17800
+  },
+  {
+    "collegeCode": "2141",
+    "collegeName": "成都理工大学工程技术学院(乐山市)[独立学院]",
+    "majorCode": "6",
+    "majorName": "核工程与核技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 17800
+  },
+  {
+    "collegeCode": "2142",
+    "collegeName": "重庆工商大学派斯学院[独立学院]",
+    "majorCode": "4",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2142",
+    "collegeName": "重庆工商大学派斯学院[独立学院]",
+    "majorCode": "5",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 15000
+  }
+]

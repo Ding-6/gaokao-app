@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "787",
+    "collegeName": "湖北科技学院(咸宁市)[公办]",
+    "majorCode": "8",
+    "majorName": "化妆品科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "787",
+    "collegeName": "湖北科技学院(咸宁市)[公办]",
+    "majorCode": "9",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "5",
+    "majorName": "应用物理学(集成电路方向、光电信息科学方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "6",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "7",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "8",
+    "majorName": "智能制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "9",
+    "majorName": "无机非金属材料工程(产业人才计划)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "10",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "11",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "12",
+    "majorName": "计算机科学与技术(创新实验班)",
+    "majorRemark": "不招单色识别不全的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "13",
+    "majorName": "网络工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "14",
+    "majorName": "土木工程(新基建方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "15",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "16",
+    "majorName": "化学工程与工艺(产业人才计划数智化工、能源化工方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "789",
+    "collegeName": "湖北理工学院(黄石市)[公办]",
+    "majorCode": "17",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "46",
+    "majorName": "会计学(中外双学士出国2加2)",
+    "majorRemark": "单科成绩要求：外语>=100；1.学生在入学前一周选择中加双学士、中法双学士具体就读项目，国内学习两年，国外学习两年，详见学校招生官网。2.学生毕业达到合格条件时，可获得重庆工商大学金融学或会计学专业的毕业证和学位证，以及国外高校的学士学位证书",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "47",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "48",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "49",
+    "majorName": "城市管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "50",
+    "majorName": "物流管理(数智供应链卓越班)",
+    "majorRemark": "物流管理+人工智能专业共同培养商工融合卓越人才项目",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "51",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "52",
+    "majorName": "旅游管理(智慧国际旅游卓越班)",
+    "majorRemark": "旅游管理+人工智能专业共同培养商工融合卓越人才项目",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "53",
+    "majorName": "市场营销(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=90；1. 学生大学期间在重庆工商大学学习并住宿，不需出国。2.学生毕业达到合格条件时，可获得重庆工商大学的本科学历证书和学位证书，以及英国赫尔大学的学士学位证书",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "54",
+    "majorName": "财务管理(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=90；1.学生大学期间在重庆工商大学学习并住宿，不需出国。2.毕业达到合格条件时，可获得重庆工商大学的本科学历证书和学位证书，以及英国赫尔大学的学士学位证书",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "55",
+    "majorName": "物流管理(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=90；1.学生大学期间在重庆工商大学学习并住宿，不需出国。2.毕业达到合格条件时，可获得重庆工商大学的本科学历证书和学位证书，以及英国赫尔大学的学士学位证书",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "275",
+    "collegeName": "重庆工业职业技术大学[公办]",
+    "majorCode": "1",
+    "majorName": "建筑智能检测与修复",
+    "majorRemark": "在南川校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7260
+  },
+  {
+    "collegeCode": "275",
+    "collegeName": "重庆工业职业技术大学[公办]",
+    "majorCode": "2",
+    "majorName": "机械设计制造及自动化",
+    "majorRemark": "大一南川校区，大二起两江校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7590
+  },
+  {
+    "collegeCode": "275",
+    "collegeName": "重庆工业职业技术大学[公办]",
+    "majorCode": "3",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "大一南川校区，大二起两江校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7590
+  },
+  {
+    "collegeCode": "275",
+    "collegeName": "重庆工业职业技术大学[公办]",
+    "majorCode": "4",
+    "majorName": "新能源汽车工程技术",
+    "majorRemark": "大一南川校区，大二起两江校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7590
+  },
+  {
+    "collegeCode": "275",
+    "collegeName": "重庆工业职业技术大学[公办]",
+    "majorCode": "5",
+    "majorName": "汽车芯片与软件工程技术",
+    "majorRemark": "大一南川校区，大二起两江校区",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 7260
+  }
+]

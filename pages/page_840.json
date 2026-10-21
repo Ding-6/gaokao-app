@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "37",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 137,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "38",
+    "majorName": "轨道交通信号与控制",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "39",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 65,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "40",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 132,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "41",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "42",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "43",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 157,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "44",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 160,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "45",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "46",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "47",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "48",
+    "majorName": "建筑电气与智能化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "49",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "50",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "轻度色觉异常（俗称色弱）、色觉异常II度（俗称色盲）或不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 160,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1640",
+    "collegeName": "唐山学院[公办]",
+    "majorCode": "51",
+    "majorName": "环境工程",
+    "majorRemark": "轻度色觉异常（俗称色弱）、色觉异常II度（俗称色盲）或不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

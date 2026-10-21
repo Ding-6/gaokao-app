@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "54",
+    "majorName": "自然资源登记与管理",
+    "majorRemark": "不招单色不识别考生；一年级在北京校区，二年级起在雄安校区",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "55",
+    "majorName": "数字经济(中外合作办学)",
+    "majorRemark": "不招单色不识别考生；办学地点：海南校区；学费100000元/年；详询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "2038",
+    "collegeName": "中国地质大学(北京)[公办]",
+    "majorCode": "56",
+    "majorName": "大数据管理与应用(中外合作办学)",
+    "majorRemark": "不招单色不识别考生；办学地点：海南校区；学费100000元/年，详询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 100000
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "10",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "11",
+    "majorName": "物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "12",
+    "majorName": "应用化学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "13",
+    "majorName": "地理科学类",
+    "majorRemark": "含地理科学、地理信息科学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "14",
+    "majorName": "大气科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "15",
+    "majorName": "地球物理学类(地球物理与空间信息类)",
+    "majorRemark": "含地球物理学、勘查技术与工程、空间科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "16",
+    "majorName": "地球物理学(国家拔尖计划)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "17",
+    "majorName": "行星科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "18",
+    "majorName": "地质学类(国家拔尖计划、国家理科基地班)",
+    "majorRemark": "含地质学(国家拔尖计划、国家理科基地班)专业",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "19",
+    "majorName": "地质学类",
+    "majorRemark": "含地质学、地球信息科学与技术专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "20",
+    "majorName": "地质学类(菁英班)",
+    "majorRemark": "含地质学、地球物理学、地球信息科学与技术、海洋科学、地理科学、资源勘查工程、水文与水资源工程、地质工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "2041",
+    "collegeName": "中国地质大学(武汉)[公办]",
+    "majorCode": "21",
+    "majorName": "生物科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "29",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "30",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "31",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "32",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "33",
+    "majorName": "工程审计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "34",
+    "majorName": "会计学(与大连海事大学法学联合学士学位培养项目)",
+    "majorRemark": "与大连海事大学法学联合学士学位培养项目",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "35",
+    "majorName": "会计学(注册会计师方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "36",
+    "majorName": "会计学(国际会计方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5720
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "37",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "38",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "39",
+    "majorName": "金融学(中外合作办学)(与英国奥斯特大学合作办学)",
+    "majorRemark": "与英国奥斯特大学合作办学；录取后首年强化英语学习，升入大二时要求学生英文水平须能够适应全英文授课环境；具体详情咨询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 55000
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "40",
+    "majorName": "大数据管理与应用(中外合作办学)(与英国萨里大学合作办学)",
+    "majorRemark": "与英国萨里大学合作办学；录取后首年强化英语学习，升入大二时要求学生英文水平须能够适应全英文授课环境；具体详情咨询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "41",
+    "majorName": "工商管理(中外合作办学)(与英国萨里大学合作办学)",
+    "majorRemark": "与英国萨里大学合作办学；录取后首年强化英语学习，升入大二时要求学生英文水平须能够适应全英文授课环境；具体详情咨询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 60000
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "42",
+    "majorName": "会计学(中外合作办学)(与英国奥斯特大学合作办学)",
+    "majorRemark": "与英国奥斯特大学合作办学；录取后首年强化英语学习，升入大二时要求学生英文水平须能够适应全英文授课环境；具体详情咨询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 55000
+  },
+  {
+    "collegeCode": "341",
+    "collegeName": "东北财经大学(大连市)[公办]",
+    "majorCode": "43",
+    "majorName": "会计学(中外合作办学)(与澳大利亚科廷大学合作办学)",
+    "majorRemark": "与澳大利亚科廷大学合作办学；录取后首年强化英语学习，升入大二时要求学生英文水平须能够适应全英文授课环境；具体详情咨询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 55000
+  }
+]

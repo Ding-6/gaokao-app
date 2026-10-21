@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "7",
+    "majorName": "机械工程",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "8",
+    "majorName": "智能制造工程(卓越工程师班)",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "9",
+    "majorName": "智能制造工程",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "10",
+    "majorName": "材料科学与工程",
+    "majorRemark": "不招色盲考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "11",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "不招色盲、色弱考生；第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "12",
+    "majorName": "能源与动力工程(卓越工程师班)",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "13",
+    "majorName": "能源与动力工程",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "14",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "15",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "16",
+    "majorName": "人工智能",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "17",
+    "majorName": "自动化",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "18",
+    "majorName": "机器人工程",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "19",
+    "majorName": "计算机科学与技术(卓越工程师班)",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "20",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "137",
+    "collegeName": "北京石油化工学院[公办]",
+    "majorCode": "21",
+    "majorName": "物联网工程",
+    "majorRemark": "第一、二学年在房山校区就读，第三、四学年在大兴校区就读，详见招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  }
+]

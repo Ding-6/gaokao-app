@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1947",
+    "collegeName": "玉溪师范学院[公办]",
+    "majorCode": "5",
+    "majorName": "化学",
+    "majorRemark": "师范类；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1947",
+    "collegeName": "玉溪师范学院[公办]",
+    "majorCode": "6",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1947",
+    "collegeName": "玉溪师范学院[公办]",
+    "majorCode": "7",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "14",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "15",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "16",
+    "majorName": "财政学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "17",
+    "majorName": "税收学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "18",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "19",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "20",
+    "majorName": "保险学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "21",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "22",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "23",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "25",
+    "majorName": "新闻学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "1948",
+    "collegeName": "云南财经大学(昆明市)[公办]",
+    "majorCode": "26",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

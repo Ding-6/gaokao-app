@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "35",
+    "majorName": "日语",
+    "majorRemark": "只招英语语种考生；日英韩多语人才实验班，零起点，由于专业培养要求，建议英语单科成绩低者谨慎报考",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "36",
+    "majorName": "蒙古语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "37",
+    "majorName": "泰语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "38",
+    "majorName": "葡萄牙语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "39",
+    "majorName": "意大利语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "40",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "41",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "42",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "43",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "44",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "45",
+    "majorName": "金融学(中外合作办学)",
+    "majorRemark": "与美国新泽西城市大学合作办学，采取3+1培养模式；非英语语种考生不宜报考",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 32000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "46",
+    "majorName": "德语(中外合作办学)",
+    "majorRemark": "零起点，与德国慕尼黑应用语言大学合作办学，采取3+1培养模式",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 38000
+  },
+  {
+    "collegeCode": "2466",
+    "collegeName": "吉林外国语大学(长春市)[民办]",
+    "majorCode": "47",
+    "majorName": "朝鲜语(中外合作办学)",
+    "majorRemark": "零起点，与韩国釜山外国语大学合作办学，采取3+1培养模式",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 36000
+  },
+  {
+    "collegeCode": "2472",
+    "collegeName": "江西服装学院[民办]",
+    "majorCode": "3",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23500
+  },
+  {
+    "collegeCode": "2472",
+    "collegeName": "江西服装学院[民办]",
+    "majorCode": "4",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23500
+  }
+]

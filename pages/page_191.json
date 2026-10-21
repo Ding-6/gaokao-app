@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "16",
+    "majorName": "网络空间安全",
+    "majorRemark": "含国家网络安全人才与创新（福州）基地实验班",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "17",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "18",
+    "majorName": "资源循环科学与工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "19",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "22",
+    "majorName": "行政管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "23",
+    "majorName": "档案学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "24",
+    "majorName": "电子信息工程(中外合作办学)(中英合作办学)",
+    "majorRemark": "与英国哈德斯菲尔德大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 45000
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "25",
+    "majorName": "通信工程(中外合作办学)(中英合作办学)",
+    "majorRemark": "与英国哈德斯菲尔德大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 45000
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "26",
+    "majorName": "计算机科学与技术(中外合作办学)(中英合作办学)",
+    "majorRemark": "与英国哈德斯菲尔德大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 45000
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "27",
+    "majorName": "网络工程(中外合作办学)(中日合作办学)",
+    "majorRemark": "与日本京都情报大学院大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "387",
+    "collegeName": "福建师范大学(福州市)[公办]",
+    "majorCode": "28",
+    "majorName": "数字媒体技术(中外合作办学)(中日合作办学)",
+    "majorRemark": "与日本京都情报大学院大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 20000
+  },
+  {
+    "collegeCode": "389",
+    "collegeName": "福建医科大学(福州市)[公办]",
+    "majorCode": "3",
+    "majorName": "运动康复",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "389",
+    "collegeName": "福建医科大学(福州市)[公办]",
+    "majorCode": "19",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6760
+  },
+  {
+    "collegeCode": "389",
+    "collegeName": "福建医科大学(福州市)[公办]",
+    "majorCode": "20",
+    "majorName": "助产学",
+    "majorRemark": "不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6760
+  },
+  {
+    "collegeCode": "389",
+    "collegeName": "福建医科大学(福州市)[公办]",
+    "majorCode": "21",
+    "majorName": "公共事业管理",
+    "majorRemark": "不招单色识别能力异常考生",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5460
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2266",
+    "collegeName": "沧州交通学院(黄骅市)[民办]",
+    "majorCode": "27",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲、色弱及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 251,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2266",
+    "collegeName": "沧州交通学院(黄骅市)[民办]",
+    "majorCode": "28",
+    "majorName": "交通运输",
+    "majorRemark": "不招色盲及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 226,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2266",
+    "collegeName": "沧州交通学院(黄骅市)[民办]",
+    "majorCode": "29",
+    "majorName": "风景园林",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2266",
+    "collegeName": "沧州交通学院(黄骅市)[民办]",
+    "majorCode": "30",
+    "majorName": "工程管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 67,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2266",
+    "collegeName": "沧州交通学院(黄骅市)[民办]",
+    "majorCode": "31",
+    "majorName": "工程造价",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 141,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2266",
+    "collegeName": "沧州交通学院(黄骅市)[民办]",
+    "majorCode": "32",
+    "majorName": "工商管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 52,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2266",
+    "collegeName": "沧州交通学院(黄骅市)[民办]",
+    "majorCode": "33",
+    "majorName": "财务管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 79,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2266",
+    "collegeName": "沧州交通学院(黄骅市)[民办]",
+    "majorCode": "34",
+    "majorName": "物流管理",
+    "majorRemark": "不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 32,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2266",
+    "collegeName": "沧州交通学院(黄骅市)[民办]",
+    "majorCode": "35",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 98,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2268",
+    "collegeName": "长春财经学院[民办]",
+    "majorCode": "20",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2268",
+    "collegeName": "长春财经学院[民办]",
+    "majorCode": "21",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2268",
+    "collegeName": "长春财经学院[民办]",
+    "majorCode": "22",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2268",
+    "collegeName": "长春财经学院[民办]",
+    "majorCode": "23",
+    "majorName": "税收学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2268",
+    "collegeName": "长春财经学院[民办]",
+    "majorCode": "24",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "2268",
+    "collegeName": "长春财经学院[民办]",
+    "majorCode": "25",
+    "majorName": "投资学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 28000
+  }
+]

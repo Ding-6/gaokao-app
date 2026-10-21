@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "25",
+    "majorName": "地理科学",
+    "majorRemark": "师范类；不招色盲",
+    "subjectRequirementText": "地理",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "26",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；不招色盲，色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "27",
+    "majorName": "储能科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "28",
+    "majorName": "人工智能",
+    "majorRemark": "本专业与慧科教育科技集团有限公司共建专业，详情查看学校招生信息网参见“河北民族师范学院校企合作专业简介”",
+    "subjectRequirementText": "化学",
+    "planCount": 150,
+    "duration": "4",
+    "tuition": 10000
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "29",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母者不能录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "30",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "本专业与曙光信息产业股份有限公司（中科曙光）、北京中科特瑞科技有限公司共建专业，详情查看学校招生信息网参见“河北民族师范学院校企合作专业简介”",
+    "subjectRequirementText": "化学",
+    "planCount": 200,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "31",
+    "majorName": "环境生态工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "32",
+    "majorName": "食品质量与安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "33",
+    "majorName": "生物工程",
+    "majorRemark": "不招色盲，色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "34",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "35",
+    "majorName": "文化产业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "36",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "645",
+    "collegeName": "河北民族师范学院(承德市)[公办]",
+    "majorCode": "37",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "646",
+    "collegeName": "河北民族师范学院(承德市)(国际本科学术互认课程项目)[公办]",
+    "majorCode": "2",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "单科成绩要求：外语>=105；AISEC学术互认项目专业；学费标准：19000元/年；该学术互认课程（应用型）项目专业，属于高收费专业，请考生报考前务必咨询高校或查看高校章程，以免影响入学",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "646",
+    "collegeName": "河北民族师范学院(承德市)(国际本科学术互认课程项目)[公办]",
+    "majorCode": "3",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "单科成绩要求：外语>=105；不招色盲，色弱；AISEC学术互认项目专业；学费标准：19000元/年；该学术互认课程（应用型）项目专业，属于高收费专业，请考生报考前务必咨询高校或查看高校章程，以免影响入学",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 19000
+  }
+]

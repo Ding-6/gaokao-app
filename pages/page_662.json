@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1284",
+    "collegeName": "平顶山学院[公办]",
+    "majorCode": "7",
+    "majorName": "西班牙语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1284",
+    "collegeName": "平顶山学院[公办]",
+    "majorCode": "8",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1284",
+    "collegeName": "平顶山学院[公办]",
+    "majorCode": "9",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "1287",
+    "collegeName": "萍乡学院[公办]",
+    "majorCode": "2",
+    "majorName": "无机非金属材料工程",
+    "majorRemark": "不招色盲考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4120
+  },
+  {
+    "collegeCode": "1288",
+    "collegeName": "莆田学院[公办]",
+    "majorCode": "2",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1288",
+    "collegeName": "莆田学院[公办]",
+    "majorCode": "3",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1288",
+    "collegeName": "莆田学院[公办]",
+    "majorCode": "4",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1288",
+    "collegeName": "莆田学院[公办]",
+    "majorCode": "5",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1288",
+    "collegeName": "莆田学院[公办]",
+    "majorCode": "6",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1288",
+    "collegeName": "莆田学院[公办]",
+    "majorCode": "7",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5040
+  },
+  {
+    "collegeCode": "1288",
+    "collegeName": "莆田学院[公办]",
+    "majorCode": "8",
+    "majorName": "临床医学",
+    "majorRemark": "色盲、色弱、单色识别不全者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "5",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1288",
+    "collegeName": "莆田学院[公办]",
+    "majorCode": "9",
+    "majorName": "药学",
+    "majorRemark": "色盲、色弱、单色识别不全者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1288",
+    "collegeName": "莆田学院[公办]",
+    "majorCode": "11",
+    "majorName": "公共事业管理(中外合作办学)",
+    "majorRemark": "以培养医疗健康产业管理人才为主，单色识别不全者不予录取，非英语语种考生谨慎报考，前2.5年莆田学院，如达到条件，后1.5年视情况可前往美国新奥尔良大学学习。具体详见招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "1293",
+    "collegeName": "普洱学院[公办]",
+    "majorCode": "2",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1295",
+    "collegeName": "齐鲁工业大学(济南市)[公办]",
+    "majorCode": "4",
+    "majorName": "金融科技",
+    "majorRemark": "第一学年历城校区就读，第二至四学年长清校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

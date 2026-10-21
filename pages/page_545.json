@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1072",
+    "collegeName": "兰州财经大学[公办]",
+    "majorCode": "29",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1072",
+    "collegeName": "兰州财经大学[公办]",
+    "majorCode": "30",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1072",
+    "collegeName": "兰州财经大学[公办]",
+    "majorCode": "31",
+    "majorName": "国际商务",
+    "majorRemark": "与英国肯特大学达成国际商务联合培养项目合作协议。学生国内学习期间学费收费标准为：25000元/学年",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "1072",
+    "collegeName": "兰州财经大学[公办]",
+    "majorCode": "32",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1072",
+    "collegeName": "兰州财经大学[公办]",
+    "majorCode": "33",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1072",
+    "collegeName": "兰州财经大学[公办]",
+    "majorCode": "34",
+    "majorName": "农林经济管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1072",
+    "collegeName": "兰州财经大学[公办]",
+    "majorCode": "35",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1072",
+    "collegeName": "兰州财经大学[公办]",
+    "majorCode": "36",
+    "majorName": "跨境电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1074",
+    "collegeName": "兰州城市学院[公办]",
+    "majorCode": "14",
+    "majorName": "学前教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1074",
+    "collegeName": "兰州城市学院[公办]",
+    "majorCode": "15",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1074",
+    "collegeName": "兰州城市学院[公办]",
+    "majorCode": "16",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4700
+  },
+  {
+    "collegeCode": "1074",
+    "collegeName": "兰州城市学院[公办]",
+    "majorCode": "17",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1074",
+    "collegeName": "兰州城市学院[公办]",
+    "majorCode": "18",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1074",
+    "collegeName": "兰州城市学院[公办]",
+    "majorCode": "19",
+    "majorName": "地理科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "地理",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1074",
+    "collegeName": "兰州城市学院[公办]",
+    "majorCode": "20",
+    "majorName": "应用心理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

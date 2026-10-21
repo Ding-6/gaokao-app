@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "31",
+    "majorName": "智慧林业",
+    "majorRemark": "在福州仓山校区报到",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "32",
+    "majorName": "中药资源与开发",
+    "majorRemark": "在福州仓山校区报到",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "33",
+    "majorName": "工程管理",
+    "majorRemark": "在福州大学城校区报到，不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "384",
+    "collegeName": "福建农林大学[公办]",
+    "majorCode": "34",
+    "majorName": "财务管理",
+    "majorRemark": "在福州大学城校区报到，第一年在福州大学城校区就读，后三年在泉州安溪校区就读；不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "21",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "22",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "23",
+    "majorName": "税收学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "24",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "25",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "26",
+    "majorName": "保险学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "27",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "28",
+    "majorName": "贸易经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "29",
+    "majorName": "日语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "30",
+    "majorName": "翻译",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "385",
+    "collegeName": "福建商学院[公办]",
+    "majorCode": "31",
+    "majorName": "商务英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  }
+]

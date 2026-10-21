@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1591",
+    "collegeName": "四川师范大学(成都市)[公办]",
+    "majorCode": "57",
+    "majorName": "安全工程",
+    "majorRemark": "培养方向：能源安全",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1591",
+    "collegeName": "四川师范大学(成都市)[公办]",
+    "majorCode": "58",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1591",
+    "collegeName": "四川师范大学(成都市)[公办]",
+    "majorCode": "59",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1591",
+    "collegeName": "四川师范大学(成都市)[公办]",
+    "majorCode": "60",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1591",
+    "collegeName": "四川师范大学(成都市)[公办]",
+    "majorCode": "61",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "33",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6045
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "34",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6045
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "35",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6045
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "37",
+    "majorName": "社会学类",
+    "majorRemark": "含社会学、社会工作专业",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "38",
+    "majorName": "小学教育",
+    "majorRemark": "报考师范类专业（学前教育、小学教育）的考生，应参照相关省份教师资格认定体检标准，如身体健康状况不符合相关要求，建议谨慎报考",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4700
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "39",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "40",
+    "majorName": "汉语国际教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "41",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；报考外语类专业要求发音、听力器官无疾病",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6910
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "42",
+    "majorName": "英语(法学复合拔尖班)",
+    "majorRemark": "只招英语语种考生；培养“外语+法律”复合型人才。报考外语类专业要求发音、听力器官无疾病",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6910
+  },
+  {
+    "collegeCode": "1594",
+    "collegeName": "四川外国语大学(重庆市)[公办]",
+    "majorCode": "43",
+    "majorName": "英语(教育学复合拔尖班)",
+    "majorRemark": "只招英语语种考生；培养“外语+教育”复合型人才。报考外语类专业要求发音、听力器官无疾病",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6910
+  }
+]

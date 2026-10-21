@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "17",
+    "majorName": "量子信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "18",
+    "majorName": "化学(师范)",
+    "majorRemark": "师范类；不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "19",
+    "majorName": "应用化学(国家一流专业，含省支柱产业人才培养计划)",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "20",
+    "majorName": "地球物理学",
+    "majorRemark": "大一在荆州校区,大二至大四在武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "21",
+    "majorName": "地质学(国家一流专业，含资源地质、工程地质方向)",
+    "majorRemark": "大一在荆州校区,大二至大四在武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "22",
+    "majorName": "地球化学(油气方向)",
+    "majorRemark": "大一在荆州校区,大二至大四在武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "23",
+    "majorName": "地球信息科学与技术(油气智能方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "24",
+    "majorName": "地球信息科学与技术(时空智能方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "25",
+    "majorName": "生物技术(湖北省战略性新兴产业人才培养计划)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "26",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "27",
+    "majorName": "机械设计制造及其自动化(国家特色专业，卓越工程师培养计划)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "28",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "大一在荆州校区,大二至大四在武汉校区",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "29",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "30",
+    "majorName": "电气工程及其自动化(卓越班)",
+    "majorRemark": "卓越班",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "212",
+    "collegeName": "长江大学[公办]",
+    "majorCode": "31",
+    "majorName": "电子信息工程(卓越工程师计划，首批新工科研究与实践试点)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5850
+  }
+]

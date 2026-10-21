@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2760",
+    "collegeName": "阳光学院(福州市)[民办]",
+    "majorCode": "26",
+    "majorName": "建筑电气与智能化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2760",
+    "collegeName": "阳光学院(福州市)[民办]",
+    "majorCode": "27",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 34000
+  },
+  {
+    "collegeCode": "2760",
+    "collegeName": "阳光学院(福州市)[民办]",
+    "majorCode": "28",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2760",
+    "collegeName": "阳光学院(福州市)[民办]",
+    "majorCode": "29",
+    "majorName": "工商管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 31000
+  },
+  {
+    "collegeCode": "2760",
+    "collegeName": "阳光学院(福州市)[民办]",
+    "majorCode": "30",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 34000
+  },
+  {
+    "collegeCode": "2761",
+    "collegeName": "仰恩大学[民办]",
+    "majorCode": "2",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "2762",
+    "collegeName": "银川科技学院[民办]",
+    "majorCode": "32",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2762",
+    "collegeName": "银川科技学院[民办]",
+    "majorCode": "33",
+    "majorName": "互联网金融",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2762",
+    "collegeName": "银川科技学院[民办]",
+    "majorCode": "35",
+    "majorName": "小学教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2762",
+    "collegeName": "银川科技学院[民办]",
+    "majorCode": "36",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2762",
+    "collegeName": "银川科技学院[民办]",
+    "majorCode": "37",
+    "majorName": "数字人文",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2762",
+    "collegeName": "银川科技学院[民办]",
+    "majorCode": "38",
+    "majorName": "英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2762",
+    "collegeName": "银川科技学院[民办]",
+    "majorCode": "39",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2762",
+    "collegeName": "银川科技学院[民办]",
+    "majorCode": "40",
+    "majorName": "应用心理学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 24800
+  },
+  {
+    "collegeCode": "2762",
+    "collegeName": "银川科技学院[民办]",
+    "majorCode": "41",
+    "majorName": "机械工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24800
+  }
+]

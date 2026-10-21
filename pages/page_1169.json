@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "6",
+    "majorName": "小学教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "7",
+    "majorName": "汉语言文学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "8",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "9",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "11",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "12",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "13",
+    "majorName": "制药工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "14",
+    "majorName": "食品营养与检验教育",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "15",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "17",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2226",
+    "collegeName": "延安大学西安创新学院(西安市)[独立学院]",
+    "majorCode": "18",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28600
+  },
+  {
+    "collegeCode": "2227",
+    "collegeName": "浙江工商大学杭州商学院[独立学院]",
+    "majorCode": "9",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2227",
+    "collegeName": "浙江工商大学杭州商学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 24750
+  },
+  {
+    "collegeCode": "2227",
+    "collegeName": "浙江工商大学杭州商学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 24750
+  },
+  {
+    "collegeCode": "2227",
+    "collegeName": "浙江工商大学杭州商学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "互联网金融",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 24750
+  }
+]

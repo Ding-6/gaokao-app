@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "270",
+    "collegeName": "重庆电子科技职业大学[公办]",
+    "majorCode": "3",
+    "majorName": "机器人技术",
+    "majorRemark": "在永川校区【大一永川校区，大二起沙坪坝校区】就读",
+    "subjectRequirementText": "不限",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 7590
+  },
+  {
+    "collegeCode": "270",
+    "collegeName": "重庆电子科技职业大学[公办]",
+    "majorCode": "4",
+    "majorName": "电子信息工程技术",
+    "majorRemark": "在沙坪坝校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 7590
+  },
+  {
+    "collegeCode": "270",
+    "collegeName": "重庆电子科技职业大学[公办]",
+    "majorCode": "5",
+    "majorName": "物联网工程技术",
+    "majorRemark": "在沙坪坝校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 7590
+  },
+  {
+    "collegeCode": "270",
+    "collegeName": "重庆电子科技职业大学[公办]",
+    "majorCode": "6",
+    "majorName": "光电信息工程技术",
+    "majorRemark": "在沙坪坝校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 7590
+  },
+  {
+    "collegeCode": "270",
+    "collegeName": "重庆电子科技职业大学[公办]",
+    "majorCode": "7",
+    "majorName": "虚拟现实技术",
+    "majorRemark": "在永川校区【大一永川校区，大二起沙坪坝校区】就读",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 7590
+  },
+  {
+    "collegeCode": "270",
+    "collegeName": "重庆电子科技职业大学[公办]",
+    "majorCode": "8",
+    "majorName": "卫星通信工程",
+    "majorRemark": "在永川校区【大一永川校区，大二起沙坪坝校区】就读",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 7260
+  },
+  {
+    "collegeCode": "270",
+    "collegeName": "重庆电子科技职业大学[公办]",
+    "majorCode": "9",
+    "majorName": "集成电路工程技术",
+    "majorRemark": "在沙坪坝校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 7590
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "22",
+    "majorName": "经济学(联合学士学位项目)",
+    "majorRemark": "经济学(重庆工商大学)+数据科学与大数据技术(重庆邮电大学)联合学士学位人才培养项目，第一、第二、第四学年在重庆工商大学就读住宿，第三年在重庆邮电大学就读住宿",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "23",
+    "majorName": "经济统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "24",
+    "majorName": "金融学(中外双学士出国2加2)",
+    "majorRemark": "单科成绩要求：外语>=100；1.学生在入学前一周选择中加双学士、中法双学士具体就读项目，国内学习两年，国外学习两年，详见学校招生官网。2.学生毕业达到合格条件时，可获得重庆工商大学金融学或会计学专业的毕业证和学位证，以及国外高校的学士学位证书",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "25",
+    "majorName": "金融工程(碳金融卓越班)",
+    "majorRemark": "金融工程+环境工程专业共同培养商工融合卓越人才项目",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "26",
+    "majorName": "保险学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "27",
+    "majorName": "贸易经济(智慧食品贸易卓越班)",
+    "majorRemark": "贸易经济+食品科学与工程专业共同培养商工融合卓越人才项目",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "28",
+    "majorName": "社会学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5508
+  },
+  {
+    "collegeCode": "272",
+    "collegeName": "重庆工商大学[公办]",
+    "majorCode": "29",
+    "majorName": "商务英语(智能制造与国际商贸卓越班)",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=110",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5508
+  }
+]

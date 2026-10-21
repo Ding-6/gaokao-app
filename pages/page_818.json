@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "28",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "29",
+    "majorName": "计算机科学与技术(NIIT班)",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "30",
+    "majorName": "网络工程",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "31",
+    "majorName": "物联网工程",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "32",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "33",
+    "majorName": "数据科学与大数据技术(NIIT班)",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 12000
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "34",
+    "majorName": "网络空间安全",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "35",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "36",
+    "majorName": "给排水科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "37",
+    "majorName": "道路桥梁与渡河工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "38",
+    "majorName": "水利水电工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "39",
+    "majorName": "智慧水利",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "40",
+    "majorName": "测绘工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "41",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1619",
+    "collegeName": "塔里木大学[公办]",
+    "majorCode": "42",
+    "majorName": "能源化学工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

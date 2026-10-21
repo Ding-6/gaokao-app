@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "10",
+    "majorName": "通信工程(卓越班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "11",
+    "majorName": "自动化类(智能制造及智能测控)",
+    "majorRemark": "含机械设计制造及其自动化、工业设计、电子封装技术、电气工程及其自动化、自动化、测控技术与仪器、机器人工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "12",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、软件工程专业；大类包含专业“软件工程”一、二年级每人每年学费6600元，大三、大四按学分计，每学分不超过400元，总学分不高于80学分",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "13",
+    "majorName": "计算机类(网络安全)",
+    "majorRemark": "含信息安全、网络空间安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "14",
+    "majorName": "计算机类(智能)",
+    "majorRemark": "含智能科学与技术、人工智能专业",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "15",
+    "majorName": "计算机科学与技术(卓越班)",
+    "majorRemark": "不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "16",
+    "majorName": "管理科学与工程类(数字化与商务智能融合培养)",
+    "majorRemark": "含信息管理与信息系统(与电子工程双学位培养)、工业工程(与电子工程双学位培养)、大数据管理与应用专业；不招单色不识别考生，详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "17",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "较高学费专业，与法国蔚蓝海岸大学合作办学。学生第一学年结束时需达到法语水平测试A2标准方可升入第二学年，第二学年结束时需达到法语水平测试B1标准方可升入第三学年，最终达到法语水平测试B2标准才能获得西安电子科技大学和法国蔚蓝海岸大学的双本科学位",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "18",
+    "majorName": "通信工程(中外合作办学)",
+    "majorRemark": "较高学费专业，与英国赫瑞-瓦特大学合办",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "1764",
+    "collegeName": "西安电子科技大学[公办]",
+    "majorCode": "19",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "较高学费专业，与英国赫瑞-瓦特大学合办",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 80000
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "2",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "3",
+    "majorName": "应用物理学",
+    "majorRemark": "光电工程；不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "4",
+    "majorName": "应用物理学",
+    "majorRemark": "无损检测；不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6480
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "5",
+    "majorName": "应用化学",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1767",
+    "collegeName": "西安工程大学[公办]",
+    "majorCode": "6",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6480
+  }
+]

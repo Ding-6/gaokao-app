@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "18",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 126,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "19",
+    "majorName": "材料成型及控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 109,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "20",
+    "majorName": "机械电子工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "21",
+    "majorName": "新能源汽车工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "22",
+    "majorName": "增材制造工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 58,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "23",
+    "majorName": "金属材料工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 61,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "24",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "色弱、色盲、单色识别不全考生不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 61,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "25",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 41,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "26",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 74,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "27",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 130,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "28",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 78,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "29",
+    "majorName": "电子科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 52,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "30",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 84,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "31",
+    "majorName": "电子封装技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 66,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "637",
+    "collegeName": "河北科技大学[公办]",
+    "majorCode": "32",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 55,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

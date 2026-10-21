@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "E3",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "E4",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "E5",
+    "majorName": "生物制药",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 48,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "E6",
+    "majorName": "中药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 48,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "E7",
+    "majorName": "中药学",
+    "majorRemark": "教学方向为中草药配剂",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "E8",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "E9",
+    "majorName": "康复治疗学",
+    "majorRemark": "教学方向为针灸推拿按摩",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F0",
+    "majorName": "口腔医学技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 15,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F1",
+    "majorName": "护理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 19,
+    "duration": "4",
+    "tuition": 21000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F2",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 34,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F3",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F4",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F5",
+    "majorName": "资产评估",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F6",
+    "majorName": "电子商务",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 29,
+    "duration": "4",
+    "tuition": 19000
+  },
+  {
+    "collegeCode": "2432",
+    "collegeName": "河北外国语学院(石家庄市)[民办]",
+    "majorCode": "F7",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 29,
+    "duration": "4",
+    "tuition": 19000
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "49",
+    "majorName": "交通工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "50",
+    "majorName": "弹药工程与爆炸技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "51",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "52",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "53",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "54",
+    "majorName": "应急技术与管理",
+    "majorRemark": "在合肥校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "55",
+    "majorName": "职业卫生工程",
+    "majorRemark": "在合肥校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "56",
+    "majorName": "消防工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "57",
+    "majorName": "临床医学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "5",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "58",
+    "majorName": "预防医学",
+    "majorRemark": "在合肥校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "59",
+    "majorName": "药学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "60",
+    "majorName": "医学检验技术",
+    "majorRemark": "在合肥校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "61",
+    "majorName": "卫生检验与检疫",
+    "majorRemark": "在合肥校区就读",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "62",
+    "majorName": "护理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "25",
+    "collegeName": "安徽理工大学(淮南市)[公办]",
+    "majorCode": "63",
+    "majorName": "工程造价",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

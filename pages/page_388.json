@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "797",
+    "collegeName": "湖北师范大学(黄石市)[公办]",
+    "majorCode": "10",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "2",
+    "majorName": "社会工作",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "3",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "4",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、数据计算及应用专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "5",
+    "majorName": "物理学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "6",
+    "majorName": "化学",
+    "majorRemark": "不招色盲、色弱、嗅觉迟钝者",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "7",
+    "majorName": "智能车辆工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "8",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息工程、通信工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "9",
+    "majorName": "土木工程(智慧土木)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "10",
+    "majorName": "道路桥梁与渡河工程(数智交通)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "11",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "不招色盲、色弱、嗅觉迟钝者",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "12",
+    "majorName": "交通设备与控制工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "13",
+    "majorName": "智慧交通",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "14",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色盲、色弱、嗅觉迟钝者",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "801",
+    "collegeName": "湖北文理学院(襄阳市)[公办]",
+    "majorCode": "15",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4000
+  }
+]

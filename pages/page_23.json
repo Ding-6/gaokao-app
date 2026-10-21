@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "77",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "29",
+    "collegeName": "安徽师范大学(芜湖市)[公办]",
+    "majorCode": "78",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "34",
+    "collegeName": "安徽医科大学(合肥市)[公办]",
+    "majorCode": "1",
+    "majorName": "运动康复",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "34",
+    "collegeName": "安徽医科大学(合肥市)[公办]",
+    "majorCode": "2",
+    "majorName": "化学生物学",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "34",
+    "collegeName": "安徽医科大学(合肥市)[公办]",
+    "majorCode": "3",
+    "majorName": "临床医学",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "34",
+    "collegeName": "安徽医科大学(合肥市)[公办]",
+    "majorCode": "4",
+    "majorName": "医学影像学",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "34",
+    "collegeName": "安徽医科大学(合肥市)[公办]",
+    "majorCode": "5",
+    "majorName": "预防医学",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "34",
+    "collegeName": "安徽医科大学(合肥市)[公办]",
+    "majorCode": "6",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "34",
+    "collegeName": "安徽医科大学(合肥市)[公办]",
+    "majorCode": "7",
+    "majorName": "护理学",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "34",
+    "collegeName": "安徽医科大学(合肥市)[公办]",
+    "majorCode": "8",
+    "majorName": "智能医学工程",
+    "majorRemark": "不招收色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "38",
+    "collegeName": "安徽职业技术大学[公办]",
+    "majorCode": "5",
+    "majorName": "生态环境工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "38",
+    "collegeName": "安徽职业技术大学[公办]",
+    "majorCode": "6",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "38",
+    "collegeName": "安徽职业技术大学[公办]",
+    "majorCode": "7",
+    "majorName": "人工智能工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "40",
+    "collegeName": "安徽中医药大学(合肥市)[公办]",
+    "majorCode": "3",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "40",
+    "collegeName": "安徽中医药大学(合肥市)[公办]",
+    "majorCode": "4",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

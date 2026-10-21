@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "252",
+    "collegeName": "承德医学院[公办]",
+    "majorCode": "22",
+    "majorName": "医学检验技术",
+    "majorRemark": "有色弱、色盲者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "252",
+    "collegeName": "承德医学院[公办]",
+    "majorCode": "23",
+    "majorName": "康复治疗学",
+    "majorRemark": "有色弱、色盲者不予录取",
+    "subjectRequirementText": "化学",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "255",
+    "collegeName": "池州学院[公办]",
+    "majorCode": "5",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5390
+  },
+  {
+    "collegeCode": "255",
+    "collegeName": "池州学院[公办]",
+    "majorCode": "6",
+    "majorName": "高分子材料与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "255",
+    "collegeName": "池州学院[公办]",
+    "majorCode": "7",
+    "majorName": "新能源材料与器件",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "256",
+    "collegeName": "赤峰大学[公办]",
+    "majorCode": "3",
+    "majorName": "小学教育(数学与科学方向)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "256",
+    "collegeName": "赤峰大学[公办]",
+    "majorCode": "4",
+    "majorName": "特殊教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "256",
+    "collegeName": "赤峰大学[公办]",
+    "majorCode": "5",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "256",
+    "collegeName": "赤峰大学[公办]",
+    "majorCode": "6",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "256",
+    "collegeName": "赤峰大学[公办]",
+    "majorCode": "7",
+    "majorName": "建筑环境与能源应用工程(供热、供燃气)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "263",
+    "collegeName": "重庆大学[公办]",
+    "majorCode": "3",
+    "majorName": "工科试验班(卓越计划)",
+    "majorRemark": "含电气工程及其自动化、计算机科学与技术、电子信息工程、软件工程、自动化、机械设计制造及其自动化、能源与动力工程(等普通类四年制理工类专业)专业；录取学生自动获得卓越班选拔资格。放弃卓越班选拔及未被卓越班录取者，可任选全校四年制普通类理工科专业（不含特色班型）",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6440
+  },
+  {
+    "collegeCode": "263",
+    "collegeName": "重庆大学[公办]",
+    "majorCode": "4",
+    "majorName": "工科试验班(智慧能源与先进材料)",
+    "majorRemark": "含能源与动力工程、材料科学与工程、碳储科学与工程、新能源科学与工程、储能科学与工程、建筑环境与能源应用工程、材料成型及控制工程、核工程与核技术专业；第二学期末分流，按照绩点结合学生意愿在试验班内确定专业",
+    "subjectRequirementText": "化学",
+    "planCount": 24,
+    "duration": "4",
+    "tuition": 6160
+  },
+  {
+    "collegeCode": "263",
+    "collegeName": "重庆大学[公办]",
+    "majorCode": "5",
+    "majorName": "工科试验班(高端装备与智能制造)",
+    "majorRemark": "含机械设计制造及其自动化、车辆工程、航空航天工程、机械电子工程、工程力学、工业工程专业；第二学期末分流，按照绩点结合学生意愿在试验班内确定专业",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 6440
+  },
+  {
+    "collegeCode": "263",
+    "collegeName": "重庆大学[公办]",
+    "majorCode": "6",
+    "majorName": "工科试验班(未来信息)",
+    "majorRemark": "含通信工程、测控技术与仪器、自动化、电子信息工程、机器人工程、集成电路设计与集成系统、智能感知工程(分流时可在大类内任选专业)专业；第二学期分流，按照学生意愿在试验班内任选专业",
+    "subjectRequirementText": "化学",
+    "planCount": 38,
+    "duration": "4",
+    "tuition": 6440
+  },
+  {
+    "collegeCode": "263",
+    "collegeName": "重庆大学[公办]",
+    "majorCode": "7",
+    "majorName": "工科试验班(计算机与智能软件)",
+    "majorRemark": "含计算机科学与技术、软件工程、人工智能、数据科学与大数据技术、信息安全(分流时可在大类内任选专业)专业；第二学期分流，按照学生意愿在试验班内任选专业；其中软件工程、人工智能、数据科学与大数据技术专业第二、三、四学年每年学费为1.2万元",
+    "subjectRequirementText": "化学",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 6440
+  }
+]

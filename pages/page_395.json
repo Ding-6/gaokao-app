@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "812",
+    "collegeName": "湖南大学[公办]",
+    "majorCode": "25",
+    "majorName": "计算机科学与技术(智能实验班)",
+    "majorRemark": "含智能科学与技术、物联网工程、数字媒体技术、数据科学与大数据技术，专业分流时在上述专业内任选；入校后可选拔进入工科试验班（人工智能类）",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "812",
+    "collegeName": "湖南大学[公办]",
+    "majorCode": "26",
+    "majorName": "网络空间安全",
+    "majorRemark": "含网络空间安全、信息安全、保密技术，专业分流时在上述专业内任选",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6500
+  },
+  {
+    "collegeCode": "812",
+    "collegeName": "湖南大学[公办]",
+    "majorCode": "27",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "含大数据管理与应用（商务大数据）、大数据管理与应用（金融大数据），专业分流时在上述专业内任选",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "1",
+    "majorName": "金融科技",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "2",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "3",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "4",
+    "majorName": "小学教育(润之英才班)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "5",
+    "majorName": "汉语言文学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "6",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "7",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "8",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "9",
+    "majorName": "数据科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "10",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "11",
+    "majorName": "工业智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "816",
+    "collegeName": "湖南第一师范学院[公办]",
+    "majorCode": "12",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5900
+  }
+]

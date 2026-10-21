@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "31",
+    "majorName": "生物工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "942",
+    "collegeName": "集美大学(厦门市)[公办]",
+    "majorCode": "35",
+    "majorName": "会计学",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5460
+  },
+  {
+    "collegeCode": "944",
+    "collegeName": "集宁师范学院(乌兰察布市)[公办]",
+    "majorCode": "5",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "944",
+    "collegeName": "集宁师范学院(乌兰察布市)[公办]",
+    "majorCode": "6",
+    "majorName": "化学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "944",
+    "collegeName": "集宁师范学院(乌兰察布市)[公办]",
+    "majorCode": "7",
+    "majorName": "地理科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "地理",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "944",
+    "collegeName": "集宁师范学院(乌兰察布市)[公办]",
+    "majorCode": "8",
+    "majorName": "生物科学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "10",
+    "majorName": "经济学",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "11",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "12",
+    "majorName": "金融数学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "13",
+    "majorName": "数学与应用数学(师范兼非师范类)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "14",
+    "majorName": "物理学(师范兼非师范类)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "15",
+    "majorName": "化学(师范类)",
+    "majorRemark": "师范类；不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "16",
+    "majorName": "应用化学",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "17",
+    "majorName": "地理科学(师范兼非师范类)",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学和地理",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "945",
+    "collegeName": "济南大学[公办]",
+    "majorCode": "18",
+    "majorName": "生物技术",
+    "majorRemark": "不招色弱、色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

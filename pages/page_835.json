@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "40",
+    "majorName": "高速铁路动车组技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "41",
+    "majorName": "汽车服务工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "42",
+    "majorName": "物联网工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "43",
+    "majorName": "网络工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "44",
+    "majorName": "云计算技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 50,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "45",
+    "majorName": "婴幼儿发展与健康管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 25,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "46",
+    "majorName": "医养照护与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "47",
+    "majorName": "大数据与会计",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 40,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1634",
+    "collegeName": "唐山工业职业技术大学[公办]",
+    "majorCode": "48",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；色弱、色盲不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "23",
+    "majorName": "经济学",
+    "majorRemark": "不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "24",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "26",
+    "majorName": "科学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "27",
+    "majorName": "教育技术学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 80,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "28",
+    "majorName": "学前教育",
+    "majorRemark": "师范类；色弱、色盲者和不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1636",
+    "collegeName": "唐山师范学院[公办]",
+    "majorCode": "29",
+    "majorName": "小学教育",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 30,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

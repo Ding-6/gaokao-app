@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "57",
+    "majorName": "工程管理",
+    "majorRemark": "不招单色无法识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "58",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "59",
+    "majorName": "市场营销",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "60",
+    "majorName": "会计学",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1830",
+    "collegeName": "西南石油大学[公办]",
+    "majorCode": "61",
+    "majorName": "电子商务",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5760
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "2",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6240
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "3",
+    "majorName": "临床医学",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "5",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "4",
+    "majorName": "儿科学",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "5",
+    "majorName": "预防医学",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "6",
+    "majorName": "药学",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "7",
+    "majorName": "临床药学",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "8",
+    "majorName": "中药学",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "9",
+    "majorName": "医学检验技术",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "10",
+    "majorName": "医学影像技术",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6960
+  },
+  {
+    "collegeCode": "1832",
+    "collegeName": "西南医科大学(泸州市)[公办]",
+    "majorCode": "11",
+    "majorName": "康复治疗学",
+    "majorRemark": "不招色弱色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6960
+  }
+]

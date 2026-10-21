@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "22",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "含电气工程及其自动化、储能科学与工程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "23",
+    "majorName": "电子信息类(地空学院)",
+    "majorRemark": "含电波传播与天线专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "24",
+    "majorName": "电子信息类(电子信息学院)",
+    "majorRemark": "含通信工程、电子信息工程专业；分流时该专业大类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "25",
+    "majorName": "微电子科学与工程(集成电路学院)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "26",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "27",
+    "majorName": "机器人工程",
+    "majorRemark": "含机器人工程、自动化",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "28",
+    "majorName": "计算机类(计算机学院)",
+    "majorRemark": "含计算机科学与技术、软件工程专业；分流时该专业大类内专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "29",
+    "majorName": "计算机类(国家网络安全学院)",
+    "majorRemark": "含信息安全、网络空间安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "30",
+    "majorName": "网络空间安全(创新班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "31",
+    "majorName": "遥感科学与技术",
+    "majorRemark": "含遥感科学与技术、空间信息与数字技术",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "32",
+    "majorName": "临床医学(泰康自强班)",
+    "majorRemark": "5+X培养，不招收色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "33",
+    "majorName": "临床医学(5+3一体化中法自强班)",
+    "majorRemark": "提供系统法语教育，部分课程由中法教师合作授课。不招收色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "34",
+    "majorName": "临床医学(5+3一体化)",
+    "majorRemark": "不招收色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "35",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "含大数据管理与应用、信息管理与信息系统、电子商务、图书馆学、档案学、编辑出版学",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1735",
+    "collegeName": "武汉大学[公办]",
+    "majorCode": "36",
+    "majorName": "智慧城市与空间规划(含时空智能方向)",
+    "majorRemark": "含智慧城市与空间规划、地理信息科学(时空智能方向)、地理科学(弘毅班)",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 4500
+  }
+]

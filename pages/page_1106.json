@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2132",
+    "collegeName": "北京第二外国语学院中瑞酒店管理学院[独立学院]",
+    "majorCode": "18",
+    "majorName": "健康服务与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 49800
+  },
+  {
+    "collegeCode": "2132",
+    "collegeName": "北京第二外国语学院中瑞酒店管理学院[独立学院]",
+    "majorCode": "19",
+    "majorName": "健康服务与管理(中日国际班)",
+    "majorRemark": "与日本帝京科学大学采用2.5+2联合培养，本科阶段后两年在合作院校就读，成绩合格可获得两校双学位，收费标准、具体培养模式务必详询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 59800
+  },
+  {
+    "collegeCode": "2132",
+    "collegeName": "北京第二外国语学院中瑞酒店管理学院[独立学院]",
+    "majorCode": "20",
+    "majorName": "酒店管理(酒店运营管理)",
+    "majorRemark": "培养酒店数字化运营管理人才，可以辅修第二专业，详询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 49800
+  },
+  {
+    "collegeCode": "2132",
+    "collegeName": "北京第二外国语学院中瑞酒店管理学院[独立学院]",
+    "majorCode": "21",
+    "majorName": "酒店管理(高端餐饮管理)",
+    "majorRemark": "培养高端餐饮管理人才，可以辅修第二专业，详询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 49800
+  },
+  {
+    "collegeCode": "2132",
+    "collegeName": "北京第二外国语学院中瑞酒店管理学院[独立学院]",
+    "majorCode": "22",
+    "majorName": "酒店管理(国际班)",
+    "majorRemark": "该专业为中外联合培养项目，设置雅思必修课，核心课程双语授课，可自主选择国外40余所合作院校，培养模式可自主选择2+2或3+1或4+0；收费标准、具体培养模式务必详询院校",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 59800
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "7",
+    "majorName": "金融工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "8",
+    "majorName": "国际经济与贸易",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "9",
+    "majorName": "社会工作",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "10",
+    "majorName": "汉语国际教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "11",
+    "majorName": "气象技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "12",
+    "majorName": "机械设计制造及其自动化(机器人方向)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "13",
+    "majorName": "工业设计(智能装备与交互)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "14",
+    "majorName": "测控技术与仪器",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "15",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 46600
+  },
+  {
+    "collegeCode": "2133",
+    "collegeName": "北京工业大学耿丹学院[独立学院]",
+    "majorCode": "16",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 46600
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "47",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "48",
+    "majorName": "环境工程",
+    "majorRemark": "考生身体健康状况须适应实验工作需要，色觉异常（俗称色盲、色弱）考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "49",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "50",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5980
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "51",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "52",
+    "majorName": "金融学(中外合作办学)(亚澳商学院)",
+    "majorRemark": "中外合作办学专业为英语教学，非英语语种考生慎报。详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "53",
+    "majorName": "工商管理(中外合作办学)(新华国际商学院)",
+    "majorRemark": "中外合作办学专业为英语教学，非英语语种考生慎报。详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "54",
+    "majorName": "市场营销(中外合作办学)(新华国际商学院)",
+    "majorRemark": "中外合作办学专业为英语教学，非英语语种考生慎报。详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "55",
+    "majorName": "会计学(中外合作办学)(新华国际商学院)",
+    "majorRemark": "中外合作办学专业为英语教学，非英语语种考生慎报。详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1099",
+    "collegeName": "辽宁大学[公办]",
+    "majorCode": "56",
+    "majorName": "国际商务(中外合作办学)(亚澳商学院)",
+    "majorRemark": "中外合作办学专业为英语教学，非英语语种考生慎报。详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1102",
+    "collegeName": "辽宁工程技术大学[公办]",
+    "majorCode": "9",
+    "majorName": "金融科技",
+    "majorRemark": "不招单色不识别的考生。详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1102",
+    "collegeName": "辽宁工程技术大学[公办]",
+    "majorCode": "10",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1102",
+    "collegeName": "辽宁工程技术大学[公办]",
+    "majorCode": "11",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1102",
+    "collegeName": "辽宁工程技术大学[公办]",
+    "majorCode": "12",
+    "majorName": "数学与应用数学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1102",
+    "collegeName": "辽宁工程技术大学[公办]",
+    "majorCode": "13",
+    "majorName": "地理信息科学",
+    "majorRemark": "",
+    "subjectRequirementText": "地理",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

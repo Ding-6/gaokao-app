@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "15",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "16",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "17",
+    "majorName": "计算机科学与技术(拔尖创新人才实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "18",
+    "majorName": "数字媒体技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "19",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "20",
+    "majorName": "土木工程(绿色建造)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "21",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "22",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "23",
+    "majorName": "制药工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "24",
+    "majorName": "食品科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "25",
+    "majorName": "建筑学(数智建筑)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "26",
+    "majorName": "生物工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "27",
+    "majorName": "大数据管理与应用",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "780",
+    "collegeName": "湖北工业大学(武汉市)[公办]",
+    "majorCode": "28",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5850
+  },
+  {
+    "collegeCode": "786",
+    "collegeName": "湖北经济学院(武汉市)[公办]",
+    "majorCode": "7",
+    "majorName": "经济学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

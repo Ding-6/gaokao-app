@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "68",
+    "majorName": "会计学",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "69",
+    "majorName": "财务管理",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "70",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "71",
+    "majorName": "低空技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "72",
+    "majorName": "机械设计制造及其自动化(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 28000
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "73",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 30000
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "74",
+    "majorName": "软件工程(中外合作办学)",
+    "majorRemark": "学费暂定65000元/年，最终以上级部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "219",
+    "collegeName": "长沙理工大学[公办]",
+    "majorCode": "75",
+    "majorName": "工程管理(中外合作办学)",
+    "majorRemark": "学费暂定65000元/年，最终以上级部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "223",
+    "collegeName": "长沙学院[公办]",
+    "majorCode": "5",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生；单科成绩要求：外语>=100；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "223",
+    "collegeName": "长沙学院[公办]",
+    "majorCode": "6",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "223",
+    "collegeName": "长沙学院[公办]",
+    "majorCode": "7",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "223",
+    "collegeName": "长沙学院[公办]",
+    "majorCode": "8",
+    "majorName": "智能建造",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "223",
+    "collegeName": "长沙学院[公办]",
+    "majorCode": "9",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "223",
+    "collegeName": "长沙学院[公办]",
+    "majorCode": "10",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5900
+  },
+  {
+    "collegeCode": "223",
+    "collegeName": "长沙学院[公办]",
+    "majorCode": "11",
+    "majorName": "公共事业管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

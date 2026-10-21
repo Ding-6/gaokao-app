@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1548",
+    "collegeName": "沈阳药科大学[公办]",
+    "majorCode": "20",
+    "majorName": "中药制药",
+    "majorRemark": "不招收色盲、色弱考生。非英语慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1548",
+    "collegeName": "沈阳药科大学[公办]",
+    "majorCode": "21",
+    "majorName": "医疗产品管理",
+    "majorRemark": "不招收色盲、色弱考生。非英语慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1548",
+    "collegeName": "沈阳药科大学[公办]",
+    "majorCode": "22",
+    "majorName": "生物医药数据科学",
+    "majorRemark": "不招收色盲、色弱考生。非英语慎重报考",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "1",
+    "majorName": "生物信息学",
+    "majorRemark": "入校后外语课程只安排英语教学。不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "2",
+    "majorName": "医学信息工程",
+    "majorRemark": "入校后外语课程只安排英语教学",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "3",
+    "majorName": "食品质量与安全",
+    "majorRemark": "入校后外语课程只安排英语教学",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "4",
+    "majorName": "食品营养与健康",
+    "majorRemark": "入校后外语课程只安排英语教学",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "5",
+    "majorName": "临床医学",
+    "majorRemark": "入校后外语课程只安排英语教学。不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "6",
+    "majorName": "麻醉学",
+    "majorRemark": "入校后外语课程只安排英语教学。不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "7",
+    "majorName": "医学影像学",
+    "majorRemark": "入校后外语课程只安排英语教学。不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "8",
+    "majorName": "口腔医学",
+    "majorRemark": "入校后外语课程只安排英语教学。不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "9",
+    "majorName": "预防医学",
+    "majorRemark": "入校后外语课程只安排英语教学。不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "10",
+    "majorName": "药学",
+    "majorRemark": "入校后外语课程只安排英语教学。不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "11",
+    "majorName": "中药学",
+    "majorRemark": "入校后外语课程只安排英语教学。不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1550",
+    "collegeName": "沈阳医学院[公办]",
+    "majorCode": "12",
+    "majorName": "医学检验技术",
+    "majorRemark": "入校后外语课程只安排英语教学。不招色盲色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1316",
+    "collegeName": "青岛理工大学[公办]",
+    "majorCode": "51",
+    "majorName": "市场营销(数智营销创新)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1316",
+    "collegeName": "青岛理工大学[公办]",
+    "majorCode": "52",
+    "majorName": "会计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1316",
+    "collegeName": "青岛理工大学[公办]",
+    "majorCode": "53",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1316",
+    "collegeName": "青岛理工大学[公办]",
+    "majorCode": "54",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1316",
+    "collegeName": "青岛理工大学[公办]",
+    "majorCode": "55",
+    "majorName": "工业工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1316",
+    "collegeName": "青岛理工大学[公办]",
+    "majorCode": "56",
+    "majorName": "电子信息工程(中外合作办学)(与俄罗斯布里亚特国立大学合作)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1316",
+    "collegeName": "青岛理工大学[公办]",
+    "majorCode": "57",
+    "majorName": "软件工程(中外合作办学)(与匈牙利潘诺尼亚大学合作)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 56000
+  },
+  {
+    "collegeCode": "1316",
+    "collegeName": "青岛理工大学[公办]",
+    "majorCode": "58",
+    "majorName": "建筑学(中外合作办学)(与韩国光云大学合作)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "5",
+    "tuition": 48000
+  },
+  {
+    "collegeCode": "1317",
+    "collegeName": "青岛农业大学[公办]",
+    "majorCode": "1",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1317",
+    "collegeName": "青岛农业大学[公办]",
+    "majorCode": "2",
+    "majorName": "建筑环境与能源应用工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1317",
+    "collegeName": "青岛农业大学[公办]",
+    "majorCode": "3",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1317",
+    "collegeName": "青岛农业大学[公办]",
+    "majorCode": "4",
+    "majorName": "环境生态工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6325
+  },
+  {
+    "collegeCode": "1317",
+    "collegeName": "青岛农业大学[公办]",
+    "majorCode": "5",
+    "majorName": "风景园林",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1317",
+    "collegeName": "青岛农业大学[公办]",
+    "majorCode": "6",
+    "majorName": "农学(含创新实验班)",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6600
+  },
+  {
+    "collegeCode": "1317",
+    "collegeName": "青岛农业大学[公办]",
+    "majorCode": "7",
+    "majorName": "园艺(含创新实验班)",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6600
+  }
+]

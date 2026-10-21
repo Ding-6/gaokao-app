@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "60",
+    "majorName": "食品科学与工程",
+    "majorRemark": "不招色弱、色盲及单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 70,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "61",
+    "majorName": "生物工程",
+    "majorRemark": "不招色弱、色盲及单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "62",
+    "majorName": "农学",
+    "majorRemark": "不招色弱、色盲及单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 45,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "63",
+    "majorName": "药物制剂",
+    "majorRemark": "不招色弱、色盲及单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "64",
+    "majorName": "药物分析",
+    "majorRemark": "不招色弱、色盲及单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 60,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "65",
+    "majorName": "会计学",
+    "majorRemark": "不招单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 35,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "66",
+    "majorName": "物业管理",
+    "majorRemark": "不招单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "67",
+    "majorName": "养老服务管理",
+    "majorRemark": "不招单色识别不全考生，详见学校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "68",
+    "majorName": "旅游管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "1563",
+    "collegeName": "石家庄学院[公办]",
+    "majorCode": "69",
+    "majorName": "制药工程(中外合作办学)",
+    "majorRemark": "该专业合作院校为韩国又石大学，不招色弱、色盲及单色识别不全考生，韩语零起点，采用“3+1”培养模式，前3学年本校就读，学费标准为每生每年25000元，第4学年出国就读，学费按出国当年国外大学的收费标准由国外大学收取，如未能出国就读，第4学年学费按每生4900元标准收取，详见学校招生章程",
+    "subjectRequirementText": "化学",
+    "planCount": 90,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "1568",
+    "collegeName": "首都经济贸易大学[公办]",
+    "majorCode": "4",
+    "majorName": "经济学(琢玉班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1568",
+    "collegeName": "首都经济贸易大学[公办]",
+    "majorCode": "5",
+    "majorName": "安全工程(注安师)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1568",
+    "collegeName": "首都经济贸易大学[公办]",
+    "majorCode": "6",
+    "majorName": "工商管理(国际会计)",
+    "majorRemark": "英文授课",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1568",
+    "collegeName": "首都经济贸易大学[公办]",
+    "majorCode": "7",
+    "majorName": "会计学(注册会计师专门化)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "1568",
+    "collegeName": "首都经济贸易大学[公办]",
+    "majorCode": "8",
+    "majorName": "供应链管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  }
+]

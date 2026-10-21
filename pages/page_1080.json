@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2068",
+    "collegeName": "中国人民大学[公办]",
+    "majorCode": "19",
+    "majorName": "理科试验班(金融与大数据技术创新人才班)",
+    "majorRemark": "含金融工程(财政金融学院金融学与大数据技术双学位项目)专业；在通州校区就读；财政金融学院（金融学）与信息学院（数据科学与大数据技术）共同培养，毕业获经济学、工学双主学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2068",
+    "collegeName": "中国人民大学[公办]",
+    "majorCode": "20",
+    "majorName": "理科试验班(经济学与数学创新人才班)",
+    "majorRemark": "含数字经济(经济学院经济学与数学双学位项目)专业；在通州校区就读；经济学院（经济学）与数学学院（数学与应用数学）共同培养，毕业获经济学、理学双主学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2068",
+    "collegeName": "中国人民大学[公办]",
+    "majorCode": "21",
+    "majorName": "理科试验班(新时代经济学拔尖人才班)",
+    "majorRemark": "含数字经济专业；在通州校区就读；“纵向深耕”的培养模式，注重厚基础、长周期、全过程选才鉴才",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2068",
+    "collegeName": "中国人民大学[公办]",
+    "majorCode": "22",
+    "majorName": "法学",
+    "majorRemark": "在通州校区就读；国际交流：含哈佛大学、鲁汶大学、新加坡国立大学等多家院际交换项目；“亚洲校园+”项目（中日韩三国政府奖学金支持）、中欧欧洲法国际组织后备人才培养项目（国家留基委资助）等",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2068",
+    "collegeName": "中国人民大学[公办]",
+    "majorCode": "23",
+    "majorName": "统计学类(数智科学家计划)",
+    "majorRemark": "含经济统计学、应用统计学、统计学、数据科学专业；在通州校区就读；大类中专业任选",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2068",
+    "collegeName": "中国人民大学[公办]",
+    "majorCode": "24",
+    "majorName": "统计学(统计与数科拔尖人才班)",
+    "majorRemark": "在通州校区就读；“纵向深耕”的培养模式，注重厚基础、长周期、全过程选才鉴才",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2068",
+    "collegeName": "中国人民大学[公办]",
+    "majorCode": "25",
+    "majorName": "人工智能",
+    "majorRemark": "在中关村校区就读；聚焦科技前沿和国家重大战略需求，全员配备学术导师，开设高质量中英文课程，实践资源丰富",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2068",
+    "collegeName": "中国人民大学[公办]",
+    "majorCode": "26",
+    "majorName": "计算机类(AI全栈工程师计划)",
+    "majorRemark": "含计算机科学与技术、信息安全、数据科学与大数据技术、信息管理与信息系统、软件工程专业；在中关村校区就读；无时点专业选择：学院内专业任选，毕业时认定专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2068",
+    "collegeName": "中国人民大学[公办]",
+    "majorCode": "27",
+    "majorName": "计算机类(图灵计算机拔尖人才班智算方向)",
+    "majorRemark": "含计算机科学与技术专业；在中关村校区就读；聚焦智能计算系统，贯通智能算法到软硬件系统全栈体系，实施纵向深耕培养",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "2071",
+    "collegeName": "中国人民大学(苏州校区)[公办]",
+    "majorCode": "6",
+    "majorName": "金融学(中外合作办学)",
+    "majorRemark": "合作院校为法国KEDGE商学院，毕业时可获中法双学位",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "2071",
+    "collegeName": "中国人民大学(苏州校区)[公办]",
+    "majorCode": "7",
+    "majorName": "数学与应用数学(中外合作办学)(人大与索邦)",
+    "majorRemark": "合作院校为法国索邦大学，毕业时可获中法双学位",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "2074",
+    "collegeName": "中国人民警察大学(廊坊市)[公办]",
+    "majorCode": "30",
+    "majorName": "电子信息工程(智慧消防方向)",
+    "majorRemark": "非公安专业，自主就业。无须参加河北省公安厅组织的政治考察、面试、体检和体能测评且合格。具体标准详见学校《招生章程》",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "2074",
+    "collegeName": "中国人民警察大学(廊坊市)[公办]",
+    "majorCode": "31",
+    "majorName": "消防工程",
+    "majorRemark": "非公安专业，自主就业。无须参加河北省公安厅组织的政治考察、面试、体检和体能测评且合格。具体标准详见学校《招生章程》",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "2074",
+    "collegeName": "中国人民警察大学(廊坊市)[公办]",
+    "majorCode": "32",
+    "majorName": "抢险救援指挥与技术",
+    "majorRemark": "非公安专业，自主就业。无须参加河北省公安厅组织的政治考察、面试、体检和体能测评且合格。具体标准详见学校《招生章程》。不建议女生报考",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "2074",
+    "collegeName": "中国人民警察大学(廊坊市)[公办]",
+    "majorCode": "33",
+    "majorName": "火灾勘查",
+    "majorRemark": "非公安专业，自主就业。无须参加河北省公安厅组织的政治考察、面试、体检和体能测评且合格。具体标准详见学校《招生章程》",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4900
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "12",
+    "majorName": "机械类(机器人、智能制造与新能源车辆)",
+    "majorRemark": "含机械工程、智能制造工程、机器人工程、车辆工程、物流工程、工业设计专业；一、二年级在北京校区，三、四年级在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 28,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "13",
+    "majorName": "材料科学与工程",
+    "majorRemark": "百分百满足学生分流意愿。大一学年结束后可分流至材料科学与工程、材料物理、材料化学、无机非金属材料工程、材料成型及控制工程、高分子材料与工程专业。一、二年级在北京校区，三、四年级在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "14",
+    "majorName": "纳米材料与技术(前沿材料与未来技术)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "15",
+    "majorName": "材料智能技术(高精尖班)",
+    "majorRemark": "特殊班型，特殊培养政策详见学校本科招生网",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "16",
+    "majorName": "材料智能技术(AI与新材料交叉融合)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "17",
+    "majorName": "能源动力类",
+    "majorRemark": "含能源与动力工程、新能源科学与工程、环境工程、环境科学专业；一、二年级在北京校区，三、四年级在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "18",
+    "majorName": "储能科学与工程",
+    "majorRemark": "一、二年级在北京校区，三、四年级在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "19",
+    "majorName": "通信工程",
+    "majorRemark": "一、二年级在北京校区，三、四年级在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "20",
+    "majorName": "集成电路设计与集成系统",
+    "majorRemark": "一、二年级在北京校区，三、四年级在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "21",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 13,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "22",
+    "majorName": "自动化类",
+    "majorRemark": "含自动化、测控技术与仪器、智能感知工程专业；一、二年级在北京校区，三、四年级在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "23",
+    "majorName": "计算机类",
+    "majorRemark": "含计算机科学与技术、信息安全、物联网工程专业；一、二年级在北京校区，三、四年级在雄安校区",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "112",
+    "collegeName": "北京科技大学[公办]",
+    "majorCode": "24",
+    "majorName": "大数据管理与应用(大数据与金融试验班)",
+    "majorRemark": "大一学年结束后可分流至大数据管理与应用、信息管理与信息系统、金融工程专业，其中大数据管理与应用专业整体分流接收比例50%",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "115",
+    "collegeName": "北京科技职业大学[公办]",
+    "majorCode": "10",
+    "majorName": "智慧综合能源工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "115",
+    "collegeName": "北京科技职业大学[公办]",
+    "majorCode": "11",
+    "majorName": "机械电子工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

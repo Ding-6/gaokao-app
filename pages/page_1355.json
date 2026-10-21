@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2772",
+    "collegeName": "云南经济管理学院[民办]",
+    "majorCode": "3",
+    "majorName": "小学教育",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2772",
+    "collegeName": "云南经济管理学院[民办]",
+    "majorCode": "4",
+    "majorName": "康复治疗学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "2772",
+    "collegeName": "云南经济管理学院[民办]",
+    "majorCode": "5",
+    "majorName": "财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 22000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "8",
+    "majorName": "智能采矿技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "9",
+    "majorName": "安全工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "10",
+    "majorName": "建筑装饰工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "11",
+    "majorName": "建筑工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "12",
+    "majorName": "机械设计制造及自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "13",
+    "majorName": "智能制造工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "14",
+    "majorName": "物联网工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "15",
+    "majorName": "网络工程技术",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "16",
+    "majorName": "护理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "17",
+    "majorName": "康复治疗",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 16000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "18",
+    "majorName": "大数据与财务管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "2780",
+    "collegeName": "运城职业技术大学[民办]",
+    "majorCode": "19",
+    "majorName": "现代物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 15000
+  }
+]

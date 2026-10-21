@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "9",
+    "majorName": "金融学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "10",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "11",
+    "majorName": "应用统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "12",
+    "majorName": "数据科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "13",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "14",
+    "majorName": "计算机科学与技术(实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "15",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "16",
+    "majorName": "交通运输",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "17",
+    "majorName": "应急技术与管理",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "18",
+    "majorName": "会计学(注册会计师)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "19",
+    "majorName": "审计学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "20",
+    "majorName": "物流工程(京东科技实验班)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "147",
+    "collegeName": "北京物资学院[公办]",
+    "majorCode": "21",
+    "majorName": "大数据管理与应用(中外合作办学)",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 70000
+  },
+  {
+    "collegeCode": "150",
+    "collegeName": "北京协和医学院[公办]",
+    "majorCode": "1",
+    "majorName": "药学",
+    "majorRemark": "不招色弱、色盲及单色识别不全考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "150",
+    "collegeName": "北京协和医学院[公办]",
+    "majorCode": "2",
+    "majorName": "护理学",
+    "majorRemark": "不招色弱、色盲及单色识别不全考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4800
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "290",
+    "collegeName": "重庆文理学院[公办]",
+    "majorCode": "13",
+    "majorName": "工程审计",
+    "majorRemark": "色弱、色盲考生不予录取",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "290",
+    "collegeName": "重庆文理学院[公办]",
+    "majorCode": "14",
+    "majorName": "物流工程",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "290",
+    "collegeName": "重庆文理学院[公办]",
+    "majorCode": "15",
+    "majorName": "数学与应用数学(中外合作办学)",
+    "majorRemark": "单科成绩要求：外语>=90；3+1培养模式，前三年在国内学习，如达到条件，第四年在美国北卡罗莱纳大学威尔明顿分校学习，非英语科目考生谨慎报考",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 38000
+  },
+  {
+    "collegeCode": "290",
+    "collegeName": "重庆文理学院[公办]",
+    "majorCode": "16",
+    "majorName": "材料成型及控制工程(中外合作办学)",
+    "majorRemark": "3+1培养模式，前三年在国内学习，如达到条件，第四年在俄罗斯库兹巴斯国立技术大学学习；该专业考生须取得高中毕业证书",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 35000
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "1",
+    "majorName": "生物信息学",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6125
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "2",
+    "majorName": "应用统计学",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6048
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "3",
+    "majorName": "医学信息工程",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6125
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "4",
+    "majorName": "基础医学",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7232
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "5",
+    "majorName": "临床医学(5+3一体化)",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7232
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "6",
+    "majorName": "临床医学",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 7232
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "7",
+    "majorName": "临床医学(检验医师培养试验班)",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 7232
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "8",
+    "majorName": "麻醉学",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 6912
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "9",
+    "majorName": "眼视光医学",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6912
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "10",
+    "majorName": "儿科学",
+    "majorRemark": "不招收色盲色弱",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 7232
+  },
+  {
+    "collegeCode": "293",
+    "collegeName": "重庆医科大学[公办]",
+    "majorCode": "11",
+    "majorName": "口腔医学",
+    "majorRemark": "不招收色盲色弱，不招收“左利手”",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": 6912
+  }
+]

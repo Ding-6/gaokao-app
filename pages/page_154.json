@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "320",
+    "collegeName": "大连民族大学[公办]",
+    "majorCode": "47",
+    "majorName": "人力资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "320",
+    "collegeName": "大连民族大学[公办]",
+    "majorCode": "48",
+    "majorName": "行政管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "322",
+    "collegeName": "大连外国语大学[公办]",
+    "majorCode": "7",
+    "majorName": "数字经济",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "322",
+    "collegeName": "大连外国语大学[公办]",
+    "majorCode": "8",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "322",
+    "collegeName": "大连外国语大学[公办]",
+    "majorCode": "9",
+    "majorName": "法语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "322",
+    "collegeName": "大连外国语大学[公办]",
+    "majorCode": "10",
+    "majorName": "日语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 8000
+  },
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "2",
+    "majorName": "法学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "3",
+    "majorName": "生物技术",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "4",
+    "majorName": "应用心理学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "5",
+    "majorName": "生物医学工程",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "6",
+    "majorName": "生物制药",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "7",
+    "majorName": "基础医学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "8",
+    "majorName": "临床医学(5+3一体化)",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "9",
+    "majorName": "临床医学(5+3一体化，儿科学)",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "10",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "5",
+    "tuition": 5500
+  }
+]

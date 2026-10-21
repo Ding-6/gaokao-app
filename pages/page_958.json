@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "33",
+    "majorName": "能源与动力工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "34",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "35",
+    "majorName": "储能科学与工程",
+    "majorRemark": "喀什校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "36",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "单科成绩要求：数学>=90；与西安交通大学联合培养，实行淘汰制管理，授联合学士学位",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "37",
+    "majorName": "电气工程及其自动化",
+    "majorRemark": "单科成绩要求：数学>=90",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "38",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "39",
+    "majorName": "通信工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "40",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "41",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "42",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "43",
+    "majorName": "软件工程",
+    "majorRemark": "单科成绩要求：数学>=90；含1个俄语言特色班",
+    "subjectRequirementText": "化学",
+    "planCount": 22,
+    "duration": "4",
+    "tuition": 9000
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "44",
+    "majorName": "信息安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "45",
+    "majorName": "智能科学与技术",
+    "majorRemark": "单科成绩要求：数学>=90",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "46",
+    "majorName": "网络空间安全",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1858",
+    "collegeName": "新疆大学(乌鲁木齐市)[公办]",
+    "majorCode": "47",
+    "majorName": "土木工程",
+    "majorRemark": "含智能建造、建筑工程、道路与桥梁工程、隧道与地下工程方向",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5175
+  }
+]

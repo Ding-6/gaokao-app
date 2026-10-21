@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "15",
+    "majorName": "社会学类",
+    "majorRemark": "含法学、社会学、旅游管理、农村区域发展专业",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "16",
+    "majorName": "英语",
+    "majorRemark": "只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "17",
+    "majorName": "信息与计算科学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "18",
+    "majorName": "应用化学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "19",
+    "majorName": "生物科学类",
+    "majorRemark": "含生物科学、生物技术专业；不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 16,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "20",
+    "majorName": "生物科学(生物学基地班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "21",
+    "majorName": "生物技术(生命科学与技术基地班)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 6050
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "22",
+    "majorName": "统计学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "23",
+    "majorName": "机械类",
+    "majorRemark": "含车辆工程、机械工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 20,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "24",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "25",
+    "majorName": "电子信息类",
+    "majorRemark": "含电子信息科学与技术、自动化专业",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "26",
+    "majorName": "人工智能",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "27",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "28",
+    "majorName": "农业机械化及其自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  },
+  {
+    "collegeCode": "1204",
+    "collegeName": "南京农业大学[公办]",
+    "majorCode": "29",
+    "majorName": "农业电气化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6380
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "23",
+    "majorName": "软件工程",
+    "majorRemark": "由软件学院牵头管理；开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "24",
+    "majorName": "软件工程(科学与工程可视化)",
+    "majorRemark": "复合交叉培养，由物理与电子学院牵头管理；开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "25",
+    "majorName": "软件工程(工程智能软件)",
+    "majorRemark": "复合交叉培养，由建筑工程学院牵头管理；开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "26",
+    "majorName": "网络工程",
+    "majorRemark": "由软件学院牵头管理；开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 18,
+    "duration": "4",
+    "tuition": 15000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "27",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "郑州龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "28",
+    "majorName": "生物工程",
+    "majorRemark": "开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "29",
+    "majorName": "生物育种科学",
+    "majorRemark": "郑州龙子湖校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "30",
+    "majorName": "临床医学",
+    "majorRemark": "开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "31",
+    "majorName": "药学",
+    "majorRemark": "开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6320
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "32",
+    "majorName": "工商管理",
+    "majorRemark": "开封校区",
+    "subjectRequirementText": "不限",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4400
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "33",
+    "majorName": "金融数学(中外合作办学)(阿斯顿国际学院)",
+    "majorRemark": "开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 40000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "34",
+    "majorName": "国际经济与贸易(中外合作办学)(中澳)",
+    "majorRemark": "郑州龙子湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 25000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "35",
+    "majorName": "国际经济与贸易(中外合作办学)(中德)",
+    "majorRemark": "郑州龙子湖校区",
+    "subjectRequirementText": "不限",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "36",
+    "majorName": "电子信息科学与技术(中外合作办学)(阿斯顿国际学院)",
+    "majorRemark": "开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 40000
+  },
+  {
+    "collegeCode": "688",
+    "collegeName": "河南大学(郑州市)[公办]",
+    "majorCode": "37",
+    "majorName": "自动化(中外合作办学)(阿斯顿国际学院)",
+    "majorRemark": "开封校区",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 40000
+  }
+]

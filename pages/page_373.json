@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "27",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "28",
+    "majorName": "软件工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "29",
+    "majorName": "物联网工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "30",
+    "majorName": "数据科学与大数据技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "31",
+    "majorName": "土木工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "32",
+    "majorName": "化学工程与工艺",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "33",
+    "majorName": "环境工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "34",
+    "majorName": "建筑学",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "35",
+    "majorName": "城乡规划",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 4000
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "36",
+    "majorName": "风景园林",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "37",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "38",
+    "majorName": "工程管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "39",
+    "majorName": "电气工程及其自动化(中外合作办学)",
+    "majorRemark": "与俄罗斯北高加索联邦大学合作办学。学费标准以省物价部门批复为准，预计4.5万元/年。办学模式“4+0”，外方英文授课，颁发中方学历证书、学位证书，外方学位证书",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "40",
+    "majorName": "电子信息工程(中外合作办学)",
+    "majorRemark": "与俄罗斯北高加索联邦大学合作办学。学费标准以省物价部门批复为准，预计4.5万元/年。办学模式“4+0”，外方英文授课，颁发中方学历证书、学位证书，外方学位证书",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "740",
+    "collegeName": "黑龙江科技大学(哈尔滨市)[公办]",
+    "majorCode": "41",
+    "majorName": "计算机科学与技术(中外合作办学)",
+    "majorRemark": "与俄罗斯北高加索联邦大学合作办学。学费标准以省物价部门批复为准，预计4.5万元/年。办学模式“4+0”，外方英文授课，颁发中方学历证书、学位证书，外方学位证书",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": null
+  }
+]

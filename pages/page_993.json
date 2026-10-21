@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "26",
+    "majorName": "临床医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 6160
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "27",
+    "majorName": "麻醉学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "28",
+    "majorName": "口腔医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "29",
+    "majorName": "预防医学",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "31",
+    "majorName": "药学类",
+    "majorRemark": "含药学、药物制剂专业；第三学期末分流。不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5600
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "33",
+    "majorName": "工商管理",
+    "majorRemark": "在珲春校区办学。不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "34",
+    "majorName": "会计学",
+    "majorRemark": "在珲春校区办学。不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "35",
+    "majorName": "供应链管理",
+    "majorRemark": "在珲春校区办学",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4800
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "36",
+    "majorName": "旅游管理",
+    "majorRemark": "在珲春校区办学",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5280
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "37",
+    "majorName": "经济学(中外合作办学)",
+    "majorRemark": "不招单色不识别考生；与韩国崇实大学合作办学，培养金融学方向专业人才。宜英语考生报考。在珲春校区办学",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 23000
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "38",
+    "majorName": "通信工程(中外合作办学)",
+    "majorRemark": "与韩国湖西大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 24000
+  },
+  {
+    "collegeCode": "1912",
+    "collegeName": "延边大学[公办]",
+    "majorCode": "39",
+    "majorName": "食品科学与工程(中外合作办学)",
+    "majorRemark": "不招色盲、色弱、单色不识别考生；与韩国全北大学合作办学",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 26000
+  },
+  {
+    "collegeCode": "1914",
+    "collegeName": "盐城工学院[公办]",
+    "majorCode": "1",
+    "majorName": "过程装备与控制工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1914",
+    "collegeName": "盐城工学院[公办]",
+    "majorCode": "2",
+    "majorName": "环境工程",
+    "majorRemark": "不招色盲、色弱、单色不识别考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5800
+  },
+  {
+    "collegeCode": "1916",
+    "collegeName": "盐城师范学院[公办]",
+    "majorCode": "2",
+    "majorName": "数学与应用数学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

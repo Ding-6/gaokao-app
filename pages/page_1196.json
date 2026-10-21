@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "2294",
+    "collegeName": "成都外国语学院[民办]",
+    "majorCode": "36",
+    "majorName": "日语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2294",
+    "collegeName": "成都外国语学院[民办]",
+    "majorCode": "37",
+    "majorName": "翻译",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2294",
+    "collegeName": "成都外国语学院[民办]",
+    "majorCode": "38",
+    "majorName": "商务英语",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2294",
+    "collegeName": "成都外国语学院[民办]",
+    "majorCode": "39",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2294",
+    "collegeName": "成都外国语学院[民办]",
+    "majorCode": "40",
+    "majorName": "国际新闻与传播",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 17000
+  },
+  {
+    "collegeCode": "2295",
+    "collegeName": "成都文理学院[民办]",
+    "majorCode": "4",
+    "majorName": "艺术教育",
+    "majorRemark": "师范类；该专业设置为创新实验班，另需缴纳培养费79800元，学生毕业后符合相关条件可继续深造。考生请咨询院校后报考",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 17000
+  },
+  {
+    "collegeCode": "2295",
+    "collegeName": "成都文理学院[民办]",
+    "majorCode": "5",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2295",
+    "collegeName": "成都文理学院[民办]",
+    "majorCode": "6",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2295",
+    "collegeName": "成都文理学院[民办]",
+    "majorCode": "7",
+    "majorName": "智能科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 18000
+  },
+  {
+    "collegeCode": "2296",
+    "collegeName": "成都艺术职业大学[民办]",
+    "majorCode": "2",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 16500
+  },
+  {
+    "collegeCode": "2297",
+    "collegeName": "成都银杏酒店管理学院[民办]",
+    "majorCode": "7",
+    "majorName": "市场营销",
+    "majorRemark": "第一学年在宜宾校区就读，其它学年在成都校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 15900
+  },
+  {
+    "collegeCode": "2297",
+    "collegeName": "成都银杏酒店管理学院[民办]",
+    "majorCode": "8",
+    "majorName": "会计学",
+    "majorRemark": "第一学年在宜宾校区就读，其它学年在成都校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 15900
+  },
+  {
+    "collegeCode": "2297",
+    "collegeName": "成都银杏酒店管理学院[民办]",
+    "majorCode": "9",
+    "majorName": "人力资源管理",
+    "majorRemark": "第一学年在宜宾校区就读，其它学年在成都校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 15900
+  },
+  {
+    "collegeCode": "2297",
+    "collegeName": "成都银杏酒店管理学院[民办]",
+    "majorCode": "10",
+    "majorName": "酒店管理",
+    "majorRemark": "第一、二学年在宜宾校区就读，其它学年在成都校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 15900
+  },
+  {
+    "collegeCode": "2297",
+    "collegeName": "成都银杏酒店管理学院[民办]",
+    "majorCode": "11",
+    "majorName": "旅游管理与服务教育",
+    "majorRemark": "第一学年在宜宾校区就读，其它学年在成都校区就读",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 15900
+  }
+]

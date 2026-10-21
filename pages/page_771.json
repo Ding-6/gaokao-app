@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "28",
+    "majorName": "飞行器质量与可靠性",
+    "majorRemark": "学校外语课程采用英语教学，请英语语种以外的其他语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "29",
+    "majorName": "飞行器适航技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "30",
+    "majorName": "无人驾驶航空器系统工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "31",
+    "majorName": "智能飞行器技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "32",
+    "majorName": "探测制导与控制技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "33",
+    "majorName": "安全工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "34",
+    "majorName": "消防工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "35",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "36",
+    "majorName": "低空技术与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "37",
+    "majorName": "碳中和科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "38",
+    "majorName": "自动化(中外合作办学)",
+    "majorRemark": "与乌克兰哈尔科夫国立茹可夫斯基航天航空大学合作办学。外方课程采用英语教学，请英语语种以外的其它语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "39",
+    "majorName": "飞行器设计与工程(中外合作办学)",
+    "majorRemark": "与乌克兰哈尔科夫国立茹可夫斯基航天航空大学合作办学。外方课程采用英语教学，请英语语种以外的其它语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "40",
+    "majorName": "飞行器制造工程(中外合作办学)",
+    "majorRemark": "与乌克兰哈尔科夫国立茹可夫斯基航天航空大学合作办学。外方课程采用英语教学，请英语语种以外的其它语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 50000
+  },
+  {
+    "collegeCode": "1536",
+    "collegeName": "沈阳航空航天大学[公办]",
+    "majorCode": "41",
+    "majorName": "飞行器动力工程(中外合作办学)",
+    "majorRemark": "与美国南伊利诺伊大学（卡本代尔）合作办学。外方课程采用英语教学，请英语语种以外的其它语种考生慎报",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 55000
+  },
+  {
+    "collegeCode": "1538",
+    "collegeName": "沈阳化工大学[公办]",
+    "majorCode": "6",
+    "majorName": "金融学",
+    "majorRemark": "不招单色不识别的考生。详见院校招生章程",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

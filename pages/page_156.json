@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "323",
+    "collegeName": "大连医科大学[公办]",
+    "majorCode": "26",
+    "majorName": "护理学",
+    "majorRemark": "不招色盲、色弱考生，详见院校章程",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5500
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "7",
+    "majorName": "科学教育",
+    "majorRemark": "师范类；学费暂定4000元/年，最终以上级部门批复为准",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "8",
+    "majorName": "学前教育(卓师班)",
+    "majorRemark": "师范类；不招色弱、单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "9",
+    "majorName": "小学教育(卓师班)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 3000
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "10",
+    "majorName": "英语(卓师班)",
+    "majorRemark": "师范类；只招英语语种考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "11",
+    "majorName": "数学与应用数学(卓师班)",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 6,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "12",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 2500
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "13",
+    "majorName": "化学(卓师班)",
+    "majorRemark": "师范类；不招色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 2500
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "14",
+    "majorName": "应用化学",
+    "majorRemark": "不招色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 4200
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "15",
+    "majorName": "生物科学",
+    "majorRemark": "师范类；不招色弱、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 2800
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "16",
+    "majorName": "自动化",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "17",
+    "majorName": "油气储运工程",
+    "majorRemark": "不招色盲、单色不识别考生",
+    "subjectRequirementText": "化学",
+    "planCount": 9,
+    "duration": "4",
+    "tuition": 5000
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "18",
+    "majorName": "市场营销",
+    "majorRemark": "不招单色不识别考生",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 3500
+  },
+  {
+    "collegeCode": "326",
+    "collegeName": "大庆师范学院[公办]",
+    "majorCode": "19",
+    "majorName": "数据科学与大数据技术(中外合作办学)",
+    "majorRemark": "学费最高暂定45000元/年，最终以上级部门批复为准",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "332",
+    "collegeName": "德州学院[公办]",
+    "majorCode": "2",
+    "majorName": "制药工程",
+    "majorRemark": "不招色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5500
+  }
+]

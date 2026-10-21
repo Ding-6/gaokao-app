@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "15",
+    "majorName": "中西医临床医学",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 50,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "16",
+    "majorName": "药学类",
+    "majorRemark": "含药学、药物制剂、药物分析、药物化学专业；不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 77,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "17",
+    "majorName": "临床药学",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 29,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "18",
+    "majorName": "中药学",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "19",
+    "majorName": "法医学",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 14,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "21",
+    "majorName": "医学影像技术",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 41,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "23",
+    "majorName": "卫生检验与检疫",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "25",
+    "majorName": "健康服务与管理",
+    "majorRemark": "不招收不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "不限",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 4600
+  },
+  {
+    "collegeCode": "668",
+    "collegeName": "河北医科大学[公办]",
+    "majorCode": "26",
+    "majorName": "智能医学工程",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 17,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "669",
+    "collegeName": "河北医科大学(地方专项计划)[公办]",
+    "majorCode": "2",
+    "majorName": "生物制药",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 4900
+  },
+  {
+    "collegeCode": "669",
+    "collegeName": "河北医科大学(地方专项计划)[公办]",
+    "majorCode": "7",
+    "majorName": "预防医学",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "669",
+    "collegeName": "河北医科大学(地方专项计划)[公办]",
+    "majorCode": "8",
+    "majorName": "中西医临床医学",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "5",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "669",
+    "collegeName": "河北医科大学(地方专项计划)[公办]",
+    "majorCode": "9",
+    "majorName": "药学类",
+    "majorRemark": "含药学、药物制剂、药物分析、药物化学专业；不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "669",
+    "collegeName": "河北医科大学(地方专项计划)[公办]",
+    "majorCode": "10",
+    "majorName": "医学影像技术",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5200
+  },
+  {
+    "collegeCode": "669",
+    "collegeName": "河北医科大学(地方专项计划)[公办]",
+    "majorCode": "13",
+    "majorName": "智能医学工程",
+    "majorRemark": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 5200
+  }
+]

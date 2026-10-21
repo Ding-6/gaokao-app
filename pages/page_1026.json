@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1993",
+    "collegeName": "浙江大学医学院[公办]",
+    "majorCode": "5",
+    "majorName": "临床医学",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 10,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1993",
+    "collegeName": "浙江大学医学院[公办]",
+    "majorCode": "6",
+    "majorName": "口腔医学(5+3一体化)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "5",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1993",
+    "collegeName": "浙江大学医学院[公办]",
+    "majorCode": "7",
+    "majorName": "药学(含智能药学卓越班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1995",
+    "collegeName": "浙江大学医学院(中外合作办学)[公办]",
+    "majorCode": "1",
+    "majorName": "生物医学(中外合作办学)(ZJUUoE联合学院，含生物信息)",
+    "majorRemark": "在海宁国际校区就读；同时获浙江大学毕业证书、学士学位证书和英国爱丁堡大学学士学位证书",
+    "subjectRequirementText": "化学",
+    "planCount": 11,
+    "duration": "4",
+    "tuition": 160000
+  },
+  {
+    "collegeCode": "1996",
+    "collegeName": "浙江工商大学(杭州市)[公办]",
+    "majorCode": "4",
+    "majorName": "新闻传播学类",
+    "majorRemark": "含新闻学、网络与新媒体专业",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1996",
+    "collegeName": "浙江工商大学(杭州市)[公办]",
+    "majorCode": "5",
+    "majorName": "环境科学与工程类",
+    "majorRemark": "含环境科学、环境工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 8,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1996",
+    "collegeName": "浙江工商大学(杭州市)[公办]",
+    "majorCode": "6",
+    "majorName": "食品科学与工程类",
+    "majorRemark": "含食品科学与工程、食品质量与安全专业",
+    "subjectRequirementText": "化学",
+    "planCount": 12,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1996",
+    "collegeName": "浙江工商大学(杭州市)[公办]",
+    "majorCode": "7",
+    "majorName": "工商管理类(含营销、智能双学士学位项目)",
+    "majorRemark": "含工商管理、市场营销、人力资源管理、国际商务专业；不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6095
+  },
+  {
+    "collegeCode": "1996",
+    "collegeName": "浙江工商大学(杭州市)[公办]",
+    "majorCode": "8",
+    "majorName": "公共管理类",
+    "majorRemark": "含行政管理、土地资源管理、文化产业管理专业；含慈善管理。不招单色不识别考生，详见院校章程",
+    "subjectRequirementText": "不限",
+    "planCount": 7,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1996",
+    "collegeName": "浙江工商大学(杭州市)[公办]",
+    "majorCode": "9",
+    "majorName": "电子商务类",
+    "majorRemark": "含电子商务、物流管理专业",
+    "subjectRequirementText": "不限",
+    "planCount": 10,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1998",
+    "collegeName": "浙江工业大学[公办]",
+    "majorCode": "1",
+    "majorName": "数学类",
+    "majorRemark": "含数学与应用数学、信息与计算科学专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5300
+  },
+  {
+    "collegeCode": "1998",
+    "collegeName": "浙江工业大学[公办]",
+    "majorCode": "2",
+    "majorName": "机械类",
+    "majorRemark": "含机械工程、过程装备与控制工程、车辆工程、工业工程、物流工程专业",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1998",
+    "collegeName": "浙江工业大学[公办]",
+    "majorCode": "3",
+    "majorName": "工业设计",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6900
+  },
+  {
+    "collegeCode": "1998",
+    "collegeName": "浙江工业大学[公办]",
+    "majorCode": "4",
+    "majorName": "电气类",
+    "majorRemark": "含电气工程及其自动化、自动化专业",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 6000
+  },
+  {
+    "collegeCode": "1998",
+    "collegeName": "浙江工业大学[公办]",
+    "majorCode": "5",
+    "majorName": "机器人工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6000
+  }
+]

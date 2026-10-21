@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "62",
+    "majorName": "经济动物学",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "64",
+    "majorName": "动植物检疫(植物检疫方向)",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "65",
+    "majorName": "动植物检疫",
+    "majorRemark": "农林类",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "67",
+    "majorName": "林学",
+    "majorRemark": "农林类；不招色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "68",
+    "majorName": "林学(森林康养方向)",
+    "majorRemark": "农林类；不招色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "70",
+    "majorName": "水产养殖学",
+    "majorRemark": "农林类；不招色弱、色盲考生",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 4500
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "72",
+    "majorName": "中药资源与开发",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 5,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "73",
+    "majorName": "市场营销",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "74",
+    "majorName": "农林经济管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "75",
+    "majorName": "农村区域发展",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "76",
+    "majorName": "土地资源管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1426",
+    "collegeName": "山西农业大学[公办]",
+    "majorCode": "77",
+    "majorName": "物流管理",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5175
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "12",
+    "majorName": "日语",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5150
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "13",
+    "majorName": "网络与新媒体",
+    "majorRemark": "",
+    "subjectRequirementText": "不限",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  },
+  {
+    "collegeCode": "1428",
+    "collegeName": "山西师范大学[公办]",
+    "majorCode": "14",
+    "majorName": "物理学",
+    "majorRemark": "师范类",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 5100
+  }
+]

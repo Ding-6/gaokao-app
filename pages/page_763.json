@@ -1,0 +1,167 @@
+[
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "12",
+    "majorName": "生物科学",
+    "majorRemark": "不招色盲、色弱考生",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "14",
+    "majorName": "机械设计制造及其自动化",
+    "majorRemark": "学费约6230-6853元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "15",
+    "majorName": "智能感知工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "16",
+    "majorName": "新能源科学与工程",
+    "majorRemark": "不招色盲、色弱考生。学费约6230-6853元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "17",
+    "majorName": "电子信息工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "18",
+    "majorName": "光电信息科学与工程",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 3,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "19",
+    "majorName": "集成电路设计与集成系统(IEEE荣誉班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "20",
+    "majorName": "人工智能(IEEE荣誉班)",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "21",
+    "majorName": "机器人工程(低空创新班)",
+    "majorRemark": "学费约6230-6853元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "22",
+    "majorName": "机器人工程",
+    "majorRemark": "学费约6230-6853元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "23",
+    "majorName": "计算机科学与技术",
+    "majorRemark": "",
+    "subjectRequirementText": "化学",
+    "planCount": 4,
+    "duration": "4",
+    "tuition": 6853
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "24",
+    "majorName": "生物医学工程",
+    "majorRemark": "学费约6230-6853元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "化学",
+    "planCount": 1,
+    "duration": "4",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "25",
+    "majorName": "建筑学(卓越班)",
+    "majorRemark": "不招色盲考生。学费约6230-6853元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "不限",
+    "planCount": 1,
+    "duration": "5",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "26",
+    "majorName": "临床医学(卓越班)",
+    "majorRemark": "不招色盲、色弱考生。学费约6960-7656元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": null
+  },
+  {
+    "collegeCode": "1526",
+    "collegeName": "深圳大学[公办]",
+    "majorCode": "27",
+    "majorName": "口腔医学",
+    "majorRemark": "不招色盲、色弱考生，左手惯用者请慎重报考。学费约6960-7656元/学年，以广东省物价部门最新批准数为准",
+    "subjectRequirementText": "化学",
+    "planCount": 2,
+    "duration": "5",
+    "tuition": null
+  }
+]
